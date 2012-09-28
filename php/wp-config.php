@@ -16,16 +16,28 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', $_ENV['OPENSHIFT_APP_NAME']);
+/** define('DB_NAME', $_ENV['OPENSHIFT_APP_NAME']); */
 
 /** MySQL database username */
-define('DB_USER', $_ENV['OPENSHIFT_DB_USERNAME']);
+/** define('DB_USER', $_ENV['OPENSHIFT_DB_USERNAME']); */
 
 /** MySQL database password */
-define('DB_PASSWORD', $_ENV['OPENSHIFT_DB_PASSWORD']);
+/** define('DB_PASSWORD', $_ENV['OPENSHIFT_DB_PASSWORD']); */
 
 /** MySQL hostname */
-define('DB_HOST', $_ENV['OPENSHIFT_DB_HOST'] . ':' . $_ENV['OPENSHIFT_DB_PORT']);
+/** define('DB_HOST', $_ENV['OPENSHIFT_DB_HOST'] . ':' . $_ENV['OPENSHIFT_DB_PORT']); */
+
+/** Conditional config attempt! */
+
+if ( file_exists( dirname( __FILE__ ) . '/local-config.php' ) ) {
+  include( dirname( __FILE__ ) . '/local-config.php' );
+  define( 'WP_LOCAL_DEV', true ); // We'll talk about this later
+} else {
+  define('DB_NAME', $_ENV['OPENSHIFT_APP_NAME']);
+  define('DB_USER', $_ENV['OPENSHIFT_DB_USERNAME']);
+  define('DB_PASSWORD', $_ENV['OPENSHIFT_DB_PASSWORD']);
+  define('DB_HOST', $_ENV['OPENSHIFT_DB_HOST']);
+}
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
