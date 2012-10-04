@@ -1,5 +1,7 @@
-<?php get_template_part('templates/page', 'header'); ?>
-<?php get_template_part('templates/content', 'page'); ?>
 <?php
-echo "This is a simple PHP script!";
+/*
+Template Name: Page Home Template
+*/
 ?>
+
+<?php get_template_part('templates/content', 'home'); ?>
