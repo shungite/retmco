@@ -102,3 +102,8 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   line-height: 120%;
   width: 400px;
 }
+
+#linkColor {
+  color: #FFCC00;
+}
+
