@@ -94,13 +94,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   color: #999999;
   margin-top: 5px;
   margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 10px;
-  font-size: 9px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+  font-size: 10px;
   font-style: normal;
   font-weight: normal;
-  line-height: 120%;
-  width: 400px;
+  line-height: 128%;
 }
 
 #linkColor {
