@@ -3,8 +3,8 @@ Contributors: bestwebsoft
 Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10&product_id=13
 Tags: captcha, math captcha, text captcha, spam, antispam, login, registration, comment, lost password, capcha, catcha, captha
 Requires at least: 2.9
-Tested up to: 3.4.1
-Stable tag: 2.33
+Tested up to: 3.4.2
+Stable tag: 2.34
 
 This plugin allows you to implement super security captcha form into web forms.
 
@@ -25,6 +25,7 @@ Captcha plugin allows you to protect your website from spam using math logic whi
 
 * Arabic (ar_AR) (thanks to Albayan Design Hani Aladoli)
 * Brazilian Portuguese (pt_BR) (thanks to <a href="mailto:brenojac@gmail.com">Breno Jacinto</a>, www.iconis.org.br)
+* Chinese (zh_CN) (thanks to Billy Jeans)
 * Czech (cs_CZ) (thanks to Tomas Vesely)
 * Danish (da_DK) (thanks to Byrial Ole Jensed)
 * Dutch (nl_NL) (thanks to <a href="mailto:byrial@vip.cybercity.dk">Bart Duineveld</a>)
@@ -130,6 +131,9 @@ It is possible to enter this line in variable and display this variable in requi
 5. Login form with Captcha.
 
 == Changelog ==
+
+= V2.34 - 08.10.2012 =
+* NEW : Chinese and Greek language files are added to the plugin.
 
 = V2.33 - 25.07.2012 =
 * Bugfix : Change settings bug was fixed. 
@@ -254,6 +258,9 @@ It is possible to enter this line in variable and display this variable in requi
 * Select functionality of mathematical actions and level of their difficulty are implemented.
 
 == Upgrade Notice ==
+
+= V2.34 =
+Chinese and Greek language files are added to the plugin.
 
 = V2.33 =
 Change settings bug was fixed. 
