@@ -8,21 +8,7 @@ Template Name: Page Home Template
 
 <div class="row">
 	<div class="span6">
-		<div id="myCarousel" class="carousel slide" data-interval="20000">
-			<div class="carousel-inner">
-				<div class="active item">
-					<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/car21nov12.png">
-				</div>
-				<div class="item">
-					<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/car21nov12.png">
-				</div>
-				<div class="item">
-					<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/car21nov12.png">
-				</div>
-			</div>
-<!-- 			<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
- -->			<a class="carousel-control right" href="#myCarousel" data-slide="next">&rsaquo;</a>
-		</div>
+		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/car21nov12.png">
 	</div>
 	<div class="span2 offset1">
 		<div class="well well-small">
