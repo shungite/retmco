@@ -25,7 +25,7 @@ Template Name: Page Home Template
 		</div>
 	</div>
 	<div class="span2 offset5">
-		<div class="well">
+		<div class="well well-small">
 			<h5>Top side</h5>
 			<p class="fineprint">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 		</div>
