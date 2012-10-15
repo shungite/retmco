@@ -11,13 +11,13 @@ Template Name: Page Home Template
 		<div id="myCarousel" class="carousel slide">
 			<div class="carousel-inner">
 				<div class="active item">
-					<img src="http://localhost:8080/wp-content/uploads/2012/10/tickets.png">
+					<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/tickets.png">
 				</div>
 				<div class="item">
-					<img src="http://localhost:8080/wp-content/uploads/2012/10/donate.png">
+					<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/donate.png">
 				</div>
 				<div class="item">
-					<img src="http://localhost:8080/wp-content/uploads/2012/10/contact.png">
+					<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/contact.png">
 				</div>
 			</div>
 			<a class="carousel-control left" href="#myCarousel" data-slide="prev">&lsaquo;</a>
