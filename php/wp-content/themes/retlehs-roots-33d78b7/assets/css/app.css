@@ -102,7 +102,15 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   line-height: 128%;
 }
 
-#linkColor {
-  color: #FFCC00;
+/* Link mods */
+
+a {
+  color: #ff33cc;
+  text-decoration: none;
 }
+a:hover {
+  color: @linkColorHover;
+  text-decoration: underline;
+}
+
 
