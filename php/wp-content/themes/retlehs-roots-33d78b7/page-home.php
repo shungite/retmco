@@ -29,6 +29,7 @@ Template Name: Page Home Template
 
 <div class="row">
 	<div class="span4">
+		<img class="alignnone wp-image-9" title="subscribe" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/subscribe.png" alt="" width="100" height="100" />
 		<h4>One</h4>
 		<p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.</p>
 		<a class="btn" href="http://retmco-shungite.rhcloud.com/fullness/">View details »</a>
