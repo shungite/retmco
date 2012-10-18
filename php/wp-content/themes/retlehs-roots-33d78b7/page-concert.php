@@ -33,7 +33,7 @@ Template Name: Page Concert Template
 			<p><em>Karen Gomyo</em></p>
 			<p><strong>Intermission</strong></p>
 			<p><strong>Arnold Schoenberg</strong> (1874-1951)<br /><em>Verkl&auml;rte Nacht</em> (Transfigured Night), op. 4</p>
-			<p>Concert sponsor / <strong>Telpay</strong><br />Season sponsor / <strong>The Great-West Life Assurance Company</strong><br />Print media sponsor / <strong>Winnipeg Free Press</strong><br />Radio media sponsors / <strong>CBC Radio 2 98.3</strong>, <strong>CBC Radio One 990</strong>,<br /><strong>Espace musique 89,9</strong> and <strong>Golden West Radio</strong>
+			<p>Concert sponsor / <strong><a href="http://www.telpay.ca/">Telpay</a></strong><br />Season sponsor / <strong><a href="http://www.greatwestlife.com/001/Home/index.htm">The Great-West Life Assurance Company</a></strong><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 		</div>
 		<div class="tab-pane fade" id="bios">
 		<p><strong>Scott Yoo</strong></p>
