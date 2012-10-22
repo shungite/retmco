@@ -7,7 +7,7 @@ Template Name: Page Concert Template
 
 <div class="row">
 
-	<div class="span4 offset1">
+	<div class="span11 offset1">
 		<img class="alignnone size-full wp-image-9" title="logosm" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/09/logosm.png" alt="" width="150" height="78" />
 	</div>
 
@@ -16,7 +16,7 @@ Template Name: Page Concert Template
 <div class="row">
 
 	<div class="span8 offset1">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/car21nov12.png">
+		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/h21nov12.png">
 	</div>
 	<div class="span2 offset1">
 		<p>.</p>
@@ -27,16 +27,15 @@ Template Name: Page Concert Template
 <div class="row">
 
 	<div class="span6 offset1">
-		<h4>Scott Yoo&rsquo;s speciality:<br />the traditional contemporary mix</h4>
+		<h4>At this concert,<br />a Scott Yoo speciality:<br />the contemporary traditional mix</h4>
 		<p>In its forty seasons, the MCO has introduced more up-and-coming young stars than you can shake a baton at. Karen Gomyo is well on her way. The <em>Chicago Tribune</em> called her &ldquo;a first-rate artist of real musical command, vitality, brilliance and intensity.&rdquo;</p>
 		<p>Karen Gomyo was born in Tokyo and grew up in Montreal and New York. She was the recipient of the prestigious Avery Fisher Career Grant in 2008. An extra treat: Karen Gomyo plays on a Stradivarius violin that was bought for her exclusive use by a private sponsor.</p>
 		<p>Guest conductor Scott Yoo has crafted a crafty programme for this show. From the Mozart concerto through Schoenberg&rsquo;s one-movement string work to a reprise performance of Morlock&rsquo;s Nostalgia, this repertoire will keep you on your toes!</p>
 	</div>
 
-		<div class="span1">
-	  <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHere.jpg" alt="" width="75" height="55" />
-	  <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.jpg" alt="" width="75" height="55" />
- 	  <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.jpg" alt="" width="75" height="55" />
+	<div class="span5"> <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHere.jpg" alt="" width="75" height="55" /><br />
+	  <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.jpg" alt="" width="75" height="55" /><br />
+ 	  <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.jpg" alt="" width="75" height="55" /><br />
 	  <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.jpg" alt="" width="75" height="55" />
 	</div>
 
@@ -109,8 +108,8 @@ Template Name: Page Concert Template
 			</div>
 		</div><!-- /tab-content -->
 	</div><!-- /span6 tab area -->
-	<div class="span2 offset1">
-		<p>.</p>
+	<div class="span5">
+		<p class="fineprint">.</p>
 	</div>
 
 </div><!-- /row -->
