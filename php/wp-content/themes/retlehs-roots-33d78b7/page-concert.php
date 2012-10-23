@@ -28,9 +28,9 @@ Template Name: Page Concert Template
 
 	<div class="span6 offset1">
 		<h4>At this concert,<br />a Scott Yoo speciality:<br />the contemporary traditional mix</h4>
-		<p>In its forty seasons, the MCO has introduced more up-and-coming young stars than you can shake a baton at. Karen Gomyo is well on her way. The <em>Chicago Tribune</em> called her &ldquo;a first-rate artist of real musical command, vitality, brilliance and intensity.&rdquo;</p>
-		<p>Karen Gomyo was born in Tokyo and grew up in Montreal and New York. She was the recipient of the prestigious Avery Fisher Career Grant in 2008. An extra treat: Karen Gomyo plays on a Stradivarius violin that was bought for her exclusive use by a private sponsor.</p>
-		<p>Guest conductor Scott Yoo has crafted a crafty programme for this show. From the Mozart concerto through Schoenberg&rsquo;s one-movement string work to a reprise performance of Morlock&rsquo;s Nostalgia, this repertoire will keep you on your toes!</p>
+		<p>In its forty seasons the MCO has introduced more up-and-coming young stars than you can shake a baton at. Karen Gomyo is well on her way. The <em>Chicago Tribune</em> called her &ldquo;a first-rate artist of real musical command, vitality, brilliance and intensity.&rdquo;</p>
+		<p><a href="http://karengomyo.com/">Karen Gomyo</a> was born in Tokyo and grew up in Montreal and New York. She was the recipient of the prestigious Avery Fisher Career Grant in 2008. An extra treat: Karen Gomyo plays on a Stradivarius violin that was bought for her exclusive use by a private sponsor.</p>
+		<p>Guest conductor <a href="http://www.scott-yoo.com/">Scott Yoo</a> has crafted a crafty programme for this show. From the Mozart concerto through Schoenberg&rsquo;s one-movement string work to a reprise performance of Morlock&rsquo;s Nostalgia, this repertoire will keep you on your toes!</p>
 	</div>
 
 	<div class="span5"> <img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHere.jpg" alt="" width="75" height="55" /><br />
@@ -45,9 +45,9 @@ Template Name: Page Concert Template
 
 	<div class="span6 offset1">
 		<ul class="nav nav-tabs">
-			<li><a href="#repertoire" data-toggle="tab">Repertoire</a></li>
-			<li><a href="#bios" data-toggle="tab">Artists&rsquo; bios</a></li>
-			<li><a href="#notes" data-toggle="tab">Program notes</a></li>
+			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
+			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
+			<li><a href="#notes" data-toggle="tab"><strong>Program notes</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
