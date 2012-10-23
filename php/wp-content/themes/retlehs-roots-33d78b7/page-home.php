@@ -8,13 +8,9 @@ Template Name: Page Home Template
 
 <div class="row">
 	<div class="span6">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/car21nov12.png">
+		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/h21nov12.png">
 	</div>
 	<div class="span2 offset1">
-		<div class="well well-small">
-			<h5>Top side</h5>
-			<p class="fineprint">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-		</div>
 	</div>
 </div>
 
