@@ -30,7 +30,7 @@ Template Name: Page Home Template
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/YooEvent.png" alt="" width="100" height="100" />
 		<h4>Music &amp; conversation<br />with Scott Yoo</h4>
 		<p>Fundraiser: enjoy the first of two unique events celebrating MCO's 40th anniversary season. The first is an intimate evening at historic 218 Roslyn Road&mdash;with wine and delectable edibles!</p>
-		<a class="btn" href="http://retmco-shungite.rhcloud.com/fullness/">Details »</a>
+		<a class="btn" href="#">Details »</a>
 	</div><!-- /span4 -->
 
 	<div class="span4">
@@ -49,7 +49,7 @@ Template Name: Page Home Template
 		<p>&nbsp;</p>
 		<h6><i class="icon-warning-sign"></i><br />Warning!</h6>
 		<p class="fineprint">Please be patient as we rebuild our web site. We promise to reward you with better content and interactive features. In the meantime, feel free to send us some feedback...</p>
-		<a class="btn btn-mini" href="#">Complain »</a>
+		<a class="btn btn-mini" href="mailto:info@themco.ca?subject=Feedback ...">Complain »</a>
 		<p>&nbsp;</p>
 	</div><!-- /span2 -->
 

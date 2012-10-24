@@ -18,7 +18,7 @@ Template Name: Page Concert2 Template
 	<div class="span8">
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/h21nov12.png">
 	</div>
-	<div class="span2 offset1">
+	<div class="span2">
 		<p>.</p>
 	</div>
 
