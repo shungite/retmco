@@ -18,7 +18,7 @@ Template Name: Page Home Template
 <div class="row">
 
 	<div class="span6">
-		<h4>&ldquo;One of the world’s<br /> new wonders of the violin.&rdquo;</h4>
+		<h4>At our next concert: &ldquo;...one of<br />the world’s new wonders of the violin.&rdquo;</h4>
 		<p>Violinist Karen Gomyo is making headlines around the world, in Denmark, Australia and in the USA. Now, she heaadlines with the MCO! It isn't too late to subscribe: make this the first in a six-concert series.</p>
 		<p>&nbsp;</p>
 	</div><!-- /span6 -->

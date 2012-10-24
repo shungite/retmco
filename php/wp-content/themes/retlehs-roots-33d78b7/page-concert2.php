@@ -56,7 +56,7 @@ Template Name: Page Concert2 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />21 November 2012</p>
 				<p>Scott Yoo, conductor<br />Karen Gomyo, violin</p>
-				<p><strong>Jocelyn Morlock</strong> (b. 1959)<br /><em>Nostalgia</em></p
+				<p><strong>Jocelyn Morlock</strong> (b. 1959)<br /><em>Nostalgia</em></p>
 				<p><strong>Wolfgang Amadeus Mozart</strong> (1756-1791)<br />Violin Concerto No. 5 in a major, k 219 &mdash; &lsquo;Turkish&rsquo;</p>
 				<p>1. Allegro aperto<br />2. Adagio<br />3. Rondeau: Tempo di menuetto</p>
 				<p><em>Karen Gomyo</em></p>
