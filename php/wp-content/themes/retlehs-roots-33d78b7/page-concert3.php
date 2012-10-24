@@ -16,7 +16,7 @@ Template Name: Page Concert3 Template
 <div class="row">
 
 	<div class="span8">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head09jan13a.png">
+		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head09jan13a.png" alt="" width="870" height="512">
 	</div>
 	<div class="span2">
 		<p>.</p>

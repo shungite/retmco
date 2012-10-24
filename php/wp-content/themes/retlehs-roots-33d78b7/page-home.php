@@ -10,7 +10,7 @@ Template Name: Page Home Template
 <div class="row">
 
 	<div class="span8">
-		<a href="http://retmco-shungite.rhcloud.com/gomyo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head21nov12a.png" width="870" height=508"></a>
+		<a href="http://retmco-shungite.rhcloud.com/gomyo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head21nov12a.png" width="870" height="512"></a>
 	</div><!-- /span8 -->
 
 </div><!-- /row -->
