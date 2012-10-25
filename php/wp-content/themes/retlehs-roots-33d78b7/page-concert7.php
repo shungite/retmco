@@ -29,10 +29,10 @@ Template Name: Page Concert7 Template
 	<div class="span6">
 		<h4>Time machine:<br />hear the first<br />MCO concert ever!</h4>
 		<p>After just one concert, Winnipeggers knew that we needed to have live chamber music performed in this town for at least the next forty years.</p>
-<p>Anne Manson: &ldquo;This concert will be an almost exact replica of the first concert MCO ever played, forty years ago. We are so happy to have Tracy Dahl back with us for Britten&rsquo;s Les Illuminations. And the audience will have a chance to get to know Caitlin Broms-Jacobs featured in a Vivaldi oboe concerto.&rdquo;</p>
-<p>Roy Goodman, who occupies his own volume in the tome of MCO&rsquo;s history (as Music Director from 2000 to 2005), will once again be at the podium for this happy occasion.</p>
-<p><strong>Maestro Roy Goodman</strong></p>
-<p>Roy Goodman is Principal Guest Conductor of the English Chamber Orchestra, Director Emeritus of the European Union Baroque Orchestra, Honorary President of the Royal Scottish National Orchestra Chorus and has appeared as guest conductor with 120 other orchestras and opera houses.</p>
+		<p>Anne Manson: &ldquo;This concert will be an almost exact replica of the first concert MCO ever played, forty years ago. We are so happy to have Tracy Dahl back with us for Britten&rsquo;s Les Illuminations. And the audience will have a chance to get to know Caitlin Broms-Jacobs featured in a Vivaldi oboe concerto.&rdquo;</p>
+		<p>Roy Goodman, who occupies his own volume in the tome of MCO&rsquo;s history (as Music Director from 2000 to 2005), will once again be at the podium for this happy occasion.</p>
+		<p><strong>Maestro Roy Goodman</strong></p>
+		<p>Roy Goodman is Principal Guest Conductor of the English Chamber Orchestra, Director Emeritus of the European Union Baroque Orchestra, Honorary President of the Royal Scottish National Orchestra Chorus and has appeared as guest conductor with 120 other orchestras and opera houses.</p>
 	</div><!-- /span6 -->
 
 	<div class="span2"> 
@@ -56,7 +56,7 @@ Template Name: Page Concert7 Template
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />2 April 2013</p>
-				<p>Roy Goodman, conductor<br />Tracy Dahl, soprano<br />Caitlin Broms-Jacobs, ,oboe</p>
+				<p>Roy Goodman, conductor<br />Tracy Dahl, soprano<br />Caitlin Broms-Jacobs, oboe</p>
 				<p><strong>Edvard Grieg</strong><br /><em>From Holberg’s Time</em> (Suite in olden style), Op. 40</p>
 				<p><strong>Benjamin Britten</strong><br /><em>Les Illuminations</em>, Op. 18</p>
 				<p><strong>Antonio Vivaldi</strong><br />Concerto in A Minor, for Oboe, Strings<br />and Harpsichord, RV 463 (F VII-13)</p>
