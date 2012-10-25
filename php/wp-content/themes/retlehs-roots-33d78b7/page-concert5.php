@@ -28,7 +28,7 @@ Template Name: Page Concert5 Template
 
 	<div class="span6">
 		<h4>Janina Fialkowska<br />has played a big part<br />in the MCO&rsquo;s 40-year story</h4>
-		Some of MCO&rsquo;s guest soloists become more like family, and that definitely includes Canadian pianist Janina Fialkowska. It’s been a while since she has graced our stage, and a fortieth birthday seems like the perfect occasion to get together!</p>
+		<p>Some of MCO&rsquo;s guest soloists become more like family, and that definitely includes Canadian pianist Janina Fialkowska. It’s been a while since she has graced our stage, and a fortieth birthday seems like the perfect occasion to get together!</p>
 		<p>Fialkowska has been in the news quite a bit lately, both for receiving the Governor General’s Performing Arts Award and with glowing reviews of her new album, Liszt Recital (named album of the week by <em>The Independent</em>). In Gramophone, reviewer Bryce Morrison exclaimed, &ldquo;We need many more records from this master-pianist!&rdquo;</p>
 		<p><strong>Lifetime achievement</strong></p>
 		<p>Janina Fialkowska received Canada&rsquo;s 2012 &lsquo;Governor General&rsquo;s Performing Arts Award&rsquo; for Lifetime Achievement in Classical Music. Three days of celebration included a reception on Parliament Hill and a private luncheon with the Speaker of the House of Commons.</p>
@@ -57,7 +57,7 @@ Template Name: Page Concert5 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director and Conductor<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />19 February 2013</p>
 				<p>Janina Fialkowska, piano</p>
-				<p><strong>Karen Sunabacka</strong><br /><em>New composition<br />Manitoba Arts Council commission</p>
+				<p><strong>Karen Sunabacka</strong><br />New composition<br />Manitoba Arts Council commission</p>
 				<p><strong>Wolfgang Amadeus Mozart</strong><br />Piano Concerto, No. 12, in A Major, K 414</p>
 				<p><strong>Gary Kulesha</strong><br /><em>String Serenade</em></p>
 				<p><strong>Franz Joseph Haydn</strong><br />Symphony No. 82, in C major, Hob. 1/82 (The Bear)</p>
