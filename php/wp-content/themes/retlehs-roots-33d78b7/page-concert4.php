@@ -28,19 +28,21 @@ Template Name: Page Concert4 Template
 
 	<div class="span6">
 		<h4>A double celebration:<br />The Winnipeg Singers and the MCO</h4>
-		<p>Winnipeg was a very different place prior to 1972: there was no Prairie Theatre Exchange, no Manitoba Opera, no Plug In ICA, no Winnipeg Singers and — horror of horrors — no MCO!</p>
+		<p>Winnipeg was a very different place prior to 1972: there was no Prairie Theatre Exchange, no Manitoba Opera, no Plug In ICA, no Winnipeg Singers and &mdash; horror of horrors &mdash; no MCO!</p>
 		<p>At this concert we will celebrate the formation of two of the fine institutions that are the weft and warp of the fabric of Winnipeg’s rich and varied cultural scene.</p>
 		<p>The Choir and Orchestra will be conducted by one of Winnipeg’s busiest musicians, Yuri Klaz. Klaz also directs the First Mennonite Church Choir, the Shaarey Zedek Synagogue and continues as conductor of The Winnipeg Philharmonic Choir.</p>
-	</div>
+		<p><strong>The Winnipeg Singers</strong></p>
+		<p>Being in the same age group, The Winnipeg Singers and the Manitoba Chamber Orchestra are often seen together and frequent the same haunts. In fact, the two groups have performed together more than ten times.</p>
+		<p>The Winnipeg Singers consists of 24 trained voices, performing music that spans the times from the Renaissance to the present. The choir frequently commissions new Canadian choral works.</p>
+	</div><!-- /span6 -->
 
 	<div class="span2"> 
-
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=89e3b17ba5474af284f562865c4b70e1"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a><br />
  	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=696960f1b3b241bab82da74d814a3c13"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=49f2aef74f6c4dabb1248afb38f3358d"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.png" alt="" width="62" height="40" /></a>
 		<p class="fineprint">Click ticket above to add to shopping cart; adjust quantity in cart and return to purchase other types of tickets.</p>
-	</div>
+	</div><!-- /span2 -->
 
 </div><!-- /row -->
 
