@@ -27,7 +27,7 @@ Template Name: Page Concert7 Template
 <div class="row">
 
 	<div class="span6">
-		<h4>Time machine:<br />hear the first<br />MCO concert ever!</h4>
+		<h4>Time machine:<br />hear the first MCO concert ever!</h4>
 		<p>After just one concert, Winnipeggers knew that we needed to have live chamber music performed in this town for at least the next forty years.</p>
 		<p>Anne Manson: &ldquo;This concert will be an almost exact replica of the first concert MCO ever played, forty years ago. We are so happy to have Tracy Dahl back with us for Britten&rsquo;s Les Illuminations. And the audience will have a chance to get to know Caitlin Broms-Jacobs featured in a Vivaldi oboe concerto.&rdquo;</p>
 		<p>Roy Goodman, who occupies his own volume in the tome of MCO&rsquo;s history (as Music Director from 2000 to 2005), will once again be at the podium for this happy occasion.</p>
