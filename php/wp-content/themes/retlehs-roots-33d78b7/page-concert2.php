@@ -56,7 +56,7 @@ Template Name: Page Concert2 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />21 November 2012</p>
 				<p>Scott Yoo, conductor<br />Karen Gomyo, violin</p>
-				<p><strong>Jocelyn Morlock</strong> (b. 1959)<br /><em>Nostalgia</em></p>
+				<p><strong><a href="http://jocelynmorlock.com/">Jocelyn Morlock</a></strong> (b. 1969)<br /><em>Nostalgia</em></p>
 				<p><strong>Wolfgang Amadeus Mozart</strong> (1756-1791)<br />Violin Concerto No. 5 in a major, k 219 &mdash; &lsquo;Turkish&rsquo;</p>
 				<p>1. Allegro aperto<br />2. Adagio<br />3. Rondeau: Tempo di menuetto</p>
 				<p><em>Karen Gomyo</em></p>
@@ -87,7 +87,7 @@ Template Name: Page Concert2 Template
 				<p>Highlights of the past year&rsquo;s premieres include <em>Three Meditations on Light</em>, written for the debut concert of the Couloir duo at Music on Main&rsquo;s Modulus Festival; <em>Luft</em>, a ballet written for Turning Point Ensemble&rsquo;s Rio Tinto Alcan prize-winning production Firebird 2011; and Aeromancy, a double cello concerto commissioned for the Gala opening concert of the first International Cello Festival of Canada in Winnipeg. In addition to continued collaboration with Music on Main, upcoming projects include a new flute concerto for Paolo Bortolussi and the Vancouver Island Symphony, and a violin and piano work for Duo Concertante.</p>
 			</div>
 			<div class="tab-pane fade" id="notes">
-				<p><strong>Nostalgia<br />Jocelyn Morlock</strong></p>
+				<p><strong>Nostalgia<br /><a href="http://jocelynmorlock.com/">Jocelyn Morlock</a></strong></p>
 				<p><em>Nostalgia</em> was commissioned by the MCO, who premiered it in 2007, conducted by Scott Yoo. The composer&rsquo;s note follows: nos·tal·gi·a: A mixed feeling of happiness, sadness, and longing when recalling a person, place, or event from the past, or the past in general.</p>
 				<p>Nostalgia has been a frequent topic of consideration for artists, from Tarkovsky and Takemitsu to Milan Kundera, and while I am daunted (and amazed) by their work, I am sufficiently fascinated by nostalgia to attempt to explore it in my own composition.</p>
 				<p>Aside from the undoubted delights of glimpsing the past through a rosy, muzzy haze, nostalgia also has some darker facets; if one engages in an obsessive love for the past, one may lose sight of the present, and nothing appears quite as wonderful as that which is forever lost.</p>
