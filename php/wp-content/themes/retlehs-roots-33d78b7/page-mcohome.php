@@ -10,29 +10,27 @@ Template Name: Page MCOhome Template
 
 <div class="row">
 	
-	<div class="span3" bgcolor="#666">
+	<div class="span3">
 		<div class="well">
-			<p>After beginning his musical studies at age three, Scott Yoo performed Mendelssohn&rsquo;s violin concerto with the Boston Symphony at age twelve. He received first prize in the 1988 Josef Gingold International Violin Competition, the 1989 Young Concert Artists International Auditions, and the 1994 Avery Fisher Career Grant. After graduating with honours from Harvard University, Mr. Yoo founded the Metamorphosen Chamber Orchestra, conducting the ensemble in its series at Jordan Hall in Boston, and more than ninety performances on tour.</p>
+			<p>After beginning his musical studies at age three, Scott Yoo performed Mendelssohn&rsquo;s violin concerto with the Boston Symphony at age twelve. He received first prize in the 1988 Josef Gingold International Violin Competition, the 1989 Young Concert Artists International Auditions, and the 1994 Avery Fisher Career Grant.</p>
 			<p>Scott Yoo has collaborated with eminent artists Sarah Chang, Edgar Meyer, Benita Valente, and Dawn Upshaw. He is currently Music Director and Principal Conductor of the 39-year old Festival Mozaic, which presents over thirty orchestral, choral and chamber music concerts and events each year on California&rsquo;s Central Coast.</p>
 		</div><!-- /well -->
 	</div><!-- /span3 -->
 
-	<div class="span3" bgcolor="#666">
-		<div class="well">
-			<p>jkwhdf</p>
-		</div><!-- /well -->
-	</div><!-- /span3 -->
-
-	<div class="span3" bgcolor="#666">
+	<div class="span3">
 		<div class="well">
 			<p>jkwhdf</p>
 		</div><!-- /well -->
 	</div><!-- /span3 -->
 
 	<div class="span3">
-		<div class="row-pinK">
+		<div class="well">
 			<p>jkwhdf</p>
-		</div><!-- /row-pink -->
+		</div><!-- /well -->
+	</div><!-- /span3 -->
+
+	<div class="span3">
+			<p>jkwhdf</p>
 	</div><!-- /span3 -->
 
 </div><!-- /row -->

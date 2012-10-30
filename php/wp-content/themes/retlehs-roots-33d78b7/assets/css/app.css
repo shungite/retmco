@@ -117,4 +117,13 @@ a:hover {
   background-color: #888;
 }
 
+.row-padded {
+  padding: 35px;
+  background-color: #F7F7F7;
+  border: 1px solid #DDD;
+}
 
+.row-padded .span3 {
+  background-color: #bbb;
+  width: 30%;
+}
