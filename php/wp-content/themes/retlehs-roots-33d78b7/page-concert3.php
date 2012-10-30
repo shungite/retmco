@@ -31,7 +31,7 @@ Template Name: Page Concert3 Template
 		<p>&ldquo;A one-of-a-kind concert artist ... his rhythms were so exacting and his touch so subtle that each note seemed to have a life of its own.&rdquo; So says the <em>Los Angeles Times</em>. We knew that!</p>
 		<p>Piano star Marc-Andr&eacute; Hamelin has appeared with the MCO four times over the years; we always want him back and, happily, he always wants to return to Winnipeg and our stage!</p>
 		<p>Hamelin is equally at home with traditional and contemporary repertoire as we’ll see on this concert. Shostakovich virtually invented the piano concerto anew when he first penned this razor-sharp and minimalist work in 1933, and we can’t wait to hear the work in Hamelin’s hands.</p>
-		<p>For the first time ever we’ll present a work by American composer Dorothy Chang. Described as &ldquo;evocative and kaleidoscopic"rdquo;" by the ?em>Seattle Times</em>, her music is characterized by an emphasis on dramatic intensity and expressive lyricism.</p>
+		<p>For the first time ever we’ll present a work by American composer Dorothy Chang. Described as &ldquo;evocative and kaleidoscopic&rdquo; by the <em>Seattle Times</em>, her music is characterized by an emphasis on dramatic intensity and expressive lyricism.</p>
 	</div>
 
 	<div class="span2"> 
