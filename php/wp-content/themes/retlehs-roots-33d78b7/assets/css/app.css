@@ -114,16 +114,20 @@ a:hover {
 }
 
 .row-pink {
-  background-color: #888;
+  background-color: #ffe6e6;
+    padding: 35px;
 }
 
-.row-padded {
-  padding: 35px;
-  background-color: #F7F7F7;
-  border: 1px solid #DDD;
-}
-
-.row-padded .span3 {
-  background-color: #bbb;
-  width: 30%;
+.well-pink {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #ffe6e6;
+  border: 0px dotted;
+  border-radius: 6px;
+  box-shadow: inset 4px 4px 1px #FFEBEB;
+  blockquote {
+    border-color: #ddd;
+    border-color: rgba(0,0,0,.15);
+  }
 }

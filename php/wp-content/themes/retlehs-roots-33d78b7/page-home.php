@@ -42,7 +42,6 @@ Template Name: Page Home Template
 </div><!-- /row -->
 </div>
 
-
 <div class="row">
 
 	<div class="span2">

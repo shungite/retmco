@@ -30,7 +30,9 @@ Template Name: Page MCOhome Template
 	</div><!-- /span3 -->
 
 	<div class="span3">
-			<p>jkwhdf</p>
+		<div class="well">
+			<?php gravity_form(1, false, false); ?>
+		</div><!-- /well -->
 	</div><!-- /span3 -->
 
 </div><!-- /row -->
