@@ -51,7 +51,6 @@ Template Name: Page Subscribe Template
 
 </div><!-- /row -->
 
-
 <?php get_template_part('templates/content', 'subscribe'); ?>
 
 </div><!-- /container -->
