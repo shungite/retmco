@@ -34,8 +34,8 @@ Template Name: Page Home Template
 	</div><!-- /span4 -->
 
 	<div class="span4">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/tlcorner.png" alt="" width="100" height="100" />
-		<h4>Subscribe to MCO's<br />40th anniversary season!</h4>
+		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/SubscribeTodaySmall.png" alt="" width="148" height="100" />
+		<h4>MCO's<br />40th anniversary season!</h4>
 		<p>Winnipeg fell in love with live chamber music at the very first MCO concert! From that first season of just three concerts, the Orchestra has grown in every way imaginable.</p>
 		<a class="btn" href="#">Subscribe now »</a>
 	</div><!-- /span4 -->
