@@ -48,6 +48,9 @@ Template Name: Page Concert3 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -101,8 +104,12 @@ Template Name: Page Concert3 Template
 				<p>The opening movement of this concerto is energetic and virtually carefree. The second movement is a calm, restful reverie. The finale is the main source of the concerto&rsquo;s popularity. It is a vivacious rondo, based on an authentic Hungarian or Bosnian-Dalmatian folk tune. This is an early example of a practice through which numerous Austro-German composers, through to Brahms, gave their audiences a delightful taste of the exotic.</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 

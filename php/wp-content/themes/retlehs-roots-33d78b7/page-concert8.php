@@ -49,6 +49,9 @@ Template Name: Page Concert8 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -124,8 +127,12 @@ Template Name: Page Concert8 Template
 				<p>This Handel opera was first produced in London in 1728. The plot is based on historical figures in the ruling dynasty of Egypt during the second century B.C. In Nicola Haym&rsquo;s libretto, the title character, Ptolemy IX, is joint ruler of the country with his mother, Cleopatra. She joins forces with his younger brother to banish him, but he regains his throne by the end of the opera. This tender love duet is sung by Ptolemy and his wife, Seleuce.</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 

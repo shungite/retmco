@@ -49,6 +49,9 @@ Template Name: Page Concert9 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -99,8 +102,12 @@ Template Name: Page Concert9 Template
 				<p>The second pair of movements is briefer, less ambitious, and adds the flavour of Russian folk music to the score. The outer panels of the third movement offer a sort of melancholy serenade. After a momentary hesitation, the central trio turns into a lively dance. That same feeling powers the vivacious finale. Mid-way through, Tchaikovsky pays homage to western tradition with a passage in fugal style.</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 

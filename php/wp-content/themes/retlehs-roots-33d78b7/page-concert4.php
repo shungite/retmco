@@ -49,6 +49,9 @@ Template Name: Page Concert4 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -128,8 +131,12 @@ Template Name: Page Concert4 Template
 				<p>He based both of the cantatas from 1827-28 on chorale or hymn-tune melodies, and cast each of these brief works in a single movement. In <em>Christe, du Lamm Gottes</em>, he scored the accompaniment for full orchestra, while in <em>Jesu, meine Freude</em> he used strings alone. The chorale melodies appear in the soprano section, over an impressive web of imitative vocal and instrumental counterpoint. Two-thirds of the way through <em>Jesu, meine Freude</em>, he shifted from a minor key to major one, at the words <em>Gottes Lamm, mein Br&auml;utigam</em> (Lamb of God, My Bridegroom), dissipating for a moment the clouds that have shadowed the music up to that point.</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 

@@ -48,6 +48,9 @@ Template Name: Page Concert7 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -123,8 +126,12 @@ Template Name: Page Concert7 Template
 				<p>Sonata No. 3 opens with a spirited and melodious Allegro. The following Andante is a rather serious affair, but Rossini makes no attempt to plumb depths of adult emotion. The finale is an enchanting set of variations on a catchy, comic-opera theme.</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 

@@ -48,6 +48,9 @@ Template Name: Page Concert5 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -110,8 +113,12 @@ Template Name: Page Concert5 Template
 				<p>Throughout his lengthy, industrious career, Haydn&rsquo;s essential optimism never deserted him. Late in life, he wrote, &ldquo;Often when contending with obstacles of every sort that interfered with my work, often when my powers of both body and mind were failing and I felt it a hard matter to persevere on the course I had entered on, a secret feeling within me whispered, &lsquo;There are but few contented and happy men here below; grief and care prevail everywhere; perhaps your labours may one day be the source from which the weary and worn, or the man burdened with affairs, may derive a few moments&rsquo; rest and refreshment.&rsquo; What a powerful motive for pressing onward!&rdquo;</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 

@@ -47,6 +47,9 @@ Template Name: Page Concert6 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -98,8 +101,12 @@ Template Name: Page Concert6 Template
 				<p>Stravinsky&rsquo;s tart, witty and rhythmically intricate score displayed several influences: Russian folk song, gypsy fiddlers (reflecting the plot, the violin often takes the musical spotlight), klezmer groups, the popular music of Spain (The Royal March is an example of the pasodoble), and his recent exposure to jazz (the ensemble sounds like a Dixieland band at times). &ldquo;My knowledge of jazz was derived exclusively from copies of sheet music,&rdquo; he admitted, &ldquo;and as I had never actually heard any of the music performed, I borrowed its rhythmic style not as played, but as written. I could imagine jazz sound, however, or so I liked to think. Jazz meant, in any case, a wholly new sound in my music, and <em>L&rsquo;Histoire du soldat</em> marks my final break with the Russian orchestral school in which I had been fostered.&rdquo; Among the music&rsquo;s other ingredients are parodies of military marches and popular music forms such as the tango, waltz and ragtime, and even two Lutheran chorales, including <em>Ein&rsquo; feste Burg ist under Gott</em>(A Mighty Fortress Is Our God).</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 

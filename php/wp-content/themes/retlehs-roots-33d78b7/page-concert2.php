@@ -47,6 +47,9 @@ Template Name: Page Concert2 Template
 <div class="row">
 
 	<div class="span6">
+
+		<div class="well"><!-- tab content well -->
+
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
@@ -110,8 +113,12 @@ Template Name: Page Concert2 Template
 				<p>The music progresses from initial anxiety, through turbulent yearning, to a final sense of tranquil fulfilment. The original chamber version communicates a compelling sense of intimacy, but Schoenberg&rsquo;s transcription for full orchestral strings brings added power and sumptuousness.</p>
 			</div>
 		</div><!-- /tab-content -->
+
+		</div><!-- /tab content well -->
+
 	</div><!-- /span6 tab area -->
-	<div class="span5">
+
+	<div class="span2 offset1">
 		<p class="fineprint">.</p>
 	</div>
 
