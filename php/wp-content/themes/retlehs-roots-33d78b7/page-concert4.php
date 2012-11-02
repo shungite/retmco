@@ -54,7 +54,7 @@ Template Name: Page Concert4 Template
 
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
-			<li><a href="#bios" data-toggle="tab"><strong>Artists&rsquo; bios</strong></a></li>
+			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Program notes</strong></a></li>
 		</ul>
 		<div class="tab-content">
