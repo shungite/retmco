@@ -26,7 +26,7 @@ Template Name: Page Concert4 Template
 
 <div class="row">
 
-	<div class="span6">
+	<div class="span7">
 		<h4>A double celebration:<br />The Winnipeg Singers and the MCO</h4>
 		<p>Winnipeg was a very different place prior to 1972: there was no Prairie Theatre Exchange, no Manitoba Opera, no Plug In ICA, no Winnipeg Singers and &mdash; horror of horrors &mdash; no MCO!</p>
 		<p>At this concert we will celebrate the formation of two of the fine institutions that are the weft and warp of the fabric of Winnipeg’s rich and varied cultural scene.</p>

@@ -26,7 +26,7 @@ Template Name: Page Concert5 Template
 
 <div class="row">
 
-	<div class="span6">
+	<div class="span7">
 		<h4>Janina Fialkowska has played<br />a big part in the MCO&rsquo;s 40-year story</h4>
 		<p>Some of MCO&rsquo;s guest soloists become more like family, and that definitely includes Canadian pianist Janina Fialkowska. It’s been a while since she has graced our stage, and a fortieth birthday seems like the perfect occasion to get together!</p>
 		<p>Fialkowska has been in the news quite a bit lately, both for receiving the Governor General’s Performing Arts Award and with glowing reviews of her new album, Liszt Recital (named album of the week by <em>The Independent</em>). In Gramophone, reviewer Bryce Morrison exclaimed, &ldquo;We need many more records from this master-pianist!&rdquo;</p>

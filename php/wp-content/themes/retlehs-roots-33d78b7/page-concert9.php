@@ -26,7 +26,7 @@ Template Name: Page Concert9 Template
 
 <div class="row">
 
-	<div class="span6">
+	<div class="span7">
 		<h4>English cellist<br />Colin Carr to play / conduct</h4>
 		<p>Colin Carr was the talk of the town in 2011. &ldquo;Everyone loved cellist Colin Carr when he performed with us during the International Cello Festival of Canada last year,&rdquo; says Anne Manson. &ldquo;We&rsquo;ll be continuing the tradition of having a player rather than a conductor lead the Orchestra.&rdquo;</p>
 		<p>&ldquo;The program includes a Mozart Divertimento, a Boccherini cello concerto and Tchaikovsky&rsquo;s <em>Souvenir de Florence</em>, which is a beautiful piece that we have wanted to play for a long time.&rdquo;</p>

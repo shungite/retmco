@@ -26,7 +26,7 @@ Template Name: Page Concert8 Template
 
 <div class="row">
 
-	<div class="span6">
+	<div class="span7">
 		<h4>Daniel Taylor &amp; Suzie LeBlanc<br />&mdash; together again</h4>
 		<p>When this pair of incredible vocalists sang with the MCO in 2005, Gwenda Nemerofsky of the Winnipeg Free Press wrote, &ldquo;One couldn’t help but be struck by the remarkable blending of voices. They are perfectly matched, LeBlanc&rsquo;s voice ringing throughout the church more sonorously than any bell, Taylor producing notes as thick and sweet as honey. Nothing could have improved on this performance.&rdquo;</p>
 		<p>Well, we thought of one thing: make the duo part of our 40th Anniversary Season!

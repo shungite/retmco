@@ -26,7 +26,7 @@ Template Name: Page Concert3 Template
 
 <div class="row">
 
-	<div class="span6">
+	<div class="span7">
 		<h4>Pianistic might,<br />for mighty music: Marc-Andr&eacute; Hamelin</h4>
 		<p>&ldquo;A one-of-a-kind concert artist ... his rhythms were so exacting and his touch so subtle that each note seemed to have a life of its own.&rdquo; So says the <em>Los Angeles Times</em>. We knew that!</p>
 		<p>Piano star Marc-Andr&eacute; Hamelin has appeared with the MCO four times over the years; we always want him back and, happily, he always wants to return to Winnipeg and our stage!</p>
