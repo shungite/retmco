@@ -53,7 +53,7 @@ Template Name: Page Concert2 Template
 		<ul class="nav nav-tabs">
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
-			<li><a href="#notes" data-toggle="tab"><strong>Program notes</strong></a></li>
+			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
