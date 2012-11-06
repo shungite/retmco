@@ -27,10 +27,10 @@ Template Name: Page Home Template
 
 <div class="row">
 	<div class="span4">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/YooEvent.png" alt="" width="100" height="100" />
+		<a href="http://retmco-shungite.rhcloud.com/yoo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/YooEvent.png" alt="" width="100" height="100" /></a>
 		<h4>Candlelight event:<br />Music &amp; conversation<br />with Scott Yoo</h4>
 		<p>Fundraiser: enjoy the first of two unique events celebrating MCO's 40th anniversary season. The first is an intimate evening at historic 218 Roslyn Road&mdash;with wine and delectable edibles!</p>
-		<a class="btn" href="#">Details »</a>
+		<a class="btn" href="http://retmco-shungite.rhcloud.com/yoo/">Details »</a>
 	</div><!-- /span4 -->
 
 	<div class="span4">
