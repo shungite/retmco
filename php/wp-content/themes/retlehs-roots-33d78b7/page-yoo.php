@@ -28,7 +28,7 @@ Template Name: Page Yoo Template
 
 	<div class="span6">
 		<h4>In celebration<br />of our 40th anniversary ...</h4>
-		<p>The Manitoba Chamber Orchestra invites you to the first of two Candlelight evenings: Music and Conversation with violinist &amp; conductor Scott Yoo.  The event is at 7:30 pm, Tuesday, 20 November 2012 at historic 218 Roslyn Road, a restored turn-of-the-century architectural gem (generously offered by John &amp; Nancy Embry). Ticket price is $75 per person (partial tax receipt). Musical performance will commence at 7:45.</p>
+		<p>The Manitoba Chamber Orchestra invites you to the <strong>first of two</strong> Candlelight evenings: Music and Conversation with violinist &amp; conductor Scott Yoo.  The event is at 7:30 pm, Tuesday, 20 November 2012 at historic 218 Roslyn Road, a restored turn-of-the-century architectural gem (generously offered by John &amp; Nancy Embry). Ticket price is $75 per person (partial tax receipt). Musical performance will commence at 7:45.</p>
 		<p>As there are a very limited number of tickets available, please RSVP 204.783.7377 by Monday, November 12th, or simply <strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=49085bc7260e4c228cf48e6925ec34e4">purchase tickets here</a></strong>.</p>
 		<p>The evening will be enhanced with wine and delectable edibles!</p>
 		<p><strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=e8bf52584a0542948d8e5e3e39abe209">Special price for two Candlelight evenings<br />(pianist Janina Fialkowska, 20 February 2013): $140</a></strong></p>
