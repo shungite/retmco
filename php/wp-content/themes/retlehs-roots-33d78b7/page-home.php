@@ -10,7 +10,7 @@ Template Name: Page Home Template
 <div class="row">
 
 	<div class="span8">
-		<a href="http://retmco-shungite.rhcloud.com/gomyo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head21nov12a.png" width="870" height="512"></a>
+		<a href="http://www.themco.ca/gomyo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head21nov12a.png" width="870" height="512"></a>
 	</div><!-- /span8 -->
 
 </div><!-- /row -->
@@ -27,14 +27,14 @@ Template Name: Page Home Template
 
 <div class="row">
 	<div class="span4">
-		<a href="http://themco.ca/yoo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/YooEvent.png" alt="" width="100" height="100" /></a>
+		<a href="http://www.themco.ca/yoo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/YooEvent.png" alt="" width="100" height="100" /></a>
 		<h4>Candlelight event:<br />Music &amp; conversation<br />with Scott Yoo</h4>
 		<p>Fundraiser: enjoy the first of two unique events celebrating MCO's 40th anniversary season. The first is an intimate evening at historic 218 Roslyn Road&mdash;with wine and delectable edibles!</p>
-		<a class="btn" href="http://themco.ca/yoo/">Details »</a>
+		<a class="btn" href="http://www.themco.ca/yoo/">Details »</a>
 	</div><!-- /span4 -->
 
 	<div class="span4">
-		<a href="http://retmco-shungite.rhcloud.com/subscribe/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/SubscribeTodaySmall.png" alt="" width="148" height="100" /></a>
+		<a href="http://www.themco.ca/subscribe/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/SubscribeTodaySmall.png" alt="" width="148" height="100" /></a>
 		<h4>Celebrate MCO's<br />40th anniversary season!</h4>
 		<p>Winnipeg fell in love with live chamber music at the very first MCO concert! From that first season of just three concerts, the Orchestra has grown in every way imaginable.</p>
 		<a class="btn" href="http://retmco-shungite.rhcloud.com/subscribe/">Subscribe now »</a>
