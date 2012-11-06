@@ -6,7 +6,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </a>
-      <a class="brand" href="<?php echo home_url(); ?>/">
+      <a class="brand" href="http://www.themco.ca/">
         <?php bloginfo('name'); ?>
       </a>
       <nav id="nav-main" class="nav-collapse" role="navigation">
@@ -19,3 +19,11 @@
     </div>
   </div>
 </header>
+
+<!-- Original setting above:
+
+      <a class="brand" href="<?php echo home_url(); ?>/">
+        <?php bloginfo('name'); ?>
+      </a>
+
+-->
