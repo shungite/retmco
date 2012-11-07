@@ -30,6 +30,7 @@ Template Name: Page Home Template
 		<h4>Celebrate MCO's<br />40th anniversary season<br />with a subscription!</h4>
 		<p>Winnipeg fell in love with live chamber music at the very first MCO concert! From that first season of just three concerts, the Orchestra has grown in every way imaginable.</p>
 		<a class="btn" href="http://www.themco.ca/subscribe/">Subscribe now »</a>
+		<p>&nbsp;</p>
 	</div><!-- /span4 -->
 
 	<div class="span4">
