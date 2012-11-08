@@ -13,3 +13,5 @@
 <?php endif; ?>
 
 <?php wp_footer(); ?>
+
+<p>*</p>
