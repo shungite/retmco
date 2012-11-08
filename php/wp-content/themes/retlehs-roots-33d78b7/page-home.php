@@ -52,7 +52,6 @@ Template Name: Page Home Template
 		<a class="btn btn-mini" href="mailto:info@themco.ca?subject=Feedback ...">Complain »</a>
 		<p>&nbsp;</p>
 	</div><!-- /span2 -->
-</div>
 
 
 <?php get_template_part('templates/content', 'home'); ?>
