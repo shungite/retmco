@@ -42,7 +42,6 @@ Template Name: Page Home Template
 	
 </div><!-- /row -->
 
-</div>
 
 <div class="row">
 
@@ -53,9 +52,9 @@ Template Name: Page Home Template
 		<a class="btn btn-mini" href="mailto:info@themco.ca?subject=Feedback ...">Complain »</a>
 		<p>&nbsp;</p>
 	</div><!-- /span2 -->
+</div>
 
-</div><!-- /row -->	
 
 <?php get_template_part('templates/content', 'home'); ?>
 
-</div><!-- /container -->
+</div><!-- /row -->	

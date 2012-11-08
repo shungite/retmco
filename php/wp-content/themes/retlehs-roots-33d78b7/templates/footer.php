@@ -14,4 +14,11 @@
 
 <?php wp_footer(); ?>
 
-<p>*</p>
+<div class="container">
+	<div class="foot">
+		<div class="span3">
+			<p class="fineprintdk"><strong>CONCERTS</strong></p>
+<!-- 			<p class="fineprintdk">Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Sep 12 / Bayrakdarian<br />Nov 21 / Yoo, Gomyo</p>
+ -->		</div>
+	</div>
+</div>

@@ -102,6 +102,19 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   line-height: 128%;
 }
 
+.fineprintdk {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #ddd;
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 128%;
+}
+
 /* Link mods */
 
 a {
@@ -118,11 +131,11 @@ a:hover {
   padding: 0;
 }
 
-.footer {
-  position: relative;
-  background-color: #ffe6e6;
-  margin-top: -150px; /* negative value of footer height */
-  height: 150px;
+.foot {
+/*  position: relative;
+*/  background-color: #92929d;
+  margin-top: 10px; /* negative value of footer height */
+  height: 50px;
   clear:both;
   padding-top:20px;
 } 
