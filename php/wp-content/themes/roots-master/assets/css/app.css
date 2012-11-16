@@ -91,7 +91,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 .fineprint {
   font-family: Arial, Helvetica, sans-serif;
-  color: #999999;
+  color: #6b6b6b;
   margin-top: 5px;
   margin-right: 0px;
   margin-bottom: 20px;
@@ -102,6 +102,18 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   line-height: 128%;
 }
 
+.fineprintdark {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #515151;
+  margin-top: 5px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 128%;
+}
 .fineprintdk {
   font-family: Arial, Helvetica, sans-serif;
   color: #ddd;

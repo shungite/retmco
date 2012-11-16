@@ -31,7 +31,18 @@ Template Name: Page Concert2 Template
 		<p>In its forty seasons the MCO has introduced more up-and-coming young stars than you can shake a baton at. Karen Gomyo is well on her way. The <em>Chicago Tribune</em> called her &ldquo;a first-rate artist of real musical command, vitality, brilliance and intensity.&rdquo;</p>
 		<p><a href="http://karengomyo.com/">Karen Gomyo</a> was born in Tokyo and grew up in Montreal and New York. She was the recipient of the prestigious Avery Fisher Career Grant in 2008. An extra treat: Karen Gomyo plays on a Stradivarius violin that was bought for her exclusive use by a private sponsor.</p>
 		<p>Guest conductor <a href="http://www.scott-yoo.com/">Scott Yoo</a> has crafted a crafty programme for this show. From the Mozart concerto through Schoenberg&rsquo;s one-movement string work to a reprise performance of Morlock&rsquo;s Nostalgia, this repertoire will keep you on your toes!</p>
-	</div>
+	
+		<div class="media">
+			<a class="pull-left" href="#extras" data-toggle="tab">
+				<img class="media-object" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+			</a>
+			<div class="media-body">
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for the &lsquo;Two-minute Talk,&rsquo; <em>On Arnold Scoenberg</em>, by Winnipeg Flautist (and MCO Piza Club facilitator) <strong>Haley Rempel</strong>.</p>
+				<p class="fineprint">&nbsp;<p>
+			</div>
+		</div>	
+
+	</div><!-- /span7 -->
 
 	<div class="span2"> 
 
@@ -54,6 +65,7 @@ Template Name: Page Concert2 Template
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -112,6 +124,18 @@ Template Name: Page Concert2 Template
 				<p>The poem is a dialogue between two lovers, as they walk through a chilly moonlit forest. The woman reveals that she is expecting a former lover&rsquo;s child. Her new lover argues that the depth of their feelings for each other will ensure that they will love the child as their own.</p> 
 				<p>The music progresses from initial anxiety, through turbulent yearning, to a final sense of tranquil fulfilment. The original chamber version communicates a compelling sense of intimacy, but Schoenberg&rsquo;s transcription for full orchestral strings brings added power and sumptuousness.</p>
 			</div>
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 24: &lsquo;On Arnold Schoenberg&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/-Z-ABICwA20" frameborder="0" allowfullscreen></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+  						</div>
+  					</div>
+					</section>
+				</div>
+
 		</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
