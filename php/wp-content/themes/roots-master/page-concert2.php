@@ -37,7 +37,7 @@ Template Name: Page Concert2 Template
 				<img class="media-object" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
 			</a>
 			<div class="media-body">
-				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for the &lsquo;Two-minute Talk,&rsquo; <em>On Arnold Scoenberg</em>, by Winnipeg Flautist (and MCO Piza Club facilitator) <strong>Haley Rempel</strong>.</p>
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for the &lsquo;Two-minute Talk,&rsquo; <em>On Arnold Schoenberg</em>, by Winnipeg Flautist (and MCO Pizza Club facilitator) <strong>Haley Rempel</strong>.</p>
 				<p class="fineprint">&nbsp;<p>
 			</div>
 		</div>	
@@ -129,7 +129,7 @@ Template Name: Page Concert2 Template
 					<section class="row">
   					<div class="span5">
   						<div class="flex-video widescreen">
-  							<iframe width="510" height="287" src="http://www.youtube.com/embed/-Z-ABICwA20" frameborder="0" allowfullscreen></iframe>
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/-Z-ABICwA20" frameborder="0" allowfullscreen seamless></iframe>
   							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
   						</div>
   					</div>
