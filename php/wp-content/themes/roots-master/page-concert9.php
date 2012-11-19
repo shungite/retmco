@@ -34,7 +34,9 @@ Template Name: Page Concert9 Template
 		<p><strong>Souvenir de Florence</strong></p>
 		<p>The <em>Souvenir de Florence</em> is a string sextet scored for two violins, two violas and two cellos, composed in the European summer of 1890. He dedicated the work to the St. Petersburg Chamber Music Society in response to his becoming an Honorary Member.</p>
 		<p>The work, in the traditional four-movement form, received its name after the composer sketched one of the principal themes while visiting Florence, Italy, where he composed <em>The Queen of Spades</em>. The work was revised between December 1891 and January 1892, before being premiered in 1892 (Wikipedia).
-	</div><!-- /span6 -->
+		<strong>The concert begins at 7:30 pm on June 5th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
+		<p class="fineprint">&nbsp;<p>
+	</div><!-- /span7 -->
 
 	<div class="span2"> 
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />

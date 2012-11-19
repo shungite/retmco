@@ -33,7 +33,9 @@ Template Name: Page Concert5 Template
 		<p><strong>Lifetime achievement</strong></p>
 		<p>Janina Fialkowska received Canada&rsquo;s 2012 &lsquo;Governor General&rsquo;s Performing Arts Award&rsquo; for Lifetime Achievement in Classical Music. Three days of celebration included a reception on Parliament Hill and a private luncheon with the Speaker of the House of Commons.</p>
 		<p>At the official ceremony in Rideau Hall, thousands cheered and there were heartfelt contributions from fellow pianist Jackie Parker and from Oscar-winning (friend, cousin and Connecticut neighbour) Christopher Plummer, as well as a very personal and moving tribute from Canadian radio icon and friend Shelagh Rogers.</p>
-	</div><!-- /span6 -->
+		<strong>The concert begins at 7:30 pm on February 19th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
+		<p class="fineprint">&nbsp;<p>
+	</div><!-- /span7 -->
 
 	<div class="span2"> 
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />

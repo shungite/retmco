@@ -32,6 +32,8 @@ Template Name: Page Concert3 Template
 		<p>Piano star Marc-Andr&eacute; Hamelin has appeared with the MCO four times over the years; we always want him back and, happily, he always wants to return to Winnipeg and our stage!</p>
 		<p>Hamelin is equally at home with traditional and contemporary repertoire as we&rsquo;ll see on this concert. Shostakovich virtually invented the piano concerto anew when he first penned this razor-sharp and minimalist work in 1933, and we can&rsquo;t wait to hear the work in Hamelin&rsquo;s hands.</p>
 		<p>For the first time ever we&rsquo;ll present a work by American composer Dorothy Chang. Described as &ldquo;evocative and kaleidoscopic&rdquo; by the <em>Seattle Times</em>, her music is characterized by an emphasis on dramatic intensity and expressive lyricism.</p>
+		<strong>The concert begins at 7:30 pm on January 9th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
+		<p class="fineprint">&nbsp;<p>
 	</div>
 
 	<div class="span2"> 
