@@ -37,7 +37,7 @@ Template Name: Page Yoo Template
 	</div><!-- /span6 -->
 
 	<div class="span2"> 
-		<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=49085bc7260e4c228cf48e6925ec34e4"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /></a><br />
+		<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=49085bc7260e4c228cf48e6925ec34e4"><img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /></a><br />
 		<p class="fineprint">Click above to add a ticket to your shopping cart; adjust quantity in cart and return to purchase other tickets. <strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=e8bf52584a0542948d8e5e3e39abe209">Click here</a></strong> for the reduced price ticket to two Candlelight Events.</p>
 	</div><!-- /span2 -->
 
