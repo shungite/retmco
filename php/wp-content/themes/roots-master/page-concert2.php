@@ -34,7 +34,7 @@ Template Name: Page Concert2 Template
 		<b>The concert begins at 7:30 pm on November 21st in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</b>
 			<div class="media">
 				<a class="pull-left" href="#extras" data-toggle="tab">
-				<img class="media-object" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
 			</a>
 			<div class="media-body">
 				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for the &lsquo;Two-minute Talk,&rsquo; <em>On Arnold Schoenberg</em>, by Winnipeg Flautist (and MCO Pizza Club facilitator) <strong>Haley Rempel</strong>.</p>
@@ -102,7 +102,8 @@ Template Name: Page Concert2 Template
 			</div>
 			<div class="tab-pane fade" id="notes">
 				<p><strong>Nostalgia<br /><a href="http://jocelynmorlock.com/">Jocelyn Morlock</a></strong></p>
-				<p><em>Nostalgia</em> was commissioned by the MCO, who premiered it in 2007, conducted by Scott Yoo. The composer&rsquo;s note follows: nos·tal·gi·a: A mixed feeling of happiness, sadness, and longing when recalling a person, place, or event from the past, or the past in general.</p>
+				<p>Nostalgia <em>was commissioned by the MCO, who premiered it in 2007, conducted by Scott Yoo. The composer&rsquo;s note follows:</em><p>
+				<p><strong>nos&#149;tal&#149;gi&#149;a</strong> / A mixed feeling of happiness, sadness, and longing when recalling a person, place, or event from the past, or the past in general.</p>
 				<p>Nostalgia has been a frequent topic of consideration for artists, from Tarkovsky and Takemitsu to Milan Kundera, and while I am daunted (and amazed) by their work, I am sufficiently fascinated by nostalgia to attempt to explore it in my own composition.</p>
 				<p>Aside from the undoubted delights of glimpsing the past through a rosy, muzzy haze, nostalgia also has some darker facets; if one engages in an obsessive love for the past, one may lose sight of the present, and nothing appears quite as wonderful as that which is forever lost.</p>
 				<p>I&rsquo;ve taken as my starting point the Adagio of Bach&rsquo;s Sonata for Viola da Gamba and Harpsichord, bwv 1027, a piece which for me is replete with nostalgia and past associations. The opening melody has a sweet sadness that I find irresistible &mdash; I can&rsquo;t tell you how many times I&rsquo;ve listened to it, but too many.</p>
