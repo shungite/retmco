@@ -10,19 +10,15 @@ Template Name: Page MCOhome Template
 
 <div class="row">
 	
-	<div class="span3">
-		<div style="background-image: url(http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head21nov12a.png); ">
+	<div class="span6">
+		<div style="background-image: url(http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png); padding: 10px; height: 450px; ">
+			<p>After beginning his musical studies at age three, Scott Yoo performed Mendelssohn&rsquo;s violin concerto with the Boston Symphony at age twelve. He received first prize in the 1988 Josef Gingold International Violin Competition, the 1989 Young Concert Artists International Auditions, and the 1994 Avery Fisher Career Grant.</p>
 
 			<p>After beginning his musical studies at age three, Scott Yoo performed Mendelssohn&rsquo;s violin concerto with the Boston Symphony at age twelve. He received first prize in the 1988 Josef Gingold International Violin Competition, the 1989 Young Concert Artists International Auditions, and the 1994 Avery Fisher Career Grant.</p>
 			<p>Scott Yoo has collaborated with eminent artists Sarah Chang, Edgar Meyer, Benita Valente, and Dawn Upshaw. He is currently Music Director and Principal Conductor of the 39-year old Festival Mozaic, which presents over thirty orchestral, choral and chamber music concerts and events each year on California&rsquo;s Central Coast.</p>
-		</div><!-- /well -->
-	</div><!-- /span3 -->
-
-	<div class="span3">
-		<div class="well">
-			<p>jkwhdf</p>
-		</div><!-- /well -->
-	</div><!-- /span3 -->
+		</div>
+		<p>&nbsp;</p>
+	</div><!-- /span6 -->
 
 	<div class="span3">
 		<div class="well">
@@ -35,6 +31,17 @@ Template Name: Page MCOhome Template
 			<?php gravity_form(1, false, false); ?>
 		</div><!-- /well -->
 	</div><!-- /span3 -->
+
+</div><!-- /row -->
+
+<div class="row">
+
+<div class="span6">
+	<img class="img-rounded" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png">
+	<div>
+		<p>Test</p>
+	</div>
+</div
 
 </div><!-- /row -->
 
