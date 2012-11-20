@@ -43,6 +43,6 @@ Template Name: Page Heartstrings Template
 
 </div><!-- /row -->
 
-<?php get_template_part('templates/content', 'subscribe'); ?>
+<?php get_template_part('templates/content', 'heartstrings'); ?>
 
 </div><!-- /container -->

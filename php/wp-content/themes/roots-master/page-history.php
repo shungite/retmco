@@ -36,6 +36,6 @@ Template Name: Page History Template
 
 </div><!-- /row -->
 
-<?php get_template_part('templates/content', 'subscribe'); ?>
+<?php get_template_part('templates/content', 'history'); ?>
 
 </div><!-- /container -->

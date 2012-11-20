@@ -11,7 +11,8 @@ Template Name: Page MCOhome Template
 <div class="row">
 	
 	<div class="span3">
-		<div class="well">
+		<div style="background-image: url(http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head21nov12a.png); ">
+
 			<p>After beginning his musical studies at age three, Scott Yoo performed Mendelssohn&rsquo;s violin concerto with the Boston Symphony at age twelve. He received first prize in the 1988 Josef Gingold International Violin Competition, the 1989 Young Concert Artists International Auditions, and the 1994 Avery Fisher Career Grant.</p>
 			<p>Scott Yoo has collaborated with eminent artists Sarah Chang, Edgar Meyer, Benita Valente, and Dawn Upshaw. He is currently Music Director and Principal Conductor of the 39-year old Festival Mozaic, which presents over thirty orchestral, choral and chamber music concerts and events each year on California&rsquo;s Central Coast.</p>
 		</div><!-- /well -->
@@ -85,6 +86,6 @@ Template Name: Page MCOhome Template
 
 </div><!-- /row -->	
 
-<?php get_template_part('templates/content', 'home'); ?>
+<?php get_template_part('templates/content', 'mcohome'); ?>
 
 </div><!-- /container -->
