@@ -10,38 +10,46 @@ Template Name: Page MCOhome Template
 
 <div class="row">
 	
-	<div class="span6">
-		<div style="background-image: url(http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png); padding: 10px; height: 450px; ">
-			<p>After beginning his musical studies at age three, Scott Yoo performed Mendelssohn&rsquo;s violin concerto with the Boston Symphony at age twelve. He received first prize in the 1988 Josef Gingold International Violin Competition, the 1989 Young Concert Artists International Auditions, and the 1994 Avery Fisher Career Grant.</p>
+<div class="span6">
+    	<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png" class="img-rounded">
+      	<h4>Wednesday, 9 January 2013, 7:30 pm<br />Marc-Andr&eacute; Hamelin, piano</h4>
+					<p>Westminster Church, 745 Westminster at Maryland<br />Click for quick ticket ...</p>
+					<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c301f4a8e8e84f818a334890e45560a8"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a>
+						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=85597a2de1bd4934a7f7c2b732f15102"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a>
+						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2e53804f923e46219d418c1cdb58ba46"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.png" alt="" width="62" height="40" /></a>
+					</p>      
+    	<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png" class="img-rounded">
+      	<h4>Wednesday, 9 January 2013, 7:30 pm<br />Marc-Andr&eacute; Hamelin, piano</h4>
+					<p>Westminster Church, 745 Westminster at Maryland<br />Click for quick ticket ...</p>
+					<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c301f4a8e8e84f818a334890e45560a8"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a>
+						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=85597a2de1bd4934a7f7c2b732f15102"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a>
+						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2e53804f923e46219d418c1cdb58ba46"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.png" alt="" width="62" height="40" /></a>
+					</p>      
 
-			<p>After beginning his musical studies at age three, Scott Yoo performed Mendelssohn&rsquo;s violin concerto with the Boston Symphony at age twelve. He received first prize in the 1988 Josef Gingold International Violin Competition, the 1989 Young Concert Artists International Auditions, and the 1994 Avery Fisher Career Grant.</p>
-			<p>Scott Yoo has collaborated with eminent artists Sarah Chang, Edgar Meyer, Benita Valente, and Dawn Upshaw. He is currently Music Director and Principal Conductor of the 39-year old Festival Mozaic, which presents over thirty orchestral, choral and chamber music concerts and events each year on California&rsquo;s Central Coast.</p>
-		</div>
-		<p>&nbsp;</p>
-	</div><!-- /span6 -->
 
-	<div class="span3">
+      </div>
+
+
+
+
+	<div class="span4">
 		<div class="well">
 			<p>jkwhdf</p>
 		</div><!-- /well -->
 	</div><!-- /span3 -->
 
-	<div class="span3">
+	<div class="span2">
 		<div class="well">
 			<?php gravity_form(1, false, false); ?>
 		</div><!-- /well -->
 	</div><!-- /span3 -->
 
+
 </div><!-- /row -->
 
-<div class="row">
 
-<div class="span6">
-	<img class="img-rounded" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png">
-	<div>
-		<p>Test</p>
-	</div>
-</div
+
+<div class="row">
 
 </div><!-- /row -->
 
