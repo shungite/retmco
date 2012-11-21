@@ -9,6 +9,15 @@ Template Name: Page MCOhome Template
 <p>&nbsp;</p>
 
 <div class="row">
+<div class="span12">
+		<div class="well-pink">
+			<p>jkwhdf</p>
+		</div><!-- /well -->
+	</div><!-- /span3 -->
+</div><!-- /row -->
+
+
+<div class="row">
 	
 <div class="span6">
     	<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png" class="img-rounded">
