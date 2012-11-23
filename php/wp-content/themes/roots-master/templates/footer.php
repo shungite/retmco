@@ -13,3 +13,23 @@
 <?php endif; ?>
 
 <?php wp_footer(); ?>
+
+<!-- Le javascript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="js/bootstrap.min.js"></script>
+
+    <script>
+      !function ($) {
+        $(function(){
+          // Fix for dropdowns on mobile devices
+          $('body').on('touchstart.dropdown', '.dropdown-menu', function (e) { 
+              e.stopPropagation(); 
+          });
+          $(document).on('click','.dropdown-menu a',function(){
+              document.location = $(this).attr('href');
+          });
+        })
+      }(window.jQuery)
+    </script>
