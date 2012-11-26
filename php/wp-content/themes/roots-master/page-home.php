@@ -34,10 +34,10 @@ Template Name: Page Home Template
 	</div><!-- /span4 -->
 
 	<div class="span4">
-		<a href="http://www.themco.ca/yoo/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/YooEvent.png" alt="" width="100" height="100" /></a>
-		<h4>Candlelight event:<br />Music &amp; conversation<br />with Scott Yoo</h4>
-		<p>Fundraiser: enjoy the first of two unique events celebrating MCO's 40th anniversary season. The first is an intimate evening at historic 218 Roslyn Road&mdash;with wine and delectable edibles!</p>
-		<a class="btn" href="http://www.themco.ca/yoo/">Details »</a>
+		<img class="img-circle" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/janina_small.jpg" alt="" width="100" height="100" />
+		<h4>Candlelight event:<br />Music &amp; conversation<br />with Janina Fialkowska</h4>
+		<p>Fundraiser: enjoy the second of two unique events celebrating MCO&rsquo;s 40th anniversary season. This time, hear the world renowned pianist Janina Fialkowska in The Fort Garry's opulent Provencher Room.</p>
+		<a class="btn" >Details »</a>
 	</div><!-- /span4 -->
 	
 </div><!-- /row -->
