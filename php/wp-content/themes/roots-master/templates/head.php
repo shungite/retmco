@@ -9,6 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="616Yt9o3ZBd2QoqnxJCAhwwru60mMyBrLPFW9LrsefU" />
   <meta name="google-site-verification" content="2Q1bfvvvNyvfgFoFaNdYPSZ_ApWLBIuUV9LuaKS_idg" />
+  <meta name="google-site-verification" content="iJa18mLj8o_E6yssqJvuul3fxlTYffSHFkQO6LFEgbM" />
 
   <script src="<?php echo get_template_directory_uri(); ?>/assets/js/vendor/modernizr-2.6.2.min.js"></script>
 
