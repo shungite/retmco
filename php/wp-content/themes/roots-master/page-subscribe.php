@@ -28,11 +28,17 @@ Template Name: Page Subscribe Template
 
 	<div class="span6">
 		<h4>Celebrate MCO’s<br />40 years with a subscription!</h4>
-		<p>Winnipeg fell in love with live chamber music at the very first MCO concert! From that first season of just three concerts, the Orchestra has grown in every way imaginable. From its radio broadcasts and concerts to touring and recording projects, the MCO has helped to put Winnipeg on Canada’s cultural map.</p>
-		<p>But it is here in Winnipeg that we are luckiest. At least nine times each season the MCO performs in the acoustic splendour of Westminster Church (100 years old this year!).</p>
-		<p>Subscribe to the MCO’s anniversary season, whether you’re subscribing again or for the first time. Enjoy the benefits we offer all subscribers and, above all, be moved by the live chamber orchestra music experience!</p>
-		<p><strong>Mix and match concerts!</strong></p>
-		<p>A nine-concert subscription could be three tickets to each of three concerts, and a six-concert subscription could be two tickets to each of three concerts, and ... well, you get the picture.</p>
+		<p>Winnipeg fell in love with live chamber music at the very first MCO concert! From that first season of just three concerts, the Orchestra has grown in every way imaginable. From its radio broadcasts and concerts to touring and recording projects, the MCO has helped to put Winnipeg on Canada&rsquo;s cultural map.</p>
+		<p>But it is here in Winnipeg that we are luckiest. Nine times each season the MCO performs in the acoustic splendour of Westminster Church (100 years old this year!). Subscribe to the MCO&rsquo;s 40th anniversary season, whether you’re subscribing again or for the first time. Enjoy the benefits we offer all subscribers and, above all, be moved by the live chamber orchestra music experience!</p>
+		<p><strong>Summary of subscription products</strong></p>
+		<p><strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=fe7c1b6e9d8441538a85362d828d3464">&middot; 6-concert adult mix+match subscription</strong></a><br />
+		<strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=1c6002a2ff9345e095767ac1562e5d06">&middot; 6-concert senior mix+match subscription</strong></a><br />
+		<strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2ad4abe1836449f4b8b54d7a0bbfd075">&middot; 6-concert student mix+match subscription</strong></a></p>
+		<p><strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=fe7c1b6e9d8441538a85362d828d3464">&middot; 9-concert adult mix+match subscription</strong></a><br />
+		<strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=5b1c9b9ee40f4a7d860ac0afe4acd5b9">&middot; 9-concert senior mix+match subscription</strong></a><br />
+		<strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=b130a807be584c04bf370fe0eedb9b07">&middot; 9-concert student mix+match subscription</strong></a></p>
+		<p><strong>How to mix+match concerts</strong></p>
+		<p>A nine-concert subscription can be three tickets to each of three concerts, a six-concert subscription could be two tickets to each of three concerts or six tickets to one concert, and ... well, you get the idea.</p>
 		<p><strong>Exchange tickets in advance!</strong></p>
 		<p>With a six- or nine-concert subscription, should your schedule change, please call at least 24 hours before a concert and we’ll swap your ticket for another concert in the same season, subject to availability.</p>
 		<p><strong>The Naxos Music Library!</strong></p>
