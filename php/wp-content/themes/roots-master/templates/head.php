@@ -18,7 +18,7 @@
 
   <?php
   Header( "HTTP/1.1 301 Moved Permanently" ); 
-  Header( "Location: http://www.new-url.com" ); 
+  Header( "Location: http://www.themco.ca" ); 
   ?> 
 
   <?php wp_head(); ?>
