@@ -15,6 +15,9 @@ RewriteRule . /index.php [L]
 
 # END WordPress
 
+RewriteCond %{HTTP_HOST} ^retmco-shungite.rhcloud.com$
+RewriteRule (.*)$ http://www.themco.ca/$1 [R=301,L]
+
 # BEGIN HTML5 Boilerplate
 
 ###
