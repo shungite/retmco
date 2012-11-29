@@ -420,6 +420,7 @@ AddType application/x-shockwave-flash       swf
 # </IfModule>
 
 <IfModule mod_rewrite.c>
+  RewriteCond %{HTTPS} !=on
   RewriteCond %{HTTP_HOST} ^retmco-shungite.rhcloud.com$
   RewriteRule (.*)$ http://www.themco.ca/$1 [R=301,L]
 </IfModule>
