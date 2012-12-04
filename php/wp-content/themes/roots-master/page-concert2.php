@@ -43,7 +43,7 @@ Template Name: Page Concert2 Template
 		</div>
 	</div><!-- /span7 -->
 
-	<div class="span2"> 
+	<div class="span1"> 
 
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=f8cbe1e9c9014a36a79ea740adcc20bd"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a><br />
