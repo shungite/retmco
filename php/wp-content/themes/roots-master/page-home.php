@@ -14,7 +14,7 @@ Template Name: Page Home Template
 	<div class="span8">
 		<a href="http://www.themco.ca/hamelin-2/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/headhamelin2.png" width="870" height="512"></a>
 
-		<h4>Marc-Andr&eacute; Hamelin<br />and his astonishing virtuosity</h4>
+		<h4>Marc-Andr&eacute; Hamelin &amp; his astonishing virtuosity<br />... concert now features trumpet soloist Guy Few!</h4>
 		<p>Hamelin always surprises: according to Edward Seckerson at <em>The Independent</em>, Hamelin&rsquo;s latest Wigmore Hall recital showed &ldquo;the side of Hamelin&rsquo;s keyboard personality that is rarely discussed leave alone celebrated: his elegance.&rdquo;</p>
 		<p>&nbsp;</p>
 	</div><!-- /span6 -->
