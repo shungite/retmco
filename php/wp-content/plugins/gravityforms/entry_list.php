@@ -952,8 +952,7 @@ class GFEntryList{
                                         default:
                                             $value = esc_html($value);
                                     }
-
-                                    $value = apply_filters("gform_entries_field_value", $value, $form_id, $field_id, $lead);
+									$value = apply_filters("gform_entries_field_value", $value, $form_id, $field_id, $lead);
                                     
                                     /* ^ maybe move to function */
                                     
@@ -1322,7 +1321,8 @@ class GFEntryList{
 		}
 		return $paging_html;
     }
-    
+
+	
 }
 
 ?>

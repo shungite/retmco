@@ -365,6 +365,7 @@ function SetDefaultValues(field){
             field.choices = new Array();
             field.displayAllCategories = true;
             field.inputType = 'select';
+            alert(0);
             break;
 
         case "section" :
@@ -874,7 +875,7 @@ function GetFieldChoices(field){
         str += "<input type='text' id='" + inputType + "_choice_text_" + i + "' value=\"" + field.choices[i].text.replace(/"/g, "&quot;") + "\" onkeyup=\"SetFieldChoice('" + inputType + "', " + i + ");\" class='field-choice-input field-choice-text' />";
         str += "<input type='text' id='"+ inputType + "_choice_value_" + i + "' value=\"" + value.replace(/"/g, "&quot;") + "\" onkeyup=\"SetFieldChoice('" + inputType + "', " + i + ");\" class='field-choice-input field-choice-value' />";
         str += "<input type='text' id='"+ inputType + "_choice_price_" + i + "' value=\"" + price.replace(/"/g, "&quot;") + "\" onchange=\"SetFieldChoice('" + inputType + "', " + i + ");\" class='field-choice-input field-choice-price' />";
-        
+
 		if(window["gform_append_field_choice_option_" + field.type])
             str += window["gform_append_field_choice_option_" + field.type](field, i);
 

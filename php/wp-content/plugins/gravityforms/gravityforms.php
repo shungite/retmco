@@ -3,7 +3,7 @@
 Plugin Name: Gravity Forms
 Plugin URI: http://www.gravityforms.com
 Description: Easily create web forms and manage form entries within the WordPress admin.
-Version: 1.6.9
+Version: 1.6.10
 Author: rocketgenius
 Author URI: http://www.rocketgenius.com
 
@@ -129,7 +129,7 @@ class RGForms{
                     add_action('wp_dashboard_setup', array('RGForms', 'dashboard_setup'));
 
                     //Adding "embed form" button
-                    add_action('media_buttons_context', array('RGForms', 'add_form_button'));
+                    add_action('media_buttons', array('RGForms', 'add_form_button'), 20);
 
                     //Plugin update actions
                     add_filter("transient_update_plugins", array('RGForms', 'check_update'));
@@ -897,14 +897,14 @@ class RGForms{
 //------------- PAGE/POST EDIT PAGE ---------------------
 
     //Action target that adds the "Insert Form" button to the post/page edit screen
-    public static function add_form_button($context){
+    public static function add_form_button(){
         $is_post_edit_page = in_array(RG_CURRENT_PAGE, array('post.php', 'page.php', 'page-new.php', 'post-new.php'));
         if(!$is_post_edit_page)
-            return $context;
+            return;
 
         $image_btn = GFCommon::get_base_url() . "/images/form-button.png";
         $out = '<a href="#TB_inline?width=480&inlineId=select_gravity_form" class="thickbox" id="add_gform" title="' . __("Add Gravity Form", 'gravityforms') . '"><img src="'.$image_btn.'" alt="' . __("Add Gravity Form", 'gravityform') . '" /></a>';
-        return $context . $out;
+        echo $out;
     }
 
     //Action target that displays the popup to insert a form to a post/page

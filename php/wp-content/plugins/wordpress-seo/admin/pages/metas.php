@@ -3,6 +3,11 @@
  * @package Admin
  */
 
+if ( !defined('WPSEO_VERSION') ) {
+	header('HTTP/1.0 403 Forbidden');
+	die;
+}
+
 global $wpseo_admin_pages;
 
 $options = get_wpseo_options();
@@ -13,14 +18,6 @@ $options = get_wpseo_options();
 
 if ( ( isset( $_GET[ 'updated' ] ) && $_GET[ 'updated' ] == 'true' ) || ( isset( $_GET[ 'settings-updated' ] ) && $_GET[ 'settings-updated' ] == 'true' ) ) {
 	$msg = __( 'Settings updated', 'wordpress-seo' );
-
-	if ( function_exists( 'w3tc_pgcache_flush' ) ) {
-		w3tc_pgcache_flush();
-		$msg .= __( ' &amp; W3 Total Cache Page Cache flushed', 'wordpress-seo' );
-	} else if ( function_exists( 'wp_cache_clear_cache' ) ) {
-		wp_cache_clear_cache();
-		$msg .= __( ' &amp; WP Super Cache flushed', 'wordpress-seo' );
-	}
 
 	echo '<div id="message" style="width:94%;" class="message updated"><p><strong>' . $msg . '.</strong></p></div>';
 }
@@ -105,7 +102,7 @@ if ( ( isset( $_GET[ 'updated' ] ) && $_GET[ 'updated' ] == 'true' ) || ( isset(
 		if ( isset( $options[ 'redirectattachment' ] ) && $options[ 'redirectattachment' ] && $posttype == 'attachment' )
 			continue;
 		$name = $posttype->name;
-		echo '<h4 id="' . $name . '">' . ucfirst( $posttype->labels->name ) . '</h4>';
+		echo '<h4 id="' . esc_attr( $name ) . '">' . esc_html( ucfirst( $posttype->labels->name ) ) . '</h4>';
 		echo $wpseo_admin_pages->textinput( 'title-' . $name, __( 'Title template', 'wordpress-seo' ) );
 		echo $wpseo_admin_pages->textarea( 'metadesc-' . $name, __( 'Meta description template', 'wordpress-seo' ), '', 'metadesc' );
 		if ( isset( $options[ 'usemetakeywords' ] ) && $options[ 'usemetakeywords' ] )
@@ -116,30 +113,34 @@ if ( ( isset( $_GET[ 'updated' ] ) && $_GET[ 'updated' ] == 'true' ) || ( isset(
 		echo '<br/>';
 	}
 
-	echo '<h2>' . __( 'Custom Post Type Archives', 'wordpress-seo' ) . '</h2>';
-	echo '<p>' . __( 'Note: instead of templates these are the actual titles and meta descriptions for these custom post type archive pages.', 'wordpress-seo' ) . '</p>';
+	$post_types = get_post_types( array( 'public' => true, '_builtin' => false ), 'objects' );
 
-	foreach ( get_post_types( array( 'public' => true, '_builtin' => false ), 'objects' ) as $pt ) {
-		if ( !$pt->has_archive )
-			continue;
+	if ( count( $post_types ) > 0 ) {
+		echo '<h2>' . __( 'Custom Post Type Archives', 'wordpress-seo' ) . '</h2>';
+		echo '<p>' . __( 'Note: instead of templates these are the actual titles and meta descriptions for these custom post type archive pages.', 'wordpress-seo' ) . '</p>';
 
-		$name = $pt->name;
+		foreach ( $post_types as $pt ) {
+			if ( !$pt->has_archive )
+				continue;
 
-		echo '<h4>' . ucfirst( $pt->labels->name ) . '</h4>';
-		echo $wpseo_admin_pages->textinput( 'title-ptarchive-' . $name, __( 'Title', 'wordpress-seo' ) );
-		echo $wpseo_admin_pages->textarea( 'metadesc-ptarchive-' . $name, __( 'Meta description', 'wordpress-seo' ), '', 'metadesc' );
-		if ( isset( $options[ 'breadcrumbs-enable' ] ) && $options[ 'breadcrumbs-enable' ] )
-			echo $wpseo_admin_pages->textinput( 'bctitle-ptarchive-' . $name, __( 'Breadcrumbs Title', 'wordpress-seo' ) );
-		echo $wpseo_admin_pages->checkbox( 'noindex-ptarchive-' . $name, '<code>noindex, follow</code>', __( 'Meta Robots', 'wordpress-seo' ) );
+			$name = $pt->name;
+
+			echo '<h4>' . esc_html( ucfirst( $pt->labels->name ) ) . '</h4>';
+			echo $wpseo_admin_pages->textinput( 'title-ptarchive-' . $name, __( 'Title', 'wordpress-seo' ) );
+			echo $wpseo_admin_pages->textarea( 'metadesc-ptarchive-' . $name, __( 'Meta description', 'wordpress-seo' ), '', 'metadesc' );
+			if ( isset( $options[ 'breadcrumbs-enable' ] ) && $options[ 'breadcrumbs-enable' ] )
+				echo $wpseo_admin_pages->textinput( 'bctitle-ptarchive-' . $name, __( 'Breadcrumbs Title', 'wordpress-seo' ) );
+			echo $wpseo_admin_pages->checkbox( 'noindex-ptarchive-' . $name, '<code>noindex, follow</code>', __( 'Meta Robots', 'wordpress-seo' ) );
+		}
+		unset( $pt, $post_type );
 	}
-	unset( $pt, $post_type );
 
 	?>
 </div>
 <div id="taxonomies" class="wpseotab">
 	<?php
 	foreach ( get_taxonomies( array( 'public' => true ), 'objects' ) as $tax ) {
-		echo '<h4>' . $tax->labels->name . '</h4>';
+		echo '<h4>' . esc_html( ucfirst( $tax->labels->name ) ). '</h4>';
 		echo $wpseo_admin_pages->textinput( 'title-' . $tax->name, __( 'Title template', 'wordpress-seo' ) );
 		echo $wpseo_admin_pages->textarea( 'metadesc-' . $tax->name, __( 'Meta description template', 'wordpress-seo' ), '', 'metadesc' );
 		if ( isset( $options[ 'usemetakeywords' ] ) && $options[ 'usemetakeywords' ] )
