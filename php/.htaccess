@@ -15,7 +15,7 @@ RewriteRule . /index.php [L]
 
 # END WordPress
 
-RewriteCond %{REQUEST_URI} !=/wp-login.php
+RewriteCond %{REQUEST_URI} !=retmco-shungite.rhcloud.com/wp-login.php
 RewriteCond %{HTTP_HOST} ^retmco-shungite.rhcloud.com$
 RewriteRule (.*)$ http://www.themco.ca/$1 [R=301,L]
 
