@@ -36,7 +36,7 @@ Template Name: Page Concert3 Template
 		<p class="fineprint">&nbsp;<p>
 	</div>
 
-	<div class="span2"> 
+	<div class="span1"> 
 
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c301f4a8e8e84f818a334890e45560a8"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a><br />
