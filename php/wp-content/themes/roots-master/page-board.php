@@ -47,7 +47,6 @@ Template Name: Page Board Template
 		Alice MacKenzie</p>
 		<p><strong>Member at large</strong><br />
 		Jim Chapryk</p>
-
 		<p><strong>Members</strong></p>
 		<p>Lynne Axworthy<br />
 		Chloe Carpenter<br />
@@ -64,7 +63,6 @@ Template Name: Page Board Template
 		Alison Thiessen<br />
 		Elizabeth Tippett-Pope<br />
 		Faye Warren</p>
-
 		<p><strong>Staff</strong></p>
 		<p><strong>Managing Director</strong><br />Vicki Young</p>
 		<p><strong>Administrative Assistant</strong><br />Joan Gillis</p>
