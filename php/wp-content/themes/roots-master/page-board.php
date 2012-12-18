@@ -13,17 +13,6 @@ Template Name: Page Board Template
 
 </div><!-- /row -->
 
-<!-- <div class="row">
-
-	<div class="span8">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/headhist.png" alt="" width="870" height="256">
-	</div>
-	<div class="span2">
-		<p>.</p>
-	</div>
-
-</div><!-- /row -->
-
 <div class="row">
 
 	<div class="span7">
@@ -88,6 +77,6 @@ Template Name: Page Board Template
 
 </div><!-- /row -->
 
-<?php get_template_part('templates/content', 'history'); ?>
+<?php get_template_part('templates/content', 'board'); ?>
 
 </div><!-- /container -->
