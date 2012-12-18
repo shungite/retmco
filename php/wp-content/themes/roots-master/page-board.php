@@ -34,6 +34,17 @@ Template Name: Page Board Template
 
 <div class="row">
 
+	<div class="span4">
+		<div class="well">
+			<h4>Artistic mission statement</h4>
+			<p>To create and perform chamber orchestra repertoire at the highest artistic level possible for Manitobans, for Canadians, and for international audiences.</p>
+		</div>
+	</div>
+
+</div><!-- /row -->
+
+<div class="row">
+
 	<div class="span6">
 		<p><strong>President</strong><br />
 		Jesus Angel Miguel Garcia</p>
