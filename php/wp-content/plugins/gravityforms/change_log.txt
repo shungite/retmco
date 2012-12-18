@@ -1,4 +1,18 @@
 -------------------------------------------------------------------------------------------------------------------
+Version 1.6.10.1
+    - Fixed issue with wpList script in WP 3.5 causing entry list trash and spam links not to work
+    - Updated form button UI to include text on WP 3.5+
+    - Fixed several styling issues in form editor
+
+-------------------------------------------------------------------------------------------------------------------
+Version 1.6.10.0.2
+    - Fixed Javascript error when resetting drop down values during the conditional logic processing
+
+-------------------------------------------------------------------------------------------------------------------
+Version 1.6.10.0.1
+    - Fixed issue with duplicating a text area with a new line in the default value
+
+-------------------------------------------------------------------------------------------------------------------
 Version 1.6.10
     - Fixed issue with post category checkbox field always returning validation error when field is set to required (even when an item is checked)
     - Fixed issue saving multi-input fields on instalations with locales that use comma as the decimal separator
