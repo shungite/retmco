@@ -7,6 +7,8 @@ Template Name: Page Schoolsform Template
 
 	<div class="row">
 
+		<p>&nbsp;</p>
+
 		<?php get_template_part('templates/content', 'contact'); ?>
 
 		<div class="span6">
