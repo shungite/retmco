@@ -18,6 +18,14 @@
 
   <?php wp_head(); ?>
 
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <a href="http://www.themco.ca"><img class="alignnone size-full wp-image-9" title="logosm" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/09/logosm.png" alt="" width="150" height="78" /></a>
+      </div>
+    </div><!-- /row -->
+  </div>
+  
   <?php if (wp_count_posts()->publish > 0) : ?>
   <link rel="alternate" type="application/rss+xml" title="<?php echo get_bloginfo('name'); ?> Feed" href="<?php echo home_url(); ?>/feed/">
   <?php endif; ?>

@@ -15,14 +15,6 @@ Template Name: Page Board Template
 
 <div class="row">
 
-	<div class="span7">
-		<h4>Manitoba Chamber Orchestra<br />Board of directors &amp; administration</h4>
-	</div>
-
-</div><!-- /row -->
-
-<div class="row">
-
 	<div class="span6">
 		<div class="well">
 			<h4>Artistic mission statement</h4>

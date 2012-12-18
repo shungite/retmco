@@ -5,8 +5,6 @@ Template Name: Page Home Template
 ?>
 <div class="container">
 
-<img class="alignnone size-full wp-image-9" title="logosm" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/09/logosm.png" alt="" width="150" height="78" />
-
 <section>
 
 <div class="row">
