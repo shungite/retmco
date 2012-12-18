@@ -17,6 +17,10 @@ Template Name: Page Home Template
 		<p>&nbsp;</p>
 	</div><!-- /span6 -->
 
+	<div class="span4">
+		<p>Here</p>
+	</div>
+
 </div><!-- /row -->
 
 </section>

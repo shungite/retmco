@@ -8,6 +8,7 @@ Template Name: Page Board Template
 <div class="row">
 
 	<div class="span6">
+		<p>&nbsp;</p>
 		<div class="well">
 			<h4>Artistic mission statement</h4>
 			<p>To create and perform chamber orchestra repertoire at the highest artistic level possible for Manitobans, for Canadians, and for international audiences.</p>
