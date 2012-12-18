@@ -36,7 +36,7 @@ Template Name: Page Home Template
 	</div><!-- /span4 -->
 
 	<div class="span4">
-		<img class="img-circle" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/janina_small.jpg" alt="" width="100" height="100" />
+		<a href= "http://www.themco.ca/janina/"><img class="img-circle" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/janina_small.jpg" alt="" width="100" height="100" /></a>
 		<h4>Candlelight event:<br />Music &amp; conversation<br />with Janina Fialkowska</h4>
 		<p>Fundraiser: enjoy the second of two unique events celebrating MCO&rsquo;s 40th anniversary season. This time, hear the world renowned pianist Janina Fialkowska in The Fort Garry's opulent Provencher Room.</p>
 		<a class="btn" href= "http://www.themco.ca/janina/">Details »</a>
