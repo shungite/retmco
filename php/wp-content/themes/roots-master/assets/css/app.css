@@ -2,7 +2,9 @@
    Base
    ========================================================================== */
 
-body { }
+body {
+  /*background-color: #ddd;*/
+}
 
 
 
@@ -30,7 +32,9 @@ body.admin-bar .navbar-fixed-top { top: 28px; }
    Primary Content
    ========================================================================== */
 
-#main { }
+#main { 
+  /*background-color: #fff;*/
+}
 
 
 
@@ -39,7 +43,7 @@ body.admin-bar .navbar-fixed-top { top: 28px; }
    ========================================================================== */
 
 #sidebar {
-  color: #ffe6e6;
+  /*background-color: #ffe6e6;*/
 }
 
 
@@ -60,7 +64,11 @@ body.admin-bar .navbar-fixed-top { top: 28px; }
    Footer
    ========================================================================== */
 
-#content-info { }
+#content-info {
+  /*background-color: #ddd;*/
+  border-top: dotted #ddd;
+  padding-top: 20px;
+}
 
 
 
