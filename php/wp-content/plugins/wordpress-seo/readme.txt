@@ -6,7 +6,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: seo, SEO, google, meta, meta description, search engine optimization, xml sitemap, xml sitemaps, google sitemap, sitemap, sitemaps, robots meta, rss, rss footer, yahoo, bing, news sitemaps, XML News Sitemaps, WordPress SEO, WordPress SEO by Yoast, yoast, multisite, canonical, nofollow, noindex, keywords, meta keywords, description, webmaster tools, google webmaster tools, seo pack
 Requires at least: 3.1
 Tested up to: 3.5
-Stable tag: 1.3.2
+Stable tag: 1.3.4.1
 
 Improve your WordPress SEO: Write better content and have a fully optimized WordPress site using the WordPress SEO plugin by Yoast.
 
@@ -141,6 +141,29 @@ rewrite ^/([^/]+?)-sitemap([0-9]+)?\.xml$ /index.php?sitemap=$1&sitemap_n=$2 las
 
 == Changelog ==
 
+= 1.3.4.1 =
+
+* Bug in page analysis regex.
+
+= 1.3.4 =
+
+* Fix bug in custom field value retrieval for new drafts.
+* Fix bug in meta box value for checkboxes (only used currently in News extension).
+* Remove redirect added in 1.3.3 as it seems to cause loops on some servers, will investigate later.
+* Add option to filter `wpseo_admin_pages` so more pages can use WP SEO admin stylesheets.
+* Prevent notice for images without alt tags.
+* Use mb_string when possible.
+
+= 1.3.3 =
+
+* Properly `$wpdb->prepare` all queries that need preparing.
+* Fix wrong escaping in admin pointers.
+* Make %%currentdate%% and %%currenttime%% variables respect WP date format settings.
+* Add %%currentday%% format.
+* Force remove Jetpack OpenGraph.
+* Fix the weird addition of `noindex, nofollow` on URLs with ?replytocom that was added in 3.5.
+* Force XML sitemap to be displayed on the proper domain URL, so XSLT works.
+
 = 1.3.2 =
 
 * Updated wordpress-seo.pot
@@ -157,6 +180,7 @@ rewrite ^/([^/]+?)-sitemap([0-9]+)?\.xml$ /index.php?sitemap=$1&sitemap_n=$2 las
 * Focus keyword detection now properly works for diacritical focus keywords as well.
 * Properly apply filters to meta desc and titles in admin grid.
 * Properly detect new versions of Facebook plugin too.
+* Allow changing of the number of posts per XML sitemap, to prevent memory issues on certain installs.
 
 = 1.3.1.1 =
 

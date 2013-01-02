@@ -19,7 +19,7 @@ global $wpseo_admin_pages;
  */
 function replace_meta( $old_metakey, $new_metakey, $replace = false ) {
 	global $wpdb;
-	$oldies = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM $wpdb->postmeta WHERE meta_key = '$old_metakey'" ) );
+	$oldies = $wpdb->get_results( $wpdb->prepare( "SELECT * FROM $wpdb->postmeta WHERE meta_key = %s", $old_metakey ) );
 	foreach ( $oldies as $old ) {
 		// Prevent inserting new meta values for posts that already have a value for that new meta key
 		$check = get_post_meta( $old->post_id, $new_metakey, true );
@@ -37,7 +37,6 @@ if ( isset( $_POST['import'] ) ) {
 	check_admin_referer( 'wpseo-import' );
 
 	global $wpdb;
-	$msg      = '';
 	$replace  = false;
 	$deletekw = false;
 
@@ -199,7 +198,7 @@ if ( isset( $_POST['import'] ) ) {
 		replace_meta( '_aioseop_description', '_yoast_wpseo_metadesc', $replace );
 		replace_meta( '_aioseop_keywords', '_yoast_wpseo_metakeywords', $replace );
 		replace_meta( '_aioseop_title', '_yoast_wpseo_title', $replace );
-		$msg .= '<p>' . __( 'All in One SEO data successfully imported.', 'wordpress-seo' ) . '</p>';
+		$msg .= __( 'All in One SEO data successfully imported.', 'wordpress-seo' );
 	}
 	if ( isset( $_POST['wpseo']['importaioseoold'] ) ) {
 		replace_meta( 'description', '_yoast_wpseo_metadesc', $replace );
