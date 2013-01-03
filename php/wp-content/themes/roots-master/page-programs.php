@@ -25,7 +25,7 @@ Template Name: Page Programs Template
 		<p><strong>School visits &mdash; the MCO comes to you</strong> / the MCO Outreach Ensemble is a roaming troupe of MCO players consisting of violin, viola, cello, double bass and guitar. It offers workshops and mini-concerts in schools throughout the province. Call 204.783.7377 for more info or to request a visit.</p>
 			<div class="well">
 				<p><strong>Special matinee performance of <em>Brundib&agrave;r</em><br />1:15 pm, Wednesday, March 12th, Westminster Church</strong></p>
-				<p>Kras&agrave;s <em>Brundib&agrave;r</em> will be performed by the MCO and the Pembina Trails Voices children&rsquo;s choir (Ruth Wiwchar, Director). Brundib&agrave;r is a children&rsquo;s opera by Jewish Czech composer Hans Kras&agrave; with a libretto by Adolf Hoffmeister. The piece was originally performed by the children of Theresienstadt concentration camp in occupied Czechoslovakia. The name come from a Czech colloquiualism for a bumble bee.</p>
+				<p>Kras&agrave;s <em>Brundib&agrave;r</em> will be performed by the MCO and the Pembina Trails Voices children&rsquo;s choir (Ruth Wiwchar, Director). Brundib&agrave;r is a children&rsquo;s opera by Jewish Czech composer Hans Kras&agrave; with a libretto by Adolf Hoffmeister. The piece was originally performed by the children of Theresienstadt concentration camp in occupied Czechoslovakia. The name come from a Czech colloquialism for a bumble bee.</p>
 			</div>
 	</div><!-- /span6 -->
 
