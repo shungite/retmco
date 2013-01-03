@@ -129,6 +129,34 @@ Template Name: Page Concert2 Template
 					</section>
 					<section class="row">
 						<div class="span5">
+							<h4>Chamber Chatter</h4>
+							<p class="fineprintdark"><em>Chamber Chatter</em> columnist <a href="http://www.donanderson.ca/">Don Anderson</a><br />also writes the MCO&rsquo;s program notes<br />&nbsp;</p>
+							<p>Conductor Scott Yoo has been a regular and very welcome presence on the MCO podium since 2004. The musicians enjoy working with him, as he does with them. &ldquo;And I really like the MCO people,” he says. “It feels like a family. Managing Director Vicki Young and Concert Manager Boyd MacKenzie are two of my favourite people in the music industry, and I consider Concertmaster Karl Stobbe a real friend.&rdquo;</p>
+							<p>In his eight previous engagements, Scott has conducted music by more than 40 composers. The styles have ranged from Baroque (Bach, Purcell, Handel) through Romantic (Brahms, Mendelssohn, Schubert, Grieg) to recent (in some cases, newly-commissioned) works by John Adams and Alfred Schnittke. Canadian composers he&rsquo;s programmed have included Jeffrey Ryan, John Burge, Jim Hiscott, André Prévost, and Serge Arcuri.</p>
+							<p>Asked to name his most memorable MCO experience, he cited the tour of rural Manitoba that they made together in April 2011. &ldquo;We played for very receptive audiences,&rdquo; he said, &ldquo;mostly people who don&rsquo;t hear live music that often. The program included a newly commissioned Canadian work, Cantus Borealis: Song of the Forest, by Winnipeg composer Sid Robinovitch.</p>
+							<p>There was a lot of really genuine camaraderie with the musicians during that tour, including the chorus that sang the Robinovitch. And the country was really beautiful. It felt like being at the top of the world.&rdquo;</p>
+							<p>In 2007, Scott conducted the MCO in the world premiere of another Canadian work (and MCO commission): Jocelyn Morlock&rsquo;s Nostalgia. He&rsquo;s leading it again at this concert. &ldquo;I&rsquo;m happy to repeat it,&ldquo; he said. &ldquo;There&rsquo;s a saying in music that it&rsquo;s almost easy to get your piece a premiere; it&rsquo;s lining up the second performance that&rsquo;s hard. I&rsquo;m happy to do that tonight for Jocelyn. She&rsquo;s becoming a really big name on the world stage.&rdquo;</p>							<p>New music is vitally important to Scott. &Ldquo;It&rsquo;s not that we don&rsquo;t have enough music to play,&rdquo; he said, &ldquo;but it&rsquo;s important for our culture to have music that reflects what&rsquo;s happening in the world today. And it&rsquo;s not a bad thing for music to stretch one&rsquo;s ears.
+							<p>After all, people were bewildered at first by Beethoven&rsquo;s late string quartets, and they&rsquo;ve long been recognized as enduring masterpieces.&rdquo;</p>
+							<p>Scott has had an unusually thorough relationship with the Mozart violin concerto that&rsquo;s on tonight&rsquo;s program. He&rsquo;s conducted it, performed as soloist in it, and even worn both these hats in the same performance. &ldquo;I know every part of it,&rdquo; he said. “These days I prefer conducting it for someone else.</p>
+							<p>&ldquo;I&rsquo;ve known Karen Gomyo for quite a while, and I&rsquo;m a big admirer. I heard her when she won one of her very first competitions, back when she was 12 or 13. Even then, I thought, ‘She&rsquo;s gonna be great!&rsquo; We&rsquo;ve never worked together, and I&rsquo;m really looking forward to it.&rdquo;</p>
+							<p>Scott was trained as a violinist. He was taken on by a major musicians&rsquo; management company, Young Concert Artists, when he was 17. A year later, he was engaged to perform one of Bach&rsquo;s Brandenburg concertos with the Orchestra of St. Luke&rsquo;s in New York. Pinchas Zukerman, one of his heroes, was conducting. One day out of the blue, Zukerman said to him, &ldquo;Why don&rsquo;t you conduct it yourself?&rdquo; Conducting captivated him from that day forward.</p>
+							<p>Scott offered the MCO this fortieth anniversary greeting: &ldquo;The MCO is a Canadian musical institution, and it&rsquo;s so gratifying to see it flourish. Here&rsquo;s to 40 more years.&rdquo;</p>
+						</div>
+					</section>
+					<section class="row">
+						<div class="span5">
+							<h4>Orchestra</h4>
+							<p><strong>First violin</strong><br />Karl Stobbe<br />Mary Lawton<br />Darryl Strain<br />Shao Jun<br />Rodica Filipoi<br />Kristina Bauch<br /></p>
+							<p><strong>Second violin</strong><br />Mona Coarda<br />Barbara Gilroy<br />Boyd MacKenzie<br />Laura Chenail<br />Julie Savard<br />Louise Pauls</p>
+							<p><strong>Viola</strong><br />Daniel Scholz<br />Richard Bauch<br />Suzanne McKegney<br />Merrily Peters</p>
+							<p><strong>Cello</strong><br />Desiree Abbey<br />Alex Adaman<br />Carolyn Nagelberg<br />Minna Chung</p>
+							<p><strong>Bass</strong><br />Meredith Johnson<br />Paul Nagelberg</p>
+							<p><strong>Oboe</strong><br />Caitlin Broms-Jacobs<br />Tracy Wright</p>
+							<p><strong>French horn</strong><br />Patricia Evans<br />Callie Oberheu</p>
+						</div>
+					</section>
+					<section class="row">
+						<div class="span5">
 						<h4>Review:<br />MCO delivers eclectic show</h4>
 						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Scott Yoo, conductor; Karen Gomyo, violin<br />Westminster United church; Wed, Nov 21<br />Attendance: 640<br />Three and a half stars out of five<br />&nbsp;</p>
 						<p>The Manitoba Chamber Orchestra has always been unafraid to venture into uncharted waters, frequently commissioning brave new works as well as performing established pieces that may be more challenging for its loyal audience base.</p>
