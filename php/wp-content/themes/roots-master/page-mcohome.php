@@ -5,9 +5,6 @@ Template Name: Page MCOhome Template
 ?>
 <div class="container">
 
-<img class="alignnone size-full wp-image-9" title="logosm" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/09/logosm.png" alt="" width="150" height="78" />
-<p>&nbsp;</p>
-
 <div class="row">
 	
 <div class="span6">
@@ -18,19 +15,8 @@ Template Name: Page MCOhome Template
 						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=85597a2de1bd4934a7f7c2b732f15102"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a>
 						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2e53804f923e46219d418c1cdb58ba46"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.png" alt="" width="62" height="40" /></a>
 					</p>      
-    	<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/Hamelin_Panel.png" class="img-rounded">
-      	<h4>Wednesday, 9 January 2013, 7:30 pm<br />Marc-Andr&eacute; Hamelin, piano</h4>
-					<p>Westminster Church, 745 Westminster at Maryland<br />Click for quick ticket ...</p>
-					<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c301f4a8e8e84f818a334890e45560a8"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a>
-						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=85597a2de1bd4934a7f7c2b732f15102"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a>
-						 <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2e53804f923e46219d418c1cdb58ba46"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.png" alt="" width="62" height="40" /></a>
-					</p>      
-
 
       </div>
-
-
-
 
 	<div class="span4">
 		<div class="well">
