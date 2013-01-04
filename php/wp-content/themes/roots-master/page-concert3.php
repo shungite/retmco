@@ -142,6 +142,18 @@ Template Name: Page Concert3 Template
 							<p>&laquo; Ce sera agr&eacute;able de pouvoir d&eacute;couvrir une nouvelle oeuvre et de red&eacute;couvrir une pi&egrave;ce inhabituelle et inusit&eacute;e &raquo;, conclut Marc-Andr&eacute; Hamelin.</p>
 						</div>
 					</section>
+					<section class="row">
+						<div class="span5">
+							<h4>Orchestra</h4>
+							<p><strong>First violin</strong><br />Karl Stobbe<br />Mary Lawton<br />Mona Coarda<br />Meredith McCallum<br />Shao Jun<br />Kristina Bauch<br /></p>
+							<p><strong>Second violin</strong><br />Kerry DuWors<br />Elation Pauls<br />Boyd MacKenzie<br />Laura Chenail<br />Natalie Zielinski<br />Elizabeth Dyer</p>
+							<p><strong>Viola</strong><br />Daniel Scholz<br />Laszlo Baroczi<br />Suzanne McKegney<br />Merrily Peters</p>
+							<p><strong>Cello</strong><br />Desiree Abbey<br />Alex Adaman<br />Carolyn Nagelberg<br />Margaret Askeland</p>
+							<p><strong>Bass</strong><br />Meredith Johnson<br />Paul Nagelberg</p>
+							<p><strong>Oboe</strong><br />Caitlin Broms-Jacobs<br />Tracy Wright</p>
+							<p><strong>French horn</strong><br />Patricia Evans<br />Michiko Singh</p>
+						</div>
+					</section>
 				</div>
 		</div><!-- /tab-content -->
 
