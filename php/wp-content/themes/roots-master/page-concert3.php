@@ -25,8 +25,16 @@ Template Name: Page Concert3 Template
 		<p>Hamelin is equally at home with traditional and contemporary repertoire as we&rsquo;ll see on this concert. Shostakovich virtually invented the piano concerto anew when he first penned this razor-sharp and minimalist work in 1933, and we can&rsquo;t wait to hear the work in Hamelin&rsquo;s hands.</p>
 		<p>For the first time ever we&rsquo;ll present a work by American composer Dorothy Chang. Described as &ldquo;evocative and kaleidoscopic&rdquo; by the <em>Seattle Times</em>, her music is characterized by an emphasis on dramatic intensity and expressive lyricism.</p>
 		<strong>The concert begins at 7:30 pm on January 9th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
-		<p class="fineprint">&nbsp;<p>
+			<div class="media">
+				<a class="pull-left" href="#extras" data-toggle="tab">
+				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+			</a>
+			<div class="media-body">
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for the &lsquo;Two-minute Talk,&rsquo; <em>On Franz Joseph Haydn</em>, by Winnipeg Flautist (and MCO Pizza Club facilitator) <strong>Haley Rempel</strong>.</p>
+				<p class="fineprint">&nbsp;<p>
+			</div>
 	</div>
+</div>
 
 	<div class="span1"> 
 
@@ -49,6 +57,7 @@ Template Name: Page Concert3 Template
 			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -106,6 +115,18 @@ Template Name: Page Concert3 Template
 				<p>Shostakovich doesn&rsquo;t neglect to provide contrast, however. The slow second movement is an oasis of serenity and warmth in the midst of the generally brittle, satiric and rowdy goings‑on, which recall the times he spent playing the piano to accompany silent comedies in a Leningrad cinema during his youth. On another front, he directed that the last three of the four sections be performed without pauses between them. This desire for continuity within his compositions became a regular feature of his music.</p>
 				<p>Conductor Yuli Turovsky has related an amusing anecdote regarding this concerto, one that has achieved legendary status in the annals of the Moscow Conservatory. &ldquo;After a performance in Moscow,” he writes, &ldquo;almost all of the city&rsquo;s most prominent musicians assembled in Shostakovich&rsquo;s dressing room to congratulate him. One of them, a well-known pianist and professor of the conservatory, was renowned among other things for his caustic tongue. While congratulating Shostakovich, but not wanting to miss an opportunity to be sarcastic, he said, &lsquo;A remarkable concerto, but tell me Dmitri Dmitrievich, why does your first theme begin like Beethoven&rsquo;s Appassionata Sonata?&rsquo; According to the legend, Shostakovich answered in his quick, nervous speech, &lsquo;That indeed is so; you see, I wrote it so that any idiot could understand it!&rsquo;&rdquo;</p>
 			</div>
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 28: &lsquo;On Franz Joseph Haydn&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/gYytiyYbPws" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+					</section>
+				</div>
 		</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
