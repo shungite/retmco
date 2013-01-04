@@ -30,7 +30,7 @@ Template Name: Page Concert3 Template
 				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
 			</a>
 			<div class="media-body">
-				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for the &lsquo;Two-minute Talk,&rsquo; <em>On Franz Joseph Haydn</em>, by Winnipeg Flautist (and MCO Pizza Club facilitator) <strong>Haley Rempel</strong>.</p>
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk,&rsquo; <em>On Franz Joseph Haydn</em>, an article on Marc-Andr&eacute; from <em>La Libert&eacute;</em> and more!</p>
 				<p class="fineprint">&nbsp;<p>
 			</div>
 	</div>
@@ -125,6 +125,22 @@ Template Name: Page Concert3 Template
   							<p>&nbsp;</p>
   						</div>
   					</div>
+					</section>
+
+					<section class="row">
+						<div class="span5">
+							<h4>La Libert&eacute;:<br />La joie du clavier</h4>
+							<p class="fineprintdark">Classement de l&rsquo;article, <em>La Libert&eacute;</em>, 2 janvier 2013, Daniel BAHUAUD</p>
+							<p>Pour le pianiste virtuose Marc-Andr&eacute; Hamelin, jouer les concertos de Chostakovitch et d&rsquo;haydn est une occasion de red&eacutecouvrir de vieux amis et de partager des tr&eacute;sors musicaux avec le public manitobain.</p>
+							<p>&laquo;Lorsqu&rsquo;on reçoit une invitation de l&rsquo;Orchestre de chambre du Manitoba (OCM), c&rsquo;est tr&egrave;s difficile, voire impossible, de la refuser, lance le pianiste Marc-Andr&eacute; Hamelin. Les musiciens sont professionnels et passionn&eacute;s de la musique. De plus, la vision de l&rsquo;orchestre, qui allie ouvrages bien connus aux sentiers musicaux moins battus, cadre bien avec la mienne. D&rsquo;o&ugrave; le plaisir que j&rsquo;aurai &agrave; interpr&eacute;ter Chostakovitch et Haydn avec ces musiciens, le 9 janvier. &raquo;</p>
+							<p>De fait, il s&rsquo;agira de la cinqui&egrave;me performance effectu&eacute;e par le pianiste virtuose et compositeur qu&eacute;b&eacute;cois avec le MCO. &laquo; J&rsquo;adore Winnipeg, d&eacute;clare le musicien. L&rsquo;exp&eacute;rience de jouer un concert où le compas musical est tr&egrave;s &eacute;tendu sera tr&egrave;s agr&eacute;able, puisque j&rsquo;aime les contrastes. &raquo;</p>
+							<p>N&rsquo;empêche que le Concerto num&eacute;ro 2 en R&eacute; de Franz Joseph Haydn et le Concerto en Do mineur de Dmitri Chostakovitch se jumellent bien ensemble, puisque ces ouvrages permettront au public de constater l&rsquo;&eacute;volution du concerto du 18e au 20e si&egrave;cle. Compos&eacute; en 1933, le concerto de Chostakovitch se veut une r&eacute;invention de la formule de base du concerto.</p>
+							<p>&laquo; C&rsquo;est l&rsquo;attrait principal de l&rsquo;ouvrage, explique Marc-Andr&eacute; Hamelin. Dans un concerto traditionnel, on expose deux th&egrave;mes pour ensuite les d&eacute;velopper tout au long d&rsquo;un mouvement. Or, celui de Chostakovitch pr&eacute;sente constamment de nouveaux th&egrave;mes. Un compositeur moins habile pourrait entreprendre cette approche bien maladroitement. Mais le sens de la structure et du d&eacute;roulement musical de Chostakovitch est tel, que ça marche.</p>
+							<p>&laquo; En fait, toute l&rsquo;oeuvre met en valeur cet esprit d&rsquo;&eacute;clectisme, poursuit-il. Le contraste entre le mouvement lent et le 4e mouvement, qui est de la pure musique de cirque, est des plus frappants. Et puis la contribution de la trompette est tr&egrave;s importante. Au fond, c&rsquo;est une partie de soliste, qui contribue presque autant à son succ&egrave;s que le pianiste. Il faut avoir des musiciens solides pour cr&eacute;er l&rsquo;unit&eacute; musicale de ce concerto. Et je suis choy&eacute; que ce soit le trompettiste Guy Few qui a &eacute;t&eacute; choisi pour m&rsquo;accompagner dans ce voyage musical. &raquo;</p>
+							<p>Quant au concerto plus traditionnel d&rsquo;Haydn, MarcAndr&eacute; Hamelin dit avoir hâte de red&eacute;couvrir &laquo; un vieil ami &raquo;. &laquo; Il y a toujours quelque chose à red&eacute;couvrir dans cette oeuvre, d&eacute;clare-t-il. C&rsquo;est plutôt miraculeux. Lorsque je le joue, c&rsquo;est comme enfiler un gant confortable. Mais l&rsquo;exp&eacute;rience de vie et la maturit&eacute; musicale font que ce n&rsquo;est plus tout à fait pareil. Et puisque le Haydn est moins difficile sur le plan pianistique, je pourrai davantage m&rsquo;abandonner à la joie de faire de la musique. &raquo;</p>
+							<p>Outres les pi&egrave;ces mettant en vedette le pianiste Marc-Andr&eacute; Hamelin, le public aura droit &agrave; une interpr&eacute;tation du Concerto con brio de Jos&eacute; Evangelista, ainsi qu&rsquo;une toute nouvelle pi&egrave;ce de la compositrice am&eacute;ricaine, Dorothy Chang.</p>
+							<p>&laquo; Ce sera agr&eacute;able de pouvoir d&eacute;couvrir une nouvelle oeuvre et de red&eacute;couvrir une pi&egrave;ce inhabituelle et inusit&eacute;e &raquo;, conclut Marc-Andr&eacute; Hamelin.</p>
+						</div>
 					</section>
 				</div>
 		</div><!-- /tab-content -->
