@@ -29,7 +29,7 @@ Template Name: Page Concert2 Template
 				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
 			</a>
 			<div class="media-body">
-				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for the &lsquo;Two-minute Talk,&rsquo; <em>On Arnold Schoenberg</em>, by Winnipeg Flautist (and MCO Pizza Club facilitator) <strong>Haley Rempel</strong>.</p>
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk, Don Anderson&rsquo;s <em>Chamber Chatter</em> article, our <em>Winnipeg Free Press</em> concert review and more!</p>
 				<p class="fineprint">&nbsp;<p>
 			</div>
 		</div>
