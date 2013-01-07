@@ -29,6 +29,7 @@ function create_my_post_types() {
 			'exclude_from_search' => false,
 			'hierarchical' => true,
 			'query_var' => true,
+			'taxonomies' => array( 'post_tag', 'category '),
 			'menu_position' => 20
 		)
 	);
