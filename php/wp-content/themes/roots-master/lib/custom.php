@@ -2,7 +2,7 @@
 
 // Custom functions
 
-function create_my_post_types() {
+function create_concert_post_types() {
 	$labels = array(
 		'name' => _x( 'Concerts', 'post type general name' ),
 		'singular_name' => _x( 'Concert', 'post type singular name' ),
@@ -29,5 +29,5 @@ function create_my_post_types() {
 	register_post_type( 'concert', $args );
 }
 
-add_action( 'init', 'create_my_post_types' );
+add_action( 'init', 'create_concert_post_types' );
 ?>
