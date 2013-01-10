@@ -23,7 +23,14 @@ function create_concert_post_types() {
 		'description' => __( 'Holds Manitoba Chamber Orchestra Concerts' ),
 		'public' => true,
 		'menu_position' => 20,
-		'supports' => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments' ),
+		'taxonomies' => array('category', 'post_tag'),
+		'supports' => array( 
+			'title',
+			'editor',
+			'thumbnail',
+			'excerpt',
+			'comments'
+		),
 		'has_archive' => true,
 		);
 	register_post_type( 'concert', $args );
@@ -50,7 +57,14 @@ function create_event_post_types() {
 		'description' => __( 'Holds Manitoba Chamber Orchestra Events' ),
 		'public' => true,
 		'menu_position' => 20,
-		'supports' => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments' ),
+		'taxonomies' => array('category', 'post_tag'),
+		'supports' => array(
+			'title',
+			'editor',
+			'thumbnail',
+			'excerpt',
+			'comments'
+		),
 		'has_archive' => true,
 		);
 	register_post_type( 'event', $args );
