@@ -10,10 +10,10 @@ Template Name: Page Home Template
 <div class="row">
 
 	<div class="span8">
-		<a href="http://www.themco.ca/hamelin-2/"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/headhamelin2.png" width="870" height="512"></a>
+		<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2012/10/head06feb13a.png" width="870" height="512"></a>
 
-		<h4>Marc-Andr&eacute; Hamelin &amp; his astonishing virtuosity<br />... concert now features trumpet soloist Guy Few!</h4>
-		<p>Hamelin always surprises: according to Edward Seckerson at <em>The Independent</em>, Hamelin&rsquo;s latest Wigmore Hall recital showed &ldquo;the side of Hamelin&rsquo;s keyboard personality that is rarely discussed leave alone celebrated: his elegance.&rdquo;</p>
+		<h4>A double celebration:<br />The Winnipeg Singers and the MCO</h4>
+		<p>The Winnipeg Singers and the MCO celebrate 40 years this season, and this concert is the birthday party! Yuri Klaz will conduct a fascinating program of choral works by Vivaldi, Tallis, Mendelssohn, Arvo P&auml;rt, Imant Ramish and Glenn Buhr.</p>
 		<p>&nbsp;</p>
 	</div><!-- /span6 -->
 
