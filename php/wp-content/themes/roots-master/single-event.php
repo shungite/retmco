@@ -6,4 +6,4 @@ Template Name: Page Concert Template
 
 <?php get_template_part('templates/content', 'event'); ?>
 
-<p>s-e-t</p>
+<p>s-et</p>
