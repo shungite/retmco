@@ -2,3 +2,4 @@
 .DS_Store
 /php/local-config.php
 /php/wp-content/uploads/*
+/php/wp-content/cache/*
