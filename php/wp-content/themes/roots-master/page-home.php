@@ -10,7 +10,7 @@ Template Name: Page Home Template
 <div class="row">
 
 	<div class="span8">
-		<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="ttp://www.themco.ca/wp-content/uploads/2013/01/cover06feb131.png" width="870" height="512"></a>
+		<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/cover06feb131.png" width="870" height="512"></a>
 
 		<h4>A double celebration:<br />The Winnipeg Singers and the MCO</h4>
 		<p>The Winnipeg Singers and the MCO celebrate 40 years this season, and this concert is the birthday party! Yuri Klaz will conduct a fascinating program of choral works by Vivaldi, Tallis, Mendelssohn, Arvo P&auml;rt, Imant Ramish and Glenn Buhr.</p>
