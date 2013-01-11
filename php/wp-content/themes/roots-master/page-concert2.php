@@ -129,6 +129,21 @@ Template Name: Page Concert2 Template
 					</section>
 					<section class="row">
 						<div class="span5">
+						<h4>Review:<br />MCO delivers eclectic show</h4>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Scott Yoo, conductor; Karen Gomyo, violin<br />Westminster United church; Wed, Nov 21<br />Attendance: 640<br />Three and a half stars out of five<br />&nbsp;</p>
+						<p>The Manitoba Chamber Orchestra has always been unafraid to venture into uncharted waters, frequently commissioning brave new works as well as performing established pieces that may be more challenging for its loyal audience base.</p>
+						<p>Wednesday night&rsquo;s concert led by Scott Yoo proved to be vintage MCO, with the eclectic triple bill offering two string orchestra works as well as guest violinist Karen Gomyo performing Mozart&rsquo;s Violin Concerto No. 5 in A Major, K 219 &mdash; also known as the &lsquo;Turkish.&rsquo;</p>
+						<p>Composed in 1775, Mozart&rsquo;s fifth violin concerto is unique for so many reasons. One of them is the soloist&rsquo;s first entry during the Allegro aperto that abruptly departs from the orchestra&rsquo;s brisk opening to a momentary dreamy, quiet state.</p>
+						<p>Gomyo immediately asserted her presence, crisply executing the technical runs with ease while also displaying flawless intonation and pleasing vibrato. Her gorgeous Stradivarius violin, gifted to her by a private donor, only enhanced her pure tone. She fearlessly tackled the cadenza with its double stops and multiple tonalities, which allowed further opportunity to hear her more intently.</p>
+						<p>She next imbued the Adagio with lyrical grace, although some phrasing could have breathed more. The finale, Rondeau: Tempo di menuetto, began with all its courtly manners before erupting into its alter ego &mdash; the (relatively) rough &lsquo;n&rsquo; tumble Turkish romp where the cellos and basses beat their strings with the wood of their bows. At this point, the performance really roared to life.</p>
+						<p>Jocelyn Morlock is quickly establishing herself as a leading Canadian composer, acclaimed for both her lyrical writing and sensitive ear for sonority. After receiving a bachelor of music degree from Brandon University she pursued doctoral studies at the University of British Columbia in Vancouver, where she now resides.</p>
+						<p>It&rsquo;s a pleasure to hear her artfully crafted, MCO-commissioned Nostalgia again, which received its world premiere in 2007. Yoo led the orchestra &mdash; as he did five years ago &mdash; through its many textural ebbs and flows, including shimmering strings, elegiac cello lines and syncopated rhythmic outbursts. Its hint at J.S. Bach&rsquo;s Sonata for Viola da Gamba and Harpsichord, BWV1027 provided a reference point, although none was needed in this stirring piece that already displayed the hand of a fine composer in the making.</p>
+						<p>The concert ended with Arnold Schoenberg&rsquo;s Verkl&auml;rte Nacht (Transfigured Night), Op. 4 composed in 1899 that predates his daring invention of serial composition.</p>
+						<p>The one-movement piece unfolds as a multi-layered, rapturous journey into the heart that takes on an epic quality. Although its unrelenting intensity may not be everyone&rsquo;s cup of tea, the MCO is to commended for programming the ultra-romantic classic, led with finesse &mdash; and without score &mdash; by the dynamic Yoo.</p>
+					</div><!-- /span5 -->
+					</section>
+					<section class="row">
+						<div class="span5">
 							<h4>Chamber Chatter</h4>
 							<p class="fineprintdark"><em>Chamber Chatter</em> columnist <a href="http://www.donanderson.ca/">Don Anderson</a><br />also writes the MCO&rsquo;s program notes<br />&nbsp;</p>
 							<p>Conductor Scott Yoo has been a regular and very welcome presence on the MCO podium since 2004. The musicians enjoy working with him, as he does with them. &ldquo;And I really like the MCO people,” he says. “It feels like a family. Managing Director Vicki Young and Concert Manager Boyd MacKenzie are two of my favourite people in the music industry, and I consider Concertmaster Karl Stobbe a real friend.&rdquo;</p>
@@ -154,21 +169,6 @@ Template Name: Page Concert2 Template
 							<p><strong>Oboe</strong><br />Caitlin Broms-Jacobs<br />Tracy Wright</p>
 							<p><strong>French horn</strong><br />Patricia Evans<br />Callie Oberheu</p>
 						</div>
-					</section>
-					<section class="row">
-						<div class="span5">
-						<h4>Review:<br />MCO delivers eclectic show</h4>
-						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Scott Yoo, conductor; Karen Gomyo, violin<br />Westminster United church; Wed, Nov 21<br />Attendance: 640<br />Three and a half stars out of five<br />&nbsp;</p>
-						<p>The Manitoba Chamber Orchestra has always been unafraid to venture into uncharted waters, frequently commissioning brave new works as well as performing established pieces that may be more challenging for its loyal audience base.</p>
-						<p>Wednesday night&rsquo;s concert led by Scott Yoo proved to be vintage MCO, with the eclectic triple bill offering two string orchestra works as well as guest violinist Karen Gomyo performing Mozart&rsquo;s Violin Concerto No. 5 in A Major, K 219 &mdash; also known as the &lsquo;Turkish.&rsquo;</p>
-						<p>Composed in 1775, Mozart&rsquo;s fifth violin concerto is unique for so many reasons. One of them is the soloist&rsquo;s first entry during the Allegro aperto that abruptly departs from the orchestra&rsquo;s brisk opening to a momentary dreamy, quiet state.</p>
-						<p>Gomyo immediately asserted her presence, crisply executing the technical runs with ease while also displaying flawless intonation and pleasing vibrato. Her gorgeous Stradivarius violin, gifted to her by a private donor, only enhanced her pure tone. She fearlessly tackled the cadenza with its double stops and multiple tonalities, which allowed further opportunity to hear her more intently.</p>
-						<p>She next imbued the Adagio with lyrical grace, although some phrasing could have breathed more. The finale, Rondeau: Tempo di menuetto, began with all its courtly manners before erupting into its alter ego &mdash; the (relatively) rough &lsquo;n&rsquo; tumble Turkish romp where the cellos and basses beat their strings with the wood of their bows. At this point, the performance really roared to life.</p>
-						<p>Jocelyn Morlock is quickly establishing herself as a leading Canadian composer, acclaimed for both her lyrical writing and sensitive ear for sonority. After receiving a bachelor of music degree from Brandon University she pursued doctoral studies at the University of British Columbia in Vancouver, where she now resides.</p>
-						<p>It&rsquo;s a pleasure to hear her artfully crafted, MCO-commissioned Nostalgia again, which received its world premiere in 2007. Yoo led the orchestra &mdash; as he did five years ago &mdash; through its many textural ebbs and flows, including shimmering strings, elegiac cello lines and syncopated rhythmic outbursts. Its hint at J.S. Bach&rsquo;s Sonata for Viola da Gamba and Harpsichord, BWV1027 provided a reference point, although none was needed in this stirring piece that already displayed the hand of a fine composer in the making.</p>
-						<p>The concert ended with Arnold Schoenberg&rsquo;s Verkl&auml;rte Nacht (Transfigured Night), Op. 4 composed in 1899 that predates his daring invention of serial composition.</p>
-						<p>The one-movement piece unfolds as a multi-layered, rapturous journey into the heart that takes on an epic quality. Although its unrelenting intensity may not be everyone&rsquo;s cup of tea, the MCO is to commended for programming the ultra-romantic classic, led with finesse &mdash; and without score &mdash; by the dynamic Yoo.</p>
-					</div><!-- /span5 -->
 					</section>
 				</div>
 

@@ -126,7 +126,51 @@ Template Name: Page Concert3 Template
   						</div>
   					</div>
 					</section>
+					<section class="row">
+						<div class="span5">
+						<h4>Review:<br />Pianist Hamelin<br />like fine wine in MCO concert</h4>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Anne Manson, conductor; Marc-Andr&eacute; Hamelin, piano<br />Westminster United church; Wed, Jan 9<br />Attendance: 765<br />Four and a half stars out of five<br />&nbsp;</p>
+						<p>Many talented young artists abound but there is nothing like hearing well-honed artistry aged like fine wine.</p>
+						<p>World-class pianist Marc Andr&eacute; Hamelin wowed the crowd Wednesday night as the featured guest soloist for the Manitoba Chamber Orchestra&rsquo;s latest concert. The program led by MCO music director/conductor Anne Manson included, unusually, not one, but two piano concertos, as well as a pair of contemporary works.</p>
+						<p>Now based in Boston, the acclaimed Montreal-born musician marked his debut on the MCO stage in 1991, with his last appearance here in 2010. His rapport with both the orchestra and its loyal audience is palpable. Every time the Juno-winning artist comes to town, he&rsquo;s welcomed to the stage like a rock star, eliciting loud cheers even before he&rsquo;s tickled a single ivory.</p>
+						<p>Shostakovich&rsquo;s Concerto in C Minor for Piano, Trumpet and String Orchestra, Op. 35 is one of those great works one never tires of hearing. Hamelin pounced on his keyboard during the first movement allegretto's declamatory opening, followed by a solemn opening theme. He established at the onset this would be a take-no-prisoners performance, with his virtuosic technique easily handling the sparkling runs that erupt into brilliant octave passages. His cadenzas, courtesy of fabled Polish pianist Wanda Landowska, were effective, although one longed to hear how Hamelin &mdash; himself a composer &mdash; would have treated these showcase moments.</p>
+						<p>Canadian guest trumpeter Guy Few, poised standing at the opposite side of the stage, interpolated his own sardonic commentary, spinning long sotto voce phrases with an impressive breath control and nerves of steel. His muted solo during the world-weary Lento proved to be particular highlight.</p>
+						<p>After the ever-curiously short moderato that segues into the allegro con brio, Hamelin unleashed the fireworks, driving his piano &mdash; and the orchestra &mdash; forward like a runaway train. Always in supreme control, the soloist's vigorous finale including whipping glissandi and vaulting chords made this a performance that won&rsquo;t soon be forgotten.</p>
+						<p>As expected, the crowd of 765 leapt to their feet, demanding three curtain calls from the two guest artists. In response, Hamelin delivered a witty encore of Chopin's Minute Waltz Op.64 No.1 that begins traditionally but morphs into a dissonant variant.</p>
+						<p>Hamelin also performed Haydn&rsquo;s Piano Concerto in D Major, which brims with sunny optimism, if not overly technical demands. Still, you could sense the pleasure that he gets from playing this light-hearted music.</p>
+						<p>The concert opened with the world premi&egrave;re of <em>Virtuosities</em> (2012) by Vancouver-based composer Dorothy Chang, who was in attendance. The work was commissioned by the MCO as part of its ongoing 40th anniversary celebrations. Its three movements &mdash; <em>To dream, perchance to fly</em>, <em>Souvenir</em> and <em>Mechanica</em> &mdash; displayed Chang's ability to craft clearly structured, intensely focused works.</p>
+						<p>Spanish composer Jos&eacute; Evangelista&rsquo;s Concerto Con Brio teemed with baroque influences, with its florid central movement <em>M&eacute;lismatique</em> an evocative highlight.</p>
+					</div><!-- /span5 -->
+					</section>
+					<section class="row">
+						<div class="span5">
+							<h4>Chamber Chatter</h4>
+							<p class="fineprintdark"><em>Chamber Chatter</em> columnist <a href="http://www.donanderson.ca/">Don Anderson</a><br />also writes the MCO&rsquo;s program notes<br />&nbsp;</p>
+							<p>Since Marc-Andr&eacute; Hamelin made his MCO debut in 1991, he has grown from an impressive young artist to one of the world&rsquo;s most admired pianists. The Los Angeles Times has hailed him as a &ldquo;one-of-a-kind concert artist,&rdquo; and the New Yorker stated, &ldquo;Hamelin&rsquo;s legend will grow &mdash; right now there is no one like him.&rdquo;</p>
+							<p>He is pleased and proud to be appearing with the MCO in its fortieth anniversary season. &ldquo;I have a soft spot for Winnipeg, and very fond memories of my four previous concerts with the MCO,&rdquo; the affable, Montr&eacute;al-born, Boston-area resident said last week. &ldquo;Performing with them is like sliding into a warm glove, like making music with old friends.</p>
+							<p>&ldquo;I enjoy performing with smaller orchestras very much. I feel that the Shostakovich concerto that I&rsquo;m playing tonight, for example, works much better with a smaller orchestra than it does with a bigger one.&rdquo;</p>
+							<p>MCO audiences are another factor that keeps him coming back here. &ldquo;They have always been very warm and accepting to me,&rdquo; he said. He likes performing in Westminster United Church, too. &ldquo;It has a very generous acoustic that encourages performers.&rdquo;</p>
+							<p>Among the MCO concerts that he remembers with particular fondness is a Chopin concerto performance that Roy Goodman conducted in 2002. &ldquo;It was done with only strings, and that gave it a special flavour. It was very well conducted, too,&rdquo; he recalled.</p>
+							<p>Another memorable performance (in 2008) was the twentieth-century Russian composer Alfred Schnittke&rsquo;s Concerto for Piano and Strings. &ldquo;There&rsquo;s a passage towards the end where the soloist just pounds away at these massive tone clusters, creating a mood of utter horror,&rdquo; he said. &ldquo;I&rsquo;d only played the piece once before, about 20 years earlier.<p>At the MCO concert, I took the opportunity to really go for it. I felt totally overwhelmed by it, and I felt that the audience did, too. The MCO was completely attuned to that music, which gives a look into the composer&rsquo;s powerful mind and soul.&rdquo;</p>
+							<p>Hamelin played Mozart&rsquo;s Concerto No. 24 in C Minor during his most recent MCO engagement, at the start of the 2010/11 season. &ldquo;I used my own solo cadenzas in that performance,&rdquo; he said. Creating them was a side-facet in his ongoing activity as a composer.</p>
+							<p>In October 2011, he made his debut with the prestigious Berlin Philharmonic. He played three performances of the twentieth-century Polish composer Karol Szymanowski&rsquo;s Symphony No. 4 (Symphonie concertante). &ldquo;It went magnificently,&rdquo; he said, &ldquo;even though the orchestra had never played the piece before. All the foremost section leaders were there for the performances, which isn&rsquo;t always the case.&rdquo; You can watch the performance at digitalconcerthall.com. The Berlin Philharmonic organization has booked him to return for a solo recital in their hall.</p>
+							<p>Hamelin has amassed a formidable discography of more than 80 CDs and DVDs. Many of the earlier releases featured unusual repertoire, romantic and contemporary alike. But in recent years he has recorded, to great acclaim, masterpieces of the standard repertoire by composers such as Brahms, Schumann, and Haydn.</p>
+							<p>Upcoming releases include an all-Debussy disc (including the second book of Pr&eacute;ludes, the two sets of Images, and L&rsquo;isle joyeuse); music of the intriguing German / Italian composer Ferruccio Busoni; and a set of three Haydn concertos including the one he will play tonight. For that disc, he is joined by conductor Bernard Labadie and the period instrument orchestra, Les Violons du Roy.</p>
+							<p>&ldquo;My warmest wishes to the MCO on its fortieth anniversary,&rdquo; Marc-Andr&eacute; said. &ldquo;May it continue to provide excellent music-making for many years to come.&rdquo;</p>						</div>
+					</section>
 
+					<section class="row">
+						<div class="span5">
+							<h4>Orchestra</h4>
+							<p><strong>First violin</strong><br />Karl Stobbe<br />Mary Lawton<br />Mona Coarda<br />Meredith McCallum<br />Shao Jun<br />Kristina Bauch<br /></p>
+							<p><strong>Second violin</strong><br />Kerry DuWors<br />Elation Pauls<br />Boyd MacKenzie<br />Laura Chenail<br />Natalie Zielinski<br />Elizabeth Dyer</p>
+							<p><strong>Viola</strong><br />Daniel Scholz<br />Laszlo Baroczi<br />Suzanne McKegney<br />Merrily Peters</p>
+							<p><strong>Cello</strong><br />Desiree Abbey<br />Alex Adaman<br />Carolyn Nagelberg<br />Margaret Askeland</p>
+							<p><strong>Bass</strong><br />Meredith Johnson<br />Paul Nagelberg</p>
+							<p><strong>Oboe</strong><br />Caitlin Broms-Jacobs<br />Tracy Wright</p>
+							<p><strong>French horn</strong><br />Patricia Evans<br />Michiko Singh</p>
+						</div>
+					</section>
 					<section class="row">
 						<div class="span5">
 							<h4>La Libert&eacute;:<br />La joie du clavier</h4>
@@ -140,18 +184,6 @@ Template Name: Page Concert3 Template
 							<p>Quant au concerto plus traditionnel d&rsquo;Haydn, MarcAndr&eacute; Hamelin dit avoir hâte de red&eacute;couvrir &laquo; un vieil ami &raquo;. &laquo; Il y a toujours quelque chose à red&eacute;couvrir dans cette oeuvre, d&eacute;clare-t-il. C&rsquo;est plutôt miraculeux. Lorsque je le joue, c&rsquo;est comme enfiler un gant confortable. Mais l&rsquo;exp&eacute;rience de vie et la maturit&eacute; musicale font que ce n&rsquo;est plus tout à fait pareil. Et puisque le Haydn est moins difficile sur le plan pianistique, je pourrai davantage m&rsquo;abandonner à la joie de faire de la musique. &raquo;</p>
 							<p>Outres les pi&egrave;ces mettant en vedette le pianiste Marc-Andr&eacute; Hamelin, le public aura droit &agrave; une interpr&eacute;tation du Concerto con brio de Jos&eacute; Evangelista, ainsi qu&rsquo;une toute nouvelle pi&egrave;ce de la compositrice am&eacute;ricaine, Dorothy Chang.</p>
 							<p>&laquo; Ce sera agr&eacute;able de pouvoir d&eacute;couvrir une nouvelle oeuvre et de red&eacute;couvrir une pi&egrave;ce inhabituelle et inusit&eacute;e &raquo;, conclut Marc-Andr&eacute; Hamelin.</p>
-						</div>
-					</section>
-					<section class="row">
-						<div class="span5">
-							<h4>Orchestra</h4>
-							<p><strong>First violin</strong><br />Karl Stobbe<br />Mary Lawton<br />Mona Coarda<br />Meredith McCallum<br />Shao Jun<br />Kristina Bauch<br /></p>
-							<p><strong>Second violin</strong><br />Kerry DuWors<br />Elation Pauls<br />Boyd MacKenzie<br />Laura Chenail<br />Natalie Zielinski<br />Elizabeth Dyer</p>
-							<p><strong>Viola</strong><br />Daniel Scholz<br />Laszlo Baroczi<br />Suzanne McKegney<br />Merrily Peters</p>
-							<p><strong>Cello</strong><br />Desiree Abbey<br />Alex Adaman<br />Carolyn Nagelberg<br />Margaret Askeland</p>
-							<p><strong>Bass</strong><br />Meredith Johnson<br />Paul Nagelberg</p>
-							<p><strong>Oboe</strong><br />Caitlin Broms-Jacobs<br />Tracy Wright</p>
-							<p><strong>French horn</strong><br />Patricia Evans<br />Michiko Singh</p>
 						</div>
 					</section>
 				</div>

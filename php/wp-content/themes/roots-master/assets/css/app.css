@@ -43,7 +43,8 @@ body.admin-bar .navbar-fixed-top { top: 28px; }
    ========================================================================== */
 
 #sidebar {
-  /*background-color: #ffe6e6;*/
+  background-color: #fff;
+  padding-top: 90px;
 }
 
 
