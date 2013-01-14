@@ -27,10 +27,19 @@ Template Name: Page Concert4 Template
 		<p>Being in the same age group, The Winnipeg Singers and the Manitoba Chamber Orchestra are often seen together and frequent the same haunts. In fact, the two groups have performed together more than ten times.</p>
 		<p>The Winnipeg Singers consists of 24 trained voices, performing music that spans the times from the Renaissance to the present. The choir frequently commissions new Canadian choral works.</p>
 		<strong>The concert begins at 7:30 pm on February 6th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
-		<p class="fineprint">&nbsp;<p>
+		<div class="media">
+			<a class="pull-left" href="#extras" data-toggle="tab">
+			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+			</a>
+		<div class="media-body">
+			<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk,&rsquo; <em>On Antonio Vivaldi</em>, and a promo with Anne Manson!</p>
+			<p class="fineprint">&nbsp;<p>
+		</div>
+	</div>
+
 	</div><!-- /span7 -->
 
-	<div class="span2"> 
+	<div class="span1"> 
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=89e3b17ba5474af284f562865c4b70e1"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a><br />
  	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=696960f1b3b241bab82da74d814a3c13"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a><br />
@@ -47,9 +56,10 @@ Template Name: Page Concert4 Template
 		<div class="well"><!-- tab content well -->
 
 		<ul class="nav nav-tabs">
-			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
-			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
-			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#repertoire" rel="tooltip" title="General concert info" data-toggle="tab"><strong>Repertoire</strong></a></li>
+			<li><a href="#bios" rel="tooltip" title="Artists' bios" data-toggle="tab"><strong>Artists</strong></a></li>
+			<li><a href="#notes" rel="tooltip" title="Programme notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" rel="tooltip" title="Videos, reviews and more!" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -124,7 +134,28 @@ Template Name: Page Concert4 Template
 				<p>Mendelssohn composed several works for his new choir: a motet, Tu es Petrus (You are Peter), and two cantatas: Christe, du Lamm Gottes (Christ, You Lamb of God, which he presented to his sister Fanny on Christmas Eve), and <em>Jesu, meine Freude</em> (Jesus, my joy), which he finished on 22 January 1828. Over the next four years, he composed additional cantatas, all of them linked in some way to his studies of Bach&rsquo;s music. At that time, he was examining the estate of Bach&rsquo;s son, Wilhelm Friedemann (1710-1784), which had been acquired by the father of a friend of his.</p>
 				<p>He based both of the cantatas from 1827-28 on chorale or hymn-tune melodies, and cast each of these brief works in a single movement. In <em>Christe, du Lamm Gottes</em>, he scored the accompaniment for full orchestra, while in <em>Jesu, meine Freude</em> he used strings alone. The chorale melodies appear in the soprano section, over an impressive web of imitative vocal and instrumental counterpoint. Two-thirds of the way through <em>Jesu, meine Freude</em>, he shifted from a minor key to major one, at the words <em>Gottes Lamm, mein Br&auml;utigam</em> (Lamb of God, My Bridegroom), dissipating for a moment the clouds that have shadowed the music up to that point.</p>
 			</div>
-		</div><!-- /tab-content -->
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 17: &lsquo;On Antonio Vivaldi&rsquo;</strong></p>
+				<section class="row">
+  				<div class="span5">
+  					<div class="flex-video widescreen">
+  						<iframe width="500" height="281" src="http://www.youtube.com/embed/Hm6H4LZqfFg" frameborder="0" allowfullscreen seamless></iframe>
+  						<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+  						<p>&nbsp;</p>
+  					</div>
+  				</div>
+  			</section>
+				<p><strong>Anne Manson talks about<br />February 6th, and the MCO plays a little music</strong></p>
+				<section class="row">
+  				<div class="span5">
+  					<div class="flex-video widescreen">
+  						<iframe width="510" height="287" src="http://www.youtube.com/embed/z9nEGNDE-dw" frameborder="0" allowfullscreen seamless></iframe>
+  						<p>&nbsp;</p>
+  					</div>
+  				</div>	
+  			</div>
+  		</section>
+			</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
 

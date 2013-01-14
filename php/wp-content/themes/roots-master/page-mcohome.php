@@ -23,16 +23,17 @@ Template Name: Page MCOhome Template
 
 
 <div class="row">
-
-	<div class="media">
-				<a class="pull-left" href="#extras" data-toggle="tab">
-				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+	<div class="span7">
+		<div class="media">
+			<a class="pull-left" href="#extras" data-toggle="tab">
+			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
 			</a>
-			<div class="media-body">
-				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk,&rsquo; <em>On Franz Joseph Haydn</em>, an article on Marc-Andr&eacute; from <em>La Libert&eacute;</em> and more!</p>
-				<p class="fineprint">&nbsp;<p>
-			</div>
+		<div class="media-body">
+			<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk,&rsquo; <em>On Franz Joseph Haydn</em>, an article on Marc-Andr&eacute; from <em>La Libert&eacute;</em> and more!</p>
+			<p class="fineprint">&nbsp;<p>
+		</div>
 	</div>
+</div>
 
 </div><!-- /row -->
 

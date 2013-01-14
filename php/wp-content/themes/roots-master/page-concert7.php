@@ -8,7 +8,7 @@ Template Name: Page Concert7 Template
 <div class="row">
 
 	<div class="span8">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/head02apr13a.png" alt="" width="870" height="512">
+		<img src="http://www.themco.ca/wp-content/uploads/2012/10/head02apr13a.png" alt="" width="870" height="512">
 	</div>
 	<div class="span2">
 		<p>.</p>
@@ -29,7 +29,7 @@ Template Name: Page Concert7 Template
 		<p class="fineprint">&nbsp;<p>
 	</div><!-- /span7 -->
 
-	<div class="span2"> 
+	<div class="span1"> 
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=98a53d33021f46ffb6ceca8382c830cd"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a><br />
  	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=572a100f29294416b420bdcaf1bd918a"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a><br />
