@@ -177,12 +177,15 @@ a:hover {
   }
 }
 
-.embed-container iframe,
-.embed-container object,
-.embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+.gform_wrapper ul { list-style: none; margin-left: 0; }
+.gform_wrapper form { margin-bottom: 0; }
+
+.gfield_radio input,
+.gfield_checkbox input {
+  vertical-align: 0;
+}
+.gfield_radio label,
+.gfield_checkbox label {
+  display: inline-block;
+  margin-left: 8px;
 }
