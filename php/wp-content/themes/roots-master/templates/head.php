@@ -5,7 +5,9 @@
 <!--[if gt IE 8]><!--> <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title><?php wp_title('|', true, 'right'); bloginfo('name'); ?></title>
+  <!-- Following line originally: <title><?php wp_title('|', true, 'right'); bloginfo('name'); ?></title> -->
+
+  <title><?php wp_title('|', false, 'right'); bloginfo('name'); ?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="616Yt9o3ZBd2QoqnxJCAhwwru60mMyBrLPFW9LrsefU" />
   <meta name="google-site-verification" content="2Q1bfvvvNyvfgFoFaNdYPSZ_ApWLBIuUV9LuaKS_idg" />
@@ -21,7 +23,7 @@
   <div class="container">
     <div class="row">
       <div class="span12">
-        <a href="http://www.themco.ca"><img class="alignnone size-full wp-image-9" title="logosm" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/09/logosm.png" alt="" width="150" height="78" /></a>
+        <a href="http://www.themco.ca"><img class="alignnone size-full wp-image-9" title="logosm" src="http://www.themco.ca/wp-content/uploads/2012/09/logosm.png" alt="" width="150" height="78" /></a>
       </div>
     </div><!-- /row -->
   </div>
