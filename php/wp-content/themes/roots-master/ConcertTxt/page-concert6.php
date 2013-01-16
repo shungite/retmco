@@ -20,6 +20,10 @@ Template Name: Page Concert6 Template
 
 	<div class="span7">
 		<h4>Fascinating<br />and thought-provoking<br />family entertainment</h4>
+		<blockquote>
+		  <p>The music is infectious, joyful, lyrical and very rhythmic.</p>
+  		<small>Anne Manson</small>
+		</blockquote>
 		<p>Two entertaining works will be offered in staged presentations at this concert: Kras&aacute;&rsquo;s <em>Brundib&aacute;r</em> will be performed by the MCO and the Pembina Trails Voices children&rsquo;s choir, under the direction of Ruth Wiwchar; and Stravinsky&rsquo;s <em>l&rsquo;Histoire du Soldat</em> is a narrated work.</p>
 		<p>Brundib&aacute;r is a children&rsquo;s opera by Jewish Czech composer Hans Kr&aacute;sa with a libretto by Adolf Hoffmeister, originally performed by the children of Theresienstadt concentration camp in occupied Czechoslovakia. The name comes from a Czech colloquialism for a bumblebee.</p>
 		<p>&ldquo;<em>Brundib&aacute;r</em> is a terrific piece,&rdquo; says Anne Manson. &lsquo;Ruth had proposed this piece years ago for a collaboration. It&rsquo;s a great story and very empowering for children, who take all the roles in this work. It is emblematic of resisting a fascist leader, but the music is infectious, joyful, lyrical and very rhythmic.</p>
