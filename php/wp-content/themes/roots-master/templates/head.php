@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <!-- Following line originally: <title><?php wp_title('|', true, 'right'); bloginfo('name'); ?></title> -->
 
-  <title><?php wp_title('|', false, 'right'); bloginfo('name'); ?></title>
+  <title><?php wp_title('|', true, 'right'); ?></title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="google-site-verification" content="616Yt9o3ZBd2QoqnxJCAhwwru60mMyBrLPFW9LrsefU" />
   <meta name="google-site-verification" content="2Q1bfvvvNyvfgFoFaNdYPSZ_ApWLBIuUV9LuaKS_idg" />
