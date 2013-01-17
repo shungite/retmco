@@ -34,9 +34,9 @@ Template Name: Page Concert6 Template
 
 	<div class="span1"> 
 		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
-	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=720d6e6e7bb549aa8f5532ef65ea4edd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a><br />
- 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=ce47fb63079d4f84b5907716f09cf6c7"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a><br />
-	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=a3bd1ff75de449a3a8cf1a61948316b5"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
+	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=720d6e6e7bb549aa8f5532ef65ea4edd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://wwww.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a><br />
+ 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=ce47fb63079d4f84b5907716f09cf6c7"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://wwww.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a><br />
+	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=a3bd1ff75de449a3a8cf1a61948316b5"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://wwww.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
 		<p class="fineprint">Click ticket above to add to shopping cart; adjust quantity in cart and return to purchase other types of tickets.</p>
 	</div><!-- /span2 -->
 
