@@ -138,6 +138,19 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
   line-height: 128%;
 }
 
+.buy {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(253,185,19,.85);
+  margin-top: 15px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 110%;
+}
+
 /* Link mods */
 
 a {
@@ -175,6 +188,25 @@ a:hover {
     border-color: #ddd;
     border-color: rgba(0,0,0,.15);
   }
+}
+
+.well-white {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #fff;
+  border: 2px dotted;
+  border-color: rgba(0,0,0,.15);
+  border-radius: 6px;
+  box-shadow: inset 0px 0px 0px 0px #ccc;
+  blockquote {
+    border-color: #ddd;
+    border-color: rgba(0,0,0,.15);
+  }
+}
+
+.h5-tight {
+  line-height: 100%;
 }
 
 .gform_wrapper ul { list-style: none; margin-left: 0; }
