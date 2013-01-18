@@ -68,7 +68,7 @@ Template Name: Page MCOhome Template
 	<div class="well">
 		<p><strong><a href="#">Sign up here for MCO&rsquo;s<br><em>Noteworthy</em> email newsletter!</strong></a></p>
 		<p>Our just-about-monthly missive is filled with information on upcoming concerts and special events. Unsubscribe at any time.</p>
-		<?php gravity_form(3, false, false, false, '', true, false); ?>
+		<?php gravity_form(5, false, false, false, '', true, false); ?>
 	</div>
 </div>
 
