@@ -14,7 +14,8 @@ Template Name: Page MCOhome Template
 	<div class="span8">
    	<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/cover06feb131.png"></a>
 		<h4>A double celebration:<br />The Winnipeg Singers and the MCO</h4>
-		<p>The Winnipeg Singers and the MCO celebrate 40 years this season, and this concert is the birthday party! Yuri Klaz will conduct a fascinating program of choral works by Vivaldi, Tallis, Mendelssohn, Arvo P&auml;rt, Imant Ramish and Glenn Buhr.</p>
+		<p>The Winnipeg Singers and the MCO celebrate 40 years this season, and this concert is the birthday party! Yuri Klaz will conduct a varied program of choral works by Vivaldi, Tallis, Mendelssohn, Arvo P&auml;rt, Imant Ramish and Glenn Buhr. <a href="http://www.themco.ca/concert/winnipeg-singers/ "><strong>Program notes, bios and more here.</strong></a>
+		</p>
   </div>
 </div><!-- /row -->
 
@@ -24,52 +25,32 @@ Template Name: Page MCOhome Template
 
 <div class="row-fluid">
 
-	<div class="span7">
-		<div class="well-white">
-		<div class="media">
-			<a class="pull-left" href="#extras" data-toggle="tab">
-			<img class="media-object img-rounded" src="http://www.themco.ca/wp-content/uploads/2012/11/janina_small.jpg" width="96px" height="96px">
-			</a>
-		<div class="media-body">
-			<p><strong><a href="http://www.themco.ca/janina/" data-toggle="tab">MCO 40th anniversary fund-raiser:<br>A Candlelight evening with Janina Fialkowska!</strong></a><br />Celebrate four decades of the MCO with world renowned pianist Janina Fialkowska in The Fort Garry's opulent Provencher Room.</p>
-		</div>
-	</div>
-</div>
-</div>
-
-<div class="span1">
-	<p class="buy"><strong>Buy<br>tickets<br>to this<br>event!</strong></p>
-</div>
-
-</div><!-- /row -->
-
-<div class="row-fluid">
-
-	<div class="span7">
+	<div class="span8">
 		<div class="well">
 		<div class="media">
 			<a class="pull-left" href="#extras" data-toggle="tab">
 			<img class="media-object img-rounded" src="http://www.themco.ca/wp-content/uploads/2012/11/janina_small.jpg" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#extras" data-toggle="tab">MCO fund-raiser:<br>A Candlelight evening with Janina Fialkowska!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk,&rsquo; <em>On Franz Joseph Haydn</em>, an article on Marc-Andr&eacute; from <em>La Libert&eacute;</em> and more!</p>
+			<p><strong><a href="http://www.themco.ca/janina/" data-toggle="tab">MCO 40th anniversary fund-raiser:<br>A Candlelight evening with Janina Fialkowska!</strong></a><br />Celebrate four decades of the MCO together with world-renowned pianist Janina Fialkowska in The Fort Garry's opulent Provencher Room. &ldquo;If you have a chance to hear her, cancel all other appointments&rdquo; &mdash; Barry Millington, Evening Standard, London.</p>
 		</div>
 	</div>
 </div>
 </div>
 
+
 </div><!-- /row -->
 
 <div class="row-fluid">
 
-	<div class="span7">
+	<div class="span8">
 		<div class="well-white">
 		<div class="media">
 			<a class="pull-left" href="#extras" data-toggle="tab">
-			<img class="media-object img-rounded" src="http://www.themco.ca/wp-content/uploads/2012/11/janina_small.jpg" width="96px" height="96px">
+			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#extras" data-toggle="tab">MCO fund-raiser:<br>A Candlelight evening with Janina Fialkowska!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk,&rsquo; <em>On Franz Joseph Haydn</em>, an article on Marc-Andr&eacute; from <em>La Libert&eacute;</em> and more!</p>
+			<p><strong><a href="#">Upcoming sale at MCO&rsquo;s Vinyl Vault:<br>Saturday, 26 January 2013, 10 am to 3 pm.</strong></a><br />Rummage around in one of the city's largest used record collection! Find rare jazz titles, pop, classical, rock, country, folk, easy listening and much more &mdash; collectibles a speciality! Located in the basement of the Power Buiulding, 428 Portage Avenue (near The Bay).</p> 
 		</div>
 	</div>
 </div>
