@@ -32,7 +32,7 @@ Template Name: Page Concert4 Template
 			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk,&rsquo; <em>On Antonio Vivaldi</em>, and a promo with Anne Manson!</p>
+			<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for <em>two</em> &lsquo;Two-minute Talks,&rsquo; by Haley Rempel: <em>Music &amp; the Church: The True History</em> and <em>On Antonio Vivaldi</em>; plus a promo with Anne Manson!</p>
 			<p class="fineprint">&nbsp;<p>
 		</div>
 	</div>
@@ -135,12 +135,21 @@ Template Name: Page Concert4 Template
 				<p>He based both of the cantatas from 1827-28 on chorale or hymn-tune melodies, and cast each of these brief works in a single movement. In <em>Christe, du Lamm Gottes</em>, he scored the accompaniment for full orchestra, while in <em>Jesu, meine Freude</em> he used strings alone. The chorale melodies appear in the soprano section, over an impressive web of imitative vocal and instrumental counterpoint. Two-thirds of the way through <em>Jesu, meine Freude</em>, he shifted from a minor key to major one, at the words <em>Gottes Lamm, mein Br&auml;utigam</em> (Lamb of God, My Bridegroom), dissipating for a moment the clouds that have shadowed the music up to that point.</p>
 			</div>
 			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 29: &lsquo;Music &amp; the Church: The True His­tory&rsquo;</strong></p>
+				<section class="row">
+  				<div class="span5">
+  					<div class="flex-video widescreen">
+  						<iframe width="500" height="281" src="http://www.youtube.com/embed/aawkyL7zbGE" frameborder="0" allowfullscreen seamless></iframe>
+  						<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+  						<p>&nbsp;</p>
+  					</div>
+  				</div>
+  			</section>
 				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 17: &lsquo;On Antonio Vivaldi&rsquo;</strong></p>
 				<section class="row">
   				<div class="span5">
   					<div class="flex-video widescreen">
   						<iframe width="500" height="281" src="http://www.youtube.com/embed/Hm6H4LZqfFg" frameborder="0" allowfullscreen seamless></iframe>
-  						<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
   						<p>&nbsp;</p>
   					</div>
   				</div>
