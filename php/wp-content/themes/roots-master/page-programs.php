@@ -84,7 +84,7 @@ Template Name: Page Programs Template
 			<p class="text-error"><b>Space is limited</b></p>
 			<p class="text-error">Register early by phone: call Joan at 204.783.7377 at least three days before the concert to purchase tickets and book your spot in the MCO Pizza Club. Pizza is free with your concert tickets; parents, grandparents, teachers and children welcome! <b>Concerts begin at 7:30 pm.</b></p>
 		</div>
-	`</div>
+	</div>
 </div>
 
 <?php get_template_part('templates/content', 'programs'); ?>
