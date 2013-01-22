@@ -68,7 +68,7 @@ Template Name: Page Programs Template
   				<dt>February 19</dt>
   				<dd>Canadian piano superstar <b>Janina Fialkowska</b> will perform Mozart&rsquo; Piano Concerto No. 12 in A Major (K414).</dd>
   				<dt>March 12</dt>
-  				<dd>Fascinating and thought-provoking family entertainment: the children&rsquo;s opera <i>Brundib&aacute;r and l&rsquo;Histoire du Soldat.</dd>
+  				<dd>Fascinating and thought-provoking family entertainment: the children&rsquo;s opera <i>Brundib&aacute;r</i> and <i>l&rsquo;Histoire du Soldat</i>.</dd>
   				<dt>April 2</dt>
   				<dd>Guest conductor <b>Roy Goodman</b> and Winnipeg soprano <b>Tracy Dahl</b> recreate most of the first MCO concert ever!</dd>
 				</dl>
@@ -77,6 +77,15 @@ Template Name: Page Programs Template
 	</div>
 
 </div><!-- /row -->
+
+<div class="row-fluid">
+	<div class="span7">
+		<div class="well-white">
+			<p class="text-error"><b>Space is limited</b></p>
+			<p class="text-error">Register early by phone: call Joan at 204.783.7377 at least three days before the concert to purchase tickets and book your spot in the MCO Pizza Club. Pizza is free with your concert tickets; parents, grandparents, teachers and children welcome! <b>Concerts begin at 7:30 pm.</b></p>
+		</div>
+	`</div>
+</div>
 
 <?php get_template_part('templates/content', 'programs'); ?>
 
