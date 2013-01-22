@@ -51,6 +51,33 @@ Template Name: Page Programs Template
 
 </div><!-- /row -->
 
+<div class="row-fluid">
+
+	<div class="span7">
+		<div class="well">
+			<div class="media-body">
+				<p><strong>MCO Piza Club</strong></p>
+				<p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered for the following concerts:</p>
+				<dl class="dl">
+  				<dt>November 21</dt>
+  				<dd>Guest conductor <strong>Scott Yoo</strong> and violinist <strong>Karen Gomyo</strong> and works by Jocelyn Morlock, Wolfgang Amadeus Mozart and Arnold Schoenberg.</dd>
+  				<dt>January 9</dt>
+  				<dd>Pianist <strong>Marc-Andr&eacute; Hamelin</strong> will perform Shostavich&rsquo;s C minor piano concerto.</dd>
+  				<dt>February 6</dt>
+  				<dd>Guest conductor <strong>Yuri Klaz</strong> and <b>The Winnipeg Singers</b> (also celebrating 40 years!).</dd>
+  				<dt>February 19</dt>
+  				<dd>Canadian piano superstar <b>Janina Fialkowska</b> will perform Mozart&rsquo; Piano Concerto No. 12 in A Major (K414).</dd>
+  				<dt>March 12</dt>
+  				<dd>Fascinating and thought-provoking family entertainment: the children&rsquo;s opera <i>Brundib&aacute;r and l&rsquo;Histoire du Soldat.</dd>
+  				<dt>April 2</dt>
+  				<dd>Guest conductor <b>Roy Goodman</b> and Winnipeg soprano <b>Tracy Dahl</b> recreate most of the first MCO concert ever!</dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+
+</div><!-- /row -->
+
 <?php get_template_part('templates/content', 'programs'); ?>
 
 </div><!-- /container -->
