@@ -9,9 +9,13 @@ Template Name: Page Board Template
 
 	<div class="span6">
 		<p>&nbsp;</p>
-		<div class="well">
-			<h4>Artistic mission statement</h4>
+		<blockquote>
 			<p>To create and perform chamber orchestra repertoire at the highest artistic level possible for Manitobans, for Canadians, and for international audiences.</p>
+			<small>the Manitoba Chamber Orchestra&rsquo;s artistic mission statement</small>
+		</blockquote>
+
+		<div class="well">
+			<p><strong>Manitoba Chamber Orchestra<br>Board of Directors and staff</strong></p>
 			<p><strong>President</strong><br />
 			Jesus Angel Miguel Garcia</p>
 			<p><strong>Vice-President</strong><br />
