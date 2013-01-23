@@ -16,47 +16,63 @@ Template Name: Page Board Template
 
 		<div class="well">
 			<p><strong>Manitoba Chamber Orchestra<br>Board of Directors and staff</strong></p>
-			<p><strong>President</strong><br />
-			Jesus Angel Miguel Garcia</p>
-			<p><strong>Vice-President</strong><br />
-			Bill Neville</p>
-			<p><strong>Past President</strong><br />
-			Ingrid Moehlmann</p>
-			<p><strong>Treasurer</strong><br />
-			Gil Forrest</p>
-			<p><strong>Secretary</strong><br />
-			Alice MacKenzie</p>
-			<p><strong>Member at large</strong><br />
-			Jim Chapryk</p>
-			<p><strong>Members</strong></p>
-			<p>Lynne Axworthy<br />
-			Chloe Carpenter<br />
-			Judith Hall<br />
-			Joan Hardy<br />
-			Sue Irving<br />
-			Suzanne Kennelly<br />
-			Elaine Margolis<br />
-			Sandi Mielitz<br />
-			Beryl Peters<br />
-			Rishi Ramberran<br />
-			Nicola Schaefer<br />
-			Moti Shojania<br />
-			Alison Thiessen<br />
-			Elizabeth Tippett-Pope<br />
-			Faye Warren</p>
+			<dl class="dl">
+				<dt>President</dt>
+				<dd>Jesus Angel Miguel Garcia</dd>
+				<dt>Vice-President</dt>
+				<dd>Bill Neville</dd>
+				<dt>Past President</dt>
+				<dd>Ingrid Moehlmann</dd>
+				<dt>Treasurer</dt>
+				<dd>Gil Forrest</dd>
+				<dt>Secretary</dt>
+				<dd>Alice MacKenzie</dd>
+				<dt>Member at large</dt>
+				<dd>Jim Chapryk</dd>
+				<dt>Members</dt>
+				<dd>Lynne Axworthy</dd>
+				<dd>Chloe Carpenter</dd>
+				<dd>Judith Hall</dd>
+				<dd>Joan Hardy</dd>
+				<dd>Sue Irving</dd>
+				<dd>Suzanne Kennelly</dd>
+				<dd>Elaine Margolis</dd>
+				<dd>Sandi Mielitz</dd>
+				<dd>Beryl Peters</dd>
+				<dd>Rishi Ramberran</dd>
+				<dd>Nicola Schaefer</dd>
+				<dd>Moti Shojania</dd>
+				<dd>Alison Thiessen</dd>
+				<dd>Elizabeth Tippett-Pope</dd>
+				<dd>Faye Warren</dd>
+			</dl>
 			<p><strong>Administration</strong></p>
-			<p><strong>Music Director &amp; Conductor</strong><br />Anne Manson</p>
-			<p><strong>Managing Director</strong><br />Vicki Young</p>
-			<p><strong>Administrative Assistant</strong><br />Joan Gillis</p>
-			<p><strong>Administrative Assistant</strong><br />Corinne Friesen Loewen</p>
-			<p><strong>Bookeeper</strong><br />Pat Ireton</p>
-			<p><strong>Director of Development</strong><br />Shirley Elias</p>
-			<p><strong>Project support and Front-of-House Manager</strong><br />Elise Anderson</p>
-			<p><strong>Marketing</strong><br />Jon Snidal</p>
-			<p><strong>Concert Manager</strong><br />Boyd MacKenzie</p>
-			<p><strong>Librarian</strong><br />Ray Chrunyk</p>
-			<p><strong>Program advertising</strong><br />Brian Chipney</p>
-			<p><strong>Stage Manager</strong><br />Matthew Underhill</p>
+			<dl class="dl">
+				<dt>Music Director &amp; Conductor</dt>
+				<dd>Anne Manson</dd>
+				<dt>Managing Director</dt>
+				<dd>Vicki Young</dd>
+				<dt>Administrative Assistant</dt>
+				<dd>Joan Gillis</dd>
+				<dt>Administrative Assistant</dt>
+				<dd>Corinne Friesen Loewen</dd>
+				<dt>Bookeeper</dt>
+				<dd>Pat Ireton</dd>
+				<dt>Director of Development</dt>
+				<dd>Shirley Elias</dd>
+				<dt>Project support and Front-of-House Manager</dt>
+				<dd>Elise Anderson</dd>
+				<dt>Marketing</dt>
+				<dd>Jon Snidal</dd>
+				<dt>Concert Manager</dt>
+				<dd>Boyd MacKenzie</dd>
+				<dt>Librarian</dt>
+				<dd>Ray Chrunyk</dd>
+				<dt>Program advertising</dt>
+				<dd>Brian Chipney</dd>
+				<dt>Stage Manager</dt>
+				<dd>Matthew Underhill</dd>
+			</dl>
 		</div>
 	</div>
 
