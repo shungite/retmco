@@ -30,12 +30,25 @@ Template Name: Page Press Template
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="mco">
-				<p><strong>A brief history<br />of the Manitoba Chamber Orchestra</strong></p>
+				<p><strong>A brief history of<br />the Manitoba Chamber Orchestra</strong></p>
 				<p>The Manitoba Chamber Orchestra explores the section of the repertoire rarely touched by large symphony orchestras. Established in 1972, the MCO presents an annual nine-concert subscription series in Winnipeg. Co-presentations with CBC Radio began in 1984, and Canadians across the country (roughly 3.7 million annually) and fans around the world enjoy the Orchestra in frequent broadcasts and online.</p>
 				<p>In 1986 and 1993, the Manitoba Chamber Orchestra drew outstanding reviews for its performances at the Guelph Spring Festival. The MCO represented Manitoba at the Calgary Winter Olympics in 1988, and at the meeting of the Association of Canadian Orchestras in 1990 was presented with a SOCAN Award of Merit for ‘the imaginative programming of contemporary Canadian music.’</p>
 				<p>In 1995 the MCO released its first compact disc on Sweden&rsquo;s BIS label; <em>Canadian Music for Chamber Orchestra</em> (CD 698) marked the first recording by a North American orchestra on the prestigious label and the disc was distributed in over 45 countries. There have been five subsequent recordings, four of them with CBC Records. The most recent was <em>So Much To Tell</em>, with Measha Brueggergosman.</p>
 				<p>The MCO toured southern Italy in August, 1999, and British Columbia in the spring of 2003 and again in the autumn of 2009. It appeared on the live national broadcast of the Juno Awards in April, 2005. In the summer of 2008, it made its debut appearance at the National Arts Centre and performed for over 7,500 people on Canada Day at Harbourfront in Toronto. The MCO accompanied Canadian soprano Isabel Bayrakdarian on a tour to San Francisco, Orange County, Vancouver, Toronto, Boston and New York in the autumn of 2008, culminating in a concert at Carnegie Hall. Anne Manson was appointed Music Director and Principal Conductor of the Manitoba Chamber Orchestra in November, 2008, succeeding Roy Goodman in the post.</p>
-				</div>
+				<p><b>MCO Music Directors &amp; Conductors</b></p>
+				<dl class="dl">
+					<dt>1971 to 1981</dt>
+					<dd>Ruben Gurevich, founding Music Director and Principal Conductor</dd>
+					<dt>1982 to 2000</dt>
+					<dd>Simon Streatfeild, Music Director and Principal Conductor</dd>
+					<dt>2000 to 2005</dt
+					<dd>Roy Goodman, Music Director and Principal Conductor</dd>
+					<dt>2007 to 2008</dt>
+					<dd>Alain Trudel, Interim Artistic Advisor</dd>
+					<dt>2008 to present</dt>
+					<dd>Anne Manson, Music Director and Principal Conductor</dd>
+				</dl> 
+			</div>
 			<div class="tab-pane fade" id="manson">
 				<p><strong>Anne Manson</strong></p>
 				<p>Anne Manson, praised by <i>The New York Times</i> for conducting of &ldquo;balance, clarity and richness,&rdquo; is notable for her mastery of a wide range of opera and orchestral repertoire, from new works by living composers such as Philip Glass, Peter Maxwell Davies and John Harbison, to fresh interpretations of canonic works.</p>
