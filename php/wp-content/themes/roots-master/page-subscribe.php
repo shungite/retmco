@@ -8,7 +8,7 @@ Template Name: Page Subscribe Template
 <div class="row">
 
 	<div class="span8">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/headsub.png" alt="" width="870" height="512">
+		<img src="http://www.themco.ca/wp-content/uploads/2012/11/headsub.png" alt="" width="870" height="512">
 	</div>
 	<div class="span2">
 		<p>.</p>
@@ -40,12 +40,12 @@ Template Name: Page Subscribe Template
 	</div><!-- /span6 -->
 
 	<div class="span2">
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/6concert.png" alt="" width="75" height="150" /><br />
+		<img src="http://www.themco.ca/wp-content/uploads/2012/11/6concert.png" alt="" width="75" height="150" /><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=7eab66aa235248bc9b65c3a276c9586f"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a><br />
  	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=1c6002a2ff9345e095767ac1562e5d06"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2ad4abe1836449f4b8b54d7a0bbfd075"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.png" alt="" width="62" height="40" /></a>
 		<p class="fineprint">Click ticket above to add a 6-concert subscription to your shopping cart; adjust quantity in cart and return to purchase other tickets.</p>
-		<img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/11/9concert.png" alt="" width="75" height="150" /><br />
+		<img src="http://www.themco.ca/wp-content/uploads/2012/11/9concert.png" alt="" width="75" height="150" /><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=fe7c1b6e9d8441538a85362d828d3464"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Adult.png" alt="" width="62" height="40" /></a><br />
  	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=5b1c9b9ee40f4a7d860ac0afe4acd5b9"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Senior.png" alt="" width="62" height="40" /></a><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=b130a807be584c04bf370fe0eedb9b07"><img src="http://retmco-shungite.rhcloud.com/wp-content/uploads/2012/10/Student.png" alt="" width="62" height="40" /></a>

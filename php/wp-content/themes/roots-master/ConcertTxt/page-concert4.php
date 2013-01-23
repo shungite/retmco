@@ -59,8 +59,8 @@ Template Name: Page Concert4 Template
 
 		<div class="well"><!-- tab content well -->
 
-		<ul class="nav nav-tabs">
-			<li><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
+		<ul class="nav nav-pills">
+			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
 			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>

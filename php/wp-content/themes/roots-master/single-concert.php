@@ -11,5 +11,3 @@ Template Name: Page Concert Template
     $("[rel=tooltip]").tooltip();
   });
 </script>
-
-<p>s-ct</p>
