@@ -8,7 +8,7 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/cover06feb131.png"></a>
+   	<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/headsingers.jpg"></a>
 		<h4>A double celebration:<br />The Winnipeg Singers and the MCO</h4>
 		<p>The Winnipeg Singers and the MCO celebrate 40 years this season, and this concert is the birthday party! Yuri Klaz will conduct a varied program of choral works by Vivaldi, Tallis, Mendelssohn, Arvo P&auml;rt, Imant Raminsh and Glenn Buhr. Read lots more about the concert <a href="http://www.themco.ca/concert/winnipeg-singers/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
 		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=89e3b17ba5474af284f562865c4b70e1"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
