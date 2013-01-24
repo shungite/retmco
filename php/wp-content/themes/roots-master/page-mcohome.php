@@ -6,10 +6,6 @@ Template Name: Page MCOhome Template
 <div class="container">
 
 <div class="row-fluid">
-	<p class="muted">CELEBRATING FORTY YEARS</p>
-</div>
-
-<div class="row-fluid">
 	
 	<div class="span8">
    	<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/cover06feb131.png"></a>
