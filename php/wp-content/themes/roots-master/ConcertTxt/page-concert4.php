@@ -27,7 +27,7 @@ Template Name: Page Concert4 Template
 		<p>Being in the same age group, The Winnipeg Singers and the Manitoba Chamber Orchestra are often seen together and frequent the same haunts. In fact, the two groups have performed together more than ten times.</p>
 		<p>The Winnipeg Singers consists of 24 trained voices, performing music that spans the times from the Renaissance to the present. The choir frequently commissions new Canadian choral works.</p>
 		<div class="well-white">
-			<p><strong>Pre-concert event</strong> / Arrive early for more music! Hear a special presentation by the <strong>Miles Macdonell Collegiate Vocal Ensemble</strong>; under the direction of <strong>Zane Zali`</strong>; 6:45 pm.</p>
+			<p><strong>Pre-concert event</strong> / Arrive early for more music! Hear a special presentation by the <strong>Miles Macdonell Collegiate Vocal Ensemble</strong>; under the direction of <strong>Zane Zalis</strong>; 6:45 pm.</p>
 			<p><strong>MCO&rsquo;s Pizza Club</strong> / please note that the Pizza Club is sold out for this concert! Remember to book early for the next concert.</p>
 		</div>
 		<strong>The concert begins at 7:30 pm on February 6th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
