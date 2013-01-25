@@ -8,7 +8,7 @@ Template Name: Page Concert6 Template
 <div class="row">
 
 	<div class="span8">
-		<img src="http://www.themco.ca/wp-content/uploads/2012/10/head12mar13a.png" alt="" width="870" height="512">
+		<img src="http://www.themco.ca/wp-content/uploads/2013/01/head12mar13.jpg" alt="" width="770" height="455">
 	</div>
 	<div class="span2">
 		<p>.</p>

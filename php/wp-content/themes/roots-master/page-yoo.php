@@ -8,7 +8,7 @@ Template Name: Page Yoo Template
 <div class="row">
 
 	<div class="span8">
-		<img src="http://www.themco.ca/wp-content/uploads/2012/11/headyoo.png" alt="" width="870" height="512">
+		<img src="http://www.themco.ca/wp-content/uploads/2013/01/headyoo.jpg" alt="" width="770" height="455">
 	</div>
 	<div class="span2">
 		<p>.</p>
