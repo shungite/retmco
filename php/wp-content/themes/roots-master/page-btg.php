@@ -18,7 +18,7 @@ Template Name: Page Btg Template
 	<div class="span7">
 		<p>&nbsp;</p>
 		<p><b>A Study Guide for Brundib&aacute;r<br>Music by Hans Krasa<br>Original libretto by Adolf Hoffmeister<br>English translation by Tony Kushner</b></p>
-		<p><b><a href="http://www.themco.ca/wp-content/uploads/2013/01/BrundibárTeacherGuide.pdf">PDF available here.</a></b></p>
+		<p><b><a href="http://www.themco.ca/wp-content/uploads/2013/01/BrundibárStudyGuide.pdf">PDF available here.</a></b></p>
 		<p>Manitoba Chamber Orchestra  and the Pembina Trails Voices Anne Manson, Conductor Ruth Wiwchar, Director of the Pembina Trails Voices Donna Fletcher, Director</p>
 		<p>Performances March 12, 2013: Westminster Church 1:15 pm / school matinee with introduction and Q&amp;A session to follow 7:30 pm / evening concert</p>
 		<p>Funding for this project has been provided by: Manitoba Arts Council Canada Council for the Arts Winnipeg Arts Council The Winnipeg Foundation The Jewish Foundation of Manitoba  Manitoba Opera</p>
