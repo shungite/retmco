@@ -18,7 +18,7 @@ Template Name: Page Btg Template
 	<div class="span7">
 		<p>&nbsp;</p>
 		<h4>A Study Guide for Brundib&aacute;r<br>
-			Music by Hans Krasa<br>
+			Music by Hans Kras&aacute;<br>
 			Original libretto by Adolf Hoffmeister<br>
 			English translation by Tony Kushner</h4>
 		<p><b><a href="http://www.themco.ca/wp-content/uploads/2013/01/BrundibárStudyGuide.pdf">PDF available here.</a></b></p>
