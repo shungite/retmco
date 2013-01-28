@@ -30,12 +30,14 @@ Template Name: Page Btg Template
 			Westminster Church 1:15 pm / school matinee<br>
 			with introduction and Q&amp;A session to follow<br>
 			7:30 pm / evening concert</p>
-		<p>Funding for this project has been provided by<br>
-		 Manitoba Arts Council Canada Council for the Arts<br>
-		 Winnipeg Arts Council<br>
-		 The Winnipeg Foundation<br>
-		 The Jewish Foundation of Manitoba<br>
-		 Manitoba Opera</p>
+			<dl>
+				<dt>Funding for this project has been provided by</dt>
+				<dd>Manitoba Arts Council Canada Council for the Arts</dd>
+				<dd>Winnipeg Arts Council</dd>
+				<dd>The Winnipeg Foundation</dd>
+				 <dd>The Jewish Foundation of Manitoba</dd>
+				 <dd>Manitoba Opera</dd>
+			</dl>
 		<h4>The purpose of this guide</h4>
 		 <p>We hope this guide will help you encourage your students&rsquo; understanding and  appreciation of this performance of Brundib&aacute;r, and its relationship to world history.  Brundib&aacute;r gives us an opportunity to introduce the topics of the Holocaust, racial  discrimination, and the treatment of Jewish people in the Nazi concentration town  of Terezin during World War II. Please be sure to examine any website content for age  appropriateness prior to recommending to your students. This guide will provide you with background material on the composer,  Terezin (or Theresienstadt), a synopsis of the story, and activities that  can be incorporated into your curriculum.</p>
 		<h4>Table of contents</h4>
