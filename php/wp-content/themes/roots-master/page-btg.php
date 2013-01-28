@@ -98,7 +98,7 @@ Template Name: Page Btg Template
 		</tr>
 			<tr>
 			<td>1938</td>
-			<td>Kras&aacute;s composes<em>Brundib&aacute;r</em> for a government competition, but the competition is later cancelled due to political developments</td>
+			<td>Kras&aacute;s composes <em>Brundib&aacute;r</em> for a government competition, but the competition is later cancelled due to political developments</td>
 			<td>March 12, Germany annexes Austria<br>November 9 &amp; 10, <em>Kristallnacht</em>, or the Night of Broken Glass</td>
 		</tr>
 		<tr>
