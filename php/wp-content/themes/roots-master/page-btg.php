@@ -135,7 +135,7 @@ Template Name: Page Btg Template
 	<p>For more information about Brundib&aacute;r visit:</p>
 	<p><a href="http://www.cbsnews.com/stories/2007/02/23/60minutes/main2508458.shtml"><b>http://www.cbsnews.com/stories/2007/02/23/60minutes/main2508458.shtml</b></a></p>
 	<p><a href="http://holocaustmusic.ort.org/places/theresienstadt/Brundib&aacute;r/"><b>http://holocaustmusic.ort.org/places/theresienstadt/Brundib&aacute;r/</b></a></p>
-	<p>Cast of Characters and the Pembina Trails choirs to which they belong</p>
+	<h4>Cast of Characters and the Pembina Trails choirs to which they belong</h4>
 	<dl>
 		<dt>Pepicek</dt>
 		<dd>a young boy: Mitch Heron &mdash; PTV Men</dd>
