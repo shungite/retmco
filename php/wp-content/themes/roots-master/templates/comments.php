@@ -68,6 +68,8 @@
   </section><!-- /#comments -->
 <?php endif; ?>
 
+<!-- NOTE! Website field commented out below -->
+
 <?php if (comments_open()) : ?>
   <section id="respond">
     <h3><?php comment_form_title(__('Leave a Reply', 'roots'), __('Leave a Reply to %s', 'roots')); ?></h3>
@@ -83,8 +85,8 @@
           <input type="text" class="text" name="author" id="author" value="<?php echo esc_attr($comment_author); ?>" size="22" tabindex="1" <?php if ($req) echo "aria-required='true'"; ?>>
           <label for="email"><?php _e('Email (will not be published)', 'roots'); if ($req) _e(' (required)', 'roots'); ?></label>
           <input type="email" class="text" name="email" id="email" value="<?php echo esc_attr($comment_author_email); ?>" size="22" tabindex="2" <?php if ($req) echo "aria-required='true'"; ?>>
-          <label for="url"><?php _e('Website', 'roots'); ?></label>
-          <input type="url" class="text" name="url" id="url" value="<?php echo esc_attr($comment_author_url); ?>" size="22" tabindex="3">
+          <!-- <label for="url"><?php _e('Website', 'roots'); ?></label>
+          <input type="url" class="text" name="url" id="url" value="<?php echo esc_attr($comment_author_url); ?>" size="22" tabindex="3"> -->
         <?php endif; ?>
         <label for="comment"><?php _e('Comment', 'roots'); ?></label>
         <textarea name="comment" id="comment" class="input-xlarge" tabindex="4"></textarea>
