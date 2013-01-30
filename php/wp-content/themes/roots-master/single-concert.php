@@ -11,3 +11,21 @@ Template Name: Page Concert Template
     $("[rel=tooltip]").tooltip();
   });
 </script>
+
+<script>  
+  $(function () {
+    $("#preconcert").popover();
+  });
+</script> 
+
+<script>  
+  $(function () {
+    $("#pizza").popover();
+  });
+</script>
+
+<script>  
+  $(function () {
+    $("#mcnally").popover();
+  });
+</script>
