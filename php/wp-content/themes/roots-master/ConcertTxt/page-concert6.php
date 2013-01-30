@@ -28,6 +28,13 @@ Template Name: Page Concert6 Template
 		<p>Brundib&aacute;r is a children&rsquo;s opera by Jewish Czech composer Hans Kr&aacute;sa with a libretto by Adolf Hoffmeister, originally performed by the children of Theresienstadt concentration camp in occupied Czechoslovakia. The name comes from a Czech colloquialism for a bumblebee.</p>
 		<p>&ldquo;<em>Brundib&aacute;r</em> is a terrific piece,&rdquo; says Anne Manson. &lsquo;Ruth had proposed this piece years ago for a collaboration. It&rsquo;s a great story and very empowering for children, who take all the roles in this work. It is emblematic of resisting a fascist leader, but the music is infectious, joyful, lyrical and very rhythmic.</p>
 		<p>It is a very important piece to play and to keep playing. I&rsquo;ve done it many times with different children’s choirs all over Europe.&rdquo; This concert is designed for the whole family to enjoy together!</p>
+
+		<div>
+			<p>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by the drum group from Ecole St-Germain; under the direction of Jennifer Engbrecht; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book three days in advance for MCO&rsquo;s Pizza Club! Arrive at 6 pm for pizza and a pre-concert presentation, followed by the concert. Tickets are $7.50 for students, including pizza; adults pay regular price. Space is limited; call 204.783.7377 to reserve yours.">Pizza Club</button>
+			</p>
+		</div>
+
 		<strong>The concert begins at 7:30 pm on March 12th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
 		<p class="fineprint">&nbsp;<p>
 	</div><!-- /span7 -->
