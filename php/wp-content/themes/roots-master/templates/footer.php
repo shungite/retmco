@@ -34,4 +34,14 @@
       }(window.jQuery)
     </script>
 
+    <script>  
+      $(function () {
+        $("#preconcert").popover();
+      });
+    </script> 
 
+    <script>  
+      $(function () {
+        $("#pizza").popover();
+      });
+    </script> 

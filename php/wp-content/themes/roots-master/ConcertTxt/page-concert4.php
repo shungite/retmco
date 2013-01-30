@@ -26,10 +26,13 @@ Template Name: Page Concert4 Template
 		<p><strong>The Winnipeg Singers</strong></p>
 		<p>Being in the same age group, The Winnipeg Singers and the Manitoba Chamber Orchestra are often seen together and frequent the same haunts. In fact, the two groups have performed together more than ten times.</p>
 		<p>The Winnipeg Singers consists of 24 trained voices, performing music that spans the times from the Renaissance to the present. The choir frequently commissions new Canadian choral works.</p>
-		<div class="well-white">
-			<p><strong>Pre-concert event</strong> / Arrive early for more music! Hear a special presentation by the <strong>Miles Macdonell Collegiate Vocal Ensemble</strong>; under the direction of <strong>Zane Zalis</strong>; 6:45 pm.</p>
-			<p><strong>MCO&rsquo;s Pizza Club</strong> / please note that the Pizza Club is sold out for this concert! Remember to book early for the next concert.</p>
+
+		<div>
+			<p>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by the Miles Macdonell Collegiate Vocal Ensemble; under the direction of Zane Zalis; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="MCO&rsquo;s Pizza Club is sold out for this event. Remember to reserve a space early for the next concert.">Pizza Club</button>
+			</p>
 		</div>
+
 		<strong>The concert begins at 7:30 pm on February 6th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
 		<div class="media">
 			<a class="pull-left" href="#extras" data-toggle="tab">
