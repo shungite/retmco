@@ -26,6 +26,13 @@ Template Name: Page Concert8 Template
 		<p><strong>Daniel Taylor on music</strong></p>
 		<p>Daniel Taylor is one of the most sought-after countertenors in the world. He is recognized as &ldquo;Canada&rsquo;s star countertenor&rdquo; and &ldquo;Canada’s most prolific classical recording artist,&rdquo; with his discography comprising over 95 recordings.</p>
 		<p>&ldquo;As we have revealed the frescoes of Michelangelo, so do we hope now to reveal that art that is hidden beyond the distractions of this world. Music speaks to us and to our humanity, it is what unites us.&rdquo;</p>
+
+		<div>
+			<p>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by University of Manitoba School of Music students; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book three days in advance for MCO&rsquo;s Pizza Club! Arrive at 6 pm for pizza and a pre-concert presentation, followed by the concert. Tickets are $7.50 for students, including pizza; adults pay regular price. Space is limited; call 204.783.7377 to reserve yours.">Pizza Club</button> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="On Monday, May 13th, enjoy a talk with MCO Music Director and Conductor Anne Manson and countertenor Daniel Taylor; McNally Robinson, Grant Park Shopping Centre.">McNally Robinson</button>
+			</p>
+		</div>
+
 		<strong>The concert begins at 7:30 pm on May 14th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</strong>
 		<p class="fineprint">&nbsp;<p>
 	</div><!-- /span7 -->

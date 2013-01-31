@@ -23,6 +23,12 @@ Template Name: Page Concert2 Template
 		<p>In its forty seasons the MCO has introduced more up-and-coming young stars than you can shake a baton at. Karen Gomyo is well on her way. The <em>Chicago Tribune</em> called her &ldquo;a first-rate artist of real musical command, vitality, brilliance and intensity.&rdquo;</p>
 		<p><a href="http://karengomyo.com/">Karen Gomyo</a> was born in Tokyo and grew up in Montreal and New York. She was the recipient of the prestigious Avery Fisher Career Grant in 2008. An extra treat: Karen Gomyo plays on a Stradivarius violin that was bought for her exclusive use by a private sponsor.</p>
 		<p>Guest conductor <a href="http://www.scott-yoo.com/">Scott Yoo</a> has crafted a crafty programme for this show. From the Mozart concerto through Schoenberg&rsquo;s one-movement string work to a reprise performance of Morlock&rsquo;s Nostalgia, this repertoire will keep you on your toes!</p>
+
+		<div>
+			<p>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by violin students of the Suzuki Talent Education Institute of Manitoba; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book three days in advance for MCO&rsquo;s Pizza Club! Arrive at 6 pm for pizza and a pre-concert presentation, followed by the concert. Tickets are $7.50 for students, including pizza; adults pay regular price. Space is limited; call 204.783.7377 to reserve yours.">Pizza Club</button>
+			</p>
+		</div>
 		<b>The concert begins at 7:30 pm on November 21st in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (783-7377).</b>
 			<div class="media">
 				<a class="pull-left" href="#extras" data-toggle="tab">

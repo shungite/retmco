@@ -25,6 +25,13 @@ Template Name: Page Concert1 Template
 		<p>Watch for sneak previews of the material late in the summer at special concerts at The Forks and  at the Lyric Theatre. This material, combined with Kradjian&rsquo;s <em>Trobairitz Ysabella</em>, will form the basis of a new recording.</p>
 		<p><strong>Serouj Kradjian</strong></p>
 		<p>Serouj Kradjian is the musical mind behind the MCO&rsquo;s memorable concert that featured the Armenian music of Gomidas. The pianist and composer (and Isabel&rsquo;s husband) has established himself as a versatile artist whose readiness to break boundaries and explore different styles has made him an exciting voice on the international music scene.</p>
+
+		<div>
+			<p>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="On Tuesday, September 11th, enjoy a talk with MCO Music Director and Conductor Anne Manson and Serouj Kradjian; McNally Robinson, Grant Park Shopping Centre.">McNally Robinson</button>
+			</p>
+		</div>
+
 		<b>The concert begins at 7:30 pm on September 12th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $26.50 for adults, $24.50 for seniors and $7.50 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204.783.7377).</b>
 			<div class="media">
 				<a class="pull-left" href="#extras" data-toggle="tab">
