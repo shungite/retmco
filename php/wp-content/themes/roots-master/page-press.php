@@ -26,8 +26,8 @@ Template Name: Page Press Template
 			<li class="active"><a href="#mco" data-toggle="tab"><strong>MCO bio</strong></a></li>
 			<li><a href="#manson" data-toggle="tab"><strong>Anne Manson</strong></a></li>
 			<li><a href="#stobbe" data-toggle="tab"><strong>Karl Stobbe</strong></a></li>
-			<li><a href="#quotes" data-toggle="tab"><strong>Press quotes</strong></a></li>
 			<li><a href="#reviews" data-toggle="tab"><strong>Reviews</strong></a></li>
+			<li><a href="#quotes" data-toggle="tab"><strong>Quick quotes</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="mco">
@@ -63,35 +63,6 @@ Template Name: Page Press Template
 				<p>Described as an artist with &ldquo;soulful musicianship&rdquo; (<i>San Francisco Classical Voice</i>, 2008) and &ldquo;a remarkable artist who connects to his audience with laser-like focus&rdquo; (<i>Winnipeg Free Press</i>, 2003), Karl Stobbe has made a name for himself as one of Canada&rsquo;s most accomplished and diverse violinists. He regularly performs concerti, recitals, and chamber music, in addition to appearing frequently as a concertmaster in Canada and the US. In those roles, Karl has performed in Carnegie Hall, Jordan Hall, Segerstrom Hall, Roy Thomson Hall, the Orpheum Theatre, and many other important concert venues in North America. Karl is one of only a few people to perform as a soloist and chamber musician with Canada&rsquo;s National Arts Centre&rsquo;s Scene Festival in consecutive years, representing both the provinces of British Columbia and Manitoba as a featured artist. For his contribution to those events, he was invited to the Prime Minister&rsquo;s house for a reception celebrating the national music environment.</p>
 				<p>Karl has collaborated as a soloist with many exceptional conductors, including Andrey Boreyko, Bramwell Tovey, Simon Streatfeild, Roy Goodman and Anne Manson.  In recital as a soloist and with the Clearwater String Quartet, Karl will complete performances of all of the Bach Unaccompanied Violin Sonatas and Partitas, all six Ysaÿe Unaccompanied Violin Sonatas, and all 16 Beethoven String Quartets in the next year. He is an avid performer of new music, playing and premiering many solo and chamber works by national and international composers. Karl has partnered with renowned violinist / fiddler Mark O&rsquo;Connor in giving the Canadian premiere of O&rsquo;Connor&rsquo;s Double Violin Concerto, as well as giving the world premieres as a soloist in works by Michael Oesterle, Doug Smith, and Jocelyn Morlock. As a member of the Clearwater String Quartet, he has premiered and performed compositions by almost every important living Canadian composer, including the world premiere of R. Murray Schafer&rsquo;s ninth quartet.</p>
 				<p>A sought-after and dedicated teacher, Karl has maintained a private studio since the age of 18. He has conducted master classes throughout Canada and has taught at the universities of Manitoba and Brandon. His students have won many awards, completed advanced university music degrees and become fine musicians around the world. Karl has always loved woodworking, and completed a minor in Violin Repair and Construction while at Indiana University. He enjoys building new violins and has restored several older instruments. He appreciates the beautiful craftsmanship of the master luthiers as much as he enjoys playing their instruments.</p>
-			</div>
-			<div class="tab-pane fade" id="quotes">
-				<div class="well">
-					<p><strong>Quotations from reviews</strong></p>
-						<blockquote>
-		  				<p>... poise and polish.</p>
-	 						<small>New York Times</small>
-						</blockquote>
-						<blockquote>
-		  				<p>... an excellent string ensemble conducted with crispness and verve by Anne Manson.</p>
-	 						<small>San Francisco Chronicle</small>
-						</blockquote>
-						<blockquote>
-						  <p>Manson led the solid, polished orchestra in robust and committed performances.</p>
-					 		<small>Orange County Register</small>
-						</blockquote>
-						<blockquote>
-						  <p>They played wonderfully.</p>
-					 		<small>Vancouver Sun</small>
-						</blockquote>
-						<blockquote>
-						  <p>MCO is Canada’s tiny, perfect chamber orchestra.</p>
-					 		<small>Toronto Star</small>
-						</blockquote>
-						<blockquote>
-						  <p>... this orchestra is doing everything right ...</p>
-					 		<small>Winnipeg Free Press</small>
-						</blockquote>
-				</div>
 			</div>
 
 			<div class="tab-pane fade" id="reviews">
@@ -139,6 +110,36 @@ Template Name: Page Press Template
 						<p>The concert ended with Manson and the MCO whisking us off to Dvo&#345;&aacute;k's Czech countryside in a rousing performance of his elegantly substantial <em>Serenade for Strings</em>.</p>
 						<p>This is a work that shows the composer's love of the instruments &mdash; and he gives everyone a chance to shine. Overall, the musicians made the most of the opportunity, sweeping us up in the introductory melody with smooth bowing and effective nuance. The tempo di valse was wonderfully textured, only marred by a few stray violins letting their colleagues down with squeals and untidy notes. But the scherzo brimmed with life, violins scampering brightly and the finale was suitably upright and urgent. A nice start to the season.</p>
 					</article>
+				</div>
+			</div>
+
+			<div class="tab-pane fade" id="quotes">
+				<div class="well">
+					<p><strong>Quotations from reviews</strong></p>
+						<blockquote>
+						  <p>... this orchestra is doing everything right ...</p>
+					 		<small>Winnipeg Free Press</small>
+						</blockquote>
+						<blockquote>
+		  				<p>... poise and polish.</p>
+	 						<small>New York Times</small>
+						</blockquote>
+						<blockquote>
+		  				<p>... an excellent string ensemble conducted with crispness and verve by Anne Manson.</p>
+	 						<small>San Francisco Chronicle</small>
+						</blockquote>
+						<blockquote>
+						  <p>Manson led the solid, polished orchestra in robust and committed performances.</p>
+					 		<small>Orange County Register</small>
+						</blockquote>
+						<blockquote>
+						  <p>They played wonderfully.</p>
+					 		<small>Vancouver Sun</small>
+						</blockquote>
+						<blockquote>
+						  <p>MCO is Canada’s tiny, perfect chamber orchestra.</p>
+					 		<small>Toronto Star</small>
+						</blockquote>
 				</div>
 			</div>
 

@@ -68,7 +68,7 @@ Template Name: Page Concert4 Template
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
 			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
-		<div class="tab-content">
+		<div class="tab-content">	
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />6 February 2013</p>
 				<p>The Winnipeg Singers<br />Yuri Klaz, Music Director and Conductor</p>
