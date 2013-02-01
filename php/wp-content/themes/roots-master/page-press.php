@@ -27,6 +27,7 @@ Template Name: Page Press Template
 			<li><a href="#manson" data-toggle="tab"><strong>Anne Manson</strong></a></li>
 			<li><a href="#stobbe" data-toggle="tab"><strong>Karl Stobbe</strong></a></li>
 			<li><a href="#quotes" data-toggle="tab"><strong>Press quotes</strong></a></li>
+			<li><a href="#reviews" data-toggle="tab"><strong>Reviews</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="mco">
@@ -50,7 +51,7 @@ Template Name: Page Press Template
 				</dl> 
 			</div>
 			<div class="tab-pane fade" id="manson">
-				<p><strong>Anne Manson</strong></p>
+				<p><strong>Anne Manson, Music Director and Conductor</strong></p>
 				<p>Anne Manson, praised by <i>The New York Times</i> for conducting of &ldquo;balance, clarity and richness,&rdquo; is notable for her mastery of a wide range of opera and orchestral repertoire, from new works by living composers such as Philip Glass, Peter Maxwell Davies and John Harbison, to fresh interpretations of canonic works.</p>
 				<p>Ms Manson currently serves as Music Director of the Manitoba Chamber Orchestra. She was the first woman to conduct at the Salzburg Festival, where she led Mussorgsky&rsquo;s <i>Boris Godunov</i> with the Vienna Philharmonic. She is one of only three women to have been appointed Music Director of a leading American symphony orchestra, having served as Music Director of the Kansas City Symphony from 1999 to 2003. She has guest conducted the Los Angeles Philharmonic, the London Philharmonic, the St. Paul Chamber Orchestra and the Swedish Chamber Orchestra. She recently made her debut with the American Composers Orchestra at Carnegie Hall, a performance <i>The New York Times</i> described as &ldquo;outstanding,&rdquo; and she works regularly with orchestras throughout Spain. Recent and upcoming projects include Harbison&rsquo;s <i>The Great Gatsby</i> at the Aspen Music Festival; a program of Stravinsky, Tchaikovsky and Haydn at the Spoleto Festival; Philip Glass&rsquo;s <i>Galileo Galilei</i> and Puccini&rsquo;s <i>Madame Butterfly</i> with the Portland Opera; a production of Janacek&rsquo;s <i>Cunning Little Vixen</i> with Juilliard Opera; and Bizet&rsquo;s <i>Pearl Fishers</i> with Virginia Opera. The Washington National Opera&rsquo;s American Opera Initiative, which will premiere four new works in its 2012/13 inaugural season, recently named her one of three artistic mentors for the program, whose mission is to develop and showcase the talents of promising young opera composers.</p>
 				<p><i>The New York Daily News</i> critic called Manson recent performance of Poulenc&rsquo;s <i>Dialogues des Carmelites</i> at The Juilliard School, &ldquo;one of the most thrilling musical experiences I&rsquo;ve ever had.&rdquo; Her first appearance with the New York City Opera, leading Samuel Barber&rsquo;s <i>Vanessa</i>, earned her the company&rsquo;s Richard F. Gold Debut Award. She also recently received Canada&rsquo;s DORA Award for outstanding musical direction for her work with the Canadian Opera Company on Benjamin Britten&rsquo;s <i>A Midsummer Night&rsquo;s Dream</i>. Manson conducted Philip Glass&rsquo;s <i>Orph&eacute;e</i> with Portland Opera, and a subsequent recording of the work was chosen &lsquo;Critics&rsquo; Pick&rsquo; of the month by <i>Opera News</i>. Other opera projects include: Donizetti&rsquo;s <i>Maria Stuarda</i> and the US premiere of Jonathan Dove&rsquo;s <i>The Adventures of Pinocchio</i> at Minnesota Opera; Mozart&rsquo;s <i>Così fan tutte</i> at San Francisco Opera and Offenbach&rsquo;s <i>Orph&eacute;e aux Enfers</i> at Juilliard, which <i>The Financial Times</i> called &ldquo;an elegant achievement.&rdquo;</p>
@@ -58,38 +59,87 @@ Template Name: Page Press Template
 				<p>Ms Manson came to prominence early in her career as Music Director of London&rsquo;s Mecklenburgh Opera (1988–1996), where she programmed operas ranging from Mozart to 20th-century rarities and new commissions. Other major engagements have included the premiere of Scott Wheeler&rsquo;s <i>Democracy</i> (commissioned by Placido Domingo) for Washington National Opera, Carlisle Floyd&rsquo;s <i>Susanna</i> for Grand Theatre de Gen&egrave;ve, and Donizetti&rsquo;s <i>Viva la Mamma</i> for Stockholm Royal Opera.</p>
 			</div>
 			<div class="tab-pane fade" id="stobbe">
-				<p><strong>Karl Stobbe</strong></p>
+				<p><strong>Karl Stobbe, Concertmaster</strong></p>
 				<p>Described as an artist with &ldquo;soulful musicianship&rdquo; (<i>San Francisco Classical Voice</i>, 2008) and &ldquo;a remarkable artist who connects to his audience with laser-like focus&rdquo; (<i>Winnipeg Free Press</i>, 2003), Karl Stobbe has made a name for himself as one of Canada&rsquo;s most accomplished and diverse violinists. He regularly performs concerti, recitals, and chamber music, in addition to appearing frequently as a concertmaster in Canada and the US. In those roles, Karl has performed in Carnegie Hall, Jordan Hall, Segerstrom Hall, Roy Thomson Hall, the Orpheum Theatre, and many other important concert venues in North America. Karl is one of only a few people to perform as a soloist and chamber musician with Canada&rsquo;s National Arts Centre&rsquo;s Scene Festival in consecutive years, representing both the provinces of British Columbia and Manitoba as a featured artist. For his contribution to those events, he was invited to the Prime Minister&rsquo;s house for a reception celebrating the national music environment.</p>
 				<p>Karl has collaborated as a soloist with many exceptional conductors, including Andrey Boreyko, Bramwell Tovey, Simon Streatfeild, Roy Goodman and Anne Manson.  In recital as a soloist and with the Clearwater String Quartet, Karl will complete performances of all of the Bach Unaccompanied Violin Sonatas and Partitas, all six Ysaÿe Unaccompanied Violin Sonatas, and all 16 Beethoven String Quartets in the next year. He is an avid performer of new music, playing and premiering many solo and chamber works by national and international composers. Karl has partnered with renowned violinist / fiddler Mark O&rsquo;Connor in giving the Canadian premiere of O&rsquo;Connor&rsquo;s Double Violin Concerto, as well as giving the world premieres as a soloist in works by Michael Oesterle, Doug Smith, and Jocelyn Morlock. As a member of the Clearwater String Quartet, he has premiered and performed compositions by almost every important living Canadian composer, including the world premiere of R. Murray Schafer&rsquo;s ninth quartet.</p>
 				<p>A sought-after and dedicated teacher, Karl has maintained a private studio since the age of 18. He has conducted master classes throughout Canada and has taught at the universities of Manitoba and Brandon. His students have won many awards, completed advanced university music degrees and become fine musicians around the world. Karl has always loved woodworking, and completed a minor in Violin Repair and Construction while at Indiana University. He enjoys building new violins and has restored several older instruments. He appreciates the beautiful craftsmanship of the master luthiers as much as he enjoys playing their instruments.</p>
 			</div>
 			<div class="tab-pane fade" id="quotes">
-				<p><strong>Quotations from reviews</strong></p>
-					<blockquote>
-	  				<p>... poise and polish.</p>
- 						<small>New York Times</small>
-					</blockquote>
-					<blockquote>
-	  				<p>... an excellent string ensemble conducted with crispness and verve by Anne Manson.</p>
- 						<small>San Francisco Chronicle</small>
-					</blockquote>
-					<blockquote>
-					  <p>Manson led the solid, polished orchestra in robust and committed performances.</p>
-				 		<small>Orange County Register</small>
-					</blockquote>
-					<blockquote>
-					  <p>They played wonderfully.</p>
-				 		<small>Vancouver Sun</small>
-					</blockquote>
-					<blockquote>
-					  <p>MCO is Canada’s tiny, perfect chamber orchestra.</p>
-				 		<small>Toronto Star</small>
-					</blockquote>
-					<blockquote>
-					  <p>... this orchestra is doing everything right ...</p>
-				 		<small>Winnipeg Free Press</small>
-					</blockquote>
-				<p>Full reviews may be found elswhere on this site.</p>
+				<div class="well">
+					<p><strong>Quotations from reviews</strong></p>
+						<blockquote>
+		  				<p>... poise and polish.</p>
+	 						<small>New York Times</small>
+						</blockquote>
+						<blockquote>
+		  				<p>... an excellent string ensemble conducted with crispness and verve by Anne Manson.</p>
+	 						<small>San Francisco Chronicle</small>
+						</blockquote>
+						<blockquote>
+						  <p>Manson led the solid, polished orchestra in robust and committed performances.</p>
+					 		<small>Orange County Register</small>
+						</blockquote>
+						<blockquote>
+						  <p>They played wonderfully.</p>
+					 		<small>Vancouver Sun</small>
+						</blockquote>
+						<blockquote>
+						  <p>MCO is Canada’s tiny, perfect chamber orchestra.</p>
+					 		<small>Toronto Star</small>
+						</blockquote>
+						<blockquote>
+						  <p>... this orchestra is doing everything right ...</p>
+					 		<small>Winnipeg Free Press</small>
+						</blockquote>
+				</div>
+			</div>
+
+			<div class="tab-pane fade" id="reviews">
+				<div class="well-white">
+					<article>
+						<h4>Pianist Hamelin<br />like fine wine in MCO concert</h4>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Anne Manson, conductor; Marc-Andr&eacute; Hamelin, piano<br />Westminster United church; Wed, Jan 9<br />Attendance: 765<br />Four and a half stars out of five<br />&nbsp;</p>
+						<p>Many talented young artists abound but there is nothing like hearing well-honed artistry aged like fine wine.</p>
+						<p>World-class pianist Marc Andr&eacute; Hamelin wowed the crowd Wednesday night as the featured guest soloist for the Manitoba Chamber Orchestra&rsquo;s latest concert. The program led by MCO music director/conductor Anne Manson included, unusually, not one, but two piano concertos, as well as a pair of contemporary works.</p>
+						<p>Now based in Boston, the acclaimed Montreal-born musician marked his debut on the MCO stage in 1991, with his last appearance here in 2010. His rapport with both the orchestra and its loyal audience is palpable. Every time the Juno-winning artist comes to town, he&rsquo;s welcomed to the stage like a rock star, eliciting loud cheers even before he&rsquo;s tickled a single ivory.</p>
+						<p>Shostakovich&rsquo;s Concerto in C Minor for Piano, Trumpet and String Orchestra, Op. 35 is one of those great works one never tires of hearing. Hamelin pounced on his keyboard during the first movement allegretto's declamatory opening, followed by a solemn opening theme. He established at the onset this would be a take-no-prisoners performance, with his virtuosic technique easily handling the sparkling runs that erupt into brilliant octave passages. His cadenzas, courtesy of fabled Polish pianist Wanda Landowska, were effective, although one longed to hear how Hamelin &mdash; himself a composer &mdash; would have treated these showcase moments.</p>
+						<p>Canadian guest trumpeter Guy Few, poised standing at the opposite side of the stage, interpolated his own sardonic commentary, spinning long sotto voce phrases with an impressive breath control and nerves of steel. His muted solo during the world-weary Lento proved to be particular highlight.</p>
+						<p>After the ever-curiously short moderato that segues into the allegro con brio, Hamelin unleashed the fireworks, driving his piano &mdash; and the orchestra &mdash; forward like a runaway train. Always in supreme control, the soloist's vigorous finale including whipping glissandi and vaulting chords made this a performance that won&rsquo;t soon be forgotten.</p>
+						<p>As expected, the crowd of 765 leapt to their feet, demanding three curtain calls from the two guest artists. In response, Hamelin delivered a witty encore of Chopin's Minute Waltz Op.64 No.1 that begins traditionally but morphs into a dissonant variant.</p>
+						<p>Hamelin also performed Haydn&rsquo;s Piano Concerto in D Major, which brims with sunny optimism, if not overly technical demands. Still, you could sense the pleasure that he gets from playing this light-hearted music.</p>
+						<p>The concert opened with the world premi&egrave;re of <em>Virtuosities</em> (2012) by Vancouver-based composer Dorothy Chang, who was in attendance. The work was commissioned by the MCO as part of its ongoing 40th anniversary celebrations. Its three movements &mdash; <em>To dream, perchance to fly</em>, <em>Souvenir</em> and <em>Mechanica</em> &mdash; displayed Chang's ability to craft clearly structured, intensely focused works.</p>
+						<p>Spanish composer Jos&eacute; Evangelista&rsquo;s Concerto Con Brio teemed with baroque influences, with its florid central movement <em>M&eacute;lismatique</em> an evocative highlight.</p>
+						<p align="center">&#8258;</p>
+					</article>
+					<article>
+						<h4>MCO delivers eclectic show</h4>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Scott Yoo, conductor; Karen Gomyo, violin<br />Westminster United church; Wed, Nov 21<br />Attendance: 640<br />Three and a half stars out of five<br />&nbsp;</p>
+						<p>The Manitoba Chamber Orchestra has always been unafraid to venture into uncharted waters, frequently commissioning brave new works as well as performing established pieces that may be more challenging for its loyal audience base.</p>
+						<p>Wednesday night&rsquo;s concert led by Scott Yoo proved to be vintage MCO, with the eclectic triple bill offering two string orchestra works as well as guest violinist Karen Gomyo performing Mozart&rsquo;s Violin Concerto No. 5 in A Major, K 219 &mdash; also known as the &lsquo;Turkish.&rsquo;</p>
+						<p>Composed in 1775, Mozart&rsquo;s fifth violin concerto is unique for so many reasons. One of them is the soloist&rsquo;s first entry during the Allegro aperto that abruptly departs from the orchestra&rsquo;s brisk opening to a momentary dreamy, quiet state.</p>
+						<p>Gomyo immediately asserted her presence, crisply executing the technical runs with ease while also displaying flawless intonation and pleasing vibrato. Her gorgeous Stradivarius violin, gifted to her by a private donor, only enhanced her pure tone. She fearlessly tackled the cadenza with its double stops and multiple tonalities, which allowed further opportunity to hear her more intently.</p>
+						<p>She next imbued the Adagio with lyrical grace, although some phrasing could have breathed more. The finale, Rondeau: Tempo di menuetto, began with all its courtly manners before erupting into its alter ego &mdash; the (relatively) rough &lsquo;n&rsquo; tumble Turkish romp where the cellos and basses beat their strings with the wood of their bows. At this point, the performance really roared to life.</p>
+						<p>Jocelyn Morlock is quickly establishing herself as a leading Canadian composer, acclaimed for both her lyrical writing and sensitive ear for sonority. After receiving a bachelor of music degree from Brandon University she pursued doctoral studies at the University of British Columbia in Vancouver, where she now resides.</p>
+						<p>It&rsquo;s a pleasure to hear her artfully crafted, MCO-commissioned Nostalgia again, which received its world premiere in 2007. Yoo led the orchestra &mdash; as he did five years ago &mdash; through its many textural ebbs and flows, including shimmering strings, elegiac cello lines and syncopated rhythmic outbursts. Its hint at J.S. Bach&rsquo;s Sonata for Viola da Gamba and Harpsichord, BWV1027 provided a reference point, although none was needed in this stirring piece that already displayed the hand of a fine composer in the making.</p>
+						<p>The concert ended with Arnold Schoenberg&rsquo;s Verkl&auml;rte Nacht (Transfigured Night), Op. 4 composed in 1899 that predates his daring invention of serial composition.</p>
+						<p>The one-movement piece unfolds as a multi-layered, rapturous journey into the heart that takes on an epic quality. Although its unrelenting intensity may not be everyone&rsquo;s cup of tea, the MCO is to commended for programming the ultra-romantic classic, led with finesse &mdash; and without score &mdash; by the dynamic Yoo.</p>
+						<p align="center">&#8258;</p>
+					</article>
+					<article>
+						<h4>Singer Bayrakdarian illustrates<br /> how music transcends language</h4>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Gwenda Nemerofsky<br />Manitoba Chamber Orchestra; Isabel Bayrakdarian, soprano<br />Westminster United church; Wed, Sep 12<br />Attendance: 604<br />Four stars out of five<br />&nbsp;</p>
+						<p>If you ever doubted that music could transcend language, Wednesday night&rsquo;s Manitoba Chamber Orchestra (MCO) concert would have changed your mind.</p>
+						<p>Guest artist, spectacular Armenian-Canadian soprano Isabel Bayrakdarian sang in Greek and Armenian. Audience members were provided lyric sheets with translations, but who wanted to read fussy bits of paper when Bayrakdarian was onstage? This musical treasure told us everything we needed to know with her limpid voice, impassioned facial expressions and graceful gestures. No words necessary.</p>
+						<p>The concert was introduced by the always debonair CBC Radio 2 personality, Bill Richardson. Conductor Anne Manson was at the helm for this 40th anniversary season opener.</p>
+						<p><strong>Gourmet candy</strong></p>
+						<p>Bayrakdarian began with <em>Five Greek Songs</em> by Maurice Ravel, arranged by her husband Serouj Kradjian. It was evident from the singer&rsquo;s appearance that the couple is expecting an addition to their family soon, but this did not affect her gorgeous voice. The song cycle resembled a box of gourmet candy, each piece more deliciously tempting than the last.</p>
+						<p><em>Song of the Bride</em> was immediately lilting, full of colour and power. <em>Yonder, Near the Church</em> had a somewhat melancholy tenor, rendered with long seamless phrases that were satisfyingly assertive. Bayrakdarian is so communicative, possessing a unique style that makes you feel that she is singing right to you. The soulful <em>Song of the Lentisk Gatherers</em> displayed her purity of tone, full of emotion and subtle inflection. And <em>All Merry!</em> was a dance in song form, bursting with playfulness.</p>
+						<p>The addition of the separate Ravel song, <em>Tripatos</em> was joyous fun, Bayrakdarian almost laughing as she sang.</p>
+						<p>She also performed 18th-century Armenian composer Sayat-Nova&rsquo;s <em>Four Songs</em>, arranged by Kradjian. One couldn&rsquo;t help but be struck by the modern tunefulness of the poignant first song <em>Kani Voor Janim</em>, Bayrakdarian&rsquo;s voice carrying effortlessly through the hall. Versatile concertmaster Karl Stobbe matched her emotion in his solo violin passages in <em>Blbooli Hit</em>, which was steeped in sorrow, his sensitive playing well-controlled. We felt we had travelled back in time to an earlier Armenia. The spirited Kamancha was an ode to the Armenian bowed instrument. Bayrakdarian&rsquo;s weighty voice crafted this beautifully, deftly shaping phrase endings, imbuing it with personality. You really couldn&rsquo;t ask for more.</p>
+						<p>The concert ended with Manson and the MCO whisking us off to Dvo&#345;&aacute;k's Czech countryside in a rousing performance of his elegantly substantial <em>Serenade for Strings</em>.</p>
+						<p>This is a work that shows the composer's love of the instruments &mdash; and he gives everyone a chance to shine. Overall, the musicians made the most of the opportunity, sweeping us up in the introductory melody with smooth bowing and effective nuance. The tempo di valse was wonderfully textured, only marred by a few stray violins letting their colleagues down with squeals and untidy notes. But the scherzo brimmed with life, violins scampering brightly and the finale was suitably upright and urgent. A nice start to the season.</p>
+					</article>
+				</div>
 			</div>
 
 		</div><!-- /tab-content -->
