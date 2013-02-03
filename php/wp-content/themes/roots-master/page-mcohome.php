@@ -50,7 +50,7 @@ Template Name: Page MCOhome Template
 			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#">Upcoming sale at MCO&rsquo;s Vinyl Vault:<br>Saturday, 26 January 2013, 10 am to 3 pm.</strong></a><br />Rummage around in one of the city's largest used record collection! Find rare jazz titles, pop, classical, rock, country, folk, easy listening and much more &mdash; collectibles a speciality! Located in the basement of the Power Building, 428 Portage Avenue (near The Bay).</p> 
+			<p><strong><a href="#">Next sale at MCO&rsquo;s Vinyl Vault:<br>Saturday, 23 February 2013, 10 am to 3 pm.</strong></a><br />Rummage around in one of the city's largest used record collection! Find rare jazz titles, pop, classical, rock, country, folk, easy listening and much more &mdash; collectibles a speciality! Located in the basement of the Power Building, 428 Portage Avenue (near The Bay).</p> 
 		</div>
 	</div>
 </div>
