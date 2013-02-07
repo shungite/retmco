@@ -8,15 +8,15 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/concert/winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head06feb13.jpg"></a>
-		<h4>A double celebration:<br />The Winnipeg Singers and the MCO</h4>
-		<p>The Winnipeg Singers and the MCO celebrate 40 years this season, and this concert is the birthday party! Yuri Klaz will conduct a varied program of choral works by Vivaldi, Tallis, Mendelssohn, Arvo P&auml;rt, Imant Raminsh and Glenn Buhr. Read lots more about the concert <a href="http://www.themco.ca/concert/winnipeg-singers/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
-		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=89e3b17ba5474af284f562865c4b70e1"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
- 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=696960f1b3b241bab82da74d814a3c13"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a>
-	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=49f2aef74f6c4dabb1248afb38f3358d"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
-
+   	<a href="http://www.themco.ca/concert/fialkowska/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head19feb13.jpg"></a>
+		<h4>&ldquo;If you have the chance<br>to hear her, cancel all other appointments.&rdquo;</h4>
+		<p><i>The Evening Standard</i> in London is right: this is a concert you won&rsquo;t want to miss! Janina Fialkowska will perform Mozart&rsquo;s Piano Concerto No. 12 in A major (K414) with Anne Manson and the MCO. Read lots more about the concert <a href="http://www.themco.ca/concert/fialkowska/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
+		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=91b27cbe6bf64a1b8244f6289f5273d3"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
+ 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=d54722441d95415db11ae848b79d5583"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a>
+	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=743f6309b592497c81325e9b16f06e23"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
 		</p>
   </div>
+
 </div><!-- /row -->
 
 <div class="row-fluid">
