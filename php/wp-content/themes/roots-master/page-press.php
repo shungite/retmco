@@ -81,6 +81,7 @@ Template Name: Page Press Template
 						<p>The crowd leaped to its feet, clearly appreciative of the work&rsquo;s sheer technical difficulty, as well as all-encompassing sound.</p>
 						<p>The concert opened with Vivaldi&rsquo;s <i>Credo</i>, performed with crisp attack and clear diction. By contrast, Latvian-born Canadian composer Imant Raminsh&rsquo;s Psalm 121 is a sonorous expression of faith that melds one phrase into another.</p>
 						<p>Mendelssohn&rsquo;s <i>Jesu, Meine Freude</i> closed the decidedly non-secular concert with a joyful noise, as an example of what this versatile, 40-years-young choir &mdash; not to mention its artistic twin, the fine MCO &mdash; does best.</p>
+						<p align="center">&#8258;</p>
 					</article>
 					<article>
 						<h4>Pianist Hamelin<br />like fine wine in MCO concert</h4>
