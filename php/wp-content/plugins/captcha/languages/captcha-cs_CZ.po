@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: captcha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-08 13:34+0200\n"
-"PO-Revision-Date: 2012-10-08 13:34+0200\n"
+"POT-Creation-Date: 2013-01-02 13:35+0200\n"
+"PO-Revision-Date: 2013-01-02 13:35+0200\n"
 "Last-Translator: zos <zos@bestwebsoft.com>\n"
 "Language-Team: globus2008 <globus@email.cz>\n"
 "Language: cs_CZ\n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: captcha.php:31
@@ -75,7 +76,7 @@ msgstr "Aktivavané pluginy"
 msgid "Read more"
 msgstr "Přečíst více"
 
-#: captcha.php:102 captcha.php:222 captcha.php:231
+#: captcha.php:102 captcha.php:221 captcha.php:230
 msgid "Settings"
 msgstr "Nastavení"
 
@@ -108,7 +109,7 @@ msgstr ""
 "Pokud máte nějakou otázku, kontaktujte nás na plugin@bestwebsoft.com nebo "
 "vyplňte kontaktní formulář na našich stránkách"
 
-#: captcha.php:130 captcha.php:295
+#: captcha.php:130 captcha.php:294
 msgid "Captcha Options"
 msgstr "CAPTCHA nastavení"
 
@@ -116,46 +117,46 @@ msgstr "CAPTCHA nastavení"
 msgid "Captcha"
 msgstr "Captcha"
 
-#: captcha.php:232
+#: captcha.php:231
 msgid "FAQ"
 msgstr "FAQ - často kladdené otázky"
 
-#: captcha.php:233
+#: captcha.php:232
 msgid "Support"
 msgstr "Podpora"
 
-#: captcha.php:277
+#: captcha.php:276
 msgid ""
 "Please select one point in the blocks Arithmetic actions and Difficulty for "
 "CAPTCHA"
 msgstr ""
 "Prosím vyberte jeden bod v bloku aritmetických funkcí  a obtížnosti Captcha"
 
-#: captcha.php:281
+#: captcha.php:280
 msgid "Options saved."
 msgstr "Nastavení uloženo"
 
-#: captcha.php:301
+#: captcha.php:300
 msgid "Enable CAPTCHA on the:"
 msgstr "Povolit CAPTCHA v:"
 
-#: captcha.php:310 captcha.php:313 captcha.php:317
+#: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "Contact form"
 msgstr "Kontaktní formulář"
 
-#: captcha.php:310 captcha.php:313 captcha.php:317
+#: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "(power by bestwebsoft.com)"
 msgstr "(běží na  bestwebsoft.com)"
 
-#: captcha.php:313
+#: captcha.php:312
 msgid "Activate contact form"
 msgstr "Aktivovat kontaktní formulář"
 
-#: captcha.php:317
+#: captcha.php:316
 msgid "Download contact form"
 msgstr "Stáhnout kontaktní formulář"
 
-#: captcha.php:319
+#: captcha.php:318
 msgid ""
 "If you would like to customize this plugin for a custom form, please contact "
 "us via <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> "
@@ -165,37 +166,37 @@ msgstr ""
 "prosím na  <a href=\"Mailto:plugin@bestwebsoft.com\"> plugin@bestwebsoft.com "
 "</ a> nebo vyplňte kontaktní formulář na našich stránkách"
 
-#: captcha.php:323
+#: captcha.php:322
 msgid "Label for CAPTCHA in form"
 msgstr "Nadpis pro CAPTCHA ve formuláři"
 
-#: captcha.php:327
+#: captcha.php:326
 msgid "Arithmetic actions for CAPTCHA"
 msgstr "Aritmetické operace pro CAPTCHA"
 
-#: captcha.php:336
+#: captcha.php:335
 msgid "Difficulty for CAPTCHA"
 msgstr "Obtížnost pro CAPTCHA"
 
-#: captcha.php:346
+#: captcha.php:345
 msgid "Save Changes"
 msgstr "Uložit změny"
 
-#: captcha.php:390 captcha.php:396 captcha.php:544 captcha.php:551
-#: captcha.php:561 captcha.php:568
+#: captcha.php:389 captcha.php:395 captcha.php:560 captcha.php:567
+#: captcha.php:577 captcha.php:584
 msgid "ERROR"
 msgstr "Chyba"
 
-#: captcha.php:390 captcha.php:412 captcha.php:511 captcha.php:544
-#: captcha.php:561 captcha.php:584
+#: captcha.php:389 captcha.php:411 captcha.php:527 captcha.php:560
+#: captcha.php:577 captcha.php:600
 msgid "Please complete the CAPTCHA."
 msgstr "Prosím vyplňte CAPTCHA pole"
 
-#: captcha.php:396 captcha.php:423 captcha.php:551 captcha.php:568
+#: captcha.php:395 captcha.php:422 captcha.php:567 captcha.php:584
 msgid "That CAPTCHA was incorrect."
 msgstr "Špatně vyplněné pole CAPTCHA"
 
-#: captcha.php:517 captcha.php:591
+#: captcha.php:533 captcha.php:607
 msgid ""
 "Error: You entered in the wrong CAPTCHA phrase. Press your browser's back "
 "button and try again."
@@ -203,127 +204,127 @@ msgstr ""
 "Chyba. Byl vložen špatný text do CAPTCHA. Stiskněte ve Vašem prohlížeči "
 "tlačítko zpět a zkuste to znovu."
 
-#: captcha.php:606 captcha.php:840
+#: captcha.php:622 captcha.php:856
 msgid "zero"
 msgstr "nula"
 
-#: captcha.php:607 captcha.php:841 captcha.php:1031
+#: captcha.php:623 captcha.php:857 captcha.php:1047
 msgid "one"
 msgstr "jedna"
 
-#: captcha.php:608 captcha.php:842
+#: captcha.php:624 captcha.php:858
 msgid "two"
 msgstr "dva"
 
-#: captcha.php:609 captcha.php:843
+#: captcha.php:625 captcha.php:859
 msgid "three"
 msgstr "tři"
 
-#: captcha.php:610 captcha.php:844
+#: captcha.php:626 captcha.php:860
 msgid "four"
 msgstr "čtyři"
 
-#: captcha.php:611 captcha.php:845
+#: captcha.php:627 captcha.php:861
 msgid "five"
 msgstr "pět"
 
-#: captcha.php:612 captcha.php:846 captcha.php:1031
+#: captcha.php:628 captcha.php:862 captcha.php:1047
 msgid "six"
 msgstr "šest"
 
-#: captcha.php:613 captcha.php:847 captcha.php:1019 captcha.php:1025
+#: captcha.php:629 captcha.php:863 captcha.php:1035 captcha.php:1041
 msgid "seven"
 msgstr "sedm"
 
-#: captcha.php:614 captcha.php:848 captcha.php:1022
+#: captcha.php:630 captcha.php:864 captcha.php:1038
 msgid "eight"
 msgstr "osm"
 
-#: captcha.php:615 captcha.php:849
+#: captcha.php:631 captcha.php:865
 msgid "nine"
 msgstr "devět"
 
-#: captcha.php:618 captcha.php:852
+#: captcha.php:634 captcha.php:868
 msgid "eleven"
 msgstr "jedenáct"
 
-#: captcha.php:619 captcha.php:853
+#: captcha.php:635 captcha.php:869
 msgid "twelve"
 msgstr "dvanáct"
 
-#: captcha.php:620 captcha.php:854
+#: captcha.php:636 captcha.php:870
 msgid "thirteen"
 msgstr "třináct"
 
-#: captcha.php:621 captcha.php:855
+#: captcha.php:637 captcha.php:871
 msgid "fourteen"
 msgstr "čtrnáct"
 
-#: captcha.php:622 captcha.php:856
+#: captcha.php:638 captcha.php:872
 msgid "fifteen"
 msgstr "patnáct"
 
-#: captcha.php:623 captcha.php:857
+#: captcha.php:639 captcha.php:873
 msgid "sixteen"
 msgstr "šestnáct"
 
-#: captcha.php:624 captcha.php:858
+#: captcha.php:640 captcha.php:874
 msgid "seventeen"
 msgstr "sedmnáct"
 
-#: captcha.php:625 captcha.php:859
+#: captcha.php:641 captcha.php:875
 msgid "eighteen"
 msgstr "osmnáct"
 
-#: captcha.php:626 captcha.php:860
+#: captcha.php:642 captcha.php:876
 msgid "nineteen"
 msgstr "devatenáct"
 
-#: captcha.php:629 captcha.php:863
+#: captcha.php:645 captcha.php:879
 msgid "ten"
 msgstr "deset"
 
-#: captcha.php:630 captcha.php:864
+#: captcha.php:646 captcha.php:880
 msgid "twenty"
 msgstr "dvacet"
 
-#: captcha.php:631 captcha.php:865
+#: captcha.php:647 captcha.php:881
 msgid "thirty"
 msgstr "třicet"
 
-#: captcha.php:632 captcha.php:866
+#: captcha.php:648 captcha.php:882
 msgid "forty"
 msgstr "čtyřicet"
 
-#: captcha.php:633 captcha.php:867
+#: captcha.php:649 captcha.php:883
 msgid "fifty"
 msgstr "padesát"
 
-#: captcha.php:634 captcha.php:868
+#: captcha.php:650 captcha.php:884
 msgid "sixty"
 msgstr "šedesát"
 
-#: captcha.php:635 captcha.php:869
+#: captcha.php:651 captcha.php:885
 msgid "seventy"
 msgstr "sedmdesát"
 
-#: captcha.php:636 captcha.php:870
+#: captcha.php:652 captcha.php:886
 msgid "eighty"
 msgstr "osmdesát"
 
-#: captcha.php:637 captcha.php:871
+#: captcha.php:653 captcha.php:887
 msgid "ninety"
 msgstr "devadesát"
 
-#: captcha.php:724 captcha.php:958
+#: captcha.php:740 captcha.php:974
 msgid "and"
 msgstr "a"
 
-#: captcha.php:743
+#: captcha.php:759
 msgid "The password of encryption is not set"
 msgstr "Heslo pro kódování není nastaveno"
 
-#: captcha.php:762
+#: captcha.php:778
 msgid "The password of decoding is not set"
 msgstr "The password of decoding is not set"
 

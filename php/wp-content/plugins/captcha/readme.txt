@@ -3,8 +3,10 @@ Contributors: bestwebsoft
 Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10&product_id=13
 Tags: captcha, math captcha, text captcha, spam, antispam, login, registration, comment, lost password, capcha, catcha, captha
 Requires at least: 2.9
-Tested up to: 3.4.2
-Stable tag: 2.34
+Tested up to: 3.5.1
+Stable tag: 3.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you to implement super security captcha form into web forms.
 
@@ -29,6 +31,7 @@ Captcha plugin allows you to protect your website from spam using math logic whi
 * Czech (cs_CZ) (thanks to Tomas Vesely)
 * Danish (da_DK) (thanks to Byrial Ole Jensed)
 * Dutch (nl_NL) (thanks to <a href="mailto:byrial@vip.cybercity.dk">Bart Duineveld</a>)
+* Estonian (et) (thanks to <a href="mailto:ahto2@moonsoftware.com">Ahto Tanner</a>)
 * Greek (el) (thanks to Aris, <a href="http://paraxeno.net">paraxeno.net</a>)
 * Farsi/Persian (fa_IR) (thanks to <a href="mailto:info[at]mpspace[dot]zio[dot]ir">Meysam Parvizi</a>, <a href="http://mpspace.zio.ir">mpspace.zio.ir</a>)
 * Finnish (fi) (thanks to Mikko Sederholm)
@@ -39,9 +42,13 @@ Captcha plugin allows you to protect your website from spam using math logic whi
 * Hungarian (hu_HU) (thanks to Bőm Tamás)
 * Japanese (ja) (thanks to Foken)
 * Italian (it_IT) (thanks to Gianluca Di Carlo)
+* Lithuanian (lt_LT) (thanks to <a href="mailto:arnas.metal@gmail.com">Arnas</a>)
 * Norwegian (nb_NO) (thanks to Tore Hjartland)
 * Polish (pl_PL) (thanks to Krzysztof Opuchlik)
+* Romanian (ro_RO) (thanks to Ciprian)
 * Russian (ru_RU)
+* Serbian (sr_RS) (thanks to Radovan Georgijevic)
+* Slovak (sk_SK) (thanks to Branco Radenovich)
 * Spain (es_ES) (thanks to Iván García Cubero)
 * Swedish (sv_SE) (thanks to Christer Rönningborg)
 * Turkish (tr_TR) (thanks to Can Atasever, <a href="http://www.candanblog.com">candanblog.com</a>)
@@ -131,6 +138,27 @@ It is possible to enter this line in variable and display this variable in requi
 5. Login form with Captcha.
 
 == Changelog ==
+
+= V3.0 - 08.01.2013 =
+* Bugfix : Display bug was fixed.
+
+= V2.4.4 - 31.01.2013 =
+* Bugfix : Bugs in admin menu were fixed.
+
+= V2.4.3 - 30.01.2013 =
+* NEW : Estonian language file was added to the plugin.
+
+= V2.4.2 - 28.01.2013 =
+* NEW : Lithuanian language file was added to the plugin.
+* Update : We updated all functionality for wordpress 3.5.1.
+
+= V2.4.1 - 02.01.2013 =
+* Bugfix : call_user_func_array() bug was fixed. 
+
+= V2.4 - 21.12.2012 =
+* NEW : Romanian and Serbian and Slovak language files are added to the plugin.
+* Update : We updated the coding logic of Captcha.
+* Update : We updated all functionality for wordpress 3.5.
 
 = V2.34 - 08.10.2012 =
 * NEW : Chinese and Greek language files are added to the plugin.
@@ -259,6 +287,24 @@ It is possible to enter this line in variable and display this variable in requi
 
 == Upgrade Notice ==
 
+= V3.0 =
+Display bug was fixed.
+
+= V2.4.4 =
+Bugs in admin menu were fixed.
+
+= V2.4.3 =
+Estonian language file was added to the plugin.
+
+= V2.4.2 =
+Lithuanian language file was added to the plugin. We updated all functionality for wordpress 3.5.1.
+
+= V2.4.1 =
+call_user_func_array() bug was fixed. 
+
+= V2.4 =
+Romanian and Serbian and Slovak language files are added to the plugin. We updated the coding logic of Captcha. We updated all functionality for wordpress 3.5.
+
 = V2.34 =
 Chinese and Greek language files are added to the plugin.
 
@@ -320,6 +366,7 @@ Polish language files are added to the plugin.
 Brazilian Portuguese and French language files are added to the plugin.
 
 = V2.14 =
+
 German language files are added to the plugin.
 
 = V2.13 =

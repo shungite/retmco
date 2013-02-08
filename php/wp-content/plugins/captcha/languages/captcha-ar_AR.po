@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: captcha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-10-08 13:34+0200\n"
-"PO-Revision-Date: 2012-10-08 13:34+0200\n"
+"POT-Creation-Date: 2013-01-02 13:35+0200\n"
+"PO-Revision-Date: 2013-01-02 13:35+0200\n"
 "Last-Translator: zos <zos@bestwebsoft.com>\n"
 "Language-Team: Albayan Design Hani Aladoli <info@albayan-design.com>\n"
 "Language: ar\n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: captcha.php:31
@@ -75,7 +76,7 @@ msgstr "الاضافات المفعلة "
 msgid "Read more"
 msgstr "اقراء المزيد"
 
-#: captcha.php:102 captcha.php:222 captcha.php:231
+#: captcha.php:102 captcha.php:221 captcha.php:230
 msgid "Settings"
 msgstr "الاعدادت "
 
@@ -109,7 +110,7 @@ msgstr ""
 "contact us via plugin@bestwebsoft.com  , او المراسلة الفورية من واجهة "
 "الاتصال بنا علي موقعنا الخاص"
 
-#: captcha.php:130 captcha.php:295
+#: captcha.php:130 captcha.php:294
 msgid "Captcha Options"
 msgstr "خيارات Captcha "
 
@@ -117,45 +118,45 @@ msgstr "خيارات Captcha "
 msgid "Captcha"
 msgstr "Captcha"
 
-#: captcha.php:232
+#: captcha.php:231
 msgid "FAQ"
 msgstr "اسئلة واجوبة"
 
-#: captcha.php:233
+#: captcha.php:232
 msgid "Support"
 msgstr "الدعم"
 
-#: captcha.php:277
+#: captcha.php:276
 msgid ""
 "Please select one point in the blocks Arithmetic actions and Difficulty for "
 "CAPTCHA"
 msgstr "يرجى تحديد نقطة واحدة في الأعمال الحسابية لـ CAPTCHA"
 
-#: captcha.php:281
+#: captcha.php:280
 msgid "Options saved."
 msgstr "تم حفظ التغييرات"
 
-#: captcha.php:301
+#: captcha.php:300
 msgid "Enable CAPTCHA on the:"
 msgstr "تفعيل الـ CAPTCHA علي :"
 
-#: captcha.php:310 captcha.php:313 captcha.php:317
+#: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "Contact form"
 msgstr "نموذج الاتصال"
 
-#: captcha.php:310 captcha.php:313 captcha.php:317
+#: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "(power by bestwebsoft.com)"
 msgstr "(برمجة bestwebsoft.com)"
 
-#: captcha.php:313
+#: captcha.php:312
 msgid "Activate contact form"
 msgstr "تفعيل نموذج الاتصال"
 
-#: captcha.php:317
+#: captcha.php:316
 msgid "Download contact form"
 msgstr "تحميل الاتصال بنا "
 
-#: captcha.php:319
+#: captcha.php:318
 msgid ""
 "If you would like to customize this plugin for a custom form, please contact "
 "us via <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> "
@@ -165,37 +166,37 @@ msgstr ""
 "بنا عبر <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</"
 "a>  او عبر نموذج الاتصال علي موقعنا الخاص"
 
-#: captcha.php:323
+#: captcha.php:322
 msgid "Label for CAPTCHA in form"
 msgstr "تسمية لـCAPTCHA  في النموذج"
 
-#: captcha.php:327
+#: captcha.php:326
 msgid "Arithmetic actions for CAPTCHA"
 msgstr "الإجراءات الحسابية لCAPTCHA"
 
-#: captcha.php:336
+#: captcha.php:335
 msgid "Difficulty for CAPTCHA"
 msgstr "مدي صعوبة لـ CAPTCHA"
 
-#: captcha.php:346
+#: captcha.php:345
 msgid "Save Changes"
 msgstr "حفظ التغييرات"
 
-#: captcha.php:390 captcha.php:396 captcha.php:544 captcha.php:551
-#: captcha.php:561 captcha.php:568
+#: captcha.php:389 captcha.php:395 captcha.php:560 captcha.php:567
+#: captcha.php:577 captcha.php:584
 msgid "ERROR"
 msgstr "خطاء"
 
-#: captcha.php:390 captcha.php:412 captcha.php:511 captcha.php:544
-#: captcha.php:561 captcha.php:584
+#: captcha.php:389 captcha.php:411 captcha.php:527 captcha.php:560
+#: captcha.php:577 captcha.php:600
 msgid "Please complete the CAPTCHA."
 msgstr "الرجاء تكملة الـ  CAPTCHA ."
 
-#: captcha.php:396 captcha.php:423 captcha.php:551 captcha.php:568
+#: captcha.php:395 captcha.php:422 captcha.php:567 captcha.php:584
 msgid "That CAPTCHA was incorrect."
 msgstr "الـ  CAPTCHA  غير صحيح"
 
-#: captcha.php:517 captcha.php:591
+#: captcha.php:533 captcha.php:607
 msgid ""
 "Error: You entered in the wrong CAPTCHA phrase. Press your browser's back "
 "button and try again."
@@ -203,127 +204,127 @@ msgstr ""
 "خطاء : لقد قمت بأدخال CAPTCHA  غير صحيح ’, اضغظ علي زر الرجوع في متصفحك "
 "والتجربة مرة اخري"
 
-#: captcha.php:606 captcha.php:840
+#: captcha.php:622 captcha.php:856
 msgid "zero"
 msgstr "صفر"
 
-#: captcha.php:607 captcha.php:841 captcha.php:1031
+#: captcha.php:623 captcha.php:857 captcha.php:1047
 msgid "one"
 msgstr "واحد"
 
-#: captcha.php:608 captcha.php:842
+#: captcha.php:624 captcha.php:858
 msgid "two"
 msgstr "اتنان"
 
-#: captcha.php:609 captcha.php:843
+#: captcha.php:625 captcha.php:859
 msgid "three"
 msgstr "ثلاته"
 
-#: captcha.php:610 captcha.php:844
+#: captcha.php:626 captcha.php:860
 msgid "four"
 msgstr "اربعه"
 
-#: captcha.php:611 captcha.php:845
+#: captcha.php:627 captcha.php:861
 msgid "five"
 msgstr "خمسة"
 
-#: captcha.php:612 captcha.php:846 captcha.php:1031
+#: captcha.php:628 captcha.php:862 captcha.php:1047
 msgid "six"
 msgstr "سته"
 
-#: captcha.php:613 captcha.php:847 captcha.php:1019 captcha.php:1025
+#: captcha.php:629 captcha.php:863 captcha.php:1035 captcha.php:1041
 msgid "seven"
 msgstr "سبعة"
 
-#: captcha.php:614 captcha.php:848 captcha.php:1022
+#: captcha.php:630 captcha.php:864 captcha.php:1038
 msgid "eight"
 msgstr "ثمانية"
 
-#: captcha.php:615 captcha.php:849
+#: captcha.php:631 captcha.php:865
 msgid "nine"
 msgstr "تسعة"
 
-#: captcha.php:618 captcha.php:852
+#: captcha.php:634 captcha.php:868
 msgid "eleven"
 msgstr "احدي عشر "
 
-#: captcha.php:619 captcha.php:853
+#: captcha.php:635 captcha.php:869
 msgid "twelve"
 msgstr "اثني عشر"
 
-#: captcha.php:620 captcha.php:854
+#: captcha.php:636 captcha.php:870
 msgid "thirteen"
 msgstr "ثلاثة عشر "
 
-#: captcha.php:621 captcha.php:855
+#: captcha.php:637 captcha.php:871
 msgid "fourteen"
 msgstr "اربعة عشر"
 
-#: captcha.php:622 captcha.php:856
+#: captcha.php:638 captcha.php:872
 msgid "fifteen"
 msgstr "خمسة عشر"
 
-#: captcha.php:623 captcha.php:857
+#: captcha.php:639 captcha.php:873
 msgid "sixteen"
 msgstr "ستة عشر"
 
-#: captcha.php:624 captcha.php:858
+#: captcha.php:640 captcha.php:874
 msgid "seventeen"
 msgstr "سبعة عشر"
 
-#: captcha.php:625 captcha.php:859
+#: captcha.php:641 captcha.php:875
 msgid "eighteen"
 msgstr "ثمانية عشر"
 
-#: captcha.php:626 captcha.php:860
+#: captcha.php:642 captcha.php:876
 msgid "nineteen"
 msgstr "تسعة عشر"
 
-#: captcha.php:629 captcha.php:863
+#: captcha.php:645 captcha.php:879
 msgid "ten"
 msgstr "عشرة"
 
-#: captcha.php:630 captcha.php:864
+#: captcha.php:646 captcha.php:880
 msgid "twenty"
 msgstr "عشرون"
 
-#: captcha.php:631 captcha.php:865
+#: captcha.php:647 captcha.php:881
 msgid "thirty"
 msgstr "ثلاثون"
 
-#: captcha.php:632 captcha.php:866
+#: captcha.php:648 captcha.php:882
 msgid "forty"
 msgstr "اربعون"
 
-#: captcha.php:633 captcha.php:867
+#: captcha.php:649 captcha.php:883
 msgid "fifty"
 msgstr "خمسون"
 
-#: captcha.php:634 captcha.php:868
+#: captcha.php:650 captcha.php:884
 msgid "sixty"
 msgstr "ستون"
 
-#: captcha.php:635 captcha.php:869
+#: captcha.php:651 captcha.php:885
 msgid "seventy"
 msgstr "سبعون"
 
-#: captcha.php:636 captcha.php:870
+#: captcha.php:652 captcha.php:886
 msgid "eighty"
 msgstr "ثمانون"
 
-#: captcha.php:637 captcha.php:871
+#: captcha.php:653 captcha.php:887
 msgid "ninety"
 msgstr "تسعون"
 
-#: captcha.php:724 captcha.php:958
+#: captcha.php:740 captcha.php:974
 msgid "and"
 msgstr "و"
 
-#: captcha.php:743
+#: captcha.php:759
 msgid "The password of encryption is not set"
 msgstr "لم يتم تعيين كلمة المرور المشفرة"
 
-#: captcha.php:762
+#: captcha.php:778
 msgid "The password of decoding is not set"
 msgstr "لم يتم تعيين كلمة المرور من فك التشفير"
 

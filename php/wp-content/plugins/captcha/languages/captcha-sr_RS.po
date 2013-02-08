@@ -2,159 +2,159 @@ msgid ""
 msgstr ""
 "Project-Id-Version: captcha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-01-02 13:37+0200\n"
-"PO-Revision-Date: 2013-01-02 13:37+0200\n"
-"Last-Translator: zos <zos@bestwebsoft.com>\n"
-"Language-Team: bestwebsoft.com <plugin@bestwebsoft.com>\n"
-"Language: uk_UA\n"
+"POT-Creation-Date: 2013-01-02 13:36+0200\n"
+"PO-Revision-Date: 2013-01-02 13:36+0200\n"
+"Last-Translator: Radovan Georgijevic <radovan@georgijevic.info>\n"
+"Language-Team: Radovan Georgijevic <radovan.georgijevic@gmail.com>\n"
+"Language: sr_RS\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ..\n"
-"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
 "X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: captcha.php:31
 msgid "Login form"
-msgstr "Форма логіну"
+msgstr "Obrazac za prijavu"
 
 #: captcha.php:32
 msgid "Register form"
-msgstr "Форма реєстрації"
+msgstr "Obrazac za registraciju"
 
 #: captcha.php:33
 msgid "Lost password form"
-msgstr "Форма відновлення пароля"
+msgstr "Obrazac za izgubljenu lozinku"
 
 #: captcha.php:34
 msgid "Comments form"
-msgstr "Форма коментарів"
+msgstr "Obrazac za komentare"
 
 #: captcha.php:35
 msgid "Hide CAPTCHA for registered users"
-msgstr "Не відображати для зареєстрованих користувачів"
+msgstr "Sakrij CAPTCHA za registrovane korisnike"
 
 #: captcha.php:40
 msgid "Plus (&#43;)"
-msgstr "Плюс (&#43;)"
+msgstr "Plus (&#43;)"
 
 #: captcha.php:40
 msgid "Plus"
-msgstr "Плюс (&#43;)"
+msgstr "Plus (&#43;)"
 
 #: captcha.php:41
 msgid "Minus (&minus;)"
-msgstr "Мінус (&minus;)"
+msgstr "Minus (&minus;)"
 
 #: captcha.php:41
 msgid "Minus"
-msgstr "Мінус (&minus;)"
+msgstr "Minus"
 
 #: captcha.php:42
 msgid "Multiply (&times;)"
-msgstr "Множення (&times;)"
+msgstr "Pomnoži (&times;)"
 
 #: captcha.php:42
 msgid "Increase"
-msgstr "Помножити"
+msgstr "Saberi"
 
 #: captcha.php:47
 msgid "Numbers"
-msgstr "Цифри"
+msgstr "Brojevi"
 
 #: captcha.php:48
 msgid "Words"
-msgstr "Слова"
+msgstr "Reči"
 
 #: captcha.php:100
 msgid "Activated plugins"
-msgstr "Активовані плагіни"
+msgstr "Aktivni dodaci"
 
 #: captcha.php:102 captcha.php:110 captcha.php:118
 msgid "Read more"
-msgstr "Детальніше..."
+msgstr "Čitaj više.."
 
 #: captcha.php:102 captcha.php:221 captcha.php:230
 msgid "Settings"
-msgstr "Налаштування"
+msgstr "Podešavanja"
 
 #: captcha.php:108
 msgid "Installed plugins"
-msgstr "Установлені плагіни"
+msgstr "Instalirani dodaci"
 
 #: captcha.php:116
 msgid "Recommended plugins"
-msgstr "Рекомендовані до установлення плагіни"
+msgstr "Preporučeni dodaci"
 
 #: captcha.php:118
 msgid "Download"
-msgstr "Скачати"
+msgstr "Preuzmi"
 
 #: captcha.php:118
 #, php-format
 msgid "Install %s"
-msgstr "Установлено %s"
+msgstr "Instaliraj %s"
 
 #: captcha.php:118
 msgid "Install now from wordpress.org"
-msgstr "Установити з wordpress.org"
+msgstr "Instaliraj sa wordpress.org"
 
 #: captcha.php:120
 msgid ""
 "If you have any questions, please contact us via plugin@bestwebsoft.com or "
 "fill in our contact form on our site"
 msgstr ""
-"Якщо у вас є якісь питання, звертайтеся на plugin@bestwebsoft.com або "
-"заповніть контактну форму на нашому сайті"
+"Ako imate bilo kakva pitanja, kontaktirajte nas putem mejla "
+"plugin@bestwebsoft.com ili popunite kontakt formu na našem sajtu"
 
 #: captcha.php:130 captcha.php:294
 msgid "Captcha Options"
-msgstr "Налаштування КАПЧА"
+msgstr "Captcha Opcije"
 
 #: captcha.php:130
 msgid "Captcha"
-msgstr "КАПЧА"
+msgstr "Captcha"
 
 #: captcha.php:231
 msgid "FAQ"
-msgstr "Часті питання (FAQ)"
+msgstr "FAQ"
 
 #: captcha.php:232
 msgid "Support"
-msgstr "Підтримка"
+msgstr "Podrška"
 
 #: captcha.php:276
 msgid ""
 "Please select one point in the blocks Arithmetic actions and Difficulty for "
 "CAPTCHA"
 msgstr ""
-"Будь ласка, виберіть 1 пункт з блоку Арифметичні дії та Складність для КАПЧА"
+"Izaberite jednu tačku u blokovima Aritmetičkih akcija i Težine za CAPTCHA"
 
 #: captcha.php:280
 msgid "Options saved."
-msgstr "Опції збережені"
+msgstr "Opcije sačuvane"
 
 #: captcha.php:300
 msgid "Enable CAPTCHA on the:"
-msgstr "Відображати КАПЧА для:"
+msgstr "Omogući CAPTCHA na:"
 
 #: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "Contact form"
-msgstr "Контактна форма"
+msgstr "Kontakt forma"
 
 #: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "(power by bestwebsoft.com)"
-msgstr "(розроблено компанією bestwebsoft.com)"
+msgstr "(razvijeno od strane bestwebsoft.com)"
 
 #: captcha.php:312
 msgid "Activate contact form"
-msgstr "Активувати Контакну форму"
+msgstr "Aktiviraj kontakt formu"
 
 #: captcha.php:316
 msgid "Download contact form"
-msgstr "Завантажити контактну форму"
+msgstr "Preuzmi kontakt formu"
 
 #: captcha.php:318
 msgid ""
@@ -162,177 +162,176 @@ msgid ""
 "us via <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> "
 "or fill in our contact form on our site"
 msgstr ""
-"Якщо ви хочете пристосувати плагін для окремої власної форми, звертайтеся <a "
-"href=\"Mailto:plugin@bestwebsoft.com\"> plugin@bestwebsoft.com </ a> або "
-"заповніть контактну форму на нашому сайті"
+"Ukoliko želite ovaj dodatak da prilagodite svojim posebnim porebama, "
+"kontaktirajte nas putem maila <a href=\"Mailto:plugin@bestwebsoft.com"
+"\">plugin@bestwebsoft.com</a> ili popunite kontakt formu na našem sajtu"
 
 #: captcha.php:322
 msgid "Label for CAPTCHA in form"
-msgstr "Заголовок для КАПЧА у формі"
+msgstr "Oznaka za CAPTCHA u obrascu"
 
 #: captcha.php:326
 msgid "Arithmetic actions for CAPTCHA"
-msgstr "Арифметичні дії для КАПЧА"
+msgstr "Aritmetičke operacije za CAPTCHA"
 
 #: captcha.php:335
 msgid "Difficulty for CAPTCHA"
-msgstr "Рівень складності КАПЧА"
+msgstr "Težina za CAPTCHA"
 
 #: captcha.php:345
 msgid "Save Changes"
-msgstr "Зберегти зміни"
+msgstr "Sačuvaj promene"
 
 #: captcha.php:389 captcha.php:395 captcha.php:560 captcha.php:567
 #: captcha.php:577 captcha.php:584
 msgid "ERROR"
-msgstr "Помилка"
+msgstr "GREŠKA"
 
 #: captcha.php:389 captcha.php:411 captcha.php:527 captcha.php:560
 #: captcha.php:577 captcha.php:600
 msgid "Please complete the CAPTCHA."
-msgstr "Будь ласка, заповніть КАПЧА"
+msgstr "Molimo vas da popunite CAPTCHA"
 
 #: captcha.php:395 captcha.php:422 captcha.php:567 captcha.php:584
 msgid "That CAPTCHA was incorrect."
-msgstr "КАПЧА введена некоректно"
+msgstr "Ta CAPTCHA je pogrešna"
 
 #: captcha.php:533 captcha.php:607
 msgid ""
 "Error: You entered in the wrong CAPTCHA phrase. Press your browser's back "
 "button and try again."
 msgstr ""
-"Помилка: Ви ввели КАПЧА неправильно. Натисніть НАЗАД в браузері і спробуйте "
-"ще раз."
+"Greška: Uneli ste pogrešnu CAPTCHA frazu. Vratite se nazad i pokušajte ponovo"
 
 #: captcha.php:622 captcha.php:856
 msgid "zero"
-msgstr "нуль"
+msgstr "nula"
 
 #: captcha.php:623 captcha.php:857 captcha.php:1047
 msgid "one"
-msgstr "один"
+msgstr "jedan"
 
 #: captcha.php:624 captcha.php:858
 msgid "two"
-msgstr "два"
+msgstr "dva"
 
 #: captcha.php:625 captcha.php:859
 msgid "three"
-msgstr "три"
+msgstr "tri"
 
 #: captcha.php:626 captcha.php:860
 msgid "four"
-msgstr "чотири"
+msgstr "četiri"
 
 #: captcha.php:627 captcha.php:861
 msgid "five"
-msgstr "п'ять"
+msgstr "pet"
 
 #: captcha.php:628 captcha.php:862 captcha.php:1047
 msgid "six"
-msgstr "шість"
+msgstr "šest"
 
 #: captcha.php:629 captcha.php:863 captcha.php:1035 captcha.php:1041
 msgid "seven"
-msgstr "сім"
+msgstr "sedam"
 
 #: captcha.php:630 captcha.php:864 captcha.php:1038
 msgid "eight"
-msgstr "вісім"
+msgstr "osam"
 
 #: captcha.php:631 captcha.php:865
 msgid "nine"
-msgstr "дев'ять"
+msgstr "devet"
 
 #: captcha.php:634 captcha.php:868
 msgid "eleven"
-msgstr "одинадцять"
+msgstr "jedanaest"
 
 #: captcha.php:635 captcha.php:869
 msgid "twelve"
-msgstr "дванадцять"
+msgstr "dvanaest"
 
 #: captcha.php:636 captcha.php:870
 msgid "thirteen"
-msgstr "тринадцять"
+msgstr "trinaest"
 
 #: captcha.php:637 captcha.php:871
 msgid "fourteen"
-msgstr "чотирнадцять"
+msgstr "četrnaest"
 
 #: captcha.php:638 captcha.php:872
 msgid "fifteen"
-msgstr "п'ятнадцять"
+msgstr "petnaest"
 
 #: captcha.php:639 captcha.php:873
 msgid "sixteen"
-msgstr "шістнадцять"
+msgstr "šesnaest"
 
 #: captcha.php:640 captcha.php:874
 msgid "seventeen"
-msgstr "сімнадцять"
+msgstr "sedamnaest"
 
 #: captcha.php:641 captcha.php:875
 msgid "eighteen"
-msgstr "вісімнадцять"
+msgstr "osamnaest"
 
 #: captcha.php:642 captcha.php:876
 msgid "nineteen"
-msgstr "дев'ятнадцять"
+msgstr "devetnaest"
 
 #: captcha.php:645 captcha.php:879
 msgid "ten"
-msgstr "десять"
+msgstr "deset"
 
 #: captcha.php:646 captcha.php:880
 msgid "twenty"
-msgstr "двадцять"
+msgstr "dvadeset"
 
 #: captcha.php:647 captcha.php:881
 msgid "thirty"
-msgstr "тридцять"
+msgstr "trideset"
 
 #: captcha.php:648 captcha.php:882
 msgid "forty"
-msgstr "сорок"
+msgstr "četrdeset"
 
 #: captcha.php:649 captcha.php:883
 msgid "fifty"
-msgstr "п'ятдесят"
+msgstr "pedeset"
 
 #: captcha.php:650 captcha.php:884
 msgid "sixty"
-msgstr "шістдесят"
+msgstr "šeszdeset"
 
 #: captcha.php:651 captcha.php:885
 msgid "seventy"
-msgstr "сімдесят"
+msgstr "sedamdeset"
 
 #: captcha.php:652 captcha.php:886
 msgid "eighty"
-msgstr "вісімдесят"
+msgstr "osamdeset"
 
 #: captcha.php:653 captcha.php:887
 msgid "ninety"
-msgstr "дев'яносто"
+msgstr "devedeset"
 
 #: captcha.php:740 captcha.php:974
 msgid "and"
-msgstr "і"
+msgstr "i"
 
 #: captcha.php:759
 msgid "The password of encryption is not set"
-msgstr "Пароль для шифрування не встановлено"
+msgstr "Lozinka za enkripciju nije podešena"
 
 #: captcha.php:778
 msgid "The password of decoding is not set"
-msgstr "Пароль для дешифрування не встановлено"
+msgstr "Lozinka za dešifrovanje nije još podešena"
 
 #~ msgid "null"
-#~ msgstr "нуль"
+#~ msgstr "nula"
 
 #~ msgid "BWS Plugins"
-#~ msgstr "Плагины BWS"
+#~ msgstr "BWS Dodaci"
 
 #~ msgid "Install Now"
-#~ msgstr "Установить сейчас"
+#~ msgstr "Instaliraj sada"

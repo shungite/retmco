@@ -2,18 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: captcha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-20 16:18+0200\n"
-"PO-Revision-Date: 2012-05-14 20:23+0200\n"
+"POT-Creation-Date: 2013-01-02 13:35+0200\n"
+"PO-Revision-Date: 2013-01-02 13:35+0200\n"
 "Last-Translator: BWS <zos@bestwebsoft.com>\n"
 "Language-Team: Aris <paraxeno.net>\n"
+"Language: el_GR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: __;_e\n"
-"X-Poedit-Basepath: C:\\Users\\Astr\\Downloads\\theme-junkie\\captcha\\captcha\n"
-"X-Poedit-SourceCharset: utf-8\n"
-"X-Poedit-Language: Greek\n"
-"X-Poedit-Country: GREECE\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.4\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: captcha.php:31
@@ -72,15 +72,11 @@ msgstr "Λέξεις"
 msgid "Activated plugins"
 msgstr "Ενεργοποιημένα πρόσθετα"
 
-#: captcha.php:102
-#: captcha.php:110
-#: captcha.php:118
+#: captcha.php:102 captcha.php:110 captcha.php:118
 msgid "Read more"
 msgstr "Διαβάστε περισσότερα..."
 
-#: captcha.php:102
-#: captcha.php:218
-#: captcha.php:227
+#: captcha.php:102 captcha.php:221 captcha.php:230
 msgid "Settings"
 msgstr "Ρυθμίσεις"
 
@@ -106,11 +102,15 @@ msgid "Install now from wordpress.org"
 msgstr "Εγκατάσταση τώρα από wordpress.org"
 
 #: captcha.php:120
-msgid "If you have any questions, please contact us via plugin@bestwebsoft.com or fill in our contact form on our site"
-msgstr "Αν έχετε οποιεσδήποτε απορίες, παρακαλούμε επικοινωνήστε μαζί μας μέσω:  plugin@bestwebsoft.com ή συμπληρώστε την φόρμα επικοινωνίας μας στην ιστοσελίδα μας."
+msgid ""
+"If you have any questions, please contact us via plugin@bestwebsoft.com or "
+"fill in our contact form on our site"
+msgstr ""
+"Αν έχετε οποιεσδήποτε απορίες, παρακαλούμε επικοινωνήστε μαζί μας μέσω:  "
+"plugin@bestwebsoft.com ή συμπληρώστε την φόρμα επικοινωνίας μας στην "
+"ιστοσελίδα μας."
 
-#: captcha.php:130
-#: captcha.php:291
+#: captcha.php:130 captcha.php:294
 msgid "Captcha Options"
 msgstr "Επιλογές Captcha"
 
@@ -118,256 +118,224 @@ msgstr "Επιλογές Captcha"
 msgid "Captcha"
 msgstr "Captcha"
 
-#: captcha.php:228
+#: captcha.php:231
 msgid "FAQ"
 msgstr "Συνήθεις Ερωτήσεις (FAQ)"
 
-#: captcha.php:229
+#: captcha.php:232
 msgid "Support"
 msgstr "Υποστήριξη"
 
-#: captcha.php:273
-msgid "Please select one point in the blocks Arithmetic actions and Difficulty for CAPTCHA"
-msgstr "Παρακαλώ επιλέξτε ένα σημείο στα τετράγωνα  Αριθμητικώμ πράξεων και δυσκολίας για την CAPTCHA"
+#: captcha.php:276
+msgid ""
+"Please select one point in the blocks Arithmetic actions and Difficulty for "
+"CAPTCHA"
+msgstr ""
+"Παρακαλώ επιλέξτε ένα σημείο στα τετράγωνα  Αριθμητικώμ πράξεων και "
+"δυσκολίας για την CAPTCHA"
 
-#: captcha.php:277
+#: captcha.php:280
 msgid "Options saved."
 msgstr "Επιλογές αποθηκεύτικαν."
 
-#: captcha.php:297
+#: captcha.php:300
 msgid "Enable CAPTCHA on the:"
 msgstr "Ενεργοποίηση CAPTCHA στα εξής:"
 
-#: captcha.php:306
-#: captcha.php:309
-#: captcha.php:313
+#: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "Contact form"
 msgstr "Φόρμα επικοινωνίας"
 
-#: captcha.php:306
-#: captcha.php:309
-#: captcha.php:313
+#: captcha.php:309 captcha.php:312 captcha.php:316
 msgid "(power by bestwebsoft.com)"
 msgstr "(Για την έκδοση από bestwebsoft.com)"
 
-#: captcha.php:309
+#: captcha.php:312
 msgid "Activate contact form"
 msgstr "Ενεργοποιήστε τη φόρμα επικοινωνίας"
 
-#: captcha.php:313
+#: captcha.php:316
 msgid "Download contact form"
 msgstr "Κάνετε λήψη της φόρμα επικοινωνίας"
 
-#: captcha.php:315
-msgid "If you would like to customize this plugin for a custom form, please contact us via <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> or fill in our contact form on our site"
-msgstr "Αν θα θέλατε να παραμετροποιήσετε αυτό το πρόσθετο για μια προσαρμοσμένη φόρμα, παρακαλούμε επικοινωνήστε μαζί μας μέσω <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> ή συμπληρώστε την φόρμα επικοινωνίας στην ιστοσελίδα μας."
+#: captcha.php:318
+msgid ""
+"If you would like to customize this plugin for a custom form, please contact "
+"us via <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> "
+"or fill in our contact form on our site"
+msgstr ""
+"Αν θα θέλατε να παραμετροποιήσετε αυτό το πρόσθετο για μια προσαρμοσμένη "
+"φόρμα, παρακαλούμε επικοινωνήστε μαζί μας μέσω <a href=\"Mailto:"
+"plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> ή συμπληρώστε την φόρμα "
+"επικοινωνίας στην ιστοσελίδα μας."
 
-#: captcha.php:319
+#: captcha.php:322
 msgid "Label for CAPTCHA in form"
 msgstr "Επιγραφή για το CAPTCHA στην φόρμα"
 
-#: captcha.php:323
+#: captcha.php:326
 msgid "Arithmetic actions for CAPTCHA"
 msgstr "Αριθμητικές πράξεις για το CAPTCHA"
 
-#: captcha.php:332
+#: captcha.php:335
 msgid "Difficulty for CAPTCHA"
 msgstr "Δυσκολία για το CAPTCHA"
 
-#: captcha.php:342
+#: captcha.php:345
 msgid "Save Changes"
 msgstr "Αποθήκευση αλλαγών"
 
-#: captcha.php:384
-#: captcha.php:390
-#: captcha.php:532
-#: captcha.php:539
+#: captcha.php:389 captcha.php:395 captcha.php:560 captcha.php:567
+#: captcha.php:577 captcha.php:584
 msgid "ERROR"
 msgstr "ΣΦΑΛΜΑ"
 
-#: captcha.php:384
-#: captcha.php:404
-#: captcha.php:499
-#: captcha.php:532
-#: captcha.php:555
+#: captcha.php:389 captcha.php:411 captcha.php:527 captcha.php:560
+#: captcha.php:577 captcha.php:600
 msgid "Please complete the CAPTCHA."
 msgstr "Παρακαλούμε συμπληρώστε το CAPTCHA.[<]"
 
-#: captcha.php:390
-#: captcha.php:413
-#: captcha.php:539
+#: captcha.php:395 captcha.php:422 captcha.php:567 captcha.php:584
 msgid "That CAPTCHA was incorrect."
 msgstr "Αυτό το CAPTCHA ήταν λανθασμένο."
 
-#: captcha.php:505
-#: captcha.php:562
-msgid "Error: You entered in the wrong CAPTCHA phrase. Press your browser's back button and try again."
-msgstr "Σφάλμα: Έχετε εισάγει λάθος φράση στο CAPTCHA . Πατήστε το κουμπί πίσω στο προγράμμα περιήγησης (browser) και προσπαθήστε ξανά."
+#: captcha.php:533 captcha.php:607
+msgid ""
+"Error: You entered in the wrong CAPTCHA phrase. Press your browser's back "
+"button and try again."
+msgstr ""
+"Σφάλμα: Έχετε εισάγει λάθος φράση στο CAPTCHA . Πατήστε το κουμπί πίσω στο "
+"προγράμμα περιήγησης (browser) και προσπαθήστε ξανά."
 
-#: captcha.php:577
-#: captcha.php:811
+#: captcha.php:622 captcha.php:856
 msgid "zero"
 msgstr "μηδέν"
 
-#: captcha.php:578
-#: captcha.php:812
-#: captcha.php:1002
+#: captcha.php:623 captcha.php:857 captcha.php:1047
 msgid "one"
 msgstr "ένα"
 
-#: captcha.php:579
-#: captcha.php:813
+#: captcha.php:624 captcha.php:858
 msgid "two"
 msgstr "δυο"
 
-#: captcha.php:580
-#: captcha.php:814
+#: captcha.php:625 captcha.php:859
 msgid "three"
 msgstr "τρία"
 
-#: captcha.php:581
-#: captcha.php:815
+#: captcha.php:626 captcha.php:860
 msgid "four"
 msgstr "τέσσερα"
 
-#: captcha.php:582
-#: captcha.php:816
+#: captcha.php:627 captcha.php:861
 msgid "five"
 msgstr "πέντε"
 
-#: captcha.php:583
-#: captcha.php:817
-#: captcha.php:1002
+#: captcha.php:628 captcha.php:862 captcha.php:1047
 msgid "six"
 msgstr "έξι"
 
-#: captcha.php:584
-#: captcha.php:818
-#: captcha.php:990
-#: captcha.php:996
+#: captcha.php:629 captcha.php:863 captcha.php:1035 captcha.php:1041
 msgid "seven"
 msgstr "επτά"
 
-#: captcha.php:585
-#: captcha.php:819
-#: captcha.php:993
+#: captcha.php:630 captcha.php:864 captcha.php:1038
 msgid "eight"
 msgstr "οκτώ"
 
-#: captcha.php:586
-#: captcha.php:820
+#: captcha.php:631 captcha.php:865
 msgid "nine"
 msgstr "εννέα"
 
-#: captcha.php:589
-#: captcha.php:823
+#: captcha.php:634 captcha.php:868
 msgid "eleven"
 msgstr "έντεκα"
 
-#: captcha.php:590
-#: captcha.php:824
+#: captcha.php:635 captcha.php:869
 msgid "twelve"
 msgstr "δώδεκα"
 
-#: captcha.php:591
-#: captcha.php:825
+#: captcha.php:636 captcha.php:870
 msgid "thirteen"
 msgstr "δεκατρία"
 
-#: captcha.php:592
-#: captcha.php:826
+#: captcha.php:637 captcha.php:871
 msgid "fourteen"
 msgstr "δεκατέσσερα"
 
-#: captcha.php:593
-#: captcha.php:827
+#: captcha.php:638 captcha.php:872
 msgid "fifteen"
 msgstr "δεκαπέντε"
 
-#: captcha.php:594
-#: captcha.php:828
+#: captcha.php:639 captcha.php:873
 msgid "sixteen"
 msgstr "δεκαέξι"
 
-#: captcha.php:595
-#: captcha.php:829
+#: captcha.php:640 captcha.php:874
 msgid "seventeen"
 msgstr "δεκαεπτά"
 
-#: captcha.php:596
-#: captcha.php:830
+#: captcha.php:641 captcha.php:875
 msgid "eighteen"
 msgstr "δεκαοκτώ"
 
-#: captcha.php:597
-#: captcha.php:831
+#: captcha.php:642 captcha.php:876
 msgid "nineteen"
 msgstr "δεκαεννέα"
 
-#: captcha.php:600
-#: captcha.php:834
+#: captcha.php:645 captcha.php:879
 msgid "ten"
 msgstr "δέκα"
 
-#: captcha.php:601
-#: captcha.php:835
+#: captcha.php:646 captcha.php:880
 msgid "twenty"
 msgstr "είκοσι"
 
-#: captcha.php:602
-#: captcha.php:836
+#: captcha.php:647 captcha.php:881
 msgid "thirty"
 msgstr "τριάντα"
 
-#: captcha.php:603
-#: captcha.php:837
+#: captcha.php:648 captcha.php:882
 msgid "forty"
 msgstr "σαράντα"
 
-#: captcha.php:604
-#: captcha.php:838
+#: captcha.php:649 captcha.php:883
 msgid "fifty"
 msgstr "πενήντα"
 
-#: captcha.php:605
-#: captcha.php:839
+#: captcha.php:650 captcha.php:884
 msgid "sixty"
 msgstr "εξήντα"
 
-#: captcha.php:606
-#: captcha.php:840
+#: captcha.php:651 captcha.php:885
 msgid "seventy"
 msgstr "εβδομήντα"
 
-#: captcha.php:607
-#: captcha.php:841
+#: captcha.php:652 captcha.php:886
 msgid "eighty"
 msgstr "ογδόντα"
 
-#: captcha.php:608
-#: captcha.php:842
+#: captcha.php:653 captcha.php:887
 msgid "ninety"
 msgstr "ενενήντα"
 
-#: captcha.php:695
-#: captcha.php:929
+#: captcha.php:740 captcha.php:974
 msgid "and"
 msgstr "και"
 
-#: captcha.php:714
+#: captcha.php:759
 msgid "The password of encryption is not set"
 msgstr "Ο κωδικός πρόσβασης της κρυπτογράφησης δεν έχει οριστεί"
 
-#: captcha.php:733
+#: captcha.php:778
 msgid "The password of decoding is not set"
 msgstr "Ο κωδικός πρόσβασης της αποκωδικοποίησης δεν έχει οριστεί"
 
-msgid "null"
-msgstr "μηδέν"
+#~ msgid "null"
+#~ msgstr "μηδέν"
 
-msgid "BWS Plugins"
-msgstr "BWS Πρόσθετα"
+#~ msgid "BWS Plugins"
+#~ msgstr "BWS Πρόσθετα"
 
-msgid "Install Now"
-msgstr "Εγκατάσταση τώρα"
-
+#~ msgid "Install Now"
+#~ msgstr "Εγκατάσταση τώρα"
