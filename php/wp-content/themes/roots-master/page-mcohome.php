@@ -38,7 +38,6 @@ Template Name: Page MCOhome Template
 </div>
 </div>
 
-
 </div><!-- /row -->
 
 <div class="row-fluid">

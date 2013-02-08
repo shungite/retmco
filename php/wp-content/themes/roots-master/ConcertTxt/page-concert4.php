@@ -52,7 +52,7 @@ Template Name: Page Concert4 Template
  	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=696960f1b3b241bab82da74d814a3c13"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a><br />
 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=49f2aef74f6c4dabb1248afb38f3358d"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
 		<p class="fineprint">Click ticket above to add to shopping cart; adjust quantity in cart and return to purchase other types of tickets.</p>
-	</div><!-- /span2 -->
+	</div><!-- /span1 -->
 
 </div><!-- /row -->
 
@@ -169,19 +169,33 @@ Template Name: Page Concert4 Template
   						<p>&nbsp;</p>
   					</div>
   				</div>	
-  			</div>
   		</section>
+			<section class="row">
+				<div class="span5">
+				<h4>Review:<br />Combined ensembles<br />a musical force to be reckoned with</h4>
+				<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Yuri Klaz, conductor; The Winnipeg Singers<br />Westminster United church; Wed, Feb 6<br />Attendance: 858<br />Four stars out of five<br />&nbsp;</p>
+				<p>Forty years in the making, the Manitoba Chamber Orchestra and The Winnipeg Singers&rsquo; combined birthday bash proved well worth the wait.</p>
+				<p>The two elite musical ensembles are both celebrating their 40th anniversaries all year long &mdash; an impressive accomplishment in a city renowned for its rich culture. To mark the occasion, MCO played host by presenting the vocal ensemble in a celebratory program especially chosen by longtime Winnipeg Singers music director/conductor Yuri Klaz and MCO music director Anne Manson.</p>
+				<p>Estonian composer Arvo P&auml;rt&rsquo;s <i>Berliner Messe</i> (Berlin Mass) is the type of music that audiences adore. Originally composed for SATB (soprano, alto, tenor, bass) soloists with organ, its later reincarnation for chorus and strings premièred in 1992. Although technically a 20th-century work, it evokes the austere beauty of Gregorian chant and early music, with its transparent textures leaving little room to hide.</p>
+				<p>The 24-voice choir launched into the opening <i>Kyrie</i> with great solemnity, its pungent dissonances melting into consonant harmonies underscored by the strings&rsquo; glassy overtones. The <i>Gloria</i> offered the first taste of the singers performing in full voice, and by <i>Veni Sancte Spiritus</i> &mdash; the very heart of this expressive piece, including its foreboding string drone &mdash; the crowd of 858 was entranced. <i>Credo</i>, with its quickly shifting meters, provided repose before plunging once again into the sombre depths of <i>Sanctus</i>.</p>
+				<p>The Singers easily handled the large leaps in <i>Agnus Dei</i>, with the carefully blended a cappella sections a particular highlight.</p>
+				<p>The concert also included Canadian composer Glenn Buhr&rsquo;s <i>Ritchot Mass</i>. Written during the province&rsquo;s devastating flood of 1997 &mdash; in which Buhr lost his own home in the RM of Ritchot &mdash; the four-part work is a gem. The composer&rsquo;s imaginative craftmanship distinctly flavours each of its varied short movements based on the liturgical Mass: Kyrie; Gloria; Sanctus; and Agnus Dei.</p>
+				<p>The choir&rsquo;s final, hushed intoning of the phrase &lsquo;dona nobis pacem&rsquo; accompanied by their rubbing fingers on tuned crystal goblets filled with water &mdash; thus making art out of potentially destructive forces &mdash; is utter magic.</p>
+				<p>Renaissance composer Thomas Tallis probably never dreamed his <i>Spem in Alium</i> (I Have Never Placed My Hope) would be enjoying the success it has today. From innovative art installations to racy bestsellers, the impressive, 40-part motet seems to be everywhere these days. Now augmented by 16 additional guest vocalists, the Singers performed the city premi&egrave;re with controlled precision, despite several nail-biting moments that risked total derailment. Klaz firmly kept the eight independent choirs together as their voices rose and fell through the piece&rsquo;s polyphonic twists and turns.</p>
+				<p>The crowd leaped to its feet, clearly appreciative of the work&rsquo;s sheer technical difficulty, as well as all-encompassing sound.</p>
+				<p>The concert opened with Vivaldi&rsquo;s <i>Credo</i>, performed with crisp attack and clear diction. By contrast, Latvian-born Canadian composer Imant Raminsh&rsquo;s Psalm 121 is a sonorous expression of faith that melds one phrase into another.</p>
+				<p>Mendelssohn&rsquo;s <i>Jesu, Meine Freude</i> closed the decidedly non-secular concert with a joyful noise, as an example of what this versatile, 40-years-young choir &mdash; not to mention its artistic twin, the fine MCO &mdash; does best.</p>
+				</div><!-- /span5 -->
+			</section>
+
 			</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
 
 	</div><!-- /span6 tab area -->
 
-	<div class="span2 offset1">
-		<p class="fineprint">.</p>
-	</div>
-
 </div><!-- /row -->
+</div>
 
 <?php get_template_part('templates/content', 'concert'); ?>
 
