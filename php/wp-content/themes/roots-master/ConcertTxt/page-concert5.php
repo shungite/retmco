@@ -56,6 +56,7 @@ Template Name: Page Concert5 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -113,15 +114,23 @@ Template Name: Page Concert5 Template
 				<p>He deftly contrasts the courtly formality of the third movement minuet&rsquo;s outer panels with a more loose-limbed central trio. The jovial finale is the source of the symphony&rsquo;s nickname. Its bagpipe-like drone bass and rustic principal theme reminded early listeners of the dancing bears which were a common feature at country fairs of the day.</p>
 				<p>Throughout his lengthy, industrious career, Haydn&rsquo;s essential optimism never deserted him. Late in life, he wrote, &ldquo;Often when contending with obstacles of every sort that interfered with my work, often when my powers of both body and mind were failing and I felt it a hard matter to persevere on the course I had entered on, a secret feeling within me whispered, &lsquo;There are but few contented and happy men here below; grief and care prevail everywhere; perhaps your labours may one day be the source from which the weary and worn, or the man burdened with affairs, may derive a few moments&rsquo; rest and refreshment.&rsquo; What a powerful motive for pressing onward!&rdquo;</p>
 			</div>
-		</div><!-- /tab-content -->
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 28: &lsquo;On Franz Joseph Haydn&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/gYytiyYbPws" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+					</section>
+				</div>
+			</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
 
 	</div><!-- /span6 tab area -->
-
-	<div class="span2 offset1">
-		<p class="fineprint">.</p>
-	</div>
 
 </div><!-- /row -->
 
