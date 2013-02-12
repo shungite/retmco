@@ -18,7 +18,7 @@ Template Name: Page Btg Template
 	<div class="span7">
 		<p>&nbsp;</p>
 		<h4>A Study Guide for Brundib&aacute;r<br>
-			Music by Hans Kras&aacute;<br>
+			Music by Hans Krs&aacute;sa<br>
 			Original libretto by Adolf Hoffmeister<br>
 			English translation by Tony Kushner</h4>
 		<p><b><a href="http://www.themco.ca/wp-content/uploads/2013/01/BrundibárStudyGuide.pdf">PDF available here.</a></b></p>
@@ -43,7 +43,7 @@ Template Name: Page Btg Template
 		<h4>Table of contents</h4>
 		<dl>
 			<dt>Meet the composer</dt>
-			<dd>Hans Kras&aacute;</dd>
+			<dd>Hans Krs&aacute;sa</dd>
 			<dd>Websites</dd>
 			<dd>Timeline</dd>
 			<dt>About Terezin, Czechoslovakia</dt>
@@ -68,11 +68,11 @@ Template Name: Page Btg Template
 			<dd>Science Create, present, perform</dd>
 		</dl>
 
-	<h4>Meet the Composer: Hans Kras&aacute;</h4>
-	<p>Hans Kras&aacute; was born on November 30, 1899 in Prague to a Czech father, who was  a lawyer, and a Jewish German mother. He studied both the piano and the violin as  a child, and went on to study composition at the German Music Academy in Prague.  After graduating, he became a vocal coach at the Neues Deutsches Theater (New German  Theatre), where he met the composer and conductor, Alexander Zemlinsky, who had  a major impact on Kras&aacute;&rsquo;s career.</p>
-	<p>In 1942, he was transported to the Nazi concentration town of Terezin, Czechoslovakia  (now the Czech republic). While he was interned in the ghetto, Kras&aacute; was at his most  productive, producing a number of chamber works. Due to the circumstances,  some of these have not survived.</p>
-	<p>Along with fellow composers Viktor Ullmann, Pavel Haas and Gideon Klein, Kras&aacute;  was sent to Auschwitz and, being considered too old to work and also a possible  threat to order, was killed in October 1944. He was not yet 45 years old.</p>
-	<p>For more information on Hans Kras&aacute;, visit the following websites:</p>
+	<h4>Meet the Composer: Hans Krs&aacute;sa</h4>
+	<p>Hans Krs&aacute;sa was born on November 30, 1899 in Prague to a Czech father, who was  a lawyer, and a Jewish German mother. He studied both the piano and the violin as  a child, and went on to study composition at the German Music Academy in Prague.  After graduating, he became a vocal coach at the Neues Deutsches Theater (New German  Theatre), where he met the composer and conductor, Alexander Zemlinsky, who had  a major impact on Krs&aacute;sa&rsquo;s career.</p>
+	<p>In 1942, he was transported to the Nazi concentration town of Terezin, Czechoslovakia  (now the Czech republic). While he was interned in the ghetto, Krs&aacute;sa was at his most  productive, producing a number of chamber works. Due to the circumstances,  some of these have not survived.</p>
+	<p>Along with fellow composers Viktor Ullmann, Pavel Haas and Gideon Klein, Krs&aacute;sa  was sent to Auschwitz and, being considered too old to work and also a possible  threat to order, was killed in October 1944. He was not yet 45 years old.</p>
+	<p>For more information on Hans Krs&aacute;sa, visit the following websites:</p>
 	<p><a href="http://orelfoundation.org/index.php/composers/article/hans_krasa/"><b>http://orelfoundation.org/index.php/composers/article/hans_krasa/</b></a></p>
 	<p>For information on children and the Holocaust, visit the following site:</p>
 	<p><a href="http://fcit.usf.edu/HOLOCAUST/people/children.htm"><b>http://fcit.usf.edu/HOLOCAUST/people/children.htm</b></a></p>
@@ -80,7 +80,7 @@ Template Name: Page Btg Template
 	<table class="table table-striped">
 		<tr>
 			<td><b>Year</b></td>
-			<td><b>Hans Kras&aacute;</b></td>
+			<td><b>Hans Krs&aacute;sa</b></td>
 			<td><b>World events</b></td>
 		</tr>
 		<tr>
@@ -95,12 +95,12 @@ Template Name: Page Btg Template
 		</tr>
 		<tr>
 			<td>1933</td>
-			<td>Premier of Kras&aacute;s opera, <em>Betrothal in a Dream</em></td>
+			<td>Premier of Krs&aacute;sas opera, <em>Betrothal in a Dream</em></td>
 			<td>January 30, Hitler named Chancellor of Germany<br>April 1, Propaganda Minister Joseph Goebbels orders boycott of Jewish stores, cafes, restaurants, banks and services</td>
 		</tr>
 			<tr>
 			<td>1938</td>
-			<td>Kras&aacute;s composes <em>Brundib&aacute;r</em> for a government competition, but the competition is later cancelled due to political developments</td>
+			<td>Krs&aacute;sas composes <em>Brundib&aacute;r</em> for a government competition, but the competition is later cancelled due to political developments</td>
 			<td>March 12, Germany annexes Austria<br>November 9 &amp; 10, <em>Kristallnacht</em>, or the Night of Broken Glass</td>
 		</tr>
 		<tr>
@@ -110,7 +110,7 @@ Template Name: Page Btg Template
 		</tr>
 			<tr>
 			<td>1941</td>
-			<td>Kras&aacute; is deported to Terezin<br>November 27, <em>Brundib&aacute;r</em> premiers at a Prague orphanage</td>
+			<td>Krs&aacute;sa is deported to Terezin<br>November 27, <em>Brundib&aacute;r</em> premiers at a Prague orphanage</td>
 			<td>Inhabitants of Terezin are relocated so the town can be made ito a ghetto for Jewish people</td>
 		</tr>
 			<tr>
@@ -120,7 +120,7 @@ Template Name: Page Btg Template
 		</tr>
 			<tr>
 			<td>1944</td>
-			<td>June 23, Red Cross visit Terezin<br>October 16, Kras&aacute; is deported to Auschwitz and is immediately sent to the gas chamber</td>
+			<td>June 23, Red Cross visit Terezin<br>October 16, Krs&aacute;sa is deported to Auschwitz and is immediately sent to the gas chamber</td>
 			<td>June 6, Battle of Normandy begins<br>October 30, Anne Frank is deported from Auschwitz to Bergen-Belsen Concentration Camp</td>
 		</tr>
 	</table>
@@ -131,7 +131,7 @@ Template Name: Page Btg Template
 	<p><a href="http://www.jewishvirtuallibrary.org/jsource/Holocaust/terezin.html"><b>http://www.jewishvirtuallibrary.org/jsource/Holocaust/terezin.html</b></a></p>
 	<p><a href="http://www.google.ca/search?q=terezin&amp;hl=en&amp;tbo=u&amp;tbm=isch&amp;source=univ&amp;sa=X&amp;ei =UF0AUcu9DdKE2QXM1oFo&amp;ved=0CE8QsAQ&amp;biw=1626&amp;bih=997"><b>http://www.google.ca/search?q=terezin&amp;hl=en&amp;tbo=u&amp;tbm=isch&amp;source=univ&amp;sa=X&amp;ei =UF0AUcu9DdKE2QXM1oFo&amp;ved=0CE8QsAQ&amp;biw=1626&amp;bih=997</b></a></p>
 	<h4>About <em>Brundib&aacute;r</em></h4>
-	<em>Brundib&aacute;r</em> is a half-hour opera written to be performed by and for children. Composed by  Hans Kras&aacute; in 1938, with lyrics by Adolf Hoffmeister (translated by Tony Kushner in 2003), as an entry for a children&rsquo;s opera competition, it received its premiere in German- occupied Prague, performed by children at the Jewish orphanage in Belgicka Street. <em>Brundib&aacute;r</em> had one additional performance before the mass transports of Bohemian and  Moravian Jews to Terezin began in 1942. In July 1943, the score of <em>Brundib&aacute;r</em> was smuggled into camp, where it was re-orchestrated by Krasa for the various instrumentalists who were resident in the camp at that time, and the premiere of the  Terezin version took place on 23 September 1943 in the hall of the Magdeburg barracks. Realizing the propagandistic potential of this enormously popular artistic endeavour, the  Nazis arranged a special new staging of <em>Brundib&aacute;r</em> for the propaganda film <em>Theresienstadt &mdash; eine Dokumentarfilm aus en judische Siedlungsgebiet</em> (directed by Kurt Gerron), and the same production was performed for the inspection of Terezin by the International Red Cross in September 1944. This would be the last of the fifty-five performances in the Terezin Ghetto; two weeks later, transportation of artists began to Auschwitz and other destinations East, silencing this, the most popular theatrical  production in Terezin.</p>
+	<em>Brundib&aacute;r</em> is a half-hour opera written to be performed by and for children. Composed by  Hans Krs&aacute;sa in 1938, with lyrics by Adolf Hoffmeister (translated by Tony Kushner in 2003), as an entry for a children&rsquo;s opera competition, it received its premiere in German- occupied Prague, performed by children at the Jewish orphanage in Belgicka Street. <em>Brundib&aacute;r</em> had one additional performance before the mass transports of Bohemian and  Moravian Jews to Terezin began in 1942. In July 1943, the score of <em>Brundib&aacute;r</em> was smuggled into camp, where it was re-orchestrated by Krasa for the various instrumentalists who were resident in the camp at that time, and the premiere of the  Terezin version took place on 23 September 1943 in the hall of the Magdeburg barracks. Realizing the propagandistic potential of this enormously popular artistic endeavour, the  Nazis arranged a special new staging of <em>Brundib&aacute;r</em> for the propaganda film <em>Theresienstadt &mdash; eine Dokumentarfilm aus en judische Siedlungsgebiet</em> (directed by Kurt Gerron), and the same production was performed for the inspection of Terezin by the International Red Cross in September 1944. This would be the last of the fifty-five performances in the Terezin Ghetto; two weeks later, transportation of artists began to Auschwitz and other destinations East, silencing this, the most popular theatrical  production in Terezin.</p>
 	<p>The camp audience quickly grasped that the simple plot of <em>Brundib&aacute;r</em> represented all that the Nazi regime stood for. When the children sang their final song of victory over the cruel Brundib&aacute;r, there was no doubt about the evil he personified; this was the very evil that  caused the young performers of the opera to be deported to Auschwitz and the gas  chambers. Survivors report that people would sing the victory march throughout the  streets of Terezin, raising their hopes that they, too, might find victory over a tyrant.</p>
 	<p>The story and music are accessible enough for a young audience, but layered with  historical references, making the opera a poignant experience for an adult audience as  well.</p>
 	<p>For more information about Brundib&aacute;r visit:</p>
@@ -141,7 +141,7 @@ Template Name: Page Btg Template
 	<dl>
 		<dt>Pepicek</dt>
 		<dd>a young boy: Mitch Heron &mdash; PTV Men</dd>
-		<dt>Aninku</dt>
+		<dt>Aninka</dt>
 		<dd>his sister: Stephanie Bell &mdash; Chorale</dd>
 		<dt>Brundib&aacute;r</dt>
 		<dd>the organ grinder: John Anderson &mdash; PTV Men</dd>
@@ -161,7 +161,7 @@ Template Name: Page Btg Template
 		<dd>Ella Wiebe &mdash; Chorale Chorus of young people from the neighbourhood</dd>
 	</dl>
 	<h4>Synopsis</h4>
-	<p>Aninku and Pepicek, two little children, have a sick mother. The doctor has prescribed milk for her health, and they go seeking milk in the town marketplace, but they have no money with which to purchase it. Three traders hawk their wares: an ice-cream man, a baker and  a milkman. The children engage the milkman in a song, but he tells them that they need money for milk. Suddenly, the children spot the organ-grinder, Brundib&aacute;r, playing on the street corner. Seeing his success, they decide to busk as well (and proceed to sing a song  about geese), much to the annoyance of the townsfolk and Brundib&aacute;r, who chase them  away. Three animals &mdash; a sparrow, cat and dog &mdash; come to their help, and together they  recruit the other children of the neighbourhood in their plan. Night falls, the dawn comes, the children and animals begin morning exercises and the townsfolk get ready for the day. The plan goes ahead: the animals and children drown out Brundib&aacute;r; they then join in a beautiful lullaby. The townsfolk are very moved and give Aninku and Pepicek money. Suddenly, Brundib&aacute;r sneaks in and steals their takings. All the children and animals give chase and recover the money. The opera concludes with a victory march sung about defeating the evil organ-grinder.</p>
+	<p>Aninka and Pepicek, two little children, have a sick mother. The doctor has prescribed milk for her health, and they go seeking milk in the town marketplace, but they have no money with which to purchase it. Three traders hawk their wares: an ice-cream man, a baker and  a milkman. The children engage the milkman in a song, but he tells them that they need money for milk. Suddenly, the children spot the organ-grinder, Brundib&aacute;r, playing on the street corner. Seeing his success, they decide to busk as well (and proceed to sing a song  about geese), much to the annoyance of the townsfolk and Brundib&aacute;r, who chase them  away. Three animals &mdash; a sparrow, cat and dog &mdash; come to their help, and together they  recruit the other children of the neighbourhood in their plan. Night falls, the dawn comes, the children and animals begin morning exercises and the townsfolk get ready for the day. The plan goes ahead: the animals and children drown out Brundib&aacute;r; they then join in a beautiful lullaby. The townsfolk are very moved and give Aninka and Pepicek money. Suddenly, Brundib&aacute;r sneaks in and steals their takings. All the children and animals give chase and recover the money. The opera concludes with a victory march sung about defeating the evil organ-grinder.</p>
 	<h4>Before attending the concert</h4>
 	<p><b>Connect and motivate</b></p>
 	<p>Discuss</p>
