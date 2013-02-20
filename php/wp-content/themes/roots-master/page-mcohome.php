@@ -8,7 +8,7 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/concert/fialkowska/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head12mar13.jpg" alt="Brundibar"></a>
+   	<a href="http://www.themco.ca/concert/brundibar/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head12mar13.jpg" alt="Brundibar"></a>
 		<h4>&ldquo;The music is infec­tious,<br>joy­ful, lyr­ical and very rhythmic.&rdquo;</h4>
 		<p>Music Director and Conductor Anne Manson talks about MCO&rsquo;s next concert, designed for the whole family to enjoy, with semi-staged productions of Hans Kr&aacute;sa&rsquo;s <i>Brundib&aacute;r</i> and Igor Stravinsky&rsquo;s <i>A Soldier&rsquo;s Tale</i>. Read lots more about the concert <a href="http://www.themco.ca/concert/brundibar/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
 		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=720d6e6e7bb549aa8f5532ef65ea4edd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
