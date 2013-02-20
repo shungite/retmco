@@ -28,11 +28,11 @@ Template Name: Page MCOhome Template
 	<div class="span8">
 		<div class="well">
 		<div class="media">
-			<a class="pull-left" href="http://www.themco.ca/janina/">
-			<img class="media-object img-rounded" src="http://www.themco.ca/wp-content/uploads/2012/11/janina_small.jpg" width="96px" height="96px">
+			<a class="pull-left" href="http://www.themco.ca/heartstrings/">
+			<img class="media-object img-rounded" src="http://www.themco.ca/wp-content/uploads/2013/02/thumbhs.jpg" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="http://www.themco.ca/janina/">MCO 40th anniversary fund-raiser:<br>A Candlelight evening with Janina Fialkowska!</strong></a><br />Celebrate four decades of the MCO together with world-renowned pianist Janina Fialkowska in The Fort Garry's opulent Provencher Room. &ldquo;If you have a chance to hear her, cancel all other appointments&rdquo; &mdash; Barry Millington, Evening Standard, London.</p>
+			<p><strong><a href="http://www.themco.ca/heartstrings/">MCO&rsquo;s Heartstrings 2013:<br>a return to formal elegance...</strong></a><br />Heartstrings returns to The Fort Garry's Crystal Ballroom and moves to a new month this year! Celebrate 40 years of the Manitoba Chamber Orchestra in May at its main event &mdash; with fine food, fine wine, plus live, silent &amp; rainbow auctions. And, of course, music!</p>
 		</div>
 	</div>
 </div>
