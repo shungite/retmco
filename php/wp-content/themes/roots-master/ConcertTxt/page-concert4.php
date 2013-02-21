@@ -173,7 +173,7 @@ Template Name: Page Concert4 Template
 			<section class="row">
 				<div class="span5">
 				<h4>Review:<br />Combined ensembles<br />a musical force to be reckoned with</h4>
-				<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Yuri Klaz, conductor; The Winnipeg Singers<br />Westminster United church; Wed, Feb 6<br />Attendance: 858<br />Four stars out of five<br />&nbsp;</p>
+				<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Yuri Klaz, conductor; The Winnipeg Singers<br />Westminster United Church; Wed, Feb 6<br />Attendance: 858<br />Four stars out of five<br />&nbsp;</p>
 				<p>Forty years in the making, the Manitoba Chamber Orchestra and The Winnipeg Singers&rsquo; combined birthday bash proved well worth the wait.</p>
 				<p>The two elite musical ensembles are both celebrating their 40th anniversaries all year long &mdash; an impressive accomplishment in a city renowned for its rich culture. To mark the occasion, MCO played host by presenting the vocal ensemble in a celebratory program especially chosen by longtime Winnipeg Singers music director/conductor Yuri Klaz and MCO music director Anne Manson.</p>
 				<p>Estonian composer Arvo P&auml;rt&rsquo;s <i>Berliner Messe</i> (Berlin Mass) is the type of music that audiences adore. Originally composed for SATB (soprano, alto, tenor, bass) soloists with organ, its later reincarnation for chorus and strings premièred in 1992. Although technically a 20th-century work, it evokes the austere beauty of Gregorian chant and early music, with its transparent textures leaving little room to hide.</p>

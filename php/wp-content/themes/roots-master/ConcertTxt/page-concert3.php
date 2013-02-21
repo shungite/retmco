@@ -136,7 +136,7 @@ Template Name: Page Concert3 Template
 					<section class="row">
 						<div class="span5">
 						<h4>Review:<br />Pianist Hamelin<br />like fine wine in MCO concert</h4>
-						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Anne Manson, conductor; Marc-Andr&eacute; Hamelin, piano<br />Westminster United church; Wed, Jan 9<br />Attendance: 765<br />Four and a half stars out of five<br />&nbsp;</p>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Anne Manson, conductor; Marc-Andr&eacute; Hamelin, piano<br />Westminster United Church; Wed, Jan 9<br />Attendance: 765<br />Four and a half stars out of five<br />&nbsp;</p>
 						<p>Many talented young artists abound but there is nothing like hearing well-honed artistry aged like fine wine.</p>
 						<p>World-class pianist Marc Andr&eacute; Hamelin wowed the crowd Wednesday night as the featured guest soloist for the Manitoba Chamber Orchestra&rsquo;s latest concert. The program led by MCO music director/conductor Anne Manson included, unusually, not one, but two piano concertos, as well as a pair of contemporary works.</p>
 						<p>Now based in Boston, the acclaimed Montreal-born musician marked his debut on the MCO stage in 1991, with his last appearance here in 2010. His rapport with both the orchestra and its loyal audience is palpable. Every time the Juno-winning artist comes to town, he&rsquo;s welcomed to the stage like a rock star, eliciting loud cheers even before he&rsquo;s tickled a single ivory.</p>

@@ -123,7 +123,7 @@ Template Name: Page Concert1 Template
 					<section class="row">
 						<div class="span5">
 						<h4>Review:<br />Singer Bayrakdarian illustrates<br /> how music transcends language</h4>
-						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Gwenda Nemerofsky<br />Manitoba Chamber Orchestra; Isabel Bayrakdarian, soprano<br />Westminster United church; Wed, Sep 12<br />Attendance: 604<br />Four stars out of five<br />&nbsp;</p>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Gwenda Nemerofsky<br />Manitoba Chamber Orchestra; Isabel Bayrakdarian, soprano<br />Westminster United Church; Wed, Sep 12<br />Attendance: 604<br />Four stars out of five<br />&nbsp;</p>
 						<p>If you ever doubted that music could transcend language, Wednesday night&rsquo;s Manitoba Chamber Orchestra (MCO) concert would have changed your mind.</p>
 						<p>Guest artist, spectacular Armenian-Canadian soprano Isabel Bayrakdarian sang in Greek and Armenian. Audience members were provided lyric sheets with translations, but who wanted to read fussy bits of paper when Bayrakdarian was onstage? This musical treasure told us everything we needed to know with her limpid voice, impassioned facial expressions and graceful gestures. No words necessary.</p>
 						<p>The concert was introduced by the always debonair CBC Radio 2 personality, Bill Richardson. Conductor Anne Manson was at the helm for this 40th anniversary season opener.</p>

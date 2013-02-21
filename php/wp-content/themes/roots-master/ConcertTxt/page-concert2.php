@@ -136,7 +136,7 @@ Template Name: Page Concert2 Template
 					<section class="row">
 						<div class="span5">
 						<h4>Review:<br />MCO delivers eclectic show</h4>
-						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Scott Yoo, conductor; Karen Gomyo, violin<br />Westminster United church; Wed, Nov 21<br />Attendance: 640<br />Three and a half stars out of five<br />&nbsp;</p>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Scott Yoo, conductor; Karen Gomyo, violin<br />Westminster United Church; Wed, Nov 21<br />Attendance: 640<br />Three and a half stars out of five<br />&nbsp;</p>
 						<p>The Manitoba Chamber Orchestra has always been unafraid to venture into uncharted waters, frequently commissioning brave new works as well as performing established pieces that may be more challenging for its loyal audience base.</p>
 						<p>Wednesday night&rsquo;s concert led by Scott Yoo proved to be vintage MCO, with the eclectic triple bill offering two string orchestra works as well as guest violinist Karen Gomyo performing Mozart&rsquo;s Violin Concerto No. 5 in A Major, K 219 &mdash; also known as the &lsquo;Turkish.&rsquo;</p>
 						<p>Composed in 1775, Mozart&rsquo;s fifth violin concerto is unique for so many reasons. One of them is the soloist&rsquo;s first entry during the Allegro aperto that abruptly departs from the orchestra&rsquo;s brisk opening to a momentary dreamy, quiet state.</p>
