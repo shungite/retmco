@@ -78,7 +78,7 @@ Template Name: Page Press Template
 						<p>Gary Kulesha&rsquo;s 1985 <i>Serenade for String Orchestra</i>, written for the MCO, marked a departure from his usual atonal compositional style. Four movements long, it opened with dense, intense harmonies, then mellowed into pleasing tunefulness, rich with assertive cello and bass lines. The Scherzo was spirited, syncopated and dance-like and the Romance was true to its name, albeit a bittersweet take. Smooth, long phrases were highlights, while the high-pitched insect-like violin section was a little hard on the ears. Manson imbued a sense of power and authority to the majestic Finale.</p>
 						<p>The evening began with the charming <i>Born by the River</i> by Winnipeg-born composer, cellist and university professor Karen Sunabacka. She introduced the piece, explaining the influence and inspiration she gained from her M&eacute;tis grandmother. Strains of the fiddle tune <i>The Old French</i> were evident immediately, as the work captured its liveliness and humour. Use of momentary silences and pizzicato grabbed our attention.</p>
 						<p>The night wrapped up with an energetic reading of Haydn&rsquo;s Symphony No. 82 in C Major &mdash; &lsquo;The Bear.&rsquo; After a brief audience lesson from Manson in the construction of the first movement, the MCO, bolstered by woodwinds and timpani, launched into the Vivace with plenty of oomph. The French horns had a few difficulties with their upper notes and the Menuetto and Trio was a bit heavy-handed, but you couldn&rsquo;t help but warm to the sprightly finale with its unmistakable bagpipe-like drone in the cellos and basses. A great effort all-round.</p>
-						<p align="center">&#8258;</p>
+						<p class="text-left">&#8258;</p>
 					</article>
 					<article>
 						<h4>Review:<br />Combined ensembles<br />a musical force to be reckoned with</h4>
@@ -94,7 +94,7 @@ Template Name: Page Press Template
 						<p>The crowd leaped to its feet, clearly appreciative of the work&rsquo;s sheer technical difficulty, as well as all-encompassing sound.</p>
 						<p>The concert opened with Vivaldi&rsquo;s <i>Credo</i>, performed with crisp attack and clear diction. By contrast, Latvian-born Canadian composer Imant Raminsh&rsquo;s Psalm 121 is a sonorous expression of faith that melds one phrase into another.</p>
 						<p>Mendelssohn&rsquo;s <i>Jesu, Meine Freude</i> closed the decidedly non-secular concert with a joyful noise, as an example of what this versatile, 40-years-young choir &mdash; not to mention its artistic twin, the fine MCO &mdash; does best.</p>
-						<p align="center">&#8258;</p>
+						<p class="text-left">&#8258;</p>
 					</article>
 					<article>
 						<h4>Pianist Hamelin<br />like fine wine in MCO concert</h4>
@@ -109,7 +109,7 @@ Template Name: Page Press Template
 						<p>Hamelin also performed Haydn&rsquo;s Piano Concerto in D Major, which brims with sunny optimism, if not overly technical demands. Still, you could sense the pleasure that he gets from playing this light-hearted music.</p>
 						<p>The concert opened with the world premi&egrave;re of <em>Virtuosities</em> (2012) by Vancouver-based composer Dorothy Chang, who was in attendance. The work was commissioned by the MCO as part of its ongoing 40th anniversary celebrations. Its three movements &mdash; <em>To dream, perchance to fly</em>, <em>Souvenir</em> and <em>Mechanica</em> &mdash; displayed Chang's ability to craft clearly structured, intensely focused works.</p>
 						<p>Spanish composer Jos&eacute; Evangelista&rsquo;s Concerto Con Brio teemed with baroque influences, with its florid central movement <em>M&eacute;lismatique</em> an evocative highlight.</p>
-						<p align="center">&#8258;</p>
+						<p class="text-left">&#8258;</p>
 					</article>
 					<article>
 						<h4>MCO delivers eclectic show</h4>
@@ -123,7 +123,7 @@ Template Name: Page Press Template
 						<p>It&rsquo;s a pleasure to hear her artfully crafted, MCO-commissioned Nostalgia again, which received its world premiere in 2007. Yoo led the orchestra &mdash; as he did five years ago &mdash; through its many textural ebbs and flows, including shimmering strings, elegiac cello lines and syncopated rhythmic outbursts. Its hint at J.S. Bach&rsquo;s Sonata for Viola da Gamba and Harpsichord, BWV1027 provided a reference point, although none was needed in this stirring piece that already displayed the hand of a fine composer in the making.</p>
 						<p>The concert ended with Arnold Schoenberg&rsquo;s Verkl&auml;rte Nacht (Transfigured Night), Op. 4 composed in 1899 that predates his daring invention of serial composition.</p>
 						<p>The one-movement piece unfolds as a multi-layered, rapturous journey into the heart that takes on an epic quality. Although its unrelenting intensity may not be everyone&rsquo;s cup of tea, the MCO is to commended for programming the ultra-romantic classic, led with finesse &mdash; and without score &mdash; by the dynamic Yoo.</p>
-						<p align="center">&#8258;</p>
+						<p class="text-left">&#8258;</p>
 					</article>
 					<article>
 						<h4>Singer Bayrakdarian illustrates<br /> how music transcends language</h4>
