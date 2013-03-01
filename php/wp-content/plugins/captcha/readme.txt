@@ -4,7 +4,7 @@ Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10
 Tags: captcha, math captcha, text captcha, spam, antispam, login, registration, comment, lost password, capcha, catcha, captha
 Requires at least: 2.9
 Tested up to: 3.5.1
-Stable tag: 3.0
+Stable tag: 3.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,6 +27,7 @@ Captcha plugin allows you to protect your website from spam using math logic whi
 
 * Arabic (ar_AR) (thanks to Albayan Design Hani Aladoli)
 * Brazilian Portuguese (pt_BR) (thanks to <a href="mailto:brenojac@gmail.com">Breno Jacinto</a>, www.iconis.org.br)
+* Bulgarian (bg_BG) (thanks to <a href="mailto:paharaman@gmail.com">Nick</a>)
 * Chinese (zh_CN) (thanks to Billy Jeans)
 * Czech (cs_CZ) (thanks to Tomas Vesely)
 * Danish (da_DK) (thanks to Byrial Ole Jensed)
@@ -138,6 +139,9 @@ It is possible to enter this line in variable and display this variable in requi
 5. Login form with Captcha.
 
 == Changelog ==
+
+= V3.1 - 25.02.2013 =
+* NEW : Bulgarian language file was added to the plugin.
 
 = V3.0 - 08.01.2013 =
 * Bugfix : Display bug was fixed.
@@ -286,6 +290,9 @@ It is possible to enter this line in variable and display this variable in requi
 * Select functionality of mathematical actions and level of their difficulty are implemented.
 
 == Upgrade Notice ==
+
+= V3.1 =
+Bulgarian language file was added to the plugin.
 
 = V3.0 =
 Display bug was fixed.
