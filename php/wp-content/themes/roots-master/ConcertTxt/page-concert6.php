@@ -59,6 +59,7 @@ Template Name: Page Concert6 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -105,6 +106,20 @@ Template Name: Page Concert6 Template
 				<p>The following year, Stravinsky re-established his relationship with Diaghilev. There was no possibility of the Ballets russes staging <em>The Soldier&rsquo;s Tale</em>, as the temperamental impresario held little interest in a project into which he had had no input. It was only after several years and several unsuccessful productions that this unique, multi-discipline presentation found its way to popularity. Its greatest currency has been through the instrumental concert suite that Stravinsky drew from it in 1920, but it makes its full impact only when presented as it was conceived.</p>
 				<p>Stravinsky&rsquo;s tart, witty and rhythmically intricate score displayed several influences: Russian folk song, gypsy fiddlers (reflecting the plot, the violin often takes the musical spotlight), klezmer groups, the popular music of Spain (The Royal March is an example of the pasodoble), and his recent exposure to jazz (the ensemble sounds like a Dixieland band at times). &ldquo;My knowledge of jazz was derived exclusively from copies of sheet music,&rdquo; he admitted, &ldquo;and as I had never actually heard any of the music performed, I borrowed its rhythmic style not as played, but as written. I could imagine jazz sound, however, or so I liked to think. Jazz meant, in any case, a wholly new sound in my music, and <em>L&rsquo;Histoire du soldat</em> marks my final break with the Russian orchestral school in which I had been fostered.&rdquo; Among the music&rsquo;s other ingredients are parodies of military marches and popular music forms such as the tango, waltz and ragtime, and even two Lutheran chorales, including <em>Ein&rsquo; feste Burg ist under Gott</em>(A Mighty Fortress Is Our God).</p>
 			</div>
+			<div class="tab-pane fade" id="extras">
+					<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 32: &lsquo;On Igor Stravinsky&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="500" height="281" src="http://www.youtube.com/embed/I9tYDZ2SF9I" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+  				</section>
+
+				</div>
+
 		</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
