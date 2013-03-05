@@ -10,6 +10,7 @@
  * @version     1.6.4
  */
 
+if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 /**
  * Duplicate a product action.
@@ -19,7 +20,7 @@
  */
 function woocommerce_duplicate_product() {
 	if (! ( isset( $_GET['post']) || isset( $_POST['post'])  || ( isset($_REQUEST['action']) && 'duplicate_post_save_as_new_page' == $_REQUEST['action'] ) ) ) {
-		wp_die(__('No product to duplicate has been supplied!', 'woocommerce'));
+		wp_die(__( 'No product to duplicate has been supplied!', 'woocommerce' ));
 	}
 
 	// Get the original page
@@ -39,7 +40,7 @@ function woocommerce_duplicate_product() {
 		wp_redirect( admin_url( 'post.php?action=edit&post=' . $new_id ) );
 		exit;
 	} else {
-		wp_die(__('Product creation failed, could not find original product:', 'woocommerce') . ' ' . $id);
+		wp_die(__( 'Product creation failed, could not find original product:', 'woocommerce' ) . ' ' . $id);
 	}
 }
 
@@ -85,7 +86,7 @@ function woocommerce_create_duplicate_from_product( $post, $parent = 0, $post_st
 	} else {
 		$post_parent		= $post->post_parent;
 		$post_status 		= $post_status ? $post_status : 'draft';
-		$suffix 			= ' ' . __("(Copy)", 'woocommerce');
+		$suffix 			= ' ' . __( '(Copy)', 'woocommerce' );
 	}
 
 	$new_post_type 			= $post->post_type;
