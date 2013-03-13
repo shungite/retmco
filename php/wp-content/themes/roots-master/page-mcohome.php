@@ -8,12 +8,12 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/concert/brundibar/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head12mar13.jpg" alt="Brundibar"></a>
-		<h4>&ldquo;The music is infec­tious,<br>joy­ful, lyr­ical and very rhythmic.&rdquo;</h4>
-		<p>Music Director and Conductor Anne Manson talks about MCO&rsquo;s next concert, designed for the whole family to enjoy, with semi-staged productions of Hans Kr&aacute;sa&rsquo;s <i>Brundib&aacute;r</i> and Igor Stravinsky&rsquo;s <i>A Soldier&rsquo;s Tale</i>. Read lots more about the concert <a href="http://www.themco.ca/concert/brundibar/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
-		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=720d6e6e7bb549aa8f5532ef65ea4edd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
- 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=ce47fb63079d4f84b5907716f09cf6c7"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a>
-	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=a3bd1ff75de449a3a8cf1a61948316b5"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
+   	<a href="http://www.themco.ca/concert/brundibar/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head02apr13.jpg" alt="Goodman, Dahl, Broms-Jacobs"></a>
+		<h4>Time machine: hear the first<br>MCO concert ever, and then some...</h4>
+		<p>At its next concert, the Manitoba Chamber Orchestra remembers how it all began 40 years ago. Former MCO Music Director Roy Goodman, soprano Tracy Dahl (above) and oboist Caitlin Broms-Jacobs perform the program that started it all, with a twist. Read lots more about the concert <a href="http://www.themco.ca/concert/goodman-dahl/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
+		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=98a53d33021f46ffb6ceca8382c830cd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
+ 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=572a100f29294416b420bdcaf1bd918a"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a>
+	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=3a96d1afe5434b8cb4787766f9dbb1dc"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
 		</p>
   </div>
 
