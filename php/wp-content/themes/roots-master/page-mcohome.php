@@ -8,7 +8,7 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/concert/brundibar/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head02apr13.jpg" alt="Goodman, Dahl, Broms-Jacobs"></a>
+   	<a href="http://www.themco.ca/concert/goodman-dahl/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head02apr13.jpg" alt="Goodman, Dahl, Broms-Jacobs"></a>
 		<h4>Time machine: hear the first<br>MCO concert ever, and then some...</h4>
 		<p>At its next concert, the Manitoba Chamber Orchestra remembers how it all began 40 years ago. Former MCO Music Director Roy Goodman, soprano Tracy Dahl (above) and oboist Caitlin Broms-Jacobs perform the program that started it all, with a twist. Read lots more about the concert <a href="http://www.themco.ca/concert/goodman-dahl/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
 		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=98a53d33021f46ffb6ceca8382c830cd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
