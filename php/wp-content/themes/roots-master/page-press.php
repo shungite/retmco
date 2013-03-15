@@ -79,6 +79,7 @@ Template Name: Page Press Template
 						<p>The youthful cast is also to be commended for carrying on like true, seasoned pros when several sound issues inadvertently arose. Bravo to all, and especially to the tireless Wiwchar for bringing this important work to life, which elicited both laughter and tears in the audience of 764.</p>
 						<p>The concert also included Stravinsky&rsquo;s <i>L&rsquo;Histoire Du Soldat</i> (The Soldier&rsquo;s Tale) featuring Winnipeg actor Arne MacPherson, who spun his Faustian tale as a master storyteller. Guest conductor Earl Stafford &mdash; again, filling in on scant notice &mdash; led the seven-piece ensemble through Stravinsky&rsquo;s rhythmically treacherous, episodic score with precision and fearless pluck.</p>
 						<p>Kudos to MCO concertmaster Karl Stobbe for his solo passages packed with double and triple stops, especially during <i>Three Dances</i>, which morphs into a tango, waltz, and ragtime dance. Other highlights included <i>Royal March</i> with trumpeter Guy Few tossing off complex riffs like child&rsquo;s play, and MacPherson&rsquo;s animated, biting delivery during <i>The Devil&rsquo;s Song</i>.</p>
+						<p class="text-left">&#8258;</p>
 					</article>
 					<article>
 						<h4>Review:<br />Light &amp; bright</h4>
