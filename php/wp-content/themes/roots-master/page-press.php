@@ -180,7 +180,7 @@ Template Name: Page Press Template
 					 		<small>Vancouver Sun</small>
 						</blockquote>
 						<blockquote>
-						  <p>MCO is Canada’s tiny, perfect chamber orchestra.</p>
+						  <p>MCO is Canada&rsquo;s tiny, perfect chamber orchestra.</p>
 					 		<small>Toronto Star</small>
 						</blockquote>
 				</div>
