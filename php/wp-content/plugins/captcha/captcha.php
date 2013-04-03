@@ -4,7 +4,7 @@ Plugin Name: Captcha
 Plugin URI:  http://bestwebsoft.com/plugin/
 Description: Plugin Captcha intended to prove that the visitor is a human being and not a spam robot. Plugin asks the visitor to answer a math question.
 Author: BestWebSoft
-Version: 3.1
+Version: 3.2
 Author URI: http://bestwebsoft.com/
 License: GPLv2 or later
 */
@@ -304,20 +304,23 @@ function cptch_settings_page() {
 				<td>
 			<?php foreach( $cptch_admin_fields_enable as $fields ) { ?>
 					<input type="checkbox" name="<?php echo $fields[0]; ?>" value="<?php echo $fields[0]; ?>" <?php if( 1 == $cptch_options[$fields[0]] ) echo "checked=\"checked\""; ?> /> <label for="<?php echo $fields[0]; ?>"><?php echo __( $fields[1], 'captcha' ); ?></label><br />
-			<?php } 
-			$active_plugins = get_option('active_plugins');
+			<?php }						
 			$all_plugins = get_plugins();
-			if( array_key_exists('contact-form-plugin/contact_form.php', $all_plugins) ) {
-				if(0 < count( preg_grep( '/contact-form-plugin\/contact_form.php/', $active_plugins ) ) ) { ?>
+			if ( is_multisite() ){
+				$active_plugins = (array) array_keys( get_site_option( 'active_sitewide_plugins', array() ) );
+				$active_plugins = array_merge( $active_plugins , get_option('active_plugins') );
+			} else {
+				$active_plugins = get_option('active_plugins');
+			}
+			if ( array_key_exists('contact-form-plugin/contact_form.php', $all_plugins ) ) {
+				if ( 0 < count( preg_grep( '/contact-form-plugin\/contact_form.php/', $active_plugins ) ) ) { ?>
 					<input type="checkbox" name="cptch_contact_form" value="1" <?php if( 1 == $cptch_options['cptch_contact_form'] ) echo "checked=\"checked\""; ?> /> <label for="cptch_contact_form"><?php _e( 'Contact form', 'captcha' ); ?></label> <span style="color: #888888;font-size: 10px;"><?php _e( '(power by bestwebsoft.com)', 'captcha' ); ?></span><br />
-			<?php } 
-				else { ?>
+			<?php } else { ?>
 					<input disabled='disabled' type="checkbox" name="cptch_contact_form" value="1" <?php if( 1 == $cptch_options['cptch_contact_form'] ) echo "checked=\"checked\""; ?> /> <label for="cptch_contact_form"><?php _e('Contact form', 'captcha' ); ?></label> <span style="color: #888888;font-size: 10px;"><?php _e( '(power by bestwebsoft.com)', 'captcha' ); ?> <a href="<?php echo bloginfo("url"); ?>/wp-admin/plugins.php"><?php _e( 'Activate contact form', 'captcha' ); ?></a></span><br />
 				<?php }
-			}
-			else { ?>
+			} else { ?>
 					<input disabled='disabled' type="checkbox" name="cptch_contact_form" value="1" <?php if( 1 == $cptch_options['cptch_contact_form'] ) echo "checked=\"checked\""; ?> /> <label for="cptch_contact_form"><?php _e('Contact form', 'captcha' ); ?></label> <span style="color: #888888;font-size: 10px;"><?php _e( '(power by bestwebsoft.com)', 'captcha' ); ?> <a href="http://bestwebsoft.com/plugin/contact-form/"><?php _e( 'Download contact form', 'captcha' ); ?></a></span><br />
-			<?php }?>
+			<?php } ?>
 					<span style="color: #888888;font-size: 10px;"><?php _e( 'If you would like to customize this plugin for a custom form, please contact us via <a href="Mailto:plugin@bestwebsoft.com">plugin@bestwebsoft.com</a> or fill in our contact form on our site', 'captcha' ); ?> <a href="http://bestwebsoft.com/contact/" target="_blank">http://bestwebsoft.com/contact/</a></span>
 				</td>
 			</tr>
@@ -1006,8 +1009,13 @@ function cptch_contact_form_options()
 		}
 	} 
 	else {
-		$active_plugins = get_option('active_plugins');
-		if(0 < count( preg_grep( '/contact-form-plugin\/contact_form.php/', $active_plugins ) ) ) { 
+		if ( is_multisite() ) {
+			$active_plugins = (array) array_keys( get_site_option( 'active_sitewide_plugins', array() ) );
+			$active_plugins = array_merge( $active_plugins , get_option('active_plugins') );
+		} else {
+			$active_plugins = get_option('active_plugins');
+		}
+		if ( 0 < count( preg_grep( '/contact-form-plugin\/contact_form.php/', $active_plugins ) ) ) { 
 			$cptch_options = get_option( 'cptch_options' );
 			if( $cptch_options['cptch_contact_form'] == 1) {
 				add_filter('cntctfrm_display_captcha', 'cptch_custom_form');
@@ -1060,6 +1068,13 @@ if ( ! function_exists ( 'cptch_admin_head' ) ) {
 		wp_enqueue_style( 'cptchStylesheet' );
 	}
 }
+// Function for delete delete options
+if ( ! function_exists ( 'cptch_delete_options' ) ) {
+	function cptch_delete_options() {
+		global $wpdb;
+		delete_option( 'cptch_options' );
+	}
+}
 
 // adds "Settings" link to the plugin action page
 add_filter( 'plugin_action_links', 'cptch_plugin_action_links', 10, 2 );
@@ -1074,4 +1089,6 @@ add_action( 'admin_menu', 'add_cptch_admin_menu' );
 add_action( 'after_setup_theme', 'cptch_contact_form_options' );
 add_action( 'admin_enqueue_scripts', 'cptch_admin_head' );
 add_action( 'wp_enqueue_scripts', 'cptch_admin_head' );
+
+register_uninstall_hook( __FILE__, 'cptch_delete_options' );
 ?>
