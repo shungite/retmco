@@ -44,7 +44,7 @@ body.admin-bar .navbar-fixed-top { top: 28px; }
 
 #sidebar {
   background-color: #fff;
-  padding-top: 80px;
+  padding-top: 60px;
 }
 .widget-inner h3 {
 border-bottom: 6px solid #EEE;
@@ -110,19 +110,6 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 /* ==========================================================================
    Mods
    ========================================================================== */
-
-.newshead {
-  font-family: Arial, Helvetica, sans-serif;
-  color: #6b6b6b;
-  margin-top: 10px;
-  margin-right: 0px;
-  margin-bottom: 5px;
-  margin-left: 0px;
-  font-size: 24px;
-  font-style: normal;
-  font-weight: bold;
-  line-height: 128%;
-}
 
 .fineprint {
   font-family: Arial, Helvetica, sans-serif;
@@ -245,6 +232,7 @@ a:hover {
 ::selection {
   background: #ffb7b7; /* Safari */
   }
+  
 ::-moz-selection {
   background: #ffb7b7; /* Firefox */
 }
