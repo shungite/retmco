@@ -4,7 +4,7 @@ Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10
 Tags: captcha, math captcha, text captcha, spam, antispam, login, registration, comment, lost password, capcha, catcha, captha
 Requires at least: 2.9
 Tested up to: 3.5.1
-Stable tag: 3.2
+Stable tag: 3.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,9 +60,11 @@ If you create your own language pack or update an existing one, you can send <a 
 
 = Technical support =
 
-Dear users, our plugins are available for free download. If you have any questions or propositions regarding functionality of our plugins (current options, new options, current issues) please feel free to contact us. Please note that we accept requests in English language only. All messages on another languages wouldn't be accepted. 
+Dear users, our plugins are available for free download. If you have any questions or recommendations regarding the functionality of our plugins (existing options, new options, current issues), please feel free to contact us. Please note that we accept requests in English only. All messages in another languages won't be accepted.
 
-Also, emails which are reporting about plugin's bugs are accepted for investigation and fixing. Your request must contain URL of the website, issues description and WordPress admin panel access. Plugin customization based on your Wordpress theme is a paid service (standard price is $40, but it could be higer and depends on the complexity of requested changes). We will analize existing issue and make necessary changes after 100% pre-payment.All these paid changes and modifications could be included to the next version of plugin and will be shared for all users like an integral part of the plugin. Free fixing services will be provided for user who send translation on their native language (this should be a new translation of a certain plugin, and you can check available translations on the official plugin page).
+If you notice any bugs in the plugins, you can notify us about it and we'll investigate and fix the issue then. Your request should contain URL of the website, issues description and WordPress admin panel credentials.
+Moreover we can customize the plugin according to your requirements. It's a paid service (as a rule it costs $40, but the price can vary depending on the amount of the necessary changes and their complexity). Please note that we could also include this or that feature (developed for you) in the next release and share with the other users then. 
+We can fix some things for free for the users who provide translation of our plugin into their native language (this should be a new translation of a certain plugin, you can check available translations on the official plugin page).
 
 == Installation ==
 
@@ -74,11 +76,11 @@ Also, emails which are reporting about plugin's bugs are accepted for investigat
 
 = How to change captcha label =
 
-Go to the Settings page and change value for the 'Label for CAPTCHA in form' field.
+Go to the Settings page and change value for the 'Title for CAPTCHA in the form' field.
 
-= During saving of settings I got an error: 'Please select one point in the blocks Arithmetic actions and Difficulty for CAPTCHA'. What is this? =
+= During saving of settings I got an error: 'Please select one item in the block Arithmetic and Complexity for CAPTCHA'. What is this? =
 
-For correct work of Captcha plugin you need to choose at least one item from the 'Arithmetic actions' block and choose 'Difficulty' via Settings page, because math expression should be consisted minimum of 1 mathematical sign and parts of mathematical expression should be displayed like words or like numbers or both of them.
+For correct work of Captcha plugin you need to choose at least one item from the 'Arithmetic actions' block and choose 'complexity level' via Settings page, because math expression should be consisted minimum of 1 mathematical sign and parts of mathematical expression should be displayed like words or like numbers or both of them.
 
 = Missing CAPTCHA on comment form? = 
 
@@ -139,6 +141,9 @@ It is possible to enter this line in variable and display this variable in requi
 5. Login form with Captcha.
 
 == Changelog ==
+
+= V3.3 - 08.04.2013 =
+* Update : We updated English language in the plugin.
 
 = V3.2 - 22.03.2013 =
 * Bugfix : The bug related to add Captcha in Contact Form for multisiting was fixed.
@@ -293,6 +298,9 @@ It is possible to enter this line in variable and display this variable in requi
 * Select functionality of mathematical actions and level of their difficulty are implemented.
 
 == Upgrade Notice ==
+
+= V3.3 =
+We updated English language in the plugin.
 
 = V3.2 =
 The bug related to add Captcha in Contact Form for multisiting was fixed.
