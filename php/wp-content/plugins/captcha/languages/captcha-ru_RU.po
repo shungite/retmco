@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: captcha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-04-08 12:05+0300\n"
-"PO-Revision-Date: 2013-04-08 12:06+0300\n"
+"POT-Creation-Date: 2013-04-18 13:25+0300\n"
+"PO-Revision-Date: 2013-04-18 13:26+0300\n"
 "Last-Translator: \n"
 "Language-Team: bestwebsoft.com <plugin@bestwebsoft.com>\n"
 "MIME-Version: 1.0\n"
@@ -167,7 +167,7 @@ msgid "Download contact form"
 msgstr "Скачать контактную форму"
 
 #: captcha.php:323
-msgid "If you would like to customize this plugin for a custom form, please contact us via <a href=\\\"Mailto:plugin@bestwebsoft.com\\\">plugin@bestwebsoft.com</a> or fill in the contact form on our site"
+msgid "If you would like to customize this plugin for a custom form, please contact us via <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> or fill in the contact form on our site"
 msgstr "Если вы хотите кастомизировать плагин для кастомной формы, обращайтесь <a href=\"Mailto:plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> или заполните контактную форму на нашем сайте"
 
 #: captcha.php:327

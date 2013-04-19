@@ -4,7 +4,7 @@ Plugin Name: Captcha
 Plugin URI:  http://bestwebsoft.com/plugin/
 Description: Plugin Captcha intended to prove that the visitor is a human being and not a spam robot. Plugin asks the visitor to answer a math question.
 Author: BestWebSoft
-Version: 3.3
+Version: 3.4
 Author URI: http://bestwebsoft.com/
 License: GPLv2 or later
 */
@@ -381,7 +381,7 @@ function cptch_login_form() {
 // this function checks captcha posted with a login
 function cptch_login_post($errors) {
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 	// Delete errors, if they set
 	if( isset( $_SESSION['cptch_error'] ) )
 		unset( $_SESSION['cptch_error'] );
@@ -408,7 +408,7 @@ function cptch_login_check($url) {
 	if( session_id() == "" )
 		@session_start();
 
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 	// Add error if captcha is empty
  if( isset( $_SESSION["cptch_login"] ) && $_SESSION["cptch_login"] === true )
 		return $url;		// captcha was matched						
@@ -505,7 +505,7 @@ function cptch_comment_post($comment) {
 	}
     
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 	// added for compatibility with WP Wall plugin
 	// this does NOT add CAPTCHA to WP Wall plugin,
 	// it just prevents the "Error: You did not enter a Captcha phrase." when submitting a WP Wall comment
@@ -558,7 +558,7 @@ function cptch_register_form() {
 // this function checks captcha posted with registration
 function cptch_register_post($login,$email,$errors) {
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 
 	// If captcha is blank - add error
 	if ( isset( $_REQUEST['cptch_number'] ) && "" ==  $_REQUEST['cptch_number'] ) {
@@ -576,7 +576,7 @@ function cptch_register_post($login,$email,$errors) {
 
 function cptch_register_validate($results) {
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 	// If captcha is blank - add error
 	if ( isset( $_REQUEST['cptch_number'] ) && "" ==  $_REQUEST['cptch_number'] ) {
 		$results['errors']->add('captcha_blank', '<strong>'.__('ERROR', 'captcha').'</strong>: '.__('Please fill the form.', 'captcha'));
@@ -594,7 +594,7 @@ function cptch_register_validate($results) {
 // this function checks the captcha posted with lostpassword form
 function cptch_lostpassword_post() {
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 
 	// If field 'user login' is empty - return
 	if( isset( $_REQUEST['user_login'] ) && "" == $_REQUEST['user_login'] )
@@ -620,7 +620,7 @@ function cptch_display_captcha()
 
 	// Key for encoding
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 	
 	// In letters presentation of numbers 0-9
 	$number_string = array(); 
@@ -827,7 +827,7 @@ function cptch_custom_form($error_message) {
 function cptch_check_custom_form()
 {
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 	if( isset( $_REQUEST['cntctfrm_contact_action'] ) )
 	{
 		// If captcha doesn't entered
@@ -853,7 +853,7 @@ function cptch_display_captcha_custom()
 
 	// Key for encoding
 	global $str_key;
-	$str_key = "bws2012";
+	$str_key = "bws18042013";
 	$content = "";
 	
 	// In letters presentation of numbers 0-9
