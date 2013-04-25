@@ -56,7 +56,7 @@ Template Name: Page Programs Template
 	<div class="span7">
 		<div class="well">
 			<div class="media-body">
-				<p><strong>MCO Piza Club</strong></p>
+				<p><strong>MCO Pizza Club</strong></p>
 				<p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered for the following concerts:</p>
 				<dl class="dl">
   				<dt>November 21</dt>
