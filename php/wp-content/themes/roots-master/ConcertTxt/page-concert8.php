@@ -57,6 +57,7 @@ Template Name: Page Concert8 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -123,10 +124,25 @@ Template Name: Page Concert8 Template
 				<p><strong>Qual candido fiore<br />(What white flower), from &lsquo;Farnace&rsquo;<br />Antonio Vivaldi</strong></p>
 				<p>Vivaldi&rsquo;s opera Farnace premiered at the San Angelo theatre in Venice in 1727. It won such great success that it was produced in Prague three years later. After that it slipped into obscurity until it was revived successfully during the final quarter of the twentieth century. Antonio Maria Lucchini&rsquo;s libretto concerns Farnace, King of Pontus (nowadays the north-eastern region of Turkey), and his complicated relations with his family and with the Romans who have conquered his land. This attractive aria is sung by Berenice, his mother-in-law.</p>
 				<p><strong>Ombra mai fu (A shade<br />there never was), from &lsquo;Serse&rsquo;<br />George Frideric Handel</strong></p>
-				<p>Handel&rsquo;s opera <em>Serse</em> (also known as Xerxes) premiered in London in 1738. The title character was the King of Persia in the fifth century B.C. He sings this beloved aria, one of Handel&rsquo;s most familiar creations, at the very beginning of the opera. Its sublime beauty might lead you to think that he is addressing some profound religious or philosophical idea, when in fact he is offering thanks to a plane tree for the shade it is providing on a hot day.</p>
+				<p>Handel&rsquo;s opera <em>Serse</em> (also known as <em>Xerxes</em>) premiered in London in 1738. The title character was the King of Persia in the fifth century B.C. He sings this beloved aria, one of Handel&rsquo;s most familiar creations, at the very beginning of the opera. Its sublime beauty might lead you to think that he is addressing some profound religious or philosophical idea, when in fact he is offering thanks to a plane tree for the shade it is providing on a hot day.</p>
 				<p><strong>Se il cor ti perde (If my heart<br />should lose you), from &lsquo;Tolomeo&rsquo;<br />George Frideric Handel</strong></p>
 				<p>This Handel opera was first produced in London in 1728. The plot is based on historical figures in the ruling dynasty of Egypt during the second century B.C. In Nicola Haym&rsquo;s libretto, the title character, Ptolemy IX, is joint ruler of the country with his mother, Cleopatra. She joins forces with his younger brother to banish him, but he regains his throne by the end of the opera. This tender love duet is sung by Ptolemy and his wife, Seleuce.</p>
 			</div>
+
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 36: &lsquo;The Story of the Countertenor (part 1)&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/h9ecYAVl410" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining a reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+					</section>
+			</div>
+
+
 		</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
