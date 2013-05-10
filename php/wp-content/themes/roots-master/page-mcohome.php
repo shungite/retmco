@@ -127,3 +127,14 @@ Template Name: Page MCOhome Template
   });
 </script>
 
+<script type="text/javascript">
+	$('#myModal button').click(function () {
+    $('#myModal iframe').removeAttr('src');
+	});
+</script>
+
+<script type="text/javascript">
+	$('#myModal2 button').click(function () {
+    $('#myModal2 iframe').removeAttr('src');
+	});
+</script>

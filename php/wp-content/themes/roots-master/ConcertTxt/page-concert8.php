@@ -60,7 +60,7 @@ Template Name: Page Concert8 Template
   		</div>
 		</div>
 
-		
+
 		<p>When this pair of incredible vocalists sang with the MCO in 2004, Gwenda Nemerofsky of the Winnipeg Free Press wrote, &ldquo;One couldn’t help but be struck by the remarkable blending of voices. They are perfectly matched, LeBlanc&rsquo;s voice ringing throughout the church more sonorously than any bell, Taylor producing notes as thick and sweet as honey. Nothing could have improved on this performance.&rdquo;</p>
 		<p>Well, we thought of one thing: make the duo part of our 40th Anniversary Season!
 		<p>Anne Manson says, &ldquo;this is Daniel’s program of baroque and classical repertoire. They are incredibly refined experts in this music and we think our audience will really enjoy a chance to hear these two terrific Canadian singers again.&rdquo;</p>
@@ -208,3 +208,15 @@ Template Name: Page Concert8 Template
 <?php get_template_part('templates/content', 'concert'); ?>
 
 </div><!-- /container -->
+
+<script type="text/javascript">
+	$('#myModal button').click(function () {
+    $('#myModal iframe').removeAttr('src');
+	});
+</script>
+
+<script type="text/javascript">
+	$('#myModal2 button').click(function () {
+    $('#myModal2 iframe').removeAttr('src');
+	});
+</script>
