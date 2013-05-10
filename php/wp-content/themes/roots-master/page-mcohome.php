@@ -10,6 +10,46 @@ Template Name: Page MCOhome Template
 	<div class="span8">
    	<a href="http://www.themco.ca/concert/leblanc-taylor/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head14may13.jpg" alt="LeBlanc, Taylor"></a>
 		<h4>Suzie LeBlanc &amp; Daniel Taylor<br>&mdash; &ldquo;perfectly matched&rdquo;</h4>
+		
+		<!-- Button to trigger modal -->
+		<p><a href="#myModal" role="button" class="btn btn-small" data-toggle="modal"><b>Feature</b> / The Story of the Countertenor, part 1</a> <a href="#myModal2" role="button" class="btn btn-small" data-toggle="modal">Part 2</a></p>
+
+ 
+		<!-- Modal -->
+		<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  		<div class="modal-header">
+    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    		<h3 id="myModalLabel">Part 1</h3>
+  		</div>
+  		<div class="modal-body">
+  	  <p><div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/h9ecYAVl410" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining a reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div></p>
+  		</div>
+  		<div class="modal-footer">
+  	  	<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  		</div>
+		</div>
+
+		<div id="myModal2" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  		<div class="modal-header">
+    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    		<h3 id="myModalLabel">Part 2</h3>
+  		</div>
+  		<div class="modal-body">
+  	  <p><div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/wAy0lTnDOZg" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining a reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div></p>
+  		</div>
+  		<div class="modal-footer">
+  	  	<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  		</div>
+		</div>
+
 		<p>There are some concerts you don&rsquo;t want to miss; there are those concerts <i>you must not miss</i>. This is definitely one of them! The <i>Winnipeg Free Press</i> (2005) continued: &ldquo;Nothing could have improved on this performance.&rdquo; Read lots more about the concert <a href="http://www.themco.ca/concert/leblanc-taylor/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
 		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=571b7b59fe3b48009544bbf1201c5c9e"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
  	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c9585707ac6842088dec4791c517637f"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a>

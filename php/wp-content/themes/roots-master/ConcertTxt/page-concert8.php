@@ -20,6 +20,47 @@ Template Name: Page Concert8 Template
 
 	<div class="span7">
 		<h4>Daniel Taylor &amp; Suzie LeBlanc<br />&mdash; &ldquo;nothing could have improved on this performance&rdquo;</h4>
+
+<!-- Button to trigger modal -->
+		<p><a href="#myModal" role="button" class="btn btn-small" data-toggle="modal"><b>Feature</b> / The Story of the Countertenor, part 1</a> <a href="#myModal2" role="button" class="btn btn-small" data-toggle="modal">Part 2</a></p>
+
+ 
+		<!-- Modal -->
+		<div id="myModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  		<div class="modal-header">
+    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    		<h3 id="myModalLabel">Part 1</h3>
+  		</div>
+  		<div class="modal-body">
+  	  <p><div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/h9ecYAVl410" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining a reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div></p>
+  		</div>
+  		<div class="modal-footer">
+  	  	<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  		</div>
+		</div>
+
+		<div id="myModal2" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  		<div class="modal-header">
+    		<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    		<h3 id="myModalLabel">Part 2</h3>
+  		</div>
+  		<div class="modal-body">
+  	  <p><div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/wAy0lTnDOZg" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining a reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div></p>
+  		</div>
+  		<div class="modal-footer">
+  	  	<button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+  		</div>
+		</div>
+
+		
 		<p>When this pair of incredible vocalists sang with the MCO in 2004, Gwenda Nemerofsky of the Winnipeg Free Press wrote, &ldquo;One couldn’t help but be struck by the remarkable blending of voices. They are perfectly matched, LeBlanc&rsquo;s voice ringing throughout the church more sonorously than any bell, Taylor producing notes as thick and sweet as honey. Nothing could have improved on this performance.&rdquo;</p>
 		<p>Well, we thought of one thing: make the duo part of our 40th Anniversary Season!
 		<p>Anne Manson says, &ldquo;this is Daniel’s program of baroque and classical repertoire. They are incredibly refined experts in this music and we think our audience will really enjoy a chance to hear these two terrific Canadian singers again.&rdquo;</p>
@@ -136,6 +177,15 @@ Template Name: Page Concert8 Template
   						<div class="flex-video widescreen">
   							<iframe width="510" height="287" src="http://www.youtube.com/embed/h9ecYAVl410" frameborder="0" allowfullscreen seamless></iframe>
   							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining a reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+					</section>
+					<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 37: &lsquo;The Story of the Countertenor (part 2)&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/wAy0lTnDOZg" frameborder="0" allowfullscreen seamless></iframe>
   							<p>&nbsp;</p>
   						</div>
   					</div>
