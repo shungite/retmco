@@ -1,8 +1,3 @@
-<?php
-/*
-Template Name: Page Concert8 Template
-*/
-?>
 <div class="container">
 
 <div class="row">
