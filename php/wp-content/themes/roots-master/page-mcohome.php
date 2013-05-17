@@ -8,7 +8,7 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/concert/leblanc-taylor/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head05jun13.jpg" alt="LeBlanc, Taylor"></a>
+   	<a href="http://www.themco.ca/concert/carr/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head05jun13.jpg" alt="Colin Carr"></a>
 		<h4>40th anniversary season<br> wraps with Brit cellist Colin Carr</h4>
 		<p>Colin Carr has performed with the Manitoba Chamber Orchestra before, but not as part of an MCO season. Carr and the MCO were guests of 2011&rsquo;s inaugural International Cello Festival of Canada, and that concert became the talk of the town! Read lots more about the concert <a href="http://www.themco.ca/concert/carr/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
 		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=0718bdddf4764a2c9b9266ee450eb5af"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
