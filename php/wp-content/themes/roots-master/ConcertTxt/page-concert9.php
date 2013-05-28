@@ -56,6 +56,7 @@ Template Name: Page Concert9 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -101,6 +102,41 @@ Template Name: Page Concert9 Template
 				<p>The first movement is the most expansive of the four. It opens abruptly, with a thrusting, energetic theme. The second subject expresses all the yearning beauty for which Tchaikovsky is renowned. The violins introduce the songful theme of the slow second movement, over a pizzicato accompaniment. Solo instruments take their turns in the spotlight as this luxurious, almost balletic music unfolds.</p>
 				<p>The second pair of movements is briefer, less ambitious, and adds the flavour of Russian folk music to the score. The outer panels of the third movement offer a sort of melancholy serenade. After a momentary hesitation, the central trio turns into a lively dance. That same feeling powers the vivacious finale. Mid-way through, Tchaikovsky pays homage to western tradition with a passage in fugal style.</p>
 			</div>
+
+
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 35: &lsquo;A look into the past&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/NLN0TJjWBfk" frameborder="0" allowfullscreen seamless></iframe>
+  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining a reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+					</section>
+					<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 31: &lsquo;The trouble with Mozart&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/a-zDQvSs9qE" frameborder="0" allowfullscreen seamless></iframe>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+					</section>
+					<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 10: &lsquo;The death of Mozart&rsquo;</strong></p>
+					<section class="row">
+  					<div class="span5">
+  						<div class="flex-video widescreen">
+  							<iframe width="510" height="287" src="http://www.youtube.com/embed/2nEZUpaQAS4" frameborder="0" allowfullscreen seamless></iframe>
+  							<p>&nbsp;</p>
+  						</div>
+  					</div>
+					</section>
+			</div>
+
+
+
 		</div><!-- /tab-content -->
 
 		</div><!-- /tab content well -->
