@@ -8,12 +8,9 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/concert/carr/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/head05jun13.jpg" alt="Colin Carr"></a>
-		<h4>40th anniversary season<br> wraps with Brit cellist Colin Carr</h4>
-		<p>Colin Carr has performed with the Manitoba Chamber Orchestra before, but not as part of an MCO season. Carr and the MCO were guests of 2011&rsquo;s inaugural International Cello Festival of Canada, and that concert became the talk of the town! Read lots more about the concert <a href="http://www.themco.ca/concert/carr/"><strong>here</strong></a>; if you&rsquo;re just here for a ticket, click below.<br>
-		<img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=0718bdddf4764a2c9b9266ee450eb5af"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a>
- 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=65cf18fe94b34a2aa24d7f7e56e7dd71"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a>
-	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=374bffd27d964cf382b3d3cf17768550"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
+   	<a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><img src="	http://www.themco.ca/wp-content/uploads/2013/06/head1314.png" alt="MCO 13/14"></a>
+		<h4>Subscribe before June 14th<br>&mdash; you could win a Google Nexus 4!</h4>
+		<p>Don’t miss a single MCO concert next season! Our subscribers enjoy many benefits, (like the chance to win an unlocked Nexus 4!), but nothing tops six or nine wonderful concerts in acoustically superb Westminster Church. Hear for yourself! Call the MCO Ticketline at 204-783-7377 today, or check out the details and download an order form <a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><strong>here</strong></a>.
 		</p>
   </div>
 
