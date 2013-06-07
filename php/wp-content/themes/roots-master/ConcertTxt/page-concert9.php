@@ -105,6 +105,29 @@ Template Name: Page Concert9 Template
 
 
 			<div class="tab-pane fade" id="extras">
+				<div class="span5">
+
+					<section class="row">
+							<h4>Review:<br />British cellist<br>a fine finale to excellent MCO season</h4>
+							<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Gwenda Nemerofsky<br />Manitoba Chamber Orchestra; Colin Carr, guestconductor and cello soloist<br />Westminster United Church; Wed, Jun 5<br />Attendance: 880<br />Four stars out of five<br>&nbsp;</p>
+							<p>The Manitoba Chamber Orchestra has an uncanny knack for packing its concert series with some of the most sought-after and talented artists of our time. This past season it has treated Winnipeg audiences to sopranos Isabel Bayrakdarian, Suzie LeBlanc and Tracy Dahl, violinist Karen Gomyo, countertenor Daniel Taylor and pianists Marc-Andr&eacute; Hamelin and Janina Fialkowska, to name a few.</p>
+							<p>Wednesday night marked the MCO&rsquo;s final concert of the 2012-2013 season and they saved something special for last. British cellist Colin Carr was not only the guest soloist, but he was listed as conductor as well.</p>
+							<p>Carr is no ordinary musician. He has a joyful aura about him that envelops the audience and draws them into his sensitive music-making.</p>
+							<p>He displayed his unique and expressive style in Boccherini&rsquo;s Cello Concerto in G Major, G 480. Carr is one with his cello, made in 1730 by famed Venetian luthier Matteo Gofriller. He plays in an open, honest style, without bravado; he could be playing just for himself. The cadenza of the opening movement revealed a rich tone as he plumbed the range of the cello.</p>
+							<p>He was accompanied by a skeleton orchestra &mdash; just two violins, Karl Stobbe and Barbara Gilroy, Dan Scholz on viola and Desiree Abbey on cello.</p>
+							<p>The mood shifted radically during the Adagio. Carr crafted it with subtle pensiveness, perfectly complemented by the two violinists. You could have heard a pin drop in the church.</p>
+							<p>His cello sang throughout the Allegro, his caressing bow and unstoppable fingers bringing the most out of this cheerfully peppy movement. Carr shows great respect for the music, paying complete attention to every detail the composer has created. This performance earned him a loud standing ovation.</p>
+							<p>The evening began with the sunny and melodic Divertimento in D Major by Mozart. The violins and violas stood all evening, which seemed to add more energy to their playing. First and second violins were on opposite sides of the stage, giving the sound an effective dimensional depth. The musicians&rsquo; broad legato phrasing burst with life, full of satisfying peaks and valleys of expression. And while there were some technical inconsistencies with the violin section, the drive and vigour never wavered.</p>
+							<p>The Andante was intelligently rendered, with thoughtful phrasing and perfect pacing. Carr, sitting in the cello section, cued gently with head nods and eye contact with concertmaster Karl Stobbe, who showed his trademark reliable leadership.</p>
+							<p>The final Presto was a rousing and riveting performance full of conviction and nimble playing by all.</p>
+							<p>The audience was predictably wowed by the final work of the evening, Tchaikovsky&rsquo;s enigmatic and dense Souvenir de Florence. It morphs from rich and vigorous, with intensity that can take players over the top, to bucolic, with gorgeous harmonies, all the way to Russian folk-inspired dance.</p>
+							<p>The work is unpredictable and complex. The MCO gave it its utmost, with mixed results. Best was the Andante movement, with its melody moving seamlessly from section to section, consistently interpreted with palpable emotion.</p>
+							<p>This was a solid way to end the season.</p>
+					</section>
+					<section class="row">
+
+
+
 				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 35: &lsquo;A look into the past&rsquo;</strong></p>
 					<section class="row">
   					<div class="span5">
@@ -135,6 +158,7 @@ Template Name: Page Concert9 Template
 					</section>
 			</div>
 
+			</div><!-- /span5 -->
 
 
 		</div><!-- /tab-content -->
