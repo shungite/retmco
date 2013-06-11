@@ -19,9 +19,9 @@ Template Name: Page Vinyl Template
 		<h4>Check here for<br>Vinyl Vault sales dates!</h4>
 		<div>
 			<small>&nbsp;</small><br>
-			<code><b>Special spring sale!</b></code>
+			<code><b>Special summer sale!</b></code>
 			<code><b>Open 10 am until 2 pm</b></code>
-			<code><b>March 13th to 15th</b></code><br>
+			<code><b>June 19th to 22nd</b></code><br>
 			<small>&nbsp;</small>
 		</div>
 		<p>The Manitoba Chamber Orchestra&rsquo;s almost-monthly Vinyl Vault sales are your chance to rummage around in the city&rsquo;s largest used record collection! Find rare titles in jazz, pop, classical, opera, rock, country, folk, easy listening and much more &mdash; <b>collectibles a speciality!</b></p>
