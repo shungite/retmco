@@ -9,8 +9,8 @@ Template Name: Page MCOhome Template
 	
 	<div class="span8">
    	<a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><img src="	http://www.themco.ca/wp-content/uploads/2013/06/head1314b.png" alt="MCO 13/14"></a>
-		<h4>Subscribe before June 14th<br>&mdash; you could win a Google Nexus 4!</h4>
-		<p>Don’t miss a single MCO concert next season! Our subscribers enjoy many benefits, (like the chance to win an unlocked Nexus 4!), but nothing tops six or nine wonderful concerts in acoustically superb Westminster Church. Hear for yourself! Call the MCO Ticketline at 204-783-7377 today, or check out the details and download an order form <a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><strong>here</strong></a>.
+		<h4>Subscribe before July 31st<br>&mdash; beat the price increasae!</h4>
+		<p>Don’t miss a single MCO concert next season! Our subscribers enjoy many benefits, and early subscribers save more money, but nothing tops six or nine wonderful concerts in acoustically superb Westminster Church. Hear for yourself! Call the MCO Ticketline at 204-783-7377 today, or check out the details and download an order form <a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><strong>here</strong></a>.
 		</p>
   </div>
 
