@@ -30,7 +30,7 @@ Template Name: Page MCOhome Template
 			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#">Special four-day summer sale:<br>Saturday, June 19-22, from 10 am to 2 pm</strong></a><br />This month, we&rsquo;re holding a special 4-day sale in place of the usual last-Saturday-of-the-month event! Find rare jazz titles, pop, classical, rock, country, folk and more &mdash; collectibles a speciality. Located in the basement of the Power Building, 428 Portage Avenue (near The Bay).</p> 
+			<p><strong><a href="#">Special four-day Vinyl Vault summer sale:<br>Saturday, June 19-22, from 10 am to 2 pm</strong></a><br />This month, we&rsquo;re holding a special 4-day sale in place of the usual last-Saturday-of-the-month event! Find rare jazz titles, pop, classical, rock, country, folk and more &mdash; collectibles a speciality. Located in the basement of the Power Building, 428 Portage Avenue (near The Bay).</p> 
 		</div>
 	</div>
 </div>
