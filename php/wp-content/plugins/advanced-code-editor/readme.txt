@@ -4,7 +4,7 @@ Donate link:  http://en.bainternet.info/donations
 Tags: code, theme editor, plugin editor, code editor, WordPress IDE
 Requires at least: 3.0
 Tested up to: 3.5
-Stable tag: 2.2.4
+Stable tag: 2.2.5
 
 Enables syntax highlighting in the integrated themes and plugins source code editors with line numbers, AutoComplete and much more. Supports PHP, HTML, CSS and JS.
  
@@ -83,6 +83,10 @@ Simply use the <a href=\"http://wordpress.org/tags/advanced-code-editor/?forum_i
 
 
 == Changelog ==
+2.2.5
+Fixed custom button image url
+Made search boxes bigger.
+
 2.2.4
 Fixed `plugin generated XXX char...` notice.
 

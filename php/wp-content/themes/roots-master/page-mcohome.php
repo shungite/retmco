@@ -8,7 +8,7 @@ Template Name: Page MCOhome Template
 <div class="row-fluid">
 	
 	<div class="span8">
-   	<a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><img src="	http://www.themco.ca/wp-content/uploads/2013/06/head1314b.png" alt="MCO 13/14"></a>
+   	<a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2013/06/head1314c.png" alt="MCO 13/14"></a>
 		<h4>Subscribe before July 31st<br>&mdash; beat the price increase!</h4>
 		<p>Don’t miss a single MCO concert next season! Our subscribers enjoy many benefits, and early subscribers save more money, but nothing tops six or nine wonderful concerts in acoustically superb Westminster Church. Hear for yourself! Call the MCO Ticketline at 204-783-7377 today, or check out the details and download an order form <a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><strong>here</strong></a>.
 		</p>
@@ -30,7 +30,7 @@ Template Name: Page MCOhome Template
 			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#">Final Vinyl Vault sale of the season:<br>Saturday, 29 June 2013, from 10 am to 3 pm</strong></a><br />Rummage around in one of the city&rsquo;s largest used record collections! Find rare jazz titles, pop, classical, rock, country, folk, easy listening and much more &mdash; collectibles a speciality! Located in the basement of the Power Building, 428 Portage Avenue (near The Bay).</p> 
+			<p><strong><a href="#">Special four-day summer sale:<br>Saturday, June 19-22, from 10 am to 2 pm</strong></a><br />This month, we&rsquo;re holding a special 4-day sale in place of the usual last-Saturday-of-the-month event! Find rare jazz titles, pop, classical, rock, country, folk and more &mdash; collectibles a speciality. Located in the basement of the Power Building, 428 Portage Avenue (near The Bay).</p> 
 		</div>
 	</div>
 </div>

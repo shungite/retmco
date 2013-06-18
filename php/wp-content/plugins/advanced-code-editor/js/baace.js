@@ -25,7 +25,10 @@ function addToolbarButton(html,cla,i,title,src,alt,f){
 		title = title || '';
 		src = src || false;
 		alt = alt || '';
-		var image = jQuery('<img>').attr('src',ace_strings.imgURL+src).attr('alt',alt);
+		if (src.indexOf('http') != -1 )
+			var image = jQuery('<img>').attr('src',src).attr('alt',alt);
+		else
+			var image = jQuery('<img>').attr('src',ace_strings.imgURL+src).attr('alt',alt);
 		var a = jQuery('<a>').addClass(cla).attr('id',i).attr('title',title).append(image);
 		var li = jQuery('<li>').append(a);
 		toolbar.append(li);

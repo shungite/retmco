@@ -3,7 +3,7 @@
 Plugin Name: Advanced Code Editor
 Plugin URI: http://en.bainternet.info
 Description: Enables syntax highlighting in the integrated themes and plugins source code editors with line numbers, AutoComplete and much more. Supports PHP, HTML, CSS and JS.
-Version: 2.2.4
+Version: 2.2.5
 Author: BaInternet
 Author URI: http://en.bainternet.info
 */
@@ -1566,9 +1566,9 @@ if (!class_exists('advanced_code_editor')){
 			<div id="add_new_file" style="display:none;"></div>
 			<div id="SaveBox" style="display:none;"></div>
 			<div id="update_Box" style="display:none;"></div>
-			<div id="search" style="display:none;"><?php _e('Search For: ','baace');?><input type="text" value="" id="query" style="width: 5em"><button class="button"  id="ace_se" type="button"><?php _e('Search','baace');?></button> </div> 
-			<div id="jump_tbox" style="display:none;"><?php _e('Jump to Line: ','baace');?><input type="text" value="" id="jump_line_number" style="width: 5em"></div> 
-			<div id="searchR" style="display:none;"><?php _e('Search For: ','baace');?><input type="text" value="" id="query1" style="width: 5em"><br/><?php _e('And Replace with:','baace');?><input type="text" id="replace" value="" style="width: 5em"><br /><button class="button"  id="ace_re" type="button"><?php _e('Replace','baace');?></button><?php _e('OR','baace');?> <button class="button"  id="ace_res" type="button"><?php _e('Replace all','baace');?></button> </div> 
+			<div id="search" style="display:none;"><?php _e('Search For: ','baace');?><input type="text" value="" id="query" style="width: 98%"><button class="button"  id="ace_se" type="button"><?php _e('Search','baace');?></button> </div> 
+			<div id="jump_tbox" style="display:none;"><?php _e('Jump to Line: ','baace');?><input type="text" value="" id="jump_line_number" style="width: 98%"></div> 
+			<div id="searchR" style="display:none;"><?php _e('Search For: ','baace');?><input type="text" value="" id="query1" style="width: 98%"><br/><?php _e('And Replace with:','baace');?><input type="text" id="replace" value="" style="width: 98%"><br /><button class="button"  id="ace_re" type="button"><?php _e('Replace','baace');?></button><?php _e('OR','baace');?> <button class="button"  id="ace_res" type="button"><?php _e('Replace all','baace');?></button> </div> 
 			<div id="ace_help" style="display:none;">
 				<h4><?php _e('Hot Keys:','baace');?></h4>
 			   	<ul>
