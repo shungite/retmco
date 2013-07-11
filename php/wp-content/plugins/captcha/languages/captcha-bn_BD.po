@@ -1,90 +1,90 @@
+# Byrial Ole Jensen <byrial@vip.cybercity.dk>, 2011.
 msgid ""
 msgstr ""
 "Project-Id-Version: captcha\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-09 10:02+0300\n"
-"PO-Revision-Date: 2013-07-09 10:02+0300\n"
+"POT-Creation-Date: 2013-07-09 10:00+0300\n"
+"PO-Revision-Date: 2013-07-09 10:01+0300\n"
 "Last-Translator: \n"
-"Language-Team: Luc Capronnier <lcapronnier@yahoo.com>\n"
+"Language-Team: SM Mehdi Akram <mehdi.akram@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr_FR\n"
-"X-Poedit-KeywordsList: __;_e\n"
+"Language: da\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-Basepath: ..\n"
-"X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 1.5.5\n"
-"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: captcha.php:31
 msgid "Login form"
-msgstr "Formulaire de connexion"
+msgstr "লগইন ফর্ম"
 
 #: captcha.php:32
 msgid "Registration form"
-msgstr "Formulaire d'enregistrement"
+msgstr "রেজিষ্ট্রেশন ফর্ম"
 
 #: captcha.php:32
 msgid "Register form"
-msgstr "Formulaire d'enregistrement"
+msgstr "রেজিস্টার ফর্ম"
 
 #: captcha.php:33
 msgid "Reset Password form"
-msgstr "Formulaire de mot de passe perdu"
+msgstr "পাসওয়ার্ড ফর্ম রিসেট"
 
 #: captcha.php:33
 msgid "Lost password form"
-msgstr "Formulaire de mot de passe perdu"
+msgstr "পাসওয়ার্ড হারানোর ফর্ম"
 
 #: captcha.php:34
 msgid "Comments form"
-msgstr "Formulaire des commentaires"
+msgstr "মন্তব্য ফর্ম"
 
 #: captcha.php:35
 msgid "Hide CAPTCHA for registered users"
-msgstr "Cacher le CAPTCHA pour les utilisateurs enregistrés"
+msgstr "রেজিষ্টেশনকৃত ব্যবহাকারী থেকে ক্যপচা লুকাও"
 
 #: captcha.php:40
 msgid "Plus (&#43;)"
-msgstr "Plus (&#43;)"
+msgstr "যোগ (&#43;)"
 
 #: captcha.php:40
 msgid "Plus"
-msgstr "Plus"
+msgstr "যোগ (&#43;)"
 
 #: captcha.php:41
 msgid "Minus (&minus;)"
-msgstr "Moins (&minus;)"
+msgstr "বিয়োগ (&minus;)"
 
 #: captcha.php:41
 msgid "Minus"
-msgstr "Moins"
+msgstr "বিয়োগ (&minus;)"
 
 #: captcha.php:42
 msgid "Multiplication (&times;)"
-msgstr "Multiplication (&times;)"
+msgstr "গুণ (&times;)"
 
 #: captcha.php:42
 msgid "Multiply"
-msgstr "Multiplie (&times;)"
+msgstr "গুণ (&times;)"
 
 #: captcha.php:47
 msgid "Numbers"
-msgstr "Nombres"
+msgstr "সংখ্যা"
 
 #: captcha.php:48
 msgid "Words"
-msgstr "Mots"
+msgstr "শব্দ"
 
 #: captcha.php:124
 msgid "Pro plugins"
-msgstr "Plugins pro"
+msgstr "ব্যবসায়িক প্লাগইন"
 
 #: captcha.php:127
 #: captcha.php:153
 msgid "Activated plugins"
-msgstr "Plugins activés"
+msgstr "প্লাগিন সক্রিয়"
 
 #: captcha.php:129
 #: captcha.php:137
@@ -93,118 +93,118 @@ msgstr "Plugins activés"
 #: captcha.php:163
 #: captcha.php:171
 msgid "Read more"
-msgstr "Plus d'infos"
+msgstr "বিস্তারিত"
 
 #: captcha.php:129
 #: captcha.php:155
 #: captcha.php:276
 #: captcha.php:285
 msgid "Settings"
-msgstr "Réglages"
+msgstr "সেটিংস"
 
 #: captcha.php:135
 #: captcha.php:161
 msgid "Installed plugins"
-msgstr "Plugins installés"
+msgstr "প্লাগিন ইনস্টল"
 
 #: captcha.php:143
 #: captcha.php:169
 msgid "Recommended plugins"
-msgstr "Plugins recommandés"
+msgstr "প্রস্তাবিত প্লাগিন"
 
 #: captcha.php:145
 msgid "Purchase"
-msgstr "Acheter"
+msgstr "কেনা"
 
 #: captcha.php:150
 msgid "Free plugins"
-msgstr "Plugins gratuits"
+msgstr "ফ্রি প্লাগইন"
 
 #: captcha.php:171
 msgid "Download"
-msgstr "Télécharger"
+msgstr "ডাউনলোড"
 
 #: captcha.php:171
 #, php-format
 msgid "Install %s"
-msgstr "Installer %s"
+msgstr "ইনস্টল %s"
 
 #: captcha.php:171
 msgid "Install now from wordpress.org"
-msgstr "Installer maintenant depuis wordpress.org"
+msgstr "wordpress.org থেকে ইনস্টল করুন"
 
 #: captcha.php:176
 msgid "If you have any questions, please contact us via"
-msgstr "Si vous avez une question, n'hésitez pas à nous contacter par "
+msgstr "যদি আপনার কোন প্রশ্ন থাকে তাহলে আমাদের সাথে যোগাযোগ করুন"
 
 #: captcha.php:183
 #: captcha.php:348
 msgid "Captcha Settings"
-msgstr "Options du Captcha"
+msgstr "ক্যাপচা সেটিংস"
 
 #: captcha.php:183
 msgid "Captcha"
-msgstr "Captcha"
+msgstr "ক্যাপচা"
 
 #: captcha.php:286
 msgid "FAQ"
-msgstr "FAQ"
+msgstr "অনবরত জিজ্ঞাসিত প্রশ্ন"
 
 #: captcha.php:287
 msgid "Support"
-msgstr "Support"
+msgstr "সমর্থন"
 
 #: captcha.php:331
 msgid "Please select one item in the block Arithmetic and Complexity for CAPTCHA"
-msgstr "Merci de choisir au moins un élément dans la catégorie mathématique et un dans la catégorie compléxité pour le CAPTCHA"
+msgstr "ক্যাপচার জন্য ব্লক গাণিতিক এবং জটিলতা একটি আইটেম নির্বাচন করুন"
 
 #: captcha.php:335
 msgid "Options saved."
-msgstr "Options sauvegardées."
+msgstr "অপশন সংরক্ষণ"
 
 #: captcha.php:354
 msgid "Enable CAPTCHA for:"
-msgstr "Activer le CAPTCHA pour :"
+msgstr "যাদের জন্য ক্যাপচা সক্রিয় করবেন:"
 
 #: captcha.php:368
 #: captcha.php:370
 #: captcha.php:373
 msgid "Contact form"
-msgstr "Formulaire de contact"
+msgstr "কন্টাক্ট ফর্ম"
 
 #: captcha.php:368
 #: captcha.php:370
 #: captcha.php:373
 msgid "(powered by bestwebsoft.com)"
-msgstr "(fourni par bestwebsoft.com)"
+msgstr "(bestwebsoft.com দ্বারা চালিত)"
 
 #: captcha.php:370
 msgid "Activate contact form"
-msgstr "Activer le formulaire de contact"
+msgstr "কন্টাক্ট ফর্ম সক্রিয়"
 
 #: captcha.php:373
 msgid "Download contact form"
-msgstr "Télécharger le formulaire de contact"
+msgstr "কন্টাক্ট ফর্ম ডাউনলোড"
 
 #: captcha.php:375
 msgid "If you would like to customize this plugin for a custom form, please contact us via"
-msgstr "Si vous souhaitez personnaliser le pluginavec un formulaire spécifique, merci de nous contacter via"
+msgstr "আপনি একটি কাস্টম ফর্মি এর জন্য এই প্লাগইন কাস্টমাইজ করতে চান, তাহলে আমাদের সাথে যোগাযোগ করুন"
 
 #: captcha.php:379
 msgid "Title for CAPTCHA in the form"
-msgstr "Le titre du CAPTCHA dans les formulaires"
+msgstr "ক্যাপচা ফর্ম এর টাইটেল"
 
 #: captcha.php:383
 msgid "Arithmetic actions for CAPTCHA"
-msgstr "Opérations arithmétiques  pour le CAPTCHA"
+msgstr "ক্যাপচার জন্য গাণিতিক কর্ম"
 
 #: captcha.php:392
 msgid "CAPTCHA complexity level"
-msgstr "Niveau de compléxité du CAPTCHA"
+msgstr "ক্যাপচা জটিলতার ধাপ"
 
 #: captcha.php:402
 msgid "Save Changes"
-msgstr "Savegarder les modifications"
+msgstr "পরিবর্তণ সংরক্ষন"
 
 #: captcha.php:446
 #: captcha.php:452
@@ -213,7 +213,7 @@ msgstr "Savegarder les modifications"
 #: captcha.php:631
 #: captcha.php:638
 msgid "ERROR"
-msgstr "ERREUR"
+msgstr "ত্রুটি"
 
 #: captcha.php:446
 #: captcha.php:467
@@ -222,193 +222,195 @@ msgstr "ERREUR"
 #: captcha.php:631
 #: captcha.php:653
 msgid "Please fill the form."
-msgstr "Merci de remplir le formulaire."
+msgstr "এই ফরমটি পূরণ করুন"
 
 #: captcha.php:452
 #: captcha.php:478
 #: captcha.php:622
 #: captcha.php:638
 msgid "Please enter a valid CAPTCHA value."
-msgstr "Merci de compléter le CAPTCHA."
+msgstr "দয়া করে সঠিক ক্যাপচা লিখুন।"
 
 #: captcha.php:589
 #: captcha.php:660
 msgid "Error: You have entered an incorrect CAPTCHA value. Click the BACK button on your browser, and try again."
-msgstr "Erreur: Vous avez saisi un mauvais CAPTCHA. Appuyez sur le bouton retour de votre navigateur et essayez de nouveau."
+msgstr "ত্রুটি: আপনি একটি ভুল ক্যাপচা দিয়েছেন। আপনার ব্রাউজারের ব্যাক বোতাম ক্লিক করুন এবং আবার চেষ্টা করুন।"
 
 #: captcha.php:671
 #: captcha.php:897
 msgid "zero"
-msgstr "null"
+msgstr "শুন্য"
 
 #: captcha.php:672
 #: captcha.php:898
 #: captcha.php:1108
 msgid "one"
-msgstr "un"
+msgstr "এক"
 
 #: captcha.php:673
 #: captcha.php:899
 msgid "two"
-msgstr "deux"
+msgstr "দুই"
 
 #: captcha.php:674
 #: captcha.php:900
 msgid "three"
-msgstr "trois"
+msgstr "তিন"
 
 #: captcha.php:675
 #: captcha.php:901
 msgid "four"
-msgstr "quatre"
+msgstr "চার"
 
 #: captcha.php:676
 #: captcha.php:902
 msgid "five"
-msgstr "cinq"
+msgstr "পাঁচ"
 
 #: captcha.php:677
 #: captcha.php:903
 #: captcha.php:1108
 msgid "six"
-msgstr "six"
+msgstr "ছয়"
 
 #: captcha.php:678
 #: captcha.php:904
 #: captcha.php:1096
 #: captcha.php:1102
 msgid "seven"
-msgstr "sept"
+msgstr "সাত"
 
 #: captcha.php:679
 #: captcha.php:905
 #: captcha.php:1099
 msgid "eight"
-msgstr "huit"
+msgstr "আট"
 
 #: captcha.php:680
 #: captcha.php:906
 msgid "nine"
-msgstr "neuf"
+msgstr "নয়"
 
 #: captcha.php:683
 #: captcha.php:909
 msgid "eleven"
-msgstr "onze"
+msgstr "এগার"
 
 #: captcha.php:684
 #: captcha.php:910
 msgid "twelve"
-msgstr "douze"
+msgstr "বার"
 
 #: captcha.php:685
 #: captcha.php:911
 msgid "thirteen"
-msgstr "treize"
+msgstr "তের"
 
 #: captcha.php:686
 #: captcha.php:912
 msgid "fourteen"
-msgstr "quatorze"
+msgstr "চৌদ্দ"
 
 #: captcha.php:687
 #: captcha.php:913
 msgid "fifteen"
-msgstr "quinze"
+msgstr "পনের"
 
 #: captcha.php:688
 #: captcha.php:914
 msgid "sixteen"
-msgstr "seize"
+msgstr "ষোল"
 
 #: captcha.php:689
 #: captcha.php:915
 msgid "seventeen"
-msgstr "dix-sept"
+msgstr "সতের"
 
 #: captcha.php:690
 #: captcha.php:916
 msgid "eighteen"
-msgstr "dix-huit"
+msgstr "আঠারো"
 
 #: captcha.php:691
 #: captcha.php:917
 msgid "nineteen"
-msgstr "dix-neuf"
+msgstr "উনিশ"
 
 #: captcha.php:694
 #: captcha.php:920
 msgid "ten"
-msgstr "dix"
+msgstr "দশ"
 
 #: captcha.php:695
 #: captcha.php:921
 msgid "twenty"
-msgstr "vingt"
+msgstr "বিশ"
 
 #: captcha.php:696
 #: captcha.php:922
 msgid "thirty"
-msgstr "trente"
+msgstr "ত্রিশ"
 
 #: captcha.php:697
 #: captcha.php:923
 msgid "forty"
-msgstr "quarante"
+msgstr "চল্লিশ"
 
 #: captcha.php:698
 #: captcha.php:924
 msgid "fifty"
-msgstr "cinquante"
+msgstr "পঞ্চাশ"
 
 #: captcha.php:699
 #: captcha.php:925
 msgid "sixty"
-msgstr "soixante"
+msgstr "ষাট"
 
 #: captcha.php:700
 #: captcha.php:926
 msgid "seventy"
-msgstr "soixante-dix"
+msgstr "সত্তোর"
 
 #: captcha.php:701
 #: captcha.php:927
 msgid "eighty"
-msgstr "quatre-vingt"
+msgstr "আশি"
 
 #: captcha.php:702
 #: captcha.php:928
 msgid "ninety"
-msgstr "quatre-vingt-dix"
+msgstr "নব্বয়"
 
 #: captcha.php:789
 #: captcha.php:1015
 msgid "and"
-msgstr "et"
+msgstr "এবং"
 
 #: captcha.php:808
 msgid "Encryption password is not set"
-msgstr "Le mot de passe de cryptage n'est pas défini"
+msgstr "এনক্রিপশন পাসওয়ার্ড সেট করা হয় নাই"
 
 #: captcha.php:827
 msgid "Decryption password is not set"
-msgstr "Le mot de passe de décryptage n'est pas défini"
+msgstr "ডিক্রিপশন পাসওয়ার্ড সেট করা হয় নাই"
 
+#, fuzzy
 #~ msgid ""
 #~ "If you have any questions, please contact us via plugin@bestwebsoft.com "
 #~ "or fill in the contact form on our website"
 #~ msgstr ""
-#~ "Si vous avez des questions, merci de nous contacter via <a href=\"Mailto:"
-#~ "plugin@bestwebsoft.com\">plugin@bestwebsoft.com</a> ou utilisez le "
-#~ "formulaire de contact sur notre siteweb."
+#~ "Si tienes cualquier pregunta, por favor contacta con nosotros a través de "
+#~ "plugin@bestwebsoft.com o rellena el formulario de contacto en nuestra web"
 #~ msgid "Increase"
-#~ msgstr "Augmenter"
+#~ msgstr "Incremento"
 #~ msgid "Difficulty for CAPTCHA"
-#~ msgstr "La difficulté pour le CAPTCHA"
+#~ msgstr "Dificultad del CAPTCHA"
 #~ msgid "That CAPTCHA was incorrect."
-#~ msgstr "Le CAPTCHA est incorrect."
+#~ msgstr "El resultado introducido es incorrecto."
 #~ msgid "The password of encryption is not set"
-#~ msgstr "Le mot de passe de cryptage n'est pas défini"
+#~ msgstr "La contraseña de cifrado no está establecida"
 #~ msgid "null"
-#~ msgstr "null"
+#~ msgstr "cero"
+#~ msgid "Install Now"
+#~ msgstr "Installér nu"
 
