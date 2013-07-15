@@ -30,7 +30,7 @@ Template Name: Page MCOhome Template
 			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#">We&rsquo;re off for the summer!<br>Next Vinyl Vault sale:<br>Saturday, September 28th; 10 am to 3 pm</strong></a><br />There will be no sales for the months of July and August, but we&rsquo;ll be back in the fall with the usual collection of jazz, pop, classical, rock, country and folk LPs. MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p> 
+			<p><strong><a href="#">We&rsquo;re off for the summer!<br>Next Vinyl Vault sale: Saturday, September 28th; 10 am to 3 pm</strong></a><br />There will be no sales for the months of July and August, but we&rsquo;ll be back in the fall with the usual collection of jazz, pop, classical, rock, country and folk LPs. MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p> 
 		</div>
 	</div>
 </div>
