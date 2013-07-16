@@ -17,16 +17,9 @@ Template Name: Page Vinyl Template
 
 	<div class="span8">
 		<h4>Check here for<br>Vinyl Vault sales dates!</h4>
-		<div>
-			<small>&nbsp;</small><br>
-			<code><b>Special summer sale!</b></code>
-			<code><b>Open 10 am until 2 pm</b></code>
-			<code><b>June 19th to 22nd</b></code><br>
-			<small>&nbsp;</small>
-		</div>
 		<p>The Manitoba Chamber Orchestra&rsquo;s almost-monthly Vinyl Vault sales are your chance to rummage around in the city&rsquo;s largest used record collection! Find rare titles in jazz, pop, classical, opera, rock, country, folk, easy listening and much more &mdash; <b>collectibles a speciality!</b></p>
 		<p><b>10:00 am to 3:00 pm, Saturdays<br>Power Building basement<br>428 Portage Avenue<br>Dates for 12/13:</b></p>
-		<p>September 29<br>October 27<br>November 24<br>January 26<br>February 23<br>March 30<br>April 27<br>May 25<br>Special summer sale: June 19-22</p>
+		<p>28 September 2013<br>26 October 2013<br>30 November 2013<br>25 January 2014<br>22 February 2014<br>29 March 2014<br>26 April 2014<br>31 May 2013</p>
 	</div>
 
 </div><!-- /row -->
