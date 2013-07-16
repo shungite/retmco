@@ -9,7 +9,7 @@ Template Name: Page MCOhome Template
 	
 	<div class="span8">
    	<a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2013/06/head1314c.png" alt="MCO 13/14"></a>
-		<h4>Subscribe before July 31st<br>&mdash; beat the price increase!</h4>
+		<h4>Subscribe before July 31st<br>&mdash; beat the coming price increase!</h4>
 		<p>Don’t miss a single MCO concert next season! Our subscribers enjoy many benefits, and early subscribers save more money, but nothing tops six or nine wonderful concerts in acoustically superb Westminster Church. Hear for yourself! Call the MCO Ticketline at 204-783-7377 today, or check out the details and download an order form <a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><strong>here</strong></a>.
 		</p>
   </div>
@@ -30,7 +30,7 @@ Template Name: Page MCOhome Template
 			<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px">
 			</a>
 		<div class="media-body">
-			<p><strong><a href="#">We&rsquo;re off for the summer!<br>Next Vinyl Vault sale: Saturday, September 28th</strong></a><br />There will be no sales for the months of July and August, but we&rsquo;ll be back in the fall with the usual collection of jazz, pop, classical, rock, country and folk LPs. MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p> 
+			<p><strong><a href="#">The vault is sealed for the summer!<br>Next Vinyl Vault sale: Saturday, September 28th</strong></a><br />There will be no sales for the months of July and August, but we&rsquo;ll be back in the fall with the usual collection of jazz, pop, classical, rock, country and folk LPs. MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p> 
 		</div>
 	</div>
 </div>
