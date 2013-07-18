@@ -24,7 +24,7 @@
     <div class="row-fluid">
       <div class="span12">
         <a href="http://www.themco.ca"><img class="alignnone size-full wp-image-9" title="logosm" src="http://www.themco.ca/wp-content/uploads/2013/01/logosm.png" alt="" width="150" height="78" /></a>
-        <p class="muted">CELEBRATING FORTY YEARS</p>
+        <!-- <p class="muted">CELEBRATING FORTY YEARS</p> -->
       </div>
     </div><!-- /row -->
   </div>
