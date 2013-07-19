@@ -4,7 +4,7 @@ Donate link: https://www.2checkout.com/checkout/purchase?sid=1430388&quantity=10
 Tags: captcha, match captcha, text captcha, spam, antispam, login, registration, comment, lost password, capcha, catcha, captha
 Requires at least: 2.9
 Tested up to: 3.5.2
-Stable tag: 3.7.2
+Stable tag: 3.7.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -26,7 +26,7 @@ The Captcha plugin allows you to protect your website from spam by means of math
 = Translation =
 
 * Arabic (ar_AR) (thanks to Albayan Design Hani Aladoli)
-* Bangla (bn_BD) (thanks to <a href="mailto:mehdi.akram@gmail.com">SM Mehdi Akram</a>, www.shamokaldarpon.com) 
+* Bangla (bn_BD) (thanks to <a href="mailto:mehdi.akram@gmail.com">SM Mehdi Akram</a>, www.shamokaldarpon.com)
 * Brazilian Portuguese (pt_BR) (thanks to <a href="mailto:brenojac@gmail.com">Breno Jacinto</a>, www.iconis.org.br)
 * Bulgarian (bg_BG) (thanks to <a href="mailto:paharaman@gmail.com">Nick</a>)
 * Chinese (zh_CN) (thanks to Billy Jeans)
@@ -143,6 +143,9 @@ You could add this line to the variable and display this variable in the require
 5. Login form with Captcha.
 
 == Changelog ==
+
+= V3.7.3 - 18.07.2013 =
+* NEW : Added an ability to view and send system information by mail.
 
 = V3.7.2 - 09.07.2013 =
 * NEW : The Bangla language file is added to the plugin.
@@ -321,6 +324,9 @@ You could add this line to the variable and display this variable in the require
 * Select functionality of mathematical actions and level of their difficulty are implemented.
 
 == Upgrade Notice ==
+
+= V3.7.3 =
+Added an ability to view and send system information by mail.
 
 = V3.7.2 =
 The Bangla language file is added to the plugin. The French language file is updated in the plugin. We updated all functionality for wordpress 3.5.2

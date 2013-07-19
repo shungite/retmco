@@ -16,6 +16,22 @@
 #toplevel_page_bws_plugins .wp-submenu .wp-first-item {
 	display:none;
 }
+.bws_system_info_mata_box {
+    width: 850px;
+}
+.bws_system_info {
+    float: left;
+    margin-right: 10px;
+    width: 400px;
+}
+.bws_system_info th {
+    padding: 10px 0;
+    text-align: left;
+    width: 50%;
+}
+.bws_system_info tbody td {
+	border-bottom: 1px solid #DFDFDF;
+}
 .cptch_example_fields_actions {
 	float: left;
     height: 18px;
