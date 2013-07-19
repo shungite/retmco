@@ -74,9 +74,9 @@ Template Name: Page Concert1 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director and Conductor<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />11 September 2013</p>
 				<p>Jan Lissiecki, piano</p>
-				<p><strong>B&eacute;la Bart&oacute;k</strong> (1881-1945)<br /><em>Romanian Folk Dances</em>, Sz. 56</p>
-				<p><strong>Philip Glass</strong> (b. 1937)<br />Symphony No. 3</p>
-				<p><strong>Edvard Grieg</strong> (1843-1947)<br />Piano Concerto, in A minor, Op. 16<br> &mdash; arr. Oesterle</p>
+				<p><strong>B&eacute;la Bart&oacute;k</strong><br /><em>Romanian Folk Dances</em>, Sz. 56</p>
+				<p><strong>Philip Glass</strong><br />Symphony No. 3</p>
+				<p><strong>Edvard Grieg</strong><br />Piano Concerto, in A minor, Op. 16<br> &mdash; arr. Oesterle</p>
 				<p><em>Jan Lisiecki</em></p>
 				<p>Concert sponsor / <strong><a href="http://www.investorsgroup.com/en/default.aspx">Investors Group</a></strong><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 			</div>

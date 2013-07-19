@@ -31,7 +31,7 @@ Template Name: Page Concert2 Template
 
 		<div>
 			<p>
-  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="On Monday, October 21st, enjoy a talk with MCO Music Director and Conductor Anne Manson &mdash; A Tale of Two Symphonies; McNally Robinson, Grant Park Shopping Centre.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by the Manitoba Conservatory of Arts &amp; Music Cello Ensemble, under the direction of Blair Burns; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="MCO&rsquo;s Pizza Club is sold out for this event. Remember to reserve a space early for the next concert.">Pizza Club</button>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="On Monday, October 21st, enjoy a talk with MCO Music Director and Conductor Anne Manson &mdash; A Tale of Two Symphonies; McNally Robinson, Grant Park Shopping Centre.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by the Manitoba Conservatory of Arts &amp; Music Cello Ensemble, under the direction of Blair Burns; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Book three days in advance for MCO&rsquo;s Pizza Club! Arrive at 6 pm for pizza and a pre-concert presentation, followed by the concert. Tickets are $7.50 for students, including pizza; adults pay regular price. Space is limited; call 204.783.7377 to reserve yours.">Pizza Club</button>
 			</p>
 		</div>
 
@@ -73,8 +73,8 @@ Template Name: Page Concert2 Template
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director and Conductor<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />22 October 2013</p>
-				<p><b>Ludwig van Beethoven</b> (1770-1827)<br />Symphony No. 1, in C Major, Op. 21</p>
-				<p><b>Joseph Haydn</b> (1732-1809)<br />Symphony No. 103, in E-flat Major</p>
+				<p><b>Ludwig van Beethoven</b><br />Symphony No. 1, in C Major, Op. 21</p>
+				<p><b>Joseph Haydn</b><br />Symphony No. 103, in E-flat Major</p>
 				<p>Concert sponsor / <b>Angela &amp; Robert Ross</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 			</div>
 			<div class="tab-pane fade" id="notes">
