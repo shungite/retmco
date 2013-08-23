@@ -3,20 +3,20 @@
 Template Name: Page MCOhome Template
 */
 ?>
+
 <div class="container">
 
 	<div class="row-fluid">
 		<div class="span8">
-	   	<a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2013/06/head1314c.png" alt="MCO 13/14"></a>
-			<h4>Subscribe before July 31st<br>&mdash; beat the coming price increase!</h4>
-			<p>Don’t miss a single MCO concert next season! Our subscribers enjoy many benefits, and early subscribers save more money, but nothing tops six or nine wonderful concerts in acoustically superb Westminster Church. Hear for yourself! Call the MCO Ticketline at 204-783-7377 today, or check out the details and download an order form <a href="http://www.themco.ca/quick-links-to-1314-subscriptions/"><strong>here</strong></a>.
-			</p>
+	   	<a href="http://www.themco.ca/concert/lisiecki/"><img src="http://www.themco.ca/wp-content/uploads/2013/07/head11sep13.jpg" alt="MCO 13/14"></a>
+			<h4>Season-opening concert<br>&mdash; just around the corner!</h4>
+			<p>Don&rsquo;t miss the excitement when Canadian piano sensation <b>Jan Lisiecki</b> kicks off our 2013/14 season! Jan will perform an arrangement by <b>Michaael Oesterle</b> of Edvard Grieg&rsquo;s Piano Concerto in A Minor, Op. 16. See the rest of the program <a href="http://www.themco.ca/concert/lisiecki/"><b>here</b></a>, or if you're just after a quick ticket, click the links below.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=d7dfbd6319484a97ba3dfaff64bc8c69"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=693ac01b9d03456ba0b095c648519c78"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=f09d9f29c4b7406e82b339a4b419060b"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a></p>
 	  	</div>
 	</div><!-- /row -->
 
-	<div class="row-fluid">
+	<!-- <div class="row-fluid">
 		<small>&nbsp;</small>
-	</div>
+	</div> -->
 
 	<div class="row-fluid">
 		<div class="span8">
