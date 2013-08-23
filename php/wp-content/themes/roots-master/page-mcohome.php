@@ -20,7 +20,7 @@ Template Name: Page MCOhome Template
 
 	<div class="row-fluid">
 		<div class="span8">
-			<div class="well-white">
+			<div class="well">
 				<div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
 					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/07/DonorCello.jpg" width="96px" height="96px">
