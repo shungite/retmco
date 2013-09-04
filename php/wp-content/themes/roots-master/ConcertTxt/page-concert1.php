@@ -73,7 +73,7 @@ Template Name: Page Concert1 Template
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director and Conductor<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br />11 September 2013</p>
-				<p>Jan Lissiecki, piano</p>
+				<p>Jan Lisiecki, piano</p>
 				<p><strong>B&eacute;la Bart&oacute;k</strong><br /><em>Romanian Folk Dances</em>, Sz. 56</p>
 				<p><strong>Philip Glass</strong><br />Symphony No. 3</p>
 				<p><strong>Edvard Grieg</strong><br />Piano Concerto, in A minor, Op. 16<br> &mdash; arr. Oesterle</p>
