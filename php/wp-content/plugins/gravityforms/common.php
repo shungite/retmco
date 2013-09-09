@@ -1,7 +1,7 @@
 <?php
 class GFCommon{
 
-    public static $version = "1.7.6";
+    public static $version = "1.7.8";
     public static $tab_index = 1;
     public static $errors = array();
 
@@ -2097,7 +2097,7 @@ class GFCommon{
                 $tabindex = self::get_tabindex();
                 $choice_value = $choice["value"];
                 if(rgget("enablePrice", $field))
-                    $choice_value .= "|" . GFCommon::to_number($choice["price"]);
+                    $choice_value .= "|" . GFCommon::to_number(rgar($choice,"price"));
 
                 $choices.= sprintf("<li class='gchoice_$id'><input name='input_%s' type='checkbox' $logic_event value='%s' %s id='choice_%s' $tabindex %s /><label for='choice_%s'>%s</label></li>", $input_id, esc_attr($choice_value), $checked, $id, $disabled_text, $id, $choice["text"]);
 
@@ -3617,7 +3617,7 @@ class GFCommon{
                 }
                 $checked = rgpost("gform_payment_method") == "creditcard" || rgempty("gform_payment_method") ? "checked='checked'" : "";
                 $card_radio_button = empty($payment_options) ? "" : "<input type='radio' name='gform_payment_method' id='gform_payment_method_creditcard' value='creditcard' onclick='gformToggleCreditCard();'   {$checked}/>";
-                $card_icons = "{$payment_options}<div class='gform_card_icon_container gform_card_icon_{$card_style}'>{$card_radio_button}{$card_icons}</div><div class='gform_card_fields_container'>";
+                $card_icons = "{$payment_options}<div class='gform_card_icon_container gform_card_icon_{$card_style}'>{$card_radio_button}{$card_icons}</div>";
 
 
 
@@ -3656,7 +3656,7 @@ class GFCommon{
                 $tabindex = self::get_tabindex();
                 $card_name_field = sprintf("<span class='ginput_full{$class_suffix}' id='{$field_id}_5_container'><input type='text' name='input_%d.5' id='%s_5' value='%s' {$tabindex} %s /><label for='%s_5' id='{$field_id}_5_label'>" . apply_filters("gform_card_name_{$form_id}", apply_filters("gform_card_name",__("Cardholder Name", "gravityforms"), $form_id), $form_id) . "</label></span>", $id, $field_id, $card_name, $disabled_text, $field_id);
 
-                return "<div class='ginput_complex{$class_suffix} ginput_container' id='{$field_id}'>" . $card_field . $expiration_field . $security_field . $card_name_field . " </div></div>";
+                return "<div class='ginput_complex{$class_suffix} ginput_container' id='{$field_id}'>" . $card_field . $expiration_field . $security_field . $card_name_field . " </div>";
 
             break;
 
@@ -5048,8 +5048,6 @@ class GFCommon{
              'value' => ''
           ), $attributes));
 
-        $result = RGFormsModel::matches_operation($merge_tag, $value, $condition);
-
         return RGFormsModel::matches_operation($merge_tag, $value, $condition) ? do_shortcode($content) : '';
 
     }
@@ -5235,10 +5233,9 @@ class GFCommon{
 
     }
 
-    private function requires_gf_vars() {
+    private static function requires_gf_vars() {
         $dependent_scripts = array( 'gform_form_admin', 'gform_gravityforms', 'gform_form_editor' );
         foreach( $dependent_scripts as $script ) {
-            $value = wp_script_is( $script );
             if( wp_script_is( $script ) )
                 return true;
         }
@@ -5278,10 +5275,10 @@ class GFCategoryWalker extends Walker {
      * @param int $depth Depth of category. Used for padding.
      * @param array $args Uses 'selected' and 'show_count' keys, if they exist.
      */
-    function start_el( &$output, $term, $depth) {
+    function start_el( &$output, $object, $depth = 0, $args = array(), $current_object_id = 0) {
         $pad = str_repeat('&nbsp;', $depth * 3);
-        $term->name = "{$pad}{$term->name}";
-        $output[] = $term;
+        $object->name = "{$pad}{$object->name}";
+        $output[] = $object;
     }
 }
 
@@ -5423,6 +5420,3 @@ class GFCache {
     }
 
 }
-
-
-?>
