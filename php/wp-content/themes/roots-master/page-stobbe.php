@@ -19,7 +19,7 @@ Template Name: Page Stobbe Template
 <div class="row">
 
 	<div class="span6">
-		<h4>A Candlelihght evening<br />with MCO Concertmaster Karl Stobbe</h4>
+		<h4>A Candlelight evening<br />with MCO Concertmaster Karl Stobbe</h4>
 		<p>The Manitoba Chamber Orchestra invites you to a special Candlelight evenings in historic Moss House with violinist Karl Stobbe.  The event will be held at 7:30 pm, Thursday, 7 November 2013 at 218 Roslyn Road, a restored turn-of-the-century architectural gem (generously offered by John &amp; Nancy Embry). Ticket price is $75 per person (partial tax receipt). Musical performance will commence at 7:45.</p>
 		<p>As there are a very limited number of tickets available, please RSVP 204.783.7377 by Wednesday, October 24th, or simply <strong><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=49085bc7260e4c228cf48e6925ec34e4">purchase tickets here</a></strong>.</p>
 		<p>The evening will be enhanced with wine and delectable edibles!</p>
