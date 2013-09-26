@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page Yoo Template
+Template Name: Page Stobbe Template
 */
 ?>
 <div class="container">
@@ -35,6 +35,6 @@ Template Name: Page Yoo Template
 
 </div><!-- /row -->
 
-<?php get_template_part('templates/content', 'yoo'); ?>
+<?php get_template_part('templates/content', 'stobbe'); ?>
 
 </div><!-- /container -->
