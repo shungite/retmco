@@ -24,10 +24,7 @@ Template Name: Page Programs Template
 		<p>Help them create a cultural and musical framework for themselves. Show them where their music studies can lead &mdash; they can become an audience member, composer, conductor, musician, board member, donor, educator or CD purchaser. Have fun sharing music with them and with other avid music fans.</p>
 		<p><strong>School visits &mdash; the MCO comes to you</strong> / the MCO Outreach Ensemble is a roaming troupe of MCO players consisting of violin, viola, cello, double bass and guitar. It offers workshops and mini-concerts in schools throughout the province. Call 204.783.7377 for more info or to request a visit.</p>
 		<p>&nbsp;</p>
-			<div class="well">
-				<p><strong>Special matinee performance of <em>Brundib&agrave;r</em><br />1:15 pm, Wednesday, March 12th, Westminster Church</strong></p>
-				<p>Kras&agrave;s <em>Brundib&agrave;r</em> will be performed by the MCO and the Pembina Trails Voices children&rsquo;s choir (Ruth Wiwchar, Director). Brundib&agrave;r is a children&rsquo;s opera by Jewish Czech composer Hans Kras&agrave; with a libretto by Adolf Hoffmeister. The piece was originally performed by the children of Theresienstadt concentration camp in occupied Czechoslovakia. The name come from a Czech colloquialism for a bumble bee.</p>
-			</div>
+
 	</div><!-- /span6 -->
 
 	<div class="span1"> 
@@ -40,9 +37,9 @@ Template Name: Page Programs Template
 <div class="row-fluid">
 
 	<div class="span7">
-		<div class="well-white">
+		<div class="well">
 			<div class="media-body">
-				<p><strong><a href="http://www.sunlife.ca/">Sun Life Financial</a><br>Arts Outreach Program: Open dress rehearsals for schools</strong></p>
+				<p><strong><a href="http://www.sunlife.ca/">Sun Life Financial</a><br>&lsquo;Music for all!&rsquo;program: Open dress rehearsals for schools</strong></p>
 				<p>Bring your school group to Westminster Church for a 50-minute open dress rehearsal. Learn about the work that goes into presenting a professional orchestral performance. Watch musicians and conductor rehearse and be the first to hear what audiences will hear that night! <strong>Tickets $5.25 including GST.</strong> These open dress rehearsals are best suited to senior students, adults and home-schooled children. They are working rehearsals with some stopping and starting. Offered for the concerts listed <a href="http://www.themco.ca/schools-form"><strong>on this form.</strong></a></p>
 				<p><a href="http://www.sunlife.ca/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/SunLife-logo.png"></a></p> 
 			</div>
@@ -54,24 +51,28 @@ Template Name: Page Programs Template
 <div class="row-fluid">
 
 	<div class="span7">
-		<div class="well">
+		<div class="well-white">
 			<div class="media-body">
 				<p><strong>MCO Pizza Club</strong></p>
 				<p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered for the following concerts:</p>
 				<dl class="dl">
-  				<dt>November 21</dt>
-  				<dd>Guest conductor <strong>Scott Yoo</strong> and violinist <strong>Karen Gomyo</strong> and works by Jocelyn Morlock, Wolfgang Amadeus Mozart and Arnold Schoenberg.</dd>
-  				<dt>January 9</dt>
-  				<dd>Pianist <strong>Marc-Andr&eacute; Hamelin</strong> will perform Shostavich&rsquo;s C minor piano concerto.</dd>
-  				<dt>February 6</dt>
-  				<dd>Guest conductor <strong>Yuri Klaz</strong> and <b>The Winnipeg Singers</b> (also celebrating 40 years!).</dd>
-  				<dt>February 19</dt>
-  				<dd>Canadian piano superstar <b>Janina Fialkowska</b> will perform Mozart&rsquo; Piano Concerto No. 12 in A Major (K414).</dd>
+  				<dt>October 22</dt>
+  				<dd>MCO Music Director and Conductor <b>Anne Manson</b> and &lsquo;A Tale of Two Symphonies.&rsquo;</dd>
+  				<dt>November 27</dt>
+  				<dd><b>James Sommerville</b> is guest conductor and horn soloist, with <b>Patricia Evans</b> in Beethoven&rsquo;s Sextet, in E Flat, for Two Horns and Strings, Op. 81b.</dd>
+  				<dt>December 17</dt>
+  				<dd>A Christmas concert with <b>David Fallis</b> and Winnipeg&rsquo;s baroque vocal ensemble, <b>Canzona</b>.</dd>
+  				<dt>January 8</dt>
+  				<dd>Guest conductor <b>Judith Yan</b>, baritone <b>Michael Nyby</b> and <b>Xiao-Nan Wang</b>.</dd>
+  				<dt>February 8</dt>
+  				<dd><b>Anne Manson</b> and <b>Suzie LeBlanc</b> present music inspired by poems of <b>Elizabeth Bishop</b>.</dd>
   				<dt>March 12</dt>
-  				<dd>Fascinating and thought-provoking family entertainment: the children&rsquo;s opera <i>Brundib&aacute;r</i> and <i>l&rsquo;Histoire du Soldat</i>.</dd>
-  				<dt>April 2</dt>
-  				<dd>Guest conductor <b>Roy Goodman</b> and Winnipeg soprano <b>Tracy Dahl</b> recreate most of the first MCO concert ever!</dd>
-				</dl>
+  				<dd><i>Carnets de voyage</i>, and an album of audio snapshots with <b>Guy Few</b> and <b>Nadina Mackie Jackson</b>.</dd>
+  				<dt>April 9</dt>
+  				<dd><b>Anne Manson</b> and Spanish cellist <b>Asier Polo</b>.</dd>
+  				<dt>May 28</dt>
+  				<dd><b>Anne Manson</b> and piano superstar <b>Marc-Andr&eacute; Hamelin</b>.</dd>
+  			</dl>
 			</div>
 		</div>
 	</div>
