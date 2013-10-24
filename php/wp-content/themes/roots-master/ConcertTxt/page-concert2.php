@@ -110,15 +110,31 @@ Template Name: Page Concert2 Template
 				<p>No. 103 concludes with a swift, witty finale. Haydn based it on a single theme, another Croatian folk tune. This procedure resulted in, to quote the eminent classical period scholar, H.C. Robbins Landon, &ldquo;a tighter construction and a more relentless unity than any movement before the first movement of Beethoven’s Fifth.&rdquo; Haydn enjoyed such challenges to his ingenuity, and he met this one with not only imagination but also immense joy.</p>
 			</div>
 			<div class="tab-pane fade" id="extras">
-				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 28: &lsquo;On Franz Joseph Haydn&rsquo;</strong></p>
-					<section class="row">
-  					<div class="span5">
-  						<div class="flex-video widescreen">
-  							<iframe width="510" height="287" src="http://www.youtube.com/embed/gYytiyYbPws" frameborder="0" allowfullscreen seamless></iframe>
-  							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
-  							<p>&nbsp;</p>
-  						</div>
-  					</div>
+				<section class="row">
+					<div class="span5">
+						<h4>Review:<br />The sound of education</h4>
+						<h5>MCO serves up context to go with concept program of Hadyn, Beethoven</h5>
+						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Anne Manson, conductor<br />Westminster United Church; Tue, Oct 22<br />Attendance: 650<br>Three stars out of five<br>&nbsp;</p>
+						<p>The Manitoba Chamber Orchestra offered up an intriguing discourse on the unique relationship between pupil and teacher and master composer and emerging musical genius with its latest concert that juxtaposed two symphonic works by elder composer Haydn and his prot&eacute;g&eacute;, Beethoven.</p>
+						<p>Despite their relationship being fraught with discord, Beethoven&rsquo;s early music displays &lsquo;Papa&rsquo; Haydn&rsquo;s influence as well as the seeds of greatness that culminated with his iconic Symphony No. 9 in D minor, Op. 125, popularly known as the &lsquo;Choral.&rsquo;</p>
+						<p>Tuesday night&rsquo;s quasi-lecture-demonstration included MCO music director Anne Manson setting up each of the two programmed works, contextualizing with anecdotes, historical snippets, and even a few quotes by music critics of the day. Albeit fascinating, it&rsquo;s a fair guess that many in the crowd of 650 may not have always followed the compare-and-contrast analyses of musical motives, harmonic progressions and thematic material.</p>
+						<p>The concert opened with Haydn&rsquo;s Symphony No. 103 in E-flat major, the penultimate work of his 12 London Symphonies composed during 1794-95, as well as astonishing canon of 104 symphonies. Nicknamed &lsquo;The Drumroll,&rsquo; the four-movement work begins with an extended timpani roll that underscores the mostly lighthearted work with ominous tension.</p>
+						<p>The expanded orchestra &mdash; including added winds, brass and percussion, with the famous roll ably performed by Jeremy Epp &mdash; was a special treat to hear in the intimate venue. Kudos also to concertmaster Karl Stobbe for his gracefully rendered solo during the Andante più tosto allegretto, as he performed the embellished, Croatian folk song-inspired theme with confident, elegant clarity.</p>
+						<p>The second half of the concert featured Beethoven&rsquo;s Symphony No. 1, in C Major, Op. 21 &mdash; begun the same year as the 1795 Haydn premiere &mdash; that heralded the arrival of a new musical voice during its debut five years later.</p>
+						<p>After the first movement&rsquo;s Adagio molto introduction, Manson attacked the Allegro con brio with gusto, leading the players through its musical twists and turns, including rugged sforzandi &mdash; this composer&rsquo;s hallmark. Following the Andante cantabile con moto, she then kept a firm baton on the Menuetto that sets off on its own rollicking extrapolation of the opening motives. The orchestra then delivered the finale: Adagio bleeding into the Allegro molto e vivace at lightning speed, earning whoops and a standing ovation for the nail-biting performance.</p>
+						<p>The MCO has carved out a reputation as one of this country&rsquo;s leading chamber orchestras, with an impressive legacy of artistic risk-taking, including commissioning numerous new works by 21st-century Canadian composers. This particular &lsquo;concept&rsquo; program, decidedly conservative despite Manson&rsquo;s enthusiasm, provided an evening of classics for those waxing nostalgic for the 18th century.</p>
+						<p>&#8258;</p>
+					</div><!-- /span5 -->
+				</section>
+			<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 28: &lsquo;On Franz Joseph Haydn&rsquo;</strong></p>
+				<section class="row">
+ 					<div class="span5">
+ 						<div class="flex-video widescreen">
+ 							<iframe width="510" height="287" src="http://www.youtube.com/embed/gYytiyYbPws" frameborder="0" allowfullscreen seamless></iframe>
+ 							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+ 							<p>&nbsp;</p>
+ 						</div>
+ 					</div>
 				</section>
 			</div>
 
