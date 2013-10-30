@@ -68,6 +68,7 @@ Template Name: Page Concert3 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -143,6 +144,19 @@ Template Name: Page Concert3 Template
 				<p>He spent the final decade of his colourful life travelling between France and England, and participating more in politics than music. He became embroiled in various revolutionary plots and counter-plots. During the revolution of 1789 he joined the National Guard, and was later named the colonel of a thousand-strong troop of black soldiers. A victim of the reign of terror that followed the revolution, he spent 18 months in a military prison. In his final years, he founded and directed another Parisian orchestra, the Cercle de l&rsquo;harmonie. </p>
 				<p>He composed well over 200 works. The published pieces included symphonies, violin concertos, examples of the popular hybrid form, the symphonie concertante, operas and chamber works. His only two symphonies were published in 1799 as Opus 11. The number is decreased to one since No. 1 appears to be spurious. He used No. 2 as both a concert work and the overture to his comic opera-ballet <i>L&rsquo;amant anonyme</i> (The Anonymous Lover, 1780). The first movement is bright and lively, with a slightly shadowy opening to the central section. The slow second movement is attractive but rather troubled in emotional terms. A cheerful, vigorous finale concludes the symphony. </p>
 			</div>
+
+			<div class="tab-pane fade" id="extras">
+				<section class="row">
+ 					<div class="span5">
+ 						<div class="flex-video widescreen">
+ 							<iframe width="510" height="287" src="http:////www.youtube.com/embed/poqRot3A2Mc" frameborder="0" allowfullscreen seamless></iframe>
+ 							<p>Posted to <a href="http://www.youtube.com"><b>youtube.com</b></a> by the <a href="http://www.bso.org/"><b>Boston Symphony Orchestra</b></a>: &lsquo;It's your BSO: Exclusive interview with James Sommerville, Principal French Horn.&rsquo;</p>
+ 							<p>&nbsp;</p>
+ 						</div>
+ 					</div>
+				</section>
+			</div>
+
 
 		</div><!-- /tab-content -->
 
