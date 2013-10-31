@@ -18,26 +18,26 @@ Template Name: Page Board Template
 			<p><strong>Manitoba Chamber Orchestra<br>Board of Directors and staff</strong></p>
 			<dl class="dl">
 				<dt>President</dt>
-				<dd>Jesus Angel Miguel Garcia</dd>
+				<dd>William Neville</dd>
 				<dt>Vice-President</dt>
-				<dd>Bill Neville</dd>
+				<dd>Judith Hall</dd>
 				<dt>Past President</dt>
 				<dd>Ingrid Moehlmann</dd>
 				<dt>Treasurer</dt>
 				<dd>Gil Forrest</dd>
 				<dt>Secretary</dt>
 				<dd>Alice MacKenzie</dd>
-				<dt>Member at large</dt>
-				<dd>Jim Chapryk</dd>
 				<dt>Members</dt>
 				<dd>Lynne Axworthy</dd>
-				<dd>Chloe Carpenter</dd>
-				<dd>Judith Hall</dd>
+				<dd>Zaz Bajon</dd>
+				<dd>Jim Chapryk</dd>
+				<dd>Robert Giesbrecht</dd>
 				<dd>Joan Hardy</dd>
 				<dd>Sue Irving</dd>
 				<dd>Suzanne Kennelly</dd>
 				<dd>Elaine Margolis</dd>
-				<dd>Sandi Mielitz</dd>
+				<dd>Chris Meiklejohn</dd>
+				<dd>Sunny Oh</dd>
 				<dd>Beryl Peters</dd>
 				<dd>Rishi Ramberran</dd>
 				<dd>Nicola Schaefer</dd>
@@ -45,6 +45,7 @@ Template Name: Page Board Template
 				<dd>Alison Thiessen</dd>
 				<dd>Elizabeth Tippett-Pope</dd>
 				<dd>Faye Warren</dd>
+				<dd>Rob Znidarec</dd>
 			</dl>
 			<p><strong>Administration</strong></p>
 			<dl class="dl">
@@ -52,17 +53,17 @@ Template Name: Page Board Template
 				<dd>Anne Manson</dd>
 				<dt>Managing Director</dt>
 				<dd>Vicki Young</dd>
-				<dt>Administrative Assistant</dt>
+				<dt>Development Manager</dt>
 				<dd>Joan Gillis</dd>
+				<dt>Office Manager &amp; Front-of-house Manager</dt>
+				<dd>Elise Anderson</dd>
 				<dt>Administrative Assistant</dt>
 				<dd>Corinne Friesen Loewen</dd>
 				<dt>Bookeeper</dt>
 				<dd>Pat Ireton</dd>
-				<dt>Director of Development</dt>
-				<dd>Shirley Elias</dd>
-				<dt>Project support and Front-of-House Manager</dt>
-				<dd>Elise Anderson</dd>
-				<dt>Marketing</dt>
+				<dt>Marketing Director</dt>
+				<dd>Greg Klassen</dd>
+				<dt>Director, Systems and Design</dt>
 				<dd>Jon Snidal</dd>
 				<dt>Concert Manager</dt>
 				<dd>Boyd MacKenzie</dd>
