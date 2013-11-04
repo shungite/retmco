@@ -19,7 +19,7 @@ Template Name: Page Concert4 Template
 <div class="row">
 
 	<div class="span7">
-		<h4><div>An early Christmas gift<br>&amp; wrapped in baroque music</div></h4>
+		<h4><div>An early Christmas gift<br>&mdash; wrapped in baroque music</div></h4>
 		<p>What would you like for Christmas?</p>
 		<p>How &lsquo;bout Winnipeg&rsquo;s foremost baroque vocal ensemble and &ldquo;Canada&rsquo;s tiny, perfect orchestra&rdquo; conducted by this country&rsquo;s leading interpreter of choral and operatic repertoire?</p>
 		<p>Guest conductor David Fallis specializes in the music of the baroque and classical periods &mdash; perfect for this program of festive early music treasures.</p>
