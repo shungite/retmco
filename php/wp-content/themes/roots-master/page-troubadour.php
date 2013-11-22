@@ -11,7 +11,7 @@ Template Name: Page Troubadour Template
 
 		<div class="span6">
 
-			<img alt="Troubadour &amp; the Nightingale" src="http://www.themco.ca/wp-content/uploads/2013/10/MCOtroubadour.jpg" />
+			<p><img alt="Troubadour &amp; the Nightingale" src="http://www.themco.ca/wp-content/uploads/2013/10/MCOtroubadour.jpg" /></p>
 			<blockquote>
 		  	<p>&ldquo;Isabel Bayrakdarian invites you to a vibrant world of colour and poetry with music enriched by the cultures of Armenia, Greece, the Middle East and Occitane."</p>
 	 			<small>Anne Manson</small>
