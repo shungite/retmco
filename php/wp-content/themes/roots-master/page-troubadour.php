@@ -35,12 +35,12 @@ Template Name: Page Troubadour Template
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="buy">
 				<div class="well">
-					<p><a href="https://itunes.apple.com/ca/album/ravel-sayat-nova-kradjian/id731347341"><img src="http://www.themco.ca/wp-content/uploads/2013/11/200itunes.png"></a><br>&nbsp;</p>
 					<p><a href="http://www.amazon.ca/dp/B00FR0GSWM"><img src="http://www.themco.ca/wp-content/uploads/2013/11/300px-Amazon_com_logo_svg.png"></a></p>
-								<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=94ce7b6e08cf4bb79c932d28f04ae510"><button class="btn btn-large btn-success" type="button">Buy directly from the MCO: add to cart</button></a></p>
-							<small><b>Manitoba Chamber Orchestra price: $21 (inc GST)</b>; shipping and handling is $2.50; you may also arrange to pick up product at the MCO office or at a concert (please call +1.2047837377 to make arrangements after ordering).</small>
-						<p>&nbsp;</p>
-					</div>
+					<p><a href="https://itunes.apple.com/ca/album/ravel-sayat-nova-kradjian/id731347341"><img src="http://www.themco.ca/wp-content/uploads/2013/11/150itunes.png"></a><br>&nbsp;</p>
+					<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=94ce7b6e08cf4bb79c932d28f04ae510"><button class="btn btn-large btn-success" type="button">Buy directly from the MCO: add to cart</button></a></p>
+					<small><b>Manitoba Chamber Orchestra price: $21 (inc GST)</b>; shipping and handling is $2.50; you may also arrange to pick up product at the MCO office or at a concert (please call +1.2047837377 to make arrangements after ordering).</small>
+					<p>&nbsp;</p>
+				</div>
 			</div>
 			<div class="tab-pane fade" id="about">
 				<div class="well">
@@ -110,8 +110,9 @@ Template Name: Page Troubadour Template
 		</div><!-- /tab-content -->
 
 	</div><!-- /span6 tab area -->
-
 </div>
+<p>Distributed in Canada by</p>
+<p><a href="http://www.harmoniamundi.ca/"><img src="http://www.themco.ca/wp-content/uploads/2013/11/320HM_distribution_CA.jpg"></a></p>
 
 <?php get_template_part('templates/content', 'troubadour'); ?>
 
