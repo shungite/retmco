@@ -27,7 +27,7 @@ Template Name: Page Troubadour Template
 	<div class="span8">
 
 		<ul class="nav nav-pills">
-			<li class="active"><a href="#buy" data-toggle="tab"><strong>Where to buy</strong></a></li>
+			<li class="active"><a href="#buy" data-toggle="tab"><strong>Product links</strong></a></li>
 			<li><a href="#about" data-toggle="tab"><strong>About the recording</strong></a></li>
 			<li><a href="#reviews" data-toggle="tab"><strong>Reviews</strong></a></li>
 			<li><a href="#samples" data-toggle="tab"><strong>Hear samples</strong></a></li>
@@ -35,9 +35,10 @@ Template Name: Page Troubadour Template
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="buy">
 				<div class="well">
-								<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=94ce7b6e08cf4bb79c932d28f04ae510"><button class="btn btn-large btn-info" type="button">Click to add to cart</button></a></p>
-						<p>&nbsp;</p>
-							<small><b>Price: $21 (inc GST)</b>; shipping and handling is $2.50; you may also arrange to pick up product at the MCO office or at a concert (please call 204.783.7377 to make arrangements after pre-ordering). Orders will be filled on a first-to-order, first-to-ship basis.</small>
+					<p><a href="https://itunes.apple.com/ca/album/ravel-sayat-nova-kradjian/id731347341"><img src="http://www.themco.ca/wp-content/uploads/2013/11/200itunes.png"></a><br>&nbsp;</p>
+					<p><a href="http://www.amazon.ca/dp/B00FR0GSWM"><img src="http://www.themco.ca/wp-content/uploads/2013/11/300px-Amazon_com_logo_svg.png"></a></p>
+								<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=94ce7b6e08cf4bb79c932d28f04ae510"><button class="btn btn-large btn-success" type="button">Buy directly from the MCO: add to cart</button></a></p>
+							<small><b>Manitoba Chamber Orchestra price: $21 (inc GST)</b>; shipping and handling is $2.50; you may also arrange to pick up product at the MCO office or at a concert (please call +1.2047837377 to make arrangements after ordering).</small>
 						<p>&nbsp;</p>
 					</div>
 			</div>
@@ -62,8 +63,21 @@ Template Name: Page Troubadour Template
 			<div class="tab-pane fade" id="reviews">
 				<div class="well">
 					<article>
+						<h4>Review: Winnipeg Free Press</h4>
+						<h5>Troubadour &amp; the Nightingale</h5>
+						<p>PACK your bags and get ready to travel to exotic places with Armenian-Canadian soprano Isabel Bayrakdarian, conductor Anne Manson and the Manitoba Chamber Orchestra (MCO) in their Nov.12 release, Troubadour and the Nightingale.</p>
+						<p>All the music on this CD was arranged or composed by Bayrakdarian&rsquo;s husband, Serouj Kradjian. In his program notes (for which he is given no credit), he expresses a great interest and influence by the female troubadours of the 12th and 13th centuries in Southern France, near Spain.</p>
+						<p>Ravel&rsquo;s Kaddisch is mesmerizing and suitably prayerful. Bayrakdarian&rsquo;s gorgeous clear and sensuous voice is the perfect vehicle for this moving piece.</p>
+						<p>Sayat-Nova/Four Songs starts with <i>Graceful one</i> &mdash; rhythmically interesting, especially with the addition of a single hand drum. Long, singing phrases twist and turn in the mournful <i>The Nightingale</i>. <i>Kamancha</i> gives the orchestra a prominent role in this exciting dance.</p>
+						<p>There is no doubting the skills and talent of Isabel Bayrakdarian; she is as convincing a troubadour as you&rsquo;ll ever find, marvellous in every way. Manson knows this music like the back of her hand, as does the MCO, which excels in this recording. But when listening to this CD from start to finish, everything starts sounding the same. Some variety of genre would go a long way to remedy this. ****</p>
+						<p>&mdash; <i>Gwenda Nemerofsky</i></p>
+						<a href="http://www.winnipegfreepress.com/arts-and-life/entertainment/music/new-music-232794121.html"><b>Ori­ginal article</b></a>
+							<p>&nbsp;</p>
+						<p class="text-left">&#8258;</p>
+					</article>
+					<article>
 						<h4>Review: Musical Toronto</h4>
-						<h5>MCO 013001 Troubadour & the Night­in­gale. MCO, Bayrak­darian, Man­son.<br>
+						<h5>MCO 013001 Troubadour &amp; the Night­in­gale. MCO, Bayrak­darian, Man­son.<br>
 							Musical Toronto / John Terauds</h5>
 							<p>We can cel­eb­rate two Toronto­n­ians on a new made-in-Winnipeg album: Isa­bel Bayrak­darian and Ser­ouj Kradjian. The sop­rano lends her vocal art to her husband&rsquo;s com­pos­i­tional ima­gin­a­tion in a seduct­ive pro­gramme titled <i>Troubadour &amp; the Nightingale</i>.</p>
 							<p>The album, released today on the Man­itoba Cham­ber Orchestra’s in-house MCO Records label, is a potent col­lab­or­a­tion by every­one concerned.</p>
@@ -80,7 +94,7 @@ Template Name: Page Troubadour Template
 
 			<div class="tab-pane fade" id="samples">
 				<div class="well">
-					<p><strong>Tracks</strong></p>
+					<p><strong>Coming soon</strong></p>
 					
 				</div>
 			</div>
