@@ -27,8 +27,8 @@ Template Name: Page Troubadour Template
 	<div class="span8">
 
 		<ul class="nav nav-pills">
-			<li class="active"><a href="#buy" data-toggle="tab"><strong>Buy online</strong></a></li>
-			<li><a href="#about" data-toggle="tab"><strong>Back story</strong></a></li>
+			<li class="active"><a href="#buy" data-toggle="tab"><strong>Where to buy</strong></a></li>
+			<li><a href="#about" data-toggle="tab"><strong>About the recording</strong></a></li>
 			<li><a href="#reviews" data-toggle="tab"><strong>Reviews</strong></a></li>
 			<li><a href="#samples" data-toggle="tab"><strong>Hear samples</strong></a></li>
 		</ul>
@@ -43,18 +43,35 @@ Template Name: Page Troubadour Template
 			</div>
 			<div class="tab-pane fade" id="about">
 				<div class="well">
-				<p><strong>Back story here</strong></p>
-				<p>...</p>
+				<h4>The story behind<br><i>Troubadour &amp; the Nightingale</i></strong></h4>
+				<small>The following is from Don Anderson&rsquo;s <i>Chamber Chatter</i> article for the MCO&rsquo;s 22 October 2013 concert.<br>&nbsp;</small>
+				<p>Tonight you can pre-order the MCO&rsquo;s sensational new CD, the first release on its own label. <i>Troubadour &amp; the Nightingale</i> showcases the brilliant Armenian/Canadian soprano Isabel Bayrakdarian, in exotic and ravishingly beautiful music by Maurice Ravel, Sayat-Nova, and the newly created piece, <i>Trobairitz Ysabella</i>, by Isabel&rsquo;s gifted husband, the composer, arranger and pianist Serouj Kradjian. MCO Music Director Anne Manson conducts.</p>
+				<p>&ldquo;The works on this recording bring us into another world of language, colour and sound,&rdquo; Anne Manson said. &ldquo;Greek, Hebrew, Arabic, Armenian, and Occitane are reflected in a sound which stems partly from western classical tradition and partly from world music. We know Isabel as a beautiful, warm, lyrical voice; she is equally one of the best linguists I have ever encountered in the opera world. Her Arabic, for example, is not only fluent, but when she sings, incorporates the traditional quarter tone tuning of Arabic classical music. She invites us into a world of troubadours and poets from long ago. Will we ever want to leave?!&rdquo;</p>
+				<p>MCO Managing Director Vicki Young described the origins of the CD. &ldquo;One of our board members, Elaine Margolis, brought a magazine to a board meeting one day and suggested that Isabel Bayrakdarian, the young soprano on the cover, would be a good choice for soloist sometime. Isabel sang with us during the 2008/09 season, and in October 2008 we joined her on tour to major North American centres (San Francisco, Orange County, Vancouver, Toronto, Boston and New York). We had three curtain calls at Carnegie Hall. Anne Manson conducted that tour and she, Isabel, and Serouj began a discussion about the cultural harmony of medieval Spain.&rdquo;</p>
+				The result was Serouj&rsquo;s composition <i>Trobairitz Ysabella</i>. The MCO and the CBC co-commissioned it. It was performed in March 2011, first in Winnipeg and then in Banff.
+				<p>&ldquo;We thought it would make a good recording,&rdquo; Vicki said, &ldquo;and after much discussion we settled on the Sayat-Nova and Ravel songs as companion pieces. These were first performed in two summer concerts in 2012, followed closely thereafter by recording sessions for the CD and by the opening concert of the season. This made most efficient use of the musicians&rsquo; time.&rdquo;</p>
+				<p>Serouj created the highly effective orchestral arrangements that accompany the Ravel and Sayat-Nova songs. &ldquo;We wanted them to feature strings to allow for multiple performances, and to contrast with <i>Trobairitz</i>,&rdquo; Vicki said. &ldquo;Serouj also thought percussion would provide additional colours.&rdquo;</p>
+				<p>In the summer of 2013, Isabel, Anne and the MCO performed <i>Trobairitz</i>, two Sayat-Nova songs and the Ravel Kaddisch in two concerts in Ottawa (Music and Beyond Festival), a concert for the Indian River Festival in Prince Edward Island, and the Elora Festival in Ontario.</p>
+				<p>&ldquo;Finding a place to make the recording took a LOT of work,&rdquo; Vicki said. &ldquo;We spent several months looking at different venues, talking with people, and testing acoustics. Some places were too small to fit the orchestra, some had too much noise nearby, some had too much noise inside, some were too dry an acoustic. We settled on St. John&rsquo;s Cathedral because it was well away from main roads, bus routes, day care centres, had a nice acoustic and good space. Isabel was pregnant during the recording, so we took care to give her rugs to stand on. The orchestra was very accommodating and relaxed.&rdquo;</p>
+				<p>By releasing the CD on its own label, the MCO maintains full artistic control and earns maximum profit. The orchestra had excellent support from the Canada Council, FACTOR, and Manitoba Film and Music, for which they are very grateful.</p>
+				<p>&ldquo;After talking with several retailers of classical music, we settled on harmonia mundi to distribute the recording,&rdquo; Vicki said. &ldquo;We decided that we would get excellent service, advice and retail attention. We have had a very good relationship with David Feick, who works for harmonia mundi, for many years.</p>
+				<p>&ldquo;We will sell physical and digital product through our own website and at our own concerts, and through harmonia mundi. It will launch on November 12 in Winnipeg and Toronto, and will be available through retailers of classical music. The best way to purchase the recording is through the MCO at a concert, through the office or online (pre-order now!). We have a few ideas for future releases on MCO Records, but no firm dates at this point.&rdquo;</p>
 			</div>
 			</div>
 
 			<div class="tab-pane fade" id="reviews">
 				<div class="well">
 					<article>
-						<h4>Review:<br />One</h4>
-						<h5>Subhead</h5>
-						<p class="fineprintdark"><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a>, by Holly Harris<br />Manitoba Chamber Orchestra; Anne Manson, conductor<br />Westminster United Church; Tue, Oct 22<br />Attendance: 650<br>Three stars out of five<br>&nbsp;</p>
-						<p>Text here ...</p>
+						<h4>Review: Musical Toronto</h4>
+						<h5>MCO 013001 Troubadour & the Night­in­gale. MCO, Bayrak­darian, Man­son.<br>
+							Musical Toronto / John Terauds</h5>
+							<p>We can cel­eb­rate two Toronto­n­ians on a new made-in-Winnipeg album: Isa­bel Bayrak­darian and Ser­ouj Kradjian. The sop­rano lends her vocal art to her husband&rsquo;s com­pos­i­tional ima­gin­a­tion in a seduct­ive pro­gramme titled <i>Troubadour &amp; the Nightingale</i>.</p>
+							<p>The album, released today on the Man­itoba Cham­ber Orchestra’s in-house MCO Records label, is a potent col­lab­or­a­tion by every­one concerned.</p>
+							<p>Kradjian, who began his pro­fes­sional career as a pian­ist, uses the orches­tra with remark­able restraint, choos­ing only those instru­ments that will help under­line the mes­sage behind each song. Man­itoba Cham­ber Orches­tra music dir­ector Anne Man­son lays everything out with abso­lute clarity.</p>
+							<p>Bayrak­darian is pas­sion­ately engaged with this music from begin­ning to end, deploy­ing a great range of express­ive and dynamic subtlety.</p>
+							<p>There is a lot to love here, includ­ing the spa­cious audio cap­tured inside Winnipeg&rsquo;s St John&rsquo;s Cathedral.</p>
+							<a href="http://www.musicaltoronto.org/2013/11/12/daily-album-review-11-isabel-bayrakdarian-and-serouj-kradjians-seductive-medieval-minstrels/"><b>Ori­ginal article</b></a>
+							<p>&nbsp;</p>
 						<p class="text-left">&#8258;</p>
 					</article>
 					
