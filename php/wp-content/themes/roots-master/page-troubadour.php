@@ -69,9 +69,18 @@ Template Name: Page Troubadour Template
 						<p>All the music on this CD was arranged or composed by Bayrakdarian&rsquo;s husband, Serouj Kradjian. In his program notes (for which he is given no credit), he expresses a great interest and influence by the female troubadours of the 12th and 13th centuries in Southern France, near Spain.</p>
 						<p>Ravel&rsquo;s Kaddisch is mesmerizing and suitably prayerful. Bayrakdarian&rsquo;s gorgeous clear and sensuous voice is the perfect vehicle for this moving piece.</p>
 						<p>Sayat-Nova/Four Songs starts with <i>Graceful one</i> &mdash; rhythmically interesting, especially with the addition of a single hand drum. Long, singing phrases twist and turn in the mournful <i>The Nightingale</i>. <i>Kamancha</i> gives the orchestra a prominent role in this exciting dance.</p>
-						<p>There is no doubting the skills and talent of Isabel Bayrakdarian; she is as convincing a troubadour as you&rsquo;ll ever find, marvellous in every way. Manson knows this music like the back of her hand, as does the MCO, which excels in this recording. But when listening to this CD from start to finish, everything starts sounding the same. Some variety of genre would go a long way to remedy this. ****</p>
+						<p>There is no doubting the skills and talent of Isabel Bayrakdarian; she is as convincing a troubadour as you&rsquo;ll ever find, marvellous in every way. Manson knows this music like the back of her hand, as does the MCO, which excels in this recording. But when listening to this CD from start to finish, everything starts sounding the same. Some variety of genre would go a long way to remedy this. <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i></p>
 						<p>&mdash; <i>Gwenda Nemerofsky</i></p>
 						<a href="http://www.winnipegfreepress.com/arts-and-life/entertainment/music/new-music-232794121.html"><b>Ori­ginal article</b></a>
+							<p>&nbsp;</p>
+						<p class="text-left">&#8258;</p>
+					</article>
+					<article><h4>Review: OpusOneReview</h4>
+						<h5>Isa­bel Bayrakdarian’s Lumin­ous CD—Troubadour &amp; the Night­in­gale<br>reviewed by Stan­ley Fefferman</h5>
+						<p>I puzzle over how to express the qual­it­ies that make Isa­bel Bayrakdarian&rsquo;s voice like no other. After fol­low­ing her through many albums, live in operas and the on the con­cert stage, I can begin with her blend of rich­ness, intim­acy and clar­ity. To match those qual­it­ies with the pur­ity of her tone, you would have to go to a pre­ci­sion instru­ment. My choice would be a cla­ri­net, but one with gold in its makeup to reflect the burn­ish on her notes. To render their lumin­os­ity, it would have to be made of glass. To trans­mit the sym­pathy Bayrak­darian feels for her sub­ject mat­ter of her songs, the itin­er­ant poets, lov­ers and ladies, their moods of pas­sion and mourn­ing, you would need to bio-engineer liv­ing tis­sue into this already myth­ical instrument.</p>
+						<p>To appre­ci­ate the flow of her lines, how she makes her melod­ies soar and swoop and dart and glide, you would need to ima­gine birds that fly over water such as swal­lows and terns; and for her abil­ity to sus­tain long steady pitches you would go to the power­ful white wings of the swan. To hear her song as sol­it­ary and com­ing out of dark night, you would go with the poet Shel­ley to the &ldquo;night­in­gale who sits in dark­ness and sings to cheer its own solitude with sweet sounds,&rdquo; and in over­hear­ing the song of the night­in­gale, like Shel­ley, &ldquo;you feel moved and softened, yet know not whence or why.&rdquo;</p>
+						<p>In pre­vi­ous albums, Bayrak­darian often chose songs from Iberian tra­di­tions which have Moor­ish roots that share the musical tra­di­tions of her nat­ive Armenia. The songs on this album reflect the &lsquo;troubadour&rsquo; tra­di­tions of medi­eval Provence, and Greece whose instru­ment­a­tion, arrange­ments and can­til­la­tion also share roots in Moor­ish music. So there is a bazaar of Near-Eastern exotic tex­tures excel­lently woven behind Bayrak­darian into a tapestry by the Man­itoba Cham­ber Orches­tra con­duc­ted by Anne Man­son. Many of the songs are arranged and orches­trated by pian­ist and com­poser Ser­ouj Kradjian, who co-produced the album with David Jae­ger, which accounts for the album’s flaw­less quality.</p>
+						<a href="http://opusonereview.com/?p=3512"><b>Ori­ginal article</b></a>
 							<p>&nbsp;</p>
 						<p class="text-left">&#8258;</p>
 					</article>
@@ -86,7 +95,6 @@ Template Name: Page Troubadour Template
 							<p>There is a lot to love here, includ­ing the spa­cious audio cap­tured inside Winnipeg&rsquo;s St John&rsquo;s Cathedral.</p>
 							<a href="http://www.musicaltoronto.org/2013/11/12/daily-album-review-11-isabel-bayrakdarian-and-serouj-kradjians-seductive-medieval-minstrels/"><b>Ori­ginal article</b></a>
 							<p>&nbsp;</p>
-						<p class="text-left">&#8258;</p>
 					</article>
 					
 				</div>
