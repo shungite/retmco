@@ -76,7 +76,7 @@ Template Name: Page Concert6 Template
 				<p>Suzie LeBlanc, soprano</p>
 				<p><b>Wojciech Kilar</b><br><i>Orawa</i></p>
 				<p><b>Christos Hatzis</b><br><i>Four Songs on Poems by Elizabeth Bishop</i></p>
-				<p><b>Alasdair MacLean</b><br><i>The Bishop Suite: Silken Water</i></p>
+				<p><b>Alasdair MacLean</b><br><i>The Bishop Suite</i></p>
 				<p><b>Joseph Suk</b><br><i>Serenade</i></p>
 				<p>Concert sponsor / <b>Gail Asper Family Foundation</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 			</div>
