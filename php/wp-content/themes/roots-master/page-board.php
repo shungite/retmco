@@ -18,7 +18,7 @@ Template Name: Page Board Template
 			<p><strong>Manitoba Chamber Orchestra<br>Board of Directors and staff</strong></p>
 			<dl class="dl">
 				<dt>President</dt>
-				<dd>William Neville</dd>
+				<d&rsquo;d>William Neville</dd>
 				<dt>Vice-President</dt>
 				<dd>Judith Hall</dd>
 				<dt>Past President</dt>
@@ -39,13 +39,11 @@ Template Name: Page Board Template
 				<dd>Chris Meiklejohn</dd>
 				<dd>Sunny Oh</dd>
 				<dd>Beryl Peters</dd>
-				<dd>Rishi Ramberran</dd>
 				<dd>Nicola Schaefer</dd>
 				<dd>Moti Shojania</dd>
 				<dd>Alison Thiessen</dd>
 				<dd>Elizabeth Tippett-Pope</dd>
 				<dd>Faye Warren</dd>
-				<dd>Rob Znidarec</dd>
 			</dl>
 			<p><strong>Administration</strong></p>
 			<dl class="dl">
