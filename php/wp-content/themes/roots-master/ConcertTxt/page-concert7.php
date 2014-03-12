@@ -71,7 +71,16 @@ Template Name: Page Concert7 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br>Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br>12 March 2014</p>
 				<p>Guy Few, trumpet<br>Nadina Mackie Jackson, bassoon</p>
-				<p><b>Carnets de voyages</b><br><i>&mdash; an album of audio snapshots celebrating a variety of music and stories. It highlights some of the duo&rsquo;s favourite works, and features the artists&rsquo; personal stories of travel and touring in between musical selections. The music includes standard works by composers such as Bach, Shostakovich and Saint-Sa&euml;ns as well as more novel pieces including some Canadian pieces commissioned for the duo.</i></p>
+				<p>Nicolai Rimsky-Korsakov<br><i>Flight of the Bumblebee</i></p>
+				<p>Antonio Vivaldi<br>Bassoon Concerto No. 6, in E Minor, RV 484</p>
+				<p>Niccolò Paganini<br>Sonata in G Major, Op. 5 No. 6<br>Sonata in C Major, Op. 6 No. 2</p>
+				<p>Johann Sebastian Bach<br>Adagio: <i>Ich steh mit einem fuss im grabe</i></p>
+				<p>Carl Maria von Weber<br><i>Andante e rondo ungarese</i>, in C Minor, op. 35</p>
+				<p>Alexandre Tansman<br><i>Sonatine</i></p>
+				<p>Glenn Buhr<br><i>and man will only grieve	if he believes the sun stands still</i></p>
+				<p>Dmitri Shostakovich (1906-1975)<br>Waltz, from Jazz Suite No. 1</p>
+				<p>Harry Simeone (1911-2005)<br><i>Trumpet in the Night</i></p>
+				<p>Camille Saint-Sa&euml;ns (1835-1921)<br><i>Sonate</i></p>
 				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 			</div>
 			<div class="tab-pane fade" id="bios">
