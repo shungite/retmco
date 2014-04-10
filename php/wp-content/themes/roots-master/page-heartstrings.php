@@ -21,7 +21,7 @@ Template Name: Page Heartstrings Template
 	<div class="span6">
 		<h4>The MCO's gala evening<br />&mdash; fabulous 2014 edition!</h4>
 		<p>The main event, held in <a href="http://www.fortgarryhotel.com/" >The Fort Garry</a> on Broadway &mdash; a heavenly evening of music &amp; food in Winnipeg&rsquo;s most elegant setting.</p>
-		<p><strong>Friday, 2 May 2014 at The Fort Garry<br />7:00 pm reception, dinner at 7:30 pm <br />&mdash; live, silent &amp; rainbow auctions.<br>(Ticket links coming soon!)</strong></p>
+		<p><strong>Friday, 2 May 2014 at The Fort Garry<br />6:30 pm, Champagne, hors d&rsquo;oeuvres<br>7:30 pm, Dinner and musicque fran&ccedil;aise<br>9:00 pm, Desserts, liqueurs and Moulin Rouge Cabaret<br />Live and silent auctions, host bar</strong></p>
 		<p><strong>&bull; <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=43afb0af27a54ae18e70bf8ee56a737b">buy tickets @ $175</a><br>&bull; <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=24c6b0d77db847acbd1bcd875ee1bcec">buy a table of ten @ $1750</a><br>&bull; <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=4bf23be4b03a4b29a0f306853ce8581b">buy Patron tickets @ $200*</a></strong></p>
 		<p class="fineprint">Patrons are acknowledged in the program<br /> and receive a larger tax receipt.</p>
   	<p class="regtext"><a href="http://www.mannfinancialassurance.com/" ><img src="http://www.themco.ca/wp-content/uploads/2012/11/mannfinanciallogo.jpg" width="140" height="52" border="0" alt="Mann Financial Assurance"></a></p>
