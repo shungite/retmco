@@ -15,7 +15,7 @@ Template Name: Page Board Template
 		</blockquote>
 
 		<div class="well">
-			<p><strong>Manitoba Chamber Orchestra<br>Board of Directors and staff</strong></p>
+			<p><strong>Manitoba	 Chamber Orchestra<br>Board of Directors and staff</strong></p>
 			<dl class="dl">
 				<dt>President</dt>
 				<d&rsquo;d>William Neville</dd>
