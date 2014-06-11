@@ -9,6 +9,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 	   	<a href="http://www.themco.ca/quick-links-to-1415-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2014/05/SubscribeNow.jpg" alt="MCO concert / 12 March 2014"></a>
+	   	<p>&nbsp;</p>
 		</div>
 	</div><!-- /row -->
 
