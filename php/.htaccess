@@ -304,7 +304,7 @@ AddType application/x-shockwave-flash       swf
 # If you don't use filenames to version, lower the CSS  and JS to something like
 #   "access plus 1 week" or so.
 
-<IfModule mod_expires.c>
+# <IfModule mod_expires.c>
 #   ExpiresActive on
 
 # Perhaps better to whitelist expires rules? Perhaps.
@@ -329,14 +329,14 @@ AddType application/x-shockwave-flash       swf
 #   ExpiresByType image/x-icon              "access plus 1 week"
 
 # Media: images, video, audio
-   ExpiresByType image/gif                 "access plus 1 month"
-   ExpiresByType image/png                 "access plus 1 month"
-   ExpiresByType image/jpg                 "access plus 1 month"
-   ExpiresByType image/jpeg                "access plus 1 month"
-   ExpiresByType video/ogg                 "access plus 1 month"
-   ExpiresByType audio/ogg                 "access plus 1 month"
-   ExpiresByType video/mp4                 "access plus 1 month"
-   ExpiresByType video/webm                "access plus 1 month"
+#   ExpiresByType image/gif                 "access plus 1 month"
+#   ExpiresByType image/png                 "access plus 1 month"
+#   ExpiresByType image/jpg                 "access plus 1 month"
+#   ExpiresByType image/jpeg                "access plus 1 month"
+#   ExpiresByType video/ogg                 "access plus 1 month"
+#   ExpiresByType audio/ogg                 "access plus 1 month"
+#   ExpiresByType video/mp4                 "access plus 1 month"
+#   ExpiresByType video/webm                "access plus 1 month"
 
 # HTC files  (css3pie)
 #   ExpiresByType text/x-component          "access plus 1 month"
@@ -352,7 +352,7 @@ AddType application/x-shockwave-flash       swf
 #   ExpiresByType text/css                  "access plus 1 year"
 #   ExpiresByType application/javascript    "access plus 1 year"
 
- </IfModule>
+# </IfModule>
 
 # ----------------------------------------------------------------------
 # Prevent mobile network providers from modifying your site
