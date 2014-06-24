@@ -40,7 +40,7 @@ Template Name: Page Programs Template
 		<div class="well">
 			<div class="media-body">
 				<p><strong><a href="http://www.sunlife.ca/">Sun Life Financial</a><br>&lsquo;Music for all!&rsquo;program: Open dress rehearsals for schools</strong></p>
-				<p>Bring your school group to Westminster Church for a 50-minute open dress rehearsal. Learn about the work that goes into presenting a professional orchestral performance. Watch musicians and conductor rehearse and be the first to hear what audiences will hear that night! <strong>Tickets $5.25 including GST.</strong> These open dress rehearsals are best suited to senior students, adults and home-schooled children. They are working rehearsals with some stopping and starting. Offered for the concerts listed <a href="http://www.themco.ca/schools-form"><strong>on this form.</strong></a></p>
+				<p>Bring your school group to Westminster Church for a 50-minute open dress rehearsal. Learn about the work that goes into presenting a professional orchestral performance. Watch musicians and conductor rehearse and be the first to hear what audiences will hear that night! <strong>Tickets $6.00 including GST.</strong> These open dress rehearsals are best suited to senior students, adults and home-schooled children. They are working rehearsals with some stopping and starting. Offered for the concerts listed <a href="http://www.themco.ca/schools-form"><strong>on this form.</strong></a></p>
 				<p><a href="http://www.sunlife.ca/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/SunLife-logo.png"></a></p> 
 			</div>
 		</div>
@@ -54,24 +54,24 @@ Template Name: Page Programs Template
 		<div class="well-white">
 			<div class="media-body">
 				<p><strong>MCO Pizza Club</strong></p>
-				<p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered for the following concerts:</p>
+				<p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered before the following concerts:</p>
 				<dl class="dl">
-  				<dt>October 22</dt>
-  				<dd>MCO Music Director and Conductor <b>Anne Manson</b> and &lsquo;A Tale of Two Symphonies.&rsquo;</dd>
-  				<dt>November 27</dt>
-  				<dd><b>James Sommerville</b> is guest conductor and horn soloist, with <b>Patricia Evans</b> in Beethoven&rsquo;s Sextet, in E Flat, for Two Horns and Strings, Op. 81b.</dd>
-  				<dt>December 17</dt>
-  				<dd>A Christmas concert with <b>David Fallis</b> and Winnipeg&rsquo;s baroque vocal ensemble, <b>Canzona</b>.</dd>
-  				<dt>January 8</dt>
-  				<dd>Guest conductor <b>Judith Yan</b>, baritone <b>Michael Nyby</b> and <b>Xiao-Nan Wang</b>.</dd>
-  				<dt>February 8</dt>
-  				<dd><b>Anne Manson</b> and <b>Suzie LeBlanc</b> present music inspired by poems of <b>Elizabeth Bishop</b>.</dd>
-  				<dt>March 12</dt>
-  				<dd><i>Carnets de voyage</i>, and an album of audio snapshots with <b>Guy Few</b> and <b>Nadina Mackie Jackson</b>.</dd>
-  				<dt>April 9</dt>
-  				<dd><b>Anne Manson</b> and Spanish cellist <b>Asier Polo</b>.</dd>
-  				<dt>May 28</dt>
-  				<dd><b>Anne Manson</b> and piano superstar <b>Marc-Andr&eacute; Hamelin</b>.</dd>
+  				<dt>October 28</dt>
+  				<dd>Guest conductor <b>Scott Yoo</b> and great works for strings by Vivaldi and Sir Hubert Parry</dd>
+  				<dt>November 26</dt>
+  				<dd><b>Anne Manson</b> and flautist <b>Sharon Bezaly</b>; works by Ginastera, Serebrier, Vivaldi and Haydn.</dd>
+  				<dt>January 13</dt>
+  				<dd>Guest conductor <b>Earl Stafford</b> and harpsichordist <b>Eric Lussier</b>; works by Bach, Rota, Stravinsky and Holst.</dd>
+  				<dt>February 18</dt>
+  				<dd><b>Anne Manson</b> and pianist <b>Inon Barnatan</b>; works by Mozart and Beethoven.</dd>
+  				<dt>March 17</dt>
+  				<dd><b>Anne Manson</b> and cellist <b>Jean-Guihen Queyras</b>; works by Jan&aacute;&#269;ek, Haydn and Heidi Ouellette.</dd>
+  				<dt>April 22</dt>
+  				<dd><b>Chamber Night</b>, with a focus on winds; works by Mozart, Ysa&#255;e, Beethoven and Dvo&#159;&aacute;k.</dd>
+  				<dt>May 19</dt>
+  				<dd>Guest conductor <b>Tania Miller</b> and classical guitarist <b>Sharon Isbin</b>; works by Geminiani, Vivaldi, Howard Shore, Gerald Barry and Aaron Jay Kernis.</dd>
+  				<dt>June 3</dt>
+  				<dd><b>Anne Manson</b> and piano superstar <b>Jan Lisiecki</b>; works by Jan&aacute;&#269;ek and Mozart.</dd>
   			</dl>
 			</div>
 		</div>
