@@ -3,7 +3,7 @@
 Plugin Name: Picasa and Google Plus Express
 Plugin URI: http://wordpress.org/extend/plugins/picasa-express-x2
 Description: Browse and select photos from any public or private Google+ album and add them to your posts/pages.
-Version: 2.2.6
+Version: 2.2.10
 Author: gjanes
 Author URI: http://www.janesfamily.org
 Text Domain: pe2
@@ -31,7 +31,7 @@ Copyright 2013 gjanes ( email : gcj.wordpress@janesfamily.org )
     along with this program. If not, see <http://www.gnu.org/licenses/>.
 */
 
-define( 'PE2_VERSION', '2.2.6' );
+define( 'PE2_VERSION', '2.2.10' );
 define( 'PE2_PHOTOSWIPE_VERSION', '3.0.5');
 
 if (!class_exists("PicasaExpressX2")) {
@@ -96,7 +96,9 @@ if (!class_exists("PicasaExpressX2")) {
 
 			'pe2_large_limit'		=> '',
 			'pe2_single_image_size'		=> 'w400',
+			'pe2_single_image_size_format'	=> 'P',
 			'pe2_single_video_size'		=> 'w400',
+			'pe2_single_video_size_format'	=> 'P',
 		);
 
 		/**
@@ -555,7 +557,7 @@ if (!class_exists("PicasaExpressX2")) {
 			$wp_scripts->add('pe2-script', $this->plugin_URL.'/pe2-scripts.js', array('jquery'),PE2_VERSION);
 			$options = array(
 				'waiting'   => str_replace('%pluginpath%', $this->plugin_URL, __("<img src='%pluginpath%/loading.gif' height='16' width='16' /> Please wait", 'pe2')),
-				'env_error' => __("Error: Cannot insert image(s) due to incorrect or missing /wp-admin/js/media-upload.js\nConfirm that media-upload.js is loaded in the parent/editor window.\n\nThis error can be caused by opening the image selection dialog before the Wordpress admin window\nis fully loaded.  Please reload the post/page editor page in wp-admin and try again.", 'pe2'),
+				'env_error' => __("Error: Cannot insert image(s) due to incorrect or missing /wp-admin/js/media-upload.js\nConfirm that media-upload.js is loaded in the parent/editor window.\n\nThis error can be caused by:\n\n#1 - opening the image selection dialog before the Wordpress admin window\nis fully loaded.  Reload the post/page editor page in wp-admin and try again.\n\n#2 - the CKEditor for WP plugin is known to conflict with media-upload.js\nDisable the plugin and try again.", 'pe2'),
 				'image'     => __('Image', 'pe2'),
 				'gallery'   => __('Gallery', 'pe2'),
 				'reload'    => __('Reload', 'pe2'),
@@ -836,8 +838,9 @@ if (!class_exists("PicasaExpressX2")) {
 					<?php
 					// ---------------------------------------------------------------------
 					// single image thunbnail size (override)
+					$format = $this->options['pe2_single_image_size_format'];
 					$option = $this->options['pe2_single_image_size'];
-					preg_match('/(\w)(\d+)/',$option,$mode);
+					preg_match('/(\w)(\d+)-*([whs]*)(\d*)/',$option,$mode);
 					if(strpos($option, '-c') !== false)
 						$crop = true;
 					else
@@ -845,15 +848,27 @@ if (!class_exists("PicasaExpressX2")) {
 					if (!$mode) $mode=array('','','');
 					$this->make_settings_row(
 						__('Single image thumbnail size', 'pe2'),
-						'<input type="hidden" name="pe2_single_image_size" value="'.$option.'" />Scale: &nbsp; &nbsp;[ <label><input type="radio" name="pe2_single_image_size_mode" class="pe2_single_image_size" value="w" '.checked($mode[1], 'w', false).' /> '.__('width','pe2').'</label> &nbsp; '.
-						'<label><input type="radio" name="pe2_single_image_size_mode" class="pe2_single_image_size" value="h" '.checked($mode[1], 'h', false).' /> '.__('height','pe2').'</label> &nbsp; '.
-						'<label><input type="radio" name="pe2_single_image_size_mode" class="pe2_single_image_size" value="s" '.checked($mode[1], 's', false).' /> '.__('any','pe2').'</label> '.
+						'<input type="radio" name="pe2_single_image_size_format" value="P" '.checked($format, 'P', false).' /> Proportionally &nbsp; '.
+						'<input type="radio" name="pe2_single_image_size_format" value="N" '.checked($format, 'N', false).' /> Non-proportionally &nbsp; '.
+						'<input type="radio" name="pe2_single_image_size_format" value="C" '.checked($format, 'C', false).' /> Custom<br/>'.
+						'<div id="pe2_single_image_proportional">'.
+						'	Scale: &nbsp; &nbsp;[ <label><input type="radio" name="pe2_single_image_size_mode" class="pe2_single_image_size" value="w" '.checked($mode[1], 'w', false).' /> '.__('width','pe2').'</label> &nbsp; '.
+						'	<label><input type="radio" name="pe2_single_image_size_mode" class="pe2_single_image_size" value="h" '.checked($mode[1], 'h', false).' /> '.__('height','pe2').'</label> &nbsp; '.
+						'	<label><input type="radio" name="pe2_single_image_size_mode" class="pe2_single_image_size" value="s" '.checked($mode[1], 's', false).' /> '.__('any','pe2').'</label> '.
 						__(' ]&nbsp; &nbsp; proportionally to ','pe2').
-						'<input type="text" name="pe2_single_image_size_dimension" class="pe2_single_image_size" style="width:60px;" id="pe2_single_image_size_dimension" value="'.$mode[2].'" />'.
+						'	<input type="text" name="pe2_single_image_size_dimension" class="pe2_single_image_size" style="width:60px;" id="pe2_single_image_size_dimension" value="'.$mode[2].'" />'.
 						__(' pixels.','pe2').
-						'<label> &nbsp; &nbsp; &nbsp; <input type="checkbox" name="pe2_single_image_size_crop" class="pe2_single_image_size" value="-c" '.checked($crop, true, false).' /> '.__(' Crop image into a square.','pe2').'</label> '
+						'	<label> &nbsp; &nbsp; &nbsp; <input type="checkbox" name="pe2_single_image_size_crop" class="pe2_single_image_size" value="-c" '.checked($crop, true, false).' /> '.__(' Crop image into a square.','pe2').'</label> '.
+						'</div>'.
+						'<div id="pe2_single_image_non">'.
+						'	Width: <input type="text" name="pe2_single_image_size_width" style="width: 60px;" id="pe2_single_image_size_width" value="'.$mode[2].'" /> &nbsp; &nbsp; '.
+						'	Height: <input type="text" name="pe2_single_image_size_height" style="width: 60px;" id="pe2_single_image_size_height" value="'.$mode[4].'" />'.
+						'</div>'.
+						'<div id="pe2_single_image_custom">'.
+						'	Custom request string: <input type="text" name="pe2_single_image_size" style="width: 120px;" id="pe2_single_image_size_input" value="'.$option.'" />'.
+						'</div>'
 						,
-						sprintf(__('Value \'%s\' will be used to set single image thumbnail size'),"<span id=\"pe2_single_image_size_message_option\">$option</span>"),
+						'',
 						'',
 						'id="pe2_single_image_size_message" style="display:'.(($option) ? 'block' : 'none').';"'
 					);
@@ -864,6 +879,42 @@ if (!class_exists("PicasaExpressX2")) {
 						}
 					</style>
 					<script type="text/javascript">
+						// ------------------- TOGGLE SIZE MODE -------------------
+						function pe2_toggle_image_size_mode(type){
+							var format = jQuery('input[name=pe2_' + type + '_size_format]:checked').val();
+							if(format == 'C'){
+								// custom, hide the others
+								jQuery('#pe2_' + type + '_proportional, #pe2_' + type + '_non').hide();
+								jQuery('#pe2_' + type + '_custom').show();
+							}else if(format == 'N'){
+								// non-proportionally
+								jQuery('#pe2_' + type + '_proportional, #pe2_' + type + '_custom').hide();
+								jQuery('#pe2_' + type + '_non').show();
+
+								// execute our calculation based on data provided
+								pe2_compute_nonpro_image_size(jQuery('input[name=pe2_' + type + '_size_width], input[name=pe2_' + type + '_size_height]'), type);
+							}else{
+								// proportionally
+								jQuery('#pe2_' + type + '_non, #pe2_' + type + '_custom').hide();
+								jQuery('#pe2_' + type + '_proportional').show();
+
+								// execute our calculation based on data provided
+								pe2_compute_image_size('mode', jQuery('input[name=pe2_' + type + '_size_mode]:checked').val(), type);
+								pe2_compute_image_size('size', jQuery('input[name=pe2_' + type + '_size_dimension]').val(), type);
+								pe2_determine_crop(type, jQuery('input[name=pe2_' + type + '_size_crop]'));
+							}
+						}// end function pe2_toggle_image_size_mode()
+
+						// on load, toggle the appropriate section based on the mode
+						// from the db
+						pe2_toggle_image_size_mode('single_image');
+
+						// on image size format change, update the input fields
+						jQuery('input[name=pe2_single_image_size_format]').click(function(){
+							pe2_toggle_image_size_mode('single_image');
+						});
+
+						// ------------------- PROPORTIONAL IMAGES -------------------
 						function pe2_compute_image_size(mode,value,type) {
 							var target_input = jQuery('input[name=pe2_' + type + '_size]');
 							if(target_input.length == 0){
@@ -882,11 +933,16 @@ if (!class_exists("PicasaExpressX2")) {
 							// split into our parts
 							var parts = {
 								mode : val.substring(0, 1),
-								size : val.replace(/^[a-z]*([0-9]*).*$/,'$1'),
-								crop : val.replace(/^[a-z]*[0-9]*(.*)$/,'$1')};
+								size : val.replace(/^[a-z]*([0-9]+).*$/,'$1'),
+								crop : val.replace(/^[^\-]+(.*)$/,'$1')};
 
 							// override the particular part that was just changed
 							parts[mode] = value;
+
+							// make sure our crop variable is correct
+							if((parts.crop != '') && (parts.crop != '-c')){
+								parts.crop = '';
+							}
 
 							// store the value back in our target
 							target_input.val(parts.mode+parts.size+parts.crop);
@@ -894,23 +950,21 @@ if (!class_exists("PicasaExpressX2")) {
 							// update the text that displays the setting being used
 							jQuery('#pe2_' + type + '_size_message_option').text(parts.mode+parts.size+parts.crop);
 
-							// if the target inputs type is hidden, then also trigger
-							// the .change event (hiddens don't automatically trigger
-							// the .change event for some reason)
-							if(target_input.attr('type') == 'hidden'){
-								target_input.trigger('change');
-							}
+							// trigger the .change event since we're changing
+							// the value of the target with js, the event
+							// doesn't get triggered
+							target_input.trigger('change');
 						}// end function pe2_compute_image_size(..)
+
 						// if mode changes, update image size
 						jQuery('input[name=pe2_single_image_size_mode]').change(function(){ if (jQuery(this).attr('checked')) pe2_compute_image_size('mode',jQuery(this).val(), 'single_image'); });
+
 						// if size changes, update image size
 						jQuery('input[name=pe2_single_image_size_dimension]').change(function(){
 							pe2_compute_image_size('size',jQuery('input[name=pe2_single_image_size_dimension]').val(), 'single_image');
 						});
-						// if crop changes, update image size
-						jQuery('input[name=pe2_single_image_size_crop]').change(function(){
-							pe2_determine_crop('single_image', this);
-						});
+
+						// function to determine size crop attribute
 						function pe2_determine_crop(name, obj){
 							// use the checked selector to determine if the checkbox is 
 							// checked or not
@@ -921,13 +975,74 @@ if (!class_exists("PicasaExpressX2")) {
 								// the checkbox is not checked
 								pe2_compute_image_size('crop','',name);
 							}
-						}
+						}// end function pe2_determine_crop(..)
+
+						// if crop changes, update image size
+						jQuery('input[name=pe2_single_image_size_crop]').change(function(){
+							pe2_determine_crop('single_image', this);
+						});
+
+						// ------------------- NON-PROPORTIONAL -------------------
+						function pe2_compute_nonpro_image_size(obj, type){
+							var target_input = jQuery('input[name=pe2_' + type + '_size]');
+							var val = target_input.val();
+							
+							// check for the case where it was just enabled after having
+							// been disabled and saved
+							if((val == '') || (val == 'w')){
+								// override with some default
+								val = 'w600-h450';
+							}
+
+							// split into our parts
+							var width = val.match(/w([0-9]+)/);
+							if(width == null){
+								width = '600';
+							}else{
+								width = width[1];
+							}
+							var height = val.match(/h([0-9]+)/);
+							if(height == null){
+								height = '450';
+							}else{
+								height = height[1];
+							}
+
+							// determine if the width or the height was changed
+							if(obj.attr('value') != ''){
+								// we have a value, set it appropriately
+								if(obj.attr('name').indexOf('width') !== -1){
+									// this is width
+									width = obj.attr('value');
+								}else{
+									// this is height
+									height = obj.attr('value');
+								}
+							}
+
+							// store the value back in our target
+							target_input.val('w' + width + '-h' + height + '-p');
+
+							// update the text that displays the setting being used
+							jQuery('#pe2_' + type + '_size_message_option').text('w' + width + 'h' + height + '-c');
+
+							// if the target inputs type is hidden, then also trigger
+							// the .change event (hiddens don't automatically trigger
+							// the .change event for some reason)
+							if(target_input.attr('type') == 'hidden'){
+								target_input.trigger('change');
+							}
+						}// end function pe2_compute_nonpro_image_size(..)
+
+						// if the width or height changes, update the value
+						jQuery('input[name=pe2_single_image_size_width], input[name=pe2_single_image_size_height]').change(function(){ pe2_compute_nonpro_image_size(jQuery(this), 'single_image'); });
 					</script>
 					<?php
 					// ---------------------------------------------------------------------
 					// single video thunbnail size (override)
+					$format = $this->options['pe2_single_video_size_format'];
 					$option = $this->options['pe2_single_video_size'];
-					preg_match('/(\w)(\d+)/',$option,$mode);
+					preg_match('/(\w)(\d+)-*([whs]*)(\d*)/',$option,$mode);
 					if(strpos($option, '-c') !== false)
 						$crop = true;
 					else
@@ -935,30 +1050,60 @@ if (!class_exists("PicasaExpressX2")) {
 					if (!$mode) $mode=array('','','');
 					$this->make_settings_row(
 						__('Single video thumbnail size', 'pe2'),
-						'<input type="hidden" name="pe2_single_video_size" value="'.$option.'" />Scale: &nbsp; &nbsp;[ <label><input type="radio" name="pe2_single_video_size_mode" class="pe2_single_video_size" value="w" '.checked($mode[1], 'w', false).' /> '.__('width','pe2').'</label> &nbsp; '.
-						'<label><input type="radio" name="pe2_single_video_size_mode" class="pe2_single_video_size" value="h" '.checked($mode[1], 'h', false).' /> '.__('height','pe2').'</label> &nbsp; '.
-						'<label><input type="radio" name="pe2_single_video_size_mode" class="pe2_single_video_size" value="s" '.checked($mode[1], 's', false).' /> '.__('any','pe2').'</label> '.
+						'<input type="radio" name="pe2_single_video_size_format" value="P" '.checked($format, 'P', false).' /> Proportionally &nbsp; '.
+						'<input type="radio" name="pe2_single_video_size_format" value="N" '.checked($format, 'N', false).' /> Non-proportionally &nbsp; '.
+						'<input type="radio" name="pe2_single_video_size_format" value="C" '.checked($format, 'C', false).' /> Custom<br/>'.
+						'<div id="pe2_single_video_proportional">'.
+						'	Scale: &nbsp; &nbsp;[ <label><input type="radio" name="pe2_single_video_size_mode" class="pe2_single_video_size" value="w" '.checked($mode[1], 'w', false).' /> '.__('width','pe2').'</label> &nbsp; '.
+						'	<label><input type="radio" name="pe2_single_video_size_mode" class="pe2_single_video_size" value="h" '.checked($mode[1], 'h', false).' /> '.__('height','pe2').'</label> &nbsp; '.
+						'	<label><input type="radio" name="pe2_single_video_size_mode" class="pe2_single_video_size" value="s" '.checked($mode[1], 's', false).' /> '.__('any','pe2').'</label> '.
 						__(' ]&nbsp; &nbsp; proportionally to ','pe2').
-						'<input type="text" name="pe2_single_video_size_dimension" class="pe2_single_video_size" style="width:60px;" id="pe2_single_video_size_dimension" value="'.$mode[2].'" />'.
+						'	<input type="text" name="pe2_single_video_size_dimension" class="pe2_single_video_size" style="width:60px;" id="pe2_single_video_size_dimension" value="'.$mode[2].'" />'.
 						__(' pixels.','pe2').
-						'<label> &nbsp; &nbsp; &nbsp; <input type="checkbox" name="pe2_single_video_size_crop" class="pe2_single_video_size" value="-c" '.checked($crop, true, false).' /> '.__(' Crop image into a square.','pe2').'</label> '
+						'	<label> &nbsp; &nbsp; &nbsp; <input type="checkbox" name="pe2_single_video_size_crop" class="pe2_single_video_size" value="-c" '.checked($crop, true, false).' /> '.__(' Crop image into a square.','pe2').'</label> '.
+						'</div>'.
+						'<div id="pe2_single_video_non">'.
+						'	Width: <input type="text" name="pe2_single_video_size_width" style="width: 60px;" id="pe2_single_video_size_width" value="'.$mode[2].'" /> &nbsp; &nbsp; '.
+						'	Height: <input type="text" name="pe2_single_video_size_height" style="width: 60px;" id="pe2_single_video_size_height" value="'.$mode[4].'" />'.
+						'</div>'.
+						'<div id="pe2_single_video_custom">'.
+						'	Custom request string: <input type="text" name="pe2_single_video_size" style="width: 120px;" id="pe2_single_video_size_input" value="'.$option.'" />'.
+						'</div>'
 						,
-						sprintf(__('Value \'%s\' will be used to set single video thumbnail size'),"<span id=\"pe2_single_video_size_message_option\">$option</span>"),
+						'',
 						'',
 						'id="pe2_single_video_size_message" style="display:'.(($option) ? 'block' : 'none').';"'
 					);
 					?>
 					<script type="text/javascript">
+						// ------------------- TOGGLE SIZE MODE -------------------
+
+						// on load, toggle the appropriate section based on the mode
+						// from the db
+						pe2_toggle_image_size_mode('single_video');
+
+						// on image size format change, update the input fields
+						jQuery('input[name=pe2_single_video_size_format]').click(function(){
+							pe2_toggle_image_size_mode('single_video');
+						});
+
+						// ------------------- PROPORTIONAL IMAGES -------------------
 						// if mode changes, update image size
 						jQuery('input[name=pe2_single_video_size_mode]').change(function(){ if (jQuery(this).attr('checked')) pe2_compute_image_size('mode',jQuery(this).val(), 'single_video'); });
+
 						// if size changes, update image size
 						jQuery('input[name=pe2_single_video_size_dimension]').change(function(){
 							pe2_compute_image_size('size',jQuery('input[name=pe2_single_video_size_dimension]').val(), 'single_video');
 						});
+
 						// if crop changes, update image size
 						jQuery('input[name=pe2_single_video_size_crop]').change(function(){
 							pe2_determine_crop('single_video', this);
 						});
+
+						// ------------------- NON-PROPORTIONAL -------------------
+						// if the width or height changes, update the value
+						jQuery('input[name=pe2_single_video_size_width], input[name=pe2_single_video_size_height]').change(function(){ pe2_compute_nonpro_image_size(jQuery(this), 'single_video'); });
 					</script>
 <?php
 
@@ -1904,14 +2049,14 @@ jQuery('document').ready(function(){
 							// keep track of the image number we're on
 							$image_count++;
 
+							// init/reset/any prefix/suffix
+							$tile_wrap_prefix = $tile_wrap_suffix = '';
+
 							// -------------------------------------------------------------
 							// gallery type
 							if($pe2_phototile != null){
 								// we're tiling the photos, using our width, define the
 								// dimensions using our template array of size combinations
-
-								// reset any prefix/suffix
-								$tile_wrap_prefix = $tile_wrap_suffix = '';
 
 								// if necessary, start a new row
 								if(!isset($tile_row)){
@@ -2366,10 +2511,9 @@ jQuery('document').ready(function(){
 			if ($pe2_caption) {
 				// captions have a surrounding div that must be aligned properly
 				$calign = 'align="align'.$pe2_img_align.'" ';
-			}else{
-				// if not using captions, then set the align on the image itself
-				array_push($iclass,'align'.$pe2_img_align);
 			}
+			// also put the align variable on the image itself
+			array_push($iclass,'align'.$pe2_img_align);
 
 			if($pe2_a_img_css != null){
 				$aclass = ' '.$pe2_a_img_css;
@@ -2963,6 +3107,7 @@ function pe2_setup_photoswipe(collection){
 		enableMouseWheel: true,
 		enableKeyboard: true,
 		captionAndToolbarAutoHideDelay: 0,
+		imageScaleMethod: 'fitNoUpscale',
 		// set the caption from the A tag's title attribute
 		getImageCaption: function(item){
 			// increment our image counter

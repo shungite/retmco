@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: google+, googleplus, google, picasaweb, picasa, phototile, tile, gallery, album, photo, photos, image, images, picture, pictures, video, videos, photoswipe, mobile, iphone, android, highslide, thickbox, lightbox, private, wpmu, user, blog, sitewide, multisite, post, shortcode, thumbnail
 Requires at least: 2.8
 Tested up to: 3.5.1
-Stable tag: 2.2.6
+Stable tag: 2.2.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -106,6 +106,20 @@ the settings.
 
 If this still doesn't work, check your hosting provider's PHP preferences - some hosting companies disable connect functions and Wordpress can not request data from other sites. 
 
+= Error with media-upload.js =
+When attempting to insert an image into a post and receive the error:
+
+"Error: Cannot insert image(s) due to incorrect or missing /wp-admin/js/media-upload.js"
+
+There are several possible causes for this:
+
+#1 - if you attempt to open the selection dialog before the page has
+completely loaded, some of the required JavaScript libraries may not be loaded
+yet.  Refresh the page and wait for it to load completely, then try again.
+
+#2 - it is known that the "CKEditor for WP" plugin conflicts with the
+media-upload.js file.  Disable this plugin and try again.
+
 = How can I select several images to insert at a time? =
 
 When browsing the album's images you may click on multiple photos to insert at once.  These images will be inserted into the post as using the thumbnail size you have defined in "Single image thumbnail size" in settings.
@@ -184,6 +198,20 @@ small-thumbnail gallery.
 * Single image selection enhancement - use mouse click mods: Shift (for lines), Ctrl (for columns) and Ctrl-A for all images
 * Add the button to Visual toolbar of Tiny editor in full screen mode
 * Work with Google to correct tag searching index issues which cause tag searches to return unexpected results.
+
+= 2.2.10 =
+* Corrects a bug introduced in 2.2.7 regarding per-post options on thumbnail size setting
+
+= 2.2.9 =
+* Corrects an undefined variable
+
+= 2.2.8 =
+* Corrects a bug with non-proportional image thumbnail sizes
+* Corrects a bug with images displayed without a caption when captions are enabled, the alignment was not being properly assigned
+
+= 2.2.7 =
+* Added an option to allow single image/video thumbnails to be configured non-proportionally
+* Added the configuration option for PhotoSwipe to prevent upscaling of images
 
 = 2.2.6 =
 * Added a browser check for Photoswipe to switch to Thickbox if the client is using any version of IE, as the current version of Photoswipe has a bug in all versions of IE.
@@ -343,6 +371,19 @@ Wordpress 3.2 fixes
 * First public release
 
 == Upgrade Notice ==
+
+= 2.2.10 =
+* Corrects a bug introduced in 2.2.7 regarding per-post options on thumbnail size setting
+
+= 2.2.9 =
+* Corrects an undefined variable
+
+= 2.2.8 =
+Small bugfix release to correct some issues from 2.2.7
+
+= 2.2.7 =
+Added some additional options for single image/video thumbnail size, and a
+configuration option for PhotoSwipe to prevent upscaling photos.
 
 = 2.2.6 =
 Temporary Photoswipe switch to Thickbox for IE browsers until Photoswipe bug
