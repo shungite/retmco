@@ -65,7 +65,7 @@ Template Name: Page Programs Template
   				<dt>February 18</dt>
   				<dd><b>Anne Manson</b> and pianist <b>Inon Barnatan</b>; works by Mozart and Beethoven.</dd>
   				<dt>March 17</dt>
-  				<dd><b>Anne Manson</b> and cellist <b>Jean-Guihen Queyras</b>; works by Jan&aacute;&#269;ek, Haydn and Heidi Ouellette.</dd>
+  				<dd><b>Anne Manson</b> and cellist <b>Ariel Barnes</b>; works by Jan&aacute;&#269;ek, Haydn and Heidi Ouellette.</dd>
   				<dt>April 22</dt>
   				<dd><b>Chamber Night</b>, with a focus on winds; works by Mozart, Ysa&#255;e, Beethoven and Dvo&#159;&aacute;k.</dd>
   				<dt>May 19</dt>
