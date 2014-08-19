@@ -47,7 +47,7 @@ Template Name: Page Board Template
 			</dl>
 			<p><strong>Administration</strong></p>
 			<dl class="dl">
-				<dt>Music Director &amp; Conductor</dt>
+				<dt>Music Director</dt>
 				<dd>Anne Manson</dd>
 				<dt>Managing Director</dt>
 				<dd>Vicki Young</dd>
