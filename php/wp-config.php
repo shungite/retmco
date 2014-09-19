@@ -130,6 +130,12 @@ define('WPLANG', '');
  */
 define('WP_DEBUG', false);
 
+/**
+ * disable auto-updates!
+ */
+
+define( 'WP_AUTO_UPDATE_CORE', false );
+
 /* That's all, stop editing! Happy blogging. */
 
 /** Added for wp super cache */
