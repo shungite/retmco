@@ -36,7 +36,6 @@ Template Name: Page Board Template
 				<dd>Sue Irving</dd>
 				<dd>Suzanne Kennelly</dd>
 				<dd>Elaine Margolis</dd>
-				<dd>Chris Meiklejohn</dd>
 				<dd>Sunny Oh</dd>
 				<dd>Beryl Peters</dd>
 				<dd>Nicola Schaefer</dd>
@@ -59,18 +58,16 @@ Template Name: Page Board Template
 				<dd>Corinne Friesen Loewen</dd>
 				<dt>Bookeeper</dt>
 				<dd>Pat Ireton</dd>
-				<dt>Marketing Director</dt>
-				<dd>Greg Klassen</dd>
 				<dt>Director, Systems and Design</dt>
 				<dd>Jon Snidal</dd>
 				<dt>Concert Manager</dt>
 				<dd>Boyd MacKenzie</dd>
 				<dt>Librarian</dt>
-				<dd>Ray Chrunyk</dd>
+				<dd>Merrily Peters</dd>
 				<dt>Program advertising</dt>
 				<dd>Brian Chipney</dd>
 				<dt>Stage Manager</dt>
-				<dd>Matthew Underhill</dd>
+				<dd>David MacKenzie</dd>
 			</dl>
 		</div>
 	</div>
