@@ -56,11 +56,10 @@ Template Name: Page MCOhome Template
 				<?php echo do_shortcode('[contact-form-7 id="1045" title="Noteworthy"]'); ?>
 			</div>
 		</div>
-		<div class="span2">
-			<h6><i class="icon-warning-sign"></i><br />Warning!</h6>
-			<p class="fineprint">Please be patient as we rebuild our web site. We promise to reward you with better content and interactive features. In the meantime, we&rsquo;d love to hear from you!</p>
-			<a class="btn btn-mini" href="mailto:info@themco.ca?subject=Feedback ...">Feedback »</a>
-			<p>&nbsp;</p>
+		<div class="span3">
+			<p><a href="http://www.themco.ca/troubadour-the-nightingale/"><img src="http://www.themco.ca/wp-content/uploads/2013/10/TroubadourPreOrder.jpg"></a></p>
+			<p><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=94ce7b6e08cf4bb79c932d28f04ae510"><button class="btn btn-small btn-success" type="button">Add to cart</button></a></p>
+
 		</div><!-- /span2 -->
 	</div><!-- /row -->
 
