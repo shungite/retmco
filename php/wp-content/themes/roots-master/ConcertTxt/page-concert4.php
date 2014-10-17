@@ -78,7 +78,7 @@ Template Name: Page Concert4 Template
 				<p><b>Nino Rota</b><br><i>Concerto for Strings</i></p>
 				<p><b>Igor Stravinsky</b><br><i>Apollo</i> (Apollon musag&egrave;te)</p>
 				<p><b>Gustav Holst</b><br><i>St. Paul&rsquo;s Suite</i>, Op. 29, No. 2</p>
-				<p>Concert sponsor / <a href="http://www.investorsgroup.com/en/default.aspx"><b>Investors Group</b></a><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong></p>
+				<p>Concert sponsor / <a href="http://www.investorsgroup.com/en/default.aspx"><b>Investors Group</b></a><br>Guest artist sponsor / <b>Patricia Bovey</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong></p>
 			</div>
 		  <div class="tab-pane fade" id="bios">
 		  	<p><b>Earl Stafford</b></p>

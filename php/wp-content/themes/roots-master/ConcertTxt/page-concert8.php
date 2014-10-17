@@ -81,7 +81,7 @@ Template Name: Page Concert8 Template
 				<p><b>Howard Shore</b><br><i>Billy&rsquo;s Theme</i>, from <i>The Departed</i>,<br>for guitar, strings and rhythm guitar</p>
 				<p><b>Aaron Jay Kernis</b><br><i>Musica Celestis</i></p>
 				<p><b>Gerald Barry</b><br><i>La Jalousie Taciturne</i></p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
+				<p>Concert sponsor / <b>Gail Asper Family Foundation</b><br>Guest artist sponsor / <a href="http://www.quadasset.com/"><b>Quadrant Asset Management</b></a><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 			</div>
 		  <div class="tab-pane fade" id="bios">
 		  		<p><b>Tania Miller</b></p>
