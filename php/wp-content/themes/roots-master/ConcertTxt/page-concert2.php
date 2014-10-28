@@ -37,15 +37,15 @@ Template Name: Page Concert2 Template
 
 		<b>The concert begins at 7:30 pm on October 28th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $30 for adults, $28 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204.783.7377).</b>
 
-		<!-- <div class="media">
-					<a class="pull-left" href="#extras" data-toggle="tab">
-					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Don_Anderson_small.jpg">
-				</a>
-				<div class="media-body">
-					<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Don Anderson&rsquo;s <em>Chamber Chatter</em> article, our <em>Winnipeg Free Press</em> concert review and more!</p>
-					<p class="fineprint">&nbsp;<p>
-				</div>
-				</div> -->
+		<div class="media">
+			<a class="pull-left" href="#extras" data-toggle="tab">
+				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+			</a>
+			<div class="media-body">
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk, &lsquo;On Antonio Vivaldi.&rsquo; Watch for Haley&rsquo;s videos to appear throughout the season!</p>
+				<p class="fineprint">&nbsp;<p>
+			</div>
+		</div>
 	</div><!-- /span7 -->
 
 	<div class="span1"> 
@@ -70,6 +70,7 @@ Template Name: Page Concert2 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -150,6 +151,18 @@ Template Name: Page Concert2 Template
 				<p><i>To turn abruptly, slip, crash to the ground<br>and, rising, hasten on across the ice<br>until it cracks and splinters all around;</i></p>
 				<p><i>To hear the winds burst with ferocious might<br>their prison gates and clash with martial sound &mdash;<br>this is the winter, such are its delights.</i></p>
 				<p>At the start of the finale, the soloist undertakes in delicate fashion a slithering, treacherous walk across thin ice. People slip and fall, then the ice breaks with a snap. A brief, serene pause for breath precedes the bitter winds of the literally tempestuous conclusion, which despite the cheery words of the accompanying sonnet, sound not at all delightful!</p>  
+			</div>
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 17: &lsquo;On Antonio Vivaldi&rsquo;</strong></p>
+				<section class="row">
+ 					<div class="span5">
+ 						<div class="flex-video widescreen">
+ 							<iframe width="510" height="287" src="//www.youtube.com/embed/Hm6H4LZqfFg" frameborder="0" allowfullscreen seamless></iframe>
+ 							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO's Pizza Club events.</p>
+ 							<p>&nbsp;</p>
+ 						</div>
+ 					</div>
+				</section>
 			</div>
 
 		</div><!-- /tab-content -->

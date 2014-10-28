@@ -75,6 +75,7 @@ Template Name: Page Concert9 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director and Conductor<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br>3 June 2015</p>
 				<p>Jan Lisiecki, piano</p>
+				<p><b>Dorothy Chang</b><br><i>Of Fragments and Dreams</i><br>Canada Council for the Arts commission<br>World premiere performance</p>
 				<p><b>Leo&#353; Jan&#225;&#269;ek</b><br>String Quartet No. 2<br>&mdash; &lsquo;Intimate Letters&rsquo;</p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Piano Concerto No. 26, in D Major (KV 537)<br>&mdash; &lsquo;Coronation Concerto&rsquo;</p>
 				<p>Concert co-sponsors / <b>Drs. Bill Pope &amp; Elizabeth Tippett-Pope</b><br>and <a href="http://www.lawtonpartners.ca/"><b>Lawton Partners Wealth Management</b><br></a>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
