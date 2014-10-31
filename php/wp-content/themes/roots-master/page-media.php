@@ -3,7 +3,7 @@
 Template Name: Page Media Template
 */
 ?>
-<div class="container">
+<div class="container" overflow:auto;>
 
 <div class="row">
 
