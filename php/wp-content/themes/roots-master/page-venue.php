@@ -14,9 +14,10 @@ Template Name: Page Venue Template
 		</blockquote>
 
 		<div class="well">
+			<p>&nbsp;</p>
 			<p><img src="http://www.themco.ca/wp-content/uploads/2014/11/Westminster-map380.png"></p>
 			<p>&nbsp;</p>
-			<p><b>Where do Manitoba Chamber Orchestra concerts take place?</b></p>
+			<p><b>Where and when do Manitoba Chamber Orchestra concerts take place?</b></p>
 			<p>While the MCO presents many concerts throughout Manitoba, across Canada and abroad, the Orchestra&rsquo;s usual home is in historic  <a href="http://www.westminsterchurchwinnipeg.ca"><b>Westminster United Church</b></a>, located at 745 Westminster at Maryland in Winnipeg. The venue is accessible via the following bus routes:</p>
 			<dl class="dl">
 				<dt>Tach&eacute; Avenue in St. Bon­iface to Wolseley</dt>
@@ -31,39 +32,40 @@ Template Name: Page Venue Template
 				<dd><a href="http://winnipegtransit.com/en/routes/36"><b>Route 36</b></a></dd>
 			</dl>
 			<p>If none of these routes are suitable, please consult the <a href="http://winnipegtransit.com/en/routes"><b>Winnipeg Transit route map</b></a> for more information, or use their <a href="http://winnipegtransit.com/en/navigo"><b>Navigo trip planner</b></a>. Further help is available by calling <b>311</b>.</p>
+			<p>All regular season Manitoba Chamber Orchestra concerts begin at 7:30 pm, and the doors open at 6:30 pm.</p>
 		</div><!-- /well -->
 
 		<div class="well-white">
 			<p><b>Where can I get tickets to Manitoba	Chamber Orchestra concerts?</b></p>
-			<p>Season tickets may be purchased on this site or by calling the MCO Ticketline at (204)783-7377. Casual tickets are available on this site and at the door, but also at several outlets in Winnipeg. These outlets include:</p>
+			<p>Season tickets may be purchased on this site or by calling the MCO Ticketline at 204-783-7377. Casual tickets are available on this site and at the door, but also at several outlets in Winnipeg. These outlets include:</p>
 			<dl class="dl">
 				<dt><a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson Booksellers</a></dt>
-				<dd>1120 Grant Avenue, Winnipeg MB R3M 2A6, tel (204)475-0483</dd>
+				<dd>1120 Grant Avenue, Winnipeg MB R3M 2A6, tel 204-475-0483</dd>
 				<dt><a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a></dt>
-				<dd>586 Ellice Avenue at Sherbrook Street MB R3B 1Z8, tel (204)783-6918</dd>
+				<dd>586 Ellice Avenue at Sherbrook Street MB R3B 1Z8, tel 204-783-6918</dd>
 				<dt><a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet Worker Co-op</a></dt>
-				<dd>877 Westminster Avenue, Winnipeg MB R3G 1B3, tel (204)772-8771</dd>
+				<dd>877 Westminster Avenue, Winnipeg MB R3G 1B3, tel 204-772-8771</dd>
 			</dl>
 		</div><!-- /well -->
 
 		<div class="well">
 			<p><b>Where can I collect my tickets?</b></p>
-			<p>Purchased tickets can be mailed out ($1.00 added to cover postage and handling), picked up downtown in the MCO office on the third floor in Portage Place (9-5 Mon-Fri) or collected at the door on concert night (subject to availablity). MCO concerts begin at 7:30 pm and the doors open at 6:30 pm.</p>
+			<p>Purchased tickets can be mailed out ($1.00 added to cover postage and handling), picked up downtown in the MCO office on the third floor in Portage Place (9-5 Mon-Fri) or collected at the door on concert night.</p>
 		</div><!-- /well -->
 
 		<div class="well-white">
 			<p><b>I&rsquo;m a subscriber. How do I exchange tickets?</b></p>
-			<p>For subscribers, any concert ticket is good at any other show in the same season. All we ask is that you inform us at least 48 hours in advance of concert day that you would like to swap nthat ticket for another. This allows us to know how many seats we have available for sold out shows. Simply call (204)783-7377 two days before the concert.</p>
+			<p>For subscribers, any concert ticket is good at any other show in the same season. All we ask is that you inform us at least 48 hours in advance of concert day that you would like to swap that ticket for another. This allows us to know how many seats we have available for sold out shows. Simply call 204-783-7377 two days before the concert.</p>
 		</div><!-- /well -->
 
 		<div class="well">
 			<p><b>When are season tickets mailed out?</b></p>
-			<p>Season tickets ordered in the spring or summer months for the upcoming season are mailed out from mid-August; orders received from then on are processed and mailed immediately. If you subscribe close to the date of a concert, your tickets may be picked up at the door that night.</p>
+			<p>Season tickets ordered in the spring or summer months for the upcoming season are mailed out from late-August; orders received from then on are processed and mailed immediately. If you subscribe close to the date of a concert, your tickets may be picked up at the door that night.</p>
 		</div><!-- /well -->
 
 		<div class="well-white">
 			<p><b>Does the MCO and Westminster United Church cater to special needs?</b></p>
-			<p>The staff at the Manitoba Chamber Orchestra prides itself on the accessibility of its venue and its ability to accommodate all music lovers! A state-of-the-art ramp and lift sytem has been installed at Westminster United Church on the east door on Westminster Avenue, and staff is always available to assist. If you believe you need a specific type of assistance or simply want to let us know you&rsquo;ll be attending a concert, please contact the MCO office at (204)783-7377.</p>
+			<p>The staff at the Manitoba Chamber Orchestra prides itself on the accessibility of its venue and its ability to accommodate all music lovers! A state-of-the-art ramp and lift sytem has been installed at Westminster United Church on the east door on Westminster Avenue, and staff is always available to assist. If you believe you need a specific type of assistance or simply want to let us know you&rsquo;ll be attending a concert, please contact the MCO office at 204-783-7377.</p>
 		</div><!-- /well -->
 
 		<div class="well">
@@ -78,7 +80,7 @@ Template Name: Page Venue Template
 
 		<div class="well">
 			<p><b>Where is my lost property?</b></p>
-			<p>If you have lost soemthing at a Manitoba Chamber Orchestra concert, begin by contacting the MCO office at (204)783-7377. If we don't have it, please get in touch with the Westminster United Church office at (204)784-1330.</p>
+			<p>If you have lost something at a Manitoba Chamber Orchestra concert, begin by contacting the MCO office at 204-783-7377. If we don't have it, please get in touch with the Westminster United Church office at 204-784-1330.</p>
 		</div><!-- /well -->
 
 		<div class="well-white">
