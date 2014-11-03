@@ -3,7 +3,7 @@
 Template Name: Page Media Template
 */
 ?>
-<div class="container" overflow:auto;>
+<div class="container">
 
 <div class="row">
 
@@ -24,19 +24,24 @@ Template Name: Page Media Template
     <div class="tab-content">
       <div class="tab-pane fade in active" id="video">
         <div class="well">
+
           <p><strong>Upcoming concerts video playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/JgVEUqK4ips?list=UUIz_vC8l_-WAnv-AnPzJqUQ" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" target="_blank"><small>Go to playlist</small></a></p>
+          
           <p><strong>Classic 107 playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/5uGtV6LMADA?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" target="_blank"><small>Go to playlist</small></a></p>
+          
           <p><strong>Education + outreach playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/Vwr58yd0dww?list=PLrh6cFljbZhG3TzWqRMzEzaLNe2xE965K" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhG3TzWqRMzEzaLNe2xE965K" target="_blank"><small>Go to playlist</small></a></p>
+          
           <p><strong>Other videos playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/J0899Jovfe8?list=PLrh6cFljbZhExham6y4DC7Tj_NtJWVq7P" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhExham6y4DC7Tj_NtJWVq7P" target="_blank"><small>Go to playlist</small></a></p>
-        </div>
+
+        </div><!-- /well -->
       </div>
       <div class="tab-pane fade" id="audio">
         <div class="well">
