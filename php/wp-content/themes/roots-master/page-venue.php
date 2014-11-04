@@ -15,7 +15,7 @@ Template Name: Page Venue Template
 
 		<div class="well">
 			<p>&nbsp;</p>
-			<p><img src="http://www.themco.ca/wp-content/uploads/2014/11/Westminster-Map-with-adjusted-colours.png"></p>
+			<p><img src="http://www.themco.ca/wp-content/uploads/2014/11/Westminster-Map-with-adjusted-colours2.png"></p>
 			<p>&nbsp;</p>
 			<p><b>Where and when do Manitoba Chamber Orchestra concerts take place?</b></p>
 			<p>While the MCO presents many concerts throughout Manitoba, across Canada and abroad, the Orchestra&rsquo;s usual home is in historic  <a href="http://www.westminsterchurchwinnipeg.ca"><b>Westminster United Church</b></a>, located at 745 Westminster at Maryland in Winnipeg. The venue is accessible via the following bus routes:</p>
