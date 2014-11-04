@@ -56,8 +56,8 @@ Template Name: Page Programs Template
 				<p><strong>MCO Pizza Club</strong></p>
 				<p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered before the following concerts:</p>
 				<dl class="dl">
-  				<dt>October 28</dt>
-  				<dd>Guest conductor <b>Scott Yoo</b> and great works for strings by Vivaldi and Sir Hubert Parry</dd>
+  				<dt><del>October 28</dt>
+  				<dd>Guest conductor <b>Scott Yoo</b> and great works for strings by Vivaldi and Sir Hubert Parry.</del></dd>
   				<dt>November 26</dt>
   				<dd><b>Anne Manson</b> and flautist <b>Sharon Bezaly</b>; works by Ginastera, Serebrier, Vivaldi and Haydn.</dd>
   				<dt>January 13</dt>
@@ -67,7 +67,7 @@ Template Name: Page Programs Template
   				<dt>March 17</dt>
   				<dd><b>Anne Manson</b> and cellist <b>Ariel Barnes</b>; works by Jan&aacute;&#269;ek, Haydn and Heidi Ouellette.</dd>
   				<dt>April 22</dt>
-  				<dd><b>Chamber Night</b>, with a focus on winds; works by Mozart, Ysa&#255;e, Beethoven and Dvo&#159;&aacute;k.</dd>
+  				<dd><b>Chamber Night</b>, with a focus on winds; works by Mozart, Ysa&#255;e, Beethoven and Dvo&#345;&aacute;k.</dd>
   				<dt>May 19</dt>
   				<dd>Guest conductor <b>Tania Miller</b> and classical guitarist <b>Sharon Isbin</b>; works by Geminiani, Vivaldi, Howard Shore, Gerald Barry and Aaron Jay Kernis.</dd>
   				<dt>June 3</dt>
