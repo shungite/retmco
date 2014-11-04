@@ -256,5 +256,6 @@ a:hover {
 }
 
 .wpcf7 input[type="text"] {width:90%;}
+.wpcf7 input[type="email"] {width:90%;}
 .wpcf7 textarea { width:90%;}
 
