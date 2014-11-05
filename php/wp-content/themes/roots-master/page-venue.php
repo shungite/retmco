@@ -87,6 +87,12 @@ Template Name: Page Venue Template
 			<p><b>What should I bring with me?</b></p>
 			<p>As little as possible! While we have a limited number of seat cushions for our patrons&rsquo; comfort, if you have your own, bring it along so there will be enough to go around. No food or drink is to be brought into the venue. If you did bring a cell phone, please turn off the ringer (pagers and beeping watches, too) before the concert begins. The use of recording and photographic equipment is not permitted.</p>
 		</div><!-- /well -->
+
+		<div class="well">
+			<p><img src="http://www.themco.ca/wp-content/uploads/2014/11/PizzaClubTrans.png"></p>
+			<p><b>How does MCO&rsquo;s Pizza Club work?</b></p>
+			<p>MCO&rsquo;s Pizza Club is great fun for the whole family! Reserve three days in advance of the concert date to reserve your spots. Enjoy free pizza (included in the price of your ticket) and a talk on the music you&rsquo;ll hear at the concert. Starts at 6:00 pm; call 204-783-7377 for reservations.</p>
+		</div><!-- /well -->
 	
 
 	</div>
