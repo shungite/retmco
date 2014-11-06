@@ -55,12 +55,12 @@ Template Name: Page Venue Template
 
 		<div class="well-white">
 			<p><b>I&rsquo;m a subscriber. How do I exchange tickets?</b></p>
-			<p>For subscribers, any concert ticket is good at any other show in the same season. All we ask is that you inform us at least 48 hours in advance of concert day that you would like to swap that ticket for another. This allows us to know how many seats we have available for sold out shows. Simply call 204-783-7377 two days before the concert.</p>
+			<p>For subscribers, any concert ticket is good at any other show in the same season. All we ask is that you inform us at least 48 hours in advance of concert day that you would like to swap that ticket for another. This allows us to know how many seats we have available for sold out shows. Simply call 204-783-7377 at least two days before the concert. For obvious reasons, we are unable to exchange tickets into a sold-out concert.</p>
 		</div><!-- /well -->
 
 		<div class="well">
 			<p><b>When are season tickets mailed out?</b></p>
-			<p>Season tickets ordered in the spring or summer months for the upcoming season are mailed out from late-August; orders received from then on are processed and mailed immediately. If you subscribe close to the date of a concert, your tickets may be picked up at the door that night.</p>
+			<p>Season tickets ordered in the spring or summer months for the upcoming season are mailed out from late-August; orders received from then on are processed and mailed immediately. If you subscribe close to the date of a concert, or if you have made a request, your tickets may be picked up at the ticket table at any concert.</p>
 		</div><!-- /well -->
 
 		<div class="well-white">
@@ -80,7 +80,7 @@ Template Name: Page Venue Template
 
 		<div class="well">
 			<p><b>Where is my lost property?</b></p>
-			<p>If you have lost something at a Manitoba Chamber Orchestra concert, begin by contacting the MCO office at 204-783-7377. If we don't have it, please get in touch with the Westminster United Church office at 204-784-1330.</p>
+			<p>If you have lost something at a Manitoba Chamber Orchestra concert, please get in touch with the Westminster United Church office at 204-784-1330.</p>
 		</div><!-- /well -->
 
 		<div class="well-white">
@@ -91,7 +91,7 @@ Template Name: Page Venue Template
 		<div class="well">
 			<p><img src="http://www.themco.ca/wp-content/uploads/2014/11/PizzaClubTrans.png"></p>
 			<p><b>How does MCO&rsquo;s Pizza Club work?</b></p>
-			<p>MCO&rsquo;s Pizza Club is great fun for the whole family! Reserve three days in advance of the concert date to reserve your spots. Enjoy free pizza (included in the price of your ticket) and a talk on the music you&rsquo;ll hear at the concert. Starts at 6:00 pm; call 204-783-7377 for reservations.</p>
+			<p>MCO&rsquo;s Pizza Club is great fun for the whole family! Reserve three days in advance of the concert date to reserve your spots. Enjoy free pizza (included in the price of your ticket) and a talk on the music you&rsquo;ll hear at the concert. Starts at 6:00 pm; call 204-783-7377 for reservations. Please enter via the easternmost door on Westminster Avenue.</p>
 		</div><!-- /well -->
 	
 
