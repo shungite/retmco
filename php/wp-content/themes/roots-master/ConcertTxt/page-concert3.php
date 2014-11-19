@@ -41,7 +41,6 @@ Template Name: Page Concert3 Template
 			</a>
 			<div class="media-body">
 				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talks, &lsquo;On Franz Joseph Haydn&rsquo; and &lsquo;The True Story of the Flute&rsquo;. Haley&rsquo;s videos are available on most concert pages.</p>
-				<p class="fineprint">&nbsp;<p>
 			</div>
 		</div>
 	</div><!-- /span7 -->

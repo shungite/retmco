@@ -43,7 +43,6 @@ Template Name: Page Concert2 Template
 			</a>
 			<div class="media-body">
 				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talk, &lsquo;On Antonio Vivaldi.&rsquo; Watch for Haley&rsquo;s videos to appear throughout the season!</p>
-				<p class="fineprint">&nbsp;<p>
 			</div>
 		</div>
 	</div><!-- /span7 -->
