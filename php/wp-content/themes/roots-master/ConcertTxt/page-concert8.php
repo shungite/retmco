@@ -37,15 +37,15 @@ Template Name: Page Concert8 Template
 
 		<b>The concert begins at 7:30 pm on May 19th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $30 for adults, $28 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204.783.7377).</b>
 
-		<!-- <div class="media">
-					<a class="pull-left" href="#extras" data-toggle="tab">
-					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Don_Anderson_small.jpg">
-				</a>
-				<div class="media-body">
-					<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Don Anderson&rsquo;s <em>Chamber Chatter</em> article, our <em>Winnipeg Free Press</em> concert review and more!</p>
-					<p class="fineprint">&nbsp;<p>
-				</div>
-				</div> -->
+		<div class="media">
+			<a class="pull-left" href="#extras" data-toggle="tab">
+				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+			</a>
+			<div class="media-body">
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talks, &lsquo;On Antonio Vivaldi&rsquo; and &lsquo;The Year 1685&rsquo;. Haley&rsquo;s videos are available on most concert pages.</p>
+			</div>
+		</div>
+
 	</div><!-- /span7 -->
 
 	<div class="span1"> 
@@ -70,6 +70,7 @@ Template Name: Page Concert8 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -137,6 +138,27 @@ Template Name: Page Concert8 Template
 				<p>Barry composed <i>La Jalousie Taciturne</i> for string orchestra in 1996. It was commissioned by the Irish Chamber Orchestra. The title is taken from a harpsichord suite (or ordre) by the French baroque composer François Couperin (1668-1733). It is one of the <i>folies françoises</i> that describe costumes worn by guests at a masked ball &mdash; in this case &ldquo;taciturn jealousy in a dove-grey costume.&rdquo; Barry has also written that his composition &ldquo;refers to the sullen jealousy of material collected for the writing of music. It guards its secrets and gives them up reluctantly.&rdquo;</p>
 				<p>The music shifts frequently, and often abruptly, between passages of demonic frenzy and uneasy whimsy. At times, its aggressive chagrin is barely held in check, as angry energy wages war against moderation. In the concluding section the level of activity and passion rises to new heights for a blistering, virtuosic close.</p>
 
+			</div>
+
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 17: &lsquo;On Antonio Vivaldi&rsquo;</strong></p>
+				<section class="row">
+ 					<div class="span5">
+ 						<div class="flex-video widescreen">
+ 							<iframe width="510" height="287" src="//www.youtube.com/embed/Hm6H4LZqfFg" frameborder="0" allowfullscreen seamless></iframe>
+ 						</div>
+ 					</div>
+				</section>
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 12: &lsquo;The Year 1685&rsquo;</strong></p>
+				<section class="row">
+ 					<div class="span5">
+ 						<div class="flex-video widescreen">
+ 							<iframe width="510" height="287" src="//www.youtube.com/embed/S8tCn6SnMNI" frameborder="0" allowfullscreen seamless></iframe>
+ 							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+ 							<p>&nbsp;</p>
+ 						</div>
+ 					</div>
+				</section>
 			</div>
 
 		</div><!-- /tab-content -->

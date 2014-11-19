@@ -37,15 +37,15 @@ Template Name: Page Concert9 Template
 
 		<b>The concert begins at 7:30 pm on June 3rd in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $30 for adults, $28 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204.783.7377).</b>
 
-		<!-- <div class="media">
-					<a class="pull-left" href="#extras" data-toggle="tab">
-					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Don_Anderson_small.jpg">
-				</a>
-				<div class="media-body">
-					<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Don Anderson&rsquo;s <em>Chamber Chatter</em> article, our <em>Winnipeg Free Press</em> concert review and more!</p>
-					<p class="fineprint">&nbsp;<p>
-				</div>
-				</div> -->
+		<div class="media">
+			<a class="pull-left" href="#extras" data-toggle="tab">
+				<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2012/11/Haley_Portrait_086.png">
+			</a>
+			<div class="media-body">
+				<p><strong><a href="#extras" data-toggle="tab">EXTRAS!</strong></a><br />Check out the 'Extras' tab below for Haley Rempel&rsquo;s &lsquo;Two-minute Talks, &lsquo;The Trouble with Mozart&rsquo; and &lsquo;The Death of Mozart&rsquo;. Haley&rsquo;s videos are available on most concert pages.</p>
+			</div>
+		</div>
+
 	</div><!-- /span7 -->
 
 	<div class="span1"> 
@@ -70,6 +70,7 @@ Template Name: Page Concert9 Template
 			<li class="active"><a href="#repertoire" data-toggle="tab"><strong>Repertoire</strong></a></li>
 			<li><a href="#bios" data-toggle="tab"><strong>Artists</strong></a></li>
 			<li><a href="#notes" data-toggle="tab"><strong>Notes</strong></a></li>
+			<li><a href="#extras" data-toggle="tab"><strong>Extras</strong></a></li>
 		</ul>
 		<div class="tab-content">
 			<div class="tab-pane fade in active" id="repertoire">
@@ -121,6 +122,27 @@ Template Name: Page Concert9 Template
 				<p>Some Mozart scholars praise the piece but feel that it marks a change in character from the &lsquo;golden dozen&rsquo; piano concertos (Nos. 14 to 25) he had composed between 1784 and 1786. Edward Downes, for example, writes, &ldquo;Present-day listeners should avoid the pitfall of measuring the &lsquo;Coronation&rsquo; Concerto by the great piano concertos with the emotional urgency of several earlier items in the canon. Its whole texture can scarcely be called symphonic by mature Mozartean standards. It is much closer to the graceful allure of a divertimento or serenade and if approached with this exception, it proves a most engaging work.&rdquo;</p>
 				<p>Whether or not the concerto was performed in connection with the coronation, the first theme of the opening movement has the grand, imperial character which would have made it entirely appropriate to the occasion. The second subject provides graciously flowing contrast. The &lsquo;working out&rsquo; of these materials may not be the most dramatic or sophisticated of Mozart&rsquo;s career, but the music falls on the ear with unfailing delight.</p>
 				<p>The piano begins the slow movement all by itself, casting a spell of gentle intimacy that endures, virtually unruffled, throughout this exquisite reverie. The soloist also leads off the last movement, one of the more restrained finales of a Mozart piano concerto. This overall sense of decorum still leaves plenty of room for animation and good humour.</p>
+			</div>
+
+			<div class="tab-pane fade" id="extras">
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 31: &lsquo;The Trouble with Mozart&rsquo;</strong></p>
+				<section class="row">
+ 					<div class="span5">
+ 						<div class="flex-video widescreen">
+ 							<iframe width="510" height="287" src="//www.youtube.com/embed/a-zDQvSs9qE" frameborder="0" allowfullscreen seamless></iframe>
+ 						</div>
+ 					</div>
+				</section>
+				<p><strong><a href="http://www.haleyrempel.com/">Haley Rempel</a>, two-minute talk<br />Number 10: &lsquo;The Death of Mozart&rsquo;</strong></p>
+				<section class="row">
+ 					<div class="span5">
+ 						<div class="flex-video widescreen">
+ 							<iframe width="510" height="287" src="//www.youtube.com/embed/2nEZUpaQAS4" frameborder="0" allowfullscreen seamless></iframe>
+ 							<p class="fineprintdark">Praised for her warm tone and expressive playing, Canadian flutist <strong><a href="http://www.haleyrempel.com/">Haley Rempel</a></strong> is gaining reputation for her sophisticated interpretations as well as her unique ability to capture audiences. Haley facilitates the MCO&rsquo;s Pizza Club events.</p>
+ 							<p>&nbsp;</p>
+ 						</div>
+ 					</div>
+				</section>
 			</div>
 
 		</div><!-- /tab-content -->
