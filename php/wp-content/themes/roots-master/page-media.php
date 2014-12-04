@@ -47,17 +47,31 @@ Template Name: Page Media Template
         <div class="well">
           <p><strong>CKUW / Musicnet Radio Winnipeg<br>3 December 2014 broadcast</strong></p>
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141203.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
+        </div>
+        <div class="well">
           <p><strong>CKUW / Musicnet Radio Winnipeg<br>26 November 2014 broadcast</strong></p>
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141126.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?><p><strong>CKUW / Musicnet Radio Winnipeg<br>19 November 2014 broadcast</strong></p>
+        </div>
+        <div class="well">
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141119.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
+        </div>
+        <div class="well">
           <p><strong>CKUW / Musicnet Radio Winnipeg<br>12 November 2014 broadcast</strong></p>
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141112.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
+        </div>
+        <div class="well">
           <p><strong>CKUW / Musicnet Radio Winnipeg<br>5 November 2014 broadcast</strong></p>
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141105.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
+        </div>
+        <div class="well">  
           <p><strong>CKUW / Musicnet Radio Winnipeg<br>29 October 2014 broadcast</strong></p>
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141029.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
+        </div>
+        <div class="well">
           <p><strong>CKUW / Musicnet Radio Winnipeg<br>22 October 2014 broadcast</strong></p>
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141022.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
+        </div>
+        <div class="well">
           <p><strong>CKUW / Musicnet Radio Winnipeg<br>15 October 2014 broadcast</strong></p>
           <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141015.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
         </div>
