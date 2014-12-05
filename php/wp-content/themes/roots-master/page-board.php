@@ -71,6 +71,13 @@ Template Name: Page Board Template
 				<dt>Stage Manager</dt>
 				<dd>David MacKenzie</dd>
 			</dl>
+
+			<p><b>CKUW / Musicnet Radio Winnipeg, recent broadcasts</b><br><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/64/20141203.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;3 December 2014 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/24/20141203.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;26 November 2014 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/64/20141119.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;19 November 2014 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/64/20141112.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;12 November 2014 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/64/20141029.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;5 November 2014 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/64/20141029.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;29 October 2014 show</p>
 		</div>
 	</div>
 

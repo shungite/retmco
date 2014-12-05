@@ -44,36 +44,19 @@ Template Name: Page Media Template
         </div><!-- /well -->
       </div>
       <div class="tab-pane fade" id="audio">
-        <div class="well">
-          <p><strong>CKUW / Musicnet Radio Winnipeg<br>3 December 2014 broadcast</strong></p>
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141203.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
-        </div>
-        <div class="well">
-          <p><strong>CKUW / Musicnet Radio Winnipeg<br>26 November 2014 broadcast</strong></p>
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141126.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?><p><strong>CKUW / Musicnet Radio Winnipeg<br>19 November 2014 broadcast</strong></p>
-        </div>
-        <div class="well">
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141119.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
-        </div>
-        <div class="well">
-          <p><strong>CKUW / Musicnet Radio Winnipeg<br>12 November 2014 broadcast</strong></p>
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141112.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
-        </div>
-        <div class="well">
-          <p><strong>CKUW / Musicnet Radio Winnipeg<br>5 November 2014 broadcast</strong></p>
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141105.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
-        </div>
-        <div class="well">  
-          <p><strong>CKUW / Musicnet Radio Winnipeg<br>29 October 2014 broadcast</strong></p>
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141029.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
-        </div>
-        <div class="well">
-          <p><strong>CKUW / Musicnet Radio Winnipeg<br>22 October 2014 broadcast</strong></p>
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141022.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
-        </div>
-        <div class="well">
-          <p><strong>CKUW / Musicnet Radio Winnipeg<br>15 October 2014 broadcast</strong></p>
-          <?php echo do_shortcode('[wp-stream-player url="http://station.ckuw.ca/64/20141015.14.00-16.00.mp3" type="mp3" autoplay="no" ]'); ?>
+        <div class="well-white">
+          <p><a href="https://ckuw.ca/"><img src="http://www.themco.ca/wp-content/uploads/2014/12/CKUW-round-logo-2014-150.png"></a>
+          <p><b>Don Anderson</b> is your host for <a href="https://ckuw.ca/programs/detail/classical-kaleidoscope"><b>Musicnet Radio Winnipeg</b></a> on <a href="http://ckuw.ca"><b>CKUW 95.9 FM</b></a>, a weekly program suported by the member groups of Winnipeg&rsquo;s <a href="http://musicnet.mb.ca"><b>Musicnet</b></a> consortium. Don backs up the music with plenty of information and anecdotes, with a focus on Winnipeg’s rich array of live concerts. <b>Tune in for ticket giveaways, visits from special guests &amp; much more! Wednesdays from 2:00 to 4:00 pm.</b> Listen to these recent broadcasts...</p>
+
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141203.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;3 December 2014 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141126.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;26 November 2014</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141119.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;19 November 2014</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141112.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;12 November 2014</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141105.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;5 November 2014</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141029.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;29 October 2014</p>
+
+          <p><small><i>Please note: programs may take a few moments to begin playing.</i></small></p>
+          
         </div>
       </div>
       <div class="tab-pane fade" id="photo">
