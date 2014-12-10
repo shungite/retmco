@@ -44,6 +44,7 @@ Template Name: Page Media Template
         </div><!-- /well -->
       </div>
       <div class="tab-pane fade" id="audio">
+
         <div class="well-white">
           <p><a href="https://ckuw.ca/"><img src="http://www.themco.ca/wp-content/uploads/2014/12/CKUW-round-logo-2014-150.png"></a>
           <p><a href="http://www.donanderson.ca/"><b>Don Anderson</b></a> is your host for <a href="https://ckuw.ca/programs/detail/classical-kaleidoscope"><b>Musicnet Radio Winnipeg</b></a> on <a href="http://ckuw.ca"><b>CKUW 95.9 FM</b></a>, a weekly program suported by the member groups of Winnipeg&rsquo;s <a href="http://musicnet.mb.ca"><b>Musicnet</b></a> consortium. Don backs up the music with plenty of information and anecdotes, with a focus on Winnipeg’s rich array of live concerts. <b>Tune in for ticket giveaways, visits from special guests &amp; much more! Wednesdays from 2:00 to 4:00 pm.</b> Listen to these recent broadcasts...</p>
@@ -58,6 +59,16 @@ Template Name: Page Media Template
           <p><small><i>Please note: programs may take a few moments to begin playing.<br>These links stream the show at 128 kbps.</i></small></p>
           
         </div>
+
+        <div class="well-white">
+          <p><?php echo do_shortcode('[soundcloud url="https://api.soundcloud.com/tracks/119047011" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=false" width="100%" height="120" iframe="true" /]'); ?>
+          </p>
+        </div>
+        <div class="well-white">
+          <p><?php echo do_shortcode('[soundcloud url="https://api.soundcloud.com/tracks/119047551" params="auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=false" width="100%" height="120" iframe="true" /]'); ?>
+          </p>
+        </div>
+
       </div>
       <div class="tab-pane fade" id="photo">
         <div class="well">
