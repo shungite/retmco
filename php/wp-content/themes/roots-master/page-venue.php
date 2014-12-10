@@ -28,8 +28,6 @@ Template Name: Page Venue Template
 				<dd><a href="http://winnipegtransit.com/en/routes/20"><b>Route 20</b></a></dd>
 				<dt>Logan and Sherbrook to Pembina in Ft. Garry</dt>
 				<dd><a href="http://winnipegtransit.com/en/routes/29"><b>Route 29</b></a></dd>
-				<dt>The Northwest Super Express</dt>
-				<dd><a href="http://winnipegtransit.com/en/routes/36"><b>Route 36</b></a></dd>
 			</dl>
 			<p>If none of these routes are suitable, please consult the <a href="http://winnipegtransit.com/en/routes"><b>Winnipeg Transit route map</b></a> for more information, or use their <a href="http://winnipegtransit.com/en/navigo"><b>Navigo trip planner</b></a>. Further help is available by calling <b>311</b>.</p>
 			<p>All regular season Manitoba Chamber Orchestra concerts begin at 7:30 pm, and the doors open at 6:30 pm.</p>
