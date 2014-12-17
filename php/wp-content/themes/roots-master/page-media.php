@@ -55,8 +55,7 @@ Template Name: Page Media Template
           <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141119.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;19 November 2014</p>
           <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141112.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;12 November 2014</p>
           <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141105.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;5 November 2014</p>
-          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141029.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;29 October 2014</p>
-
+          
           <p><small><i>Please note: programs may take a few moments to begin playing.<br>These links stream the show at 128 kbps.</i></small></p>
           
         </div>
