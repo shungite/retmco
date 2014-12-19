@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: youtube, channel, playlist, single, widget, widgets, youtube player, flash player, rss, feed, video, thumbnail, embed, sidebar, chromeless, iframe, html5, responsive
 Requires at least: 3.9.0
 Tested up to: 4.1
-Stable tag: 2.4.1
+Stable tag: 2.4.1.3
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -41,7 +41,7 @@ You can use `style.css` from theme to style `YouTube Video` widget content.
 * `.ytc_video_1`, `.ytc_video_2`, ... - class of container for single item with ordering number of item in widget
 * `.ytc_video_first` - class of first container for single item
 * `.ytc_video_last` - class of last container for single item
-* `.ytc_video_mid` - class of all other containers for single item 
+* `.ytc_video_mid` - class of all other containers for single item
 * `.ytc_description` - class for video description text
 * `.ytc_link` - class of container for link to channel
 
@@ -52,6 +52,7 @@ You can use `style.css` from theme to style `YouTube Video` widget content.
 * Removing YouTube logo from playback control bar does not work for all videos
 * Async HTML5 video does not work for 2nd same video on same page (two YTC blocks set to Async HTML5)
 * Chromeless video could not be used as responsive player
+* Thumbnail and opening video in lightbox does not work with `Responz` theme by `Thenify.me` if you wish to hide related videos, because this theme uses original `Magnific Popup` library that does not support `rel` parameter.
 
 If WordFence or other malware scan tool detect YouTube Channel fule youtube-channel.php as potential risk because `base64_encode()` and `base64_decode()` functions, remember that we use this two functions to store and restore JSON feeds to transient cache, so potential detection is false positive.
 
@@ -94,6 +95,10 @@ Playlist ID can be manualy extracted from YouTube playlist URL. Part of strings 
 
 Since version 1.3.1 you can also paste full YouTube playlist URL and ID will be automaticaly extracted.
 
+= How to fix error `Invalid value for parameter: username` =
+
+Double check YouTube Channel ID which you set in widget/settings. Channel ID (username) should not contain spaces.
+
 = How to force embeding 320p video with better audio quality? =
 
 YouTube provide 320p videos if height of embeded video is set to 320 or more. If you use small YTC video size, 240p will be loaded instead. So, you could not force 720p in tiny YTC.
@@ -117,11 +122,22 @@ If you does not see your latest video in your uplaods feed (which you can access
 
 = I enabled option `Hide YT Logo` but YouTube logo is still visible =
 
-Modestbranding option does not work for all videos, so a lot of videos will still have YouTube logo in control bar. I recommend to enable option `Hide player controls` instead. 
+Modestbranding option does not work for all videos, so a lot of videos will still have YouTube logo in control bar. I recommend to enable option `Hide player controls` instead.
 
 Also, even when hidding logo works for your video, on hover or when video is paused in upper right corner will be displayed YouTube link/logo. [Read more here](https://developers.google.com/youtube/player_parameters#modestbranding)
 
 == Changelog ==
+
+= 2.4.1.3 (2014-12-10) =
+* Fix: previous release broke opening lightbox for thumbnails and load YouTube website.
+
+= 2.4.1.2 (2014-12-07) =
+* Add: Add support for hidden controls and YouTube logo in Thumbnail mode.
+* Change: Rename Magnific Popup function to prevent clash with original Modest Branding that does not have support for disabling related videos, player controls and YouTube logo.
+
+= 2.4.1.1 (2014-12-07) =
+* Change: Remove parameter `&rel=1` from thumbnail link because that is a default value and can prevent some lightboxes to load video.
+
 = 2.4.1 (2014-11-15) =
 * Fix: Typo in widget `Do not chache` [2014-10-03]
 * Fix: do not show global settings notice with link to settings page if not Redux Framerowk is active [2014-11-15]
@@ -131,6 +147,7 @@ Also, even when hidding logo works for your video, on hover or when video is pau
 * Change: Move debug log from widget to downloadable dynamic JSON [2014-11-15]
 * Add: ModestBranding (remove YouTube logo from player control bar) [2014-10-03]
 * Add: Responsive (make video optionally responsive) [2014-10-04]
+* Add: Support for WordPress 4.1 [2014-11-15]
 
 = 2.4.0.2 (2014-10-02) =
 * Fix: light theme not applicable to embedded playlist [2014-10-01]
@@ -158,7 +175,7 @@ Also, even when hidding logo works for your video, on hover or when video is pau
 
 = 2.2.3 (2014-09-14) =
 * Add: option to disable related videos (not supported by chromeless player)
-* Enhance: added support for YouTube `rel` parameter in Magnific PopUp IFRAME module 
+* Enhance: added support for YouTube `rel` parameter in Magnific PopUp IFRAME module
 * Minified assets
 * Add plugin icon for WordPress 4.x plugin installer
 * Update plugin banner
