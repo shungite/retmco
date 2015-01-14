@@ -2,7 +2,7 @@
 /*
 Plugin Name: Rotating Tweets (Twitter widget & shortcode)
 Description: Replaces a shortcode such as [rotatingtweets screen_name='your_twitter_name'], or a widget, with a rotating tweets display 
-Version: 1.7.5
+Version: 1.7.8
 Text Domain: rotatingtweets
 Author: Martin Tod
 Author URI: http://www.martintod.org.uk
@@ -79,7 +79,7 @@ class rotatingtweets_Widget extends WP_Widget {
 		}
 		if(empty($newargs['timeout'])) $newargs['timeout'] = 4000;
 		$newargs['text_cache_id'] = "rt-wg-".md5(serialize($newargs));
-		$rt_tweet_string = get_transient($newargs['text_cache_id']);
+		$rt_tweet_string = rotatingtweets_get_transient($newargs['text_cache_id']);
 		echo $before_widget;
 		if ( $title ):
 				echo $before_title . $title . $after_title; 
@@ -425,6 +425,29 @@ function rotatingtweets_user_intent($person,$lang,$linkcontent,$targetvalue='') 
 	}
 	return ($return);
 }
+// Many thanks to Moondrop for highlighting the need to do this - https://wordpress.org/support/topic/no-tweets-available-mostly?replies=30
+function rotatingtweets_set_transient($transient,$value,$expiration) {
+	$newvalue = base64_encode(serialize($value));
+	return set_transient($transient,$newvalue,$expiration);
+}
+function rotatingtweets_get_transient($transient) {
+	$return = get_transient($transient);
+	if(!$return):
+		return $return;
+	else:
+		if (is_string($return)):
+			$data = base64_decode($return);
+			if (is_serialized($data)):
+				return @unserialize($data);
+			else:
+				return $return;
+			endif;
+		else:
+			return $return;
+		endif;
+	endif;
+}
+
 // Produces a linked timestamp for including in the tweet
 function rotatingtweets_timestamp_link($twitter_object,$timetype = 'default',$targetvalue='') {
 	$string = '<a '.$targetvalue.' href="https://twitter.com/twitterapi/status/'.$twitter_object['id_str'].'">';
@@ -529,7 +552,7 @@ function rotatingtweets_display_shortcode( $atts, $content=null, $code="", $prin
 	if(empty($screen_name)) $screen_name = 'twitter';
 	# Makes sure the scripts are listed
 	rotatingtweets_enqueue_scripts(); 
-	$returnstring = get_transient($args['text_cache_id']);
+	$returnstring = rotatingtweets_get_transient($args['text_cache_id']);
 	if(strlen($returnstring)==0):
 		$tweets = rotatingtweets_get_tweets($screen_name,$include_rts,$exclude_replies,$get_favorites,$search,$list);
 		$returnstring = rotating_tweets_display($tweets,$args,$print);
@@ -804,8 +827,8 @@ function rotatingtweets_api_validate($input) {
 	// Now a proper test
 	if(empty($error)):
 		$transientname = 'rotatingtweets_check_wp_remote_request'; // This whole code is to help someone who has a problem with wp_remote_request
-		if(!get_transient($transientname)):
-			set_transient($transientname,true,24*60*60);
+		if(!rotatingtweets_get_transient($transientname)):
+			rotatingtweets_set_transient($transientname,true,24*60*60);
 			$test = rotatingtweets_call_twitter_API('statuses/user_timeline',NULL,$options);
 			delete_transient($transientname);
 			$error = get_option('rotatingtweets_api_error');
@@ -1002,11 +1025,11 @@ function rotatingtweets_get_tweets($tw_screen_name,$tw_include_rts,$tw_exclude_r
 //	$option = delete_option($optionname);
 	$transientname = substr('rtc-'.sanitize_file_name($stringname),0,45);
 //	$transientname = str_replace(array('#','_'),'-',$transientname);
-	$option = get_transient($transientname);
+	$option = rotatingtweets_get_transient($transientname);
 
 	if(WP_DEBUG && !$option):
 		echo "<!-- Option failed to load -->";
-//		echo "<!-- Option \n";print_r($option);echo " -->";
+		echo "<!-- Option \n";print_r($option);echo " -->";
 	endif;
 
 	# Attempt to deal with 'Cannot use string offset as an array' error
@@ -1063,7 +1086,7 @@ function rotatingtweets_get_tweets($tw_screen_name,$tw_include_rts,$tw_exclude_r
 				echo "<!-- Rotating Tweets - got new data - time taken: $rt_time_taken seconds -->";
 			endif;
 		else:
-			set_transient('rotatingtweets_wp_error',$twitterdata->get_error_messages(), 120);
+			rotatingtweets_set_transient('rotatingtweets_wp_error',$twitterdata->get_error_messages(), 120);
 		endif;
 	elseif(WP_DEBUG):
 		$rt_time_taken = number_format(microtime(true)-$rt_starttime,4);
@@ -1077,14 +1100,14 @@ function rotatingtweets_get_tweets($tw_screen_name,$tw_include_rts,$tw_exclude_r
 			$rate = rotatingtweets_get_rate_data();
 			if($rate && $rate['remaining_hits'] == 0):
 				$option[$stringname]['datetime']= $rate['reset_time_in_seconds'] - $cache_delay + 1;
-				set_transient($transientname,$option,60*60*24*7);
+				rotatingtweets_set_transient($transientname,$option,60*60*24*7);
 			else:
 				$option[$stringname]['datetime']=time();
-				set_transient($transientname,$option,60*60*24*7);
+				rotatingtweets_set_transient($transientname,$option,60*60*24*7);
 			endif;
 		else:
 			$option[$stringname]['datetime']=time();
-			set_transient($transientname,$option,60*60*24*7);
+			rotatingtweets_set_transient($transientname,$option,60*60*24*7);
 		endif;
 	elseif(!empty($twitterjson['error'])):
 		# If Twitter is being rate limited, delays the next load until the reset time
@@ -1092,7 +1115,7 @@ function rotatingtweets_get_tweets($tw_screen_name,$tw_include_rts,$tw_exclude_r
 		$rate = rotatingtweets_get_rate_data();
 		if($rate && $rate['remaining_hits'] == 0):
 			$option[$stringname]['datetime']= $rate['reset_time_in_seconds'] - $cache_delay + 1;
-			set_transient($transientname,$option,60*60*24*7);
+			rotatingtweets_set_transient($transientname,$option,60*60*24*7);
 		endif;
 	elseif(!empty($twitterjson)):
 		unset($firstentry);
@@ -1112,7 +1135,7 @@ function rotatingtweets_get_tweets($tw_screen_name,$tw_include_rts,$tw_exclude_r
 			$latest_json = rotatingtweets_shrink_json($twitterjson);
 			$option[$stringname]['json']=$latest_json;
 			$option[$stringname]['datetime']=time();
-			$rtcacheresult = set_transient($transientname,$option,60*60*24*7);
+			$rtcacheresult = rotatingtweets_set_transient($transientname,$option,60*60*24*7);
 			if($rtcacheresult && WP_DEBUG):
 				echo "<!-- Successfully stored cache entry for $stringname in $transientname -->";
 			elseif(WP_DEBUG):
@@ -1219,7 +1242,7 @@ function rotatingtweets_get_rate_data() {
 			return($rate);
 		endif;
 	else:
-		set_transient('rotatingtweets_wp_error',$ratedata->get_error_messages(), 120);
+		rotatingtweets_set_transient('rotatingtweets_wp_error',$ratedata->get_error_messages(), 120);
 		return(FALSE);
 	endif;
 }
@@ -1911,9 +1934,9 @@ function rotating_tweets_display($json,$args,$print=FALSE) {
 			$rt_cached_args['no_cache']=TRUE;
 			$rt_w3tc_cache_lifetime = $w3config->get_integer('pgcache.lifetime');
 			$rt_cached_args['text_cache_id'] = "rt-mf-".substr($args['text_cache_id'],6,1000);
-			set_transient($rt_transient_name,$rt_cached_args, $rt_w3tc_cache_lifetime * 2 );
-			set_transient($rt_cached_args['text_cache_id'],$result,$rt_cache_delay);	
-			$result = '<!-- mfunc '.W3TC_DYNAMIC_SECURITY.' $rt=get_transient("'.$rt_cached_args['text_cache_id'].'");if(!empty($rt)){echo $rt;}else{$args=get_transient("'.$rt_transient_name.'");rotatingtweets_display($args);}; --><!-- /mfunc '.W3TC_DYNAMIC_SECURITY.' -->';	
+			rotatingtweets_set_transient($rt_transient_name,$rt_cached_args, $rt_w3tc_cache_lifetime * 2 );
+			rotatingtweets_set_transient($rt_cached_args['text_cache_id'],$result,$rt_cache_delay);	
+			$result = '<!-- mfunc '.W3TC_DYNAMIC_SECURITY.' $rt=rotatingtweets_get_transient("'.$rt_cached_args['text_cache_id'].'");if(!empty($rt)){echo $rt;}else{$args=rotatingtweets_get_transient("'.$rt_transient_name.'");rotatingtweets_display($args);}; --><!-- /mfunc '.W3TC_DYNAMIC_SECURITY.' -->';	
 			if(WP_DEBUG || $w3_debug ):
 				$result .= "<!-- Rotating Tweets W3TC Fragment Caching: Success ! -->";
 			endif;
@@ -1940,7 +1963,8 @@ function rotating_tweets_display($json,$args,$print=FALSE) {
 			$result .= "<!-- Rotating Tweets W3TC Fragment Caching: End Diagnostics -->";
 		endif;
 	endif;
-	$rt_set_transient = set_transient($args['text_cache_id'],$result,$rt_cache_delay);	
+
+	$rt_set_transient = rotatingtweets_set_transient($args['text_cache_id'],$result,$rt_cache_delay);	
 	if(WP_DEBUG):
 		if($rt_set_transient):
 			echo "<!-- Transient ".$args['text_cache_id']." stored for $rt_cache_delay seconds -->";
@@ -1948,6 +1972,7 @@ function rotating_tweets_display($json,$args,$print=FALSE) {
 			echo "<!-- Transient ".$args['text_cache_id']." FAILED to store for $rt_cache_delay seconds -->";
 		endif;
 	endif;
+
 	if($print) echo $result;
 	return($result);
 }
@@ -2025,6 +2050,15 @@ function rotatingtweets_enqueue_scripts() {
 				'jquery-cycle2' => plugins_url('cyclone-slider-2/libs/cycle2/jquery.cycle2.min.js'),
 				'jquery-cycle2-carousel' => plugins_url('cyclone-slider-2/libs/cycle2/jquery.cycle2.carousel.min.js'),
 				'jquery-cycle2-scrollvert' => plugins_url('cyclone-slider-2/libs/cycle2/jquery.cycle2.scrollVert.min.js'),
+				'rotating_tweet' => plugins_url('js/rotatingtweets_v2_cyclone.js', __FILE__)
+			);
+		elseif (is_plugin_active('cyclone-slider-pro/cyclone-slider.php')):
+			$cyclepath = str_replace('rotatingtweets/','cyclone-slider-pro/cyclone-slider.php',plugin_dir_path( __FILE__ ));
+			$rt_cycleversion = get_plugin_data( $cyclepath );
+			$rt_enqueue_script_list = array(
+				'jquery-cycle2' => plugins_url('cyclone-slider-pro/libs/cycle2/jquery.cycle2.min.js'),
+				'jquery-cycle2-carousel' => plugins_url('cyclone-slider-pro/libs/cycle2/jquery.cycle2.carousel.min.js'),
+				'jquery-cycle2-scrollvert' => plugins_url('cyclone-slider-pro/libs/cycle2/jquery.cycle2.scrollVert.min.js'),
 				'rotating_tweet' => plugins_url('js/rotatingtweets_v2_cyclone.js', __FILE__)
 			);
 		elseif ( $style == 'digital catapult' || $style == 'digitalcatapult' ):
