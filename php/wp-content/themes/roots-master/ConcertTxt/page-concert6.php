@@ -27,7 +27,6 @@ Template Name: Page Concert6 Template
 		<p>Also, at this concert Anne Manson presents the first of two works by Leo&#353; Jan&aacute;&#269;ek.</p>
 		<p><b>Programming change</b></p>
 		<p>The originally-programmed performance and debut of Manitoba composer Heidi Ouellette&rsquo;s <i>Life on Mars</i> has been postponed. In its place, we will present <i>Divertissement</i>, for string quartet and string orchestra, by Canadian composer Pierre Mercure. MCO has performed this work on two occasions, but not since 1988!</p>
-		<p>The composer writes that <i>Life on Mars</i> is a &ldquo;diptych of sorts ... the overall sound world is one of minimalism, restraint and elegance &mdash; capturing a world of beautiful, frozen isolation.”</p>
 		<div>
 			<p>
   			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="At 7:30 pm on Monday, March 16th, enjoy a talk with conductor Anne Manson on the music of Leo&#353; Jan&aacute;&#269;ek; McNally Robinson, Grant Park Shopping Centre.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by cello students of Desiree Abbey; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Rempel. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations.">Pizza Club</button>
@@ -78,8 +77,8 @@ Template Name: Page Concert6 Template
 				<p><strong>Ernest Bloch</strong><br><em>From Jewish Life</em>: <em>Prayer</em></p>
 				<p><b>Leo&#353; Jan&aacute;&#269;ek</b><br>String Quartet No. 1 (arranged for strings)<br>&mdash; &lsquo;Kreutzer Sonata&rsquo;</p>
 				<p><b>Pierre Mercure</b><br><i>Divertissement</i>, for string quartet and string orchestra</p>
-				<p><b>Joseph Haydn</b><br>Cello Concerto No. 2, in D Major (Hob. VIIb:2)</p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
+        <p><b>Joseph Haydn</b><br>Cello Concerto No. 2, in D Major (Hob. VIIb:2)</p>
+        <p> Guest artist sponsor / <a href="http://stellas.ca/"><b>Stella&rsquo;s Caf&eacute; and Bakery</b></a><br>Concertmaster sponsor / <b>Elaine and Neil Margolis</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 			</div>
 		  <div class="tab-pane fade" id="bios">
 		  	<p><b>Ariel Barnes</b></p>
