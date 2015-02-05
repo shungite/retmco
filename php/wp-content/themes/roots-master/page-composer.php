@@ -32,7 +32,7 @@ Template Name: Page Composer Template
 
           <p>Write a 16-measure piece in the C, F, or G pentatonic scale, in 2, 3, or 4/4 time. Start with a melody line, and add texture and harmony, too! Try to incorporate some rhythmic variety, some musical expression, and have the melody begin and end on the home tone. Please email the score, with the name of composer, name of school and grade level to the info@themco.ca, with the following subject: <b>MCO / TD Young Composer Program Challenge</b>.</p>
 
-        <p><a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><img src="http://www.themco.ca/wp-content/uploads/2015/02/TD-Shield_col_ns_EN_Rev_Tight.png" width="112" height="110"></p>
+        <p><a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><img src="http://www.themco.ca/wp-content/uploads/2015/02/TD-Shield_col_ns_EN_Rev_Tight.png" width="112" height="110"></a></p>
 
         </div><!-- /well -->
 
