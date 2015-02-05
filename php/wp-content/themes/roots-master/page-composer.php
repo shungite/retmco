@@ -38,7 +38,7 @@ Template Name: Page Composer Template
 
         <p>In the links below, you will find three staves: one treble, one bass, and one treble and bass. Download these now, and let the composing begin!</p>
 
-        <p><a href="http://www.themco.ca/wp-content/uploads/2015/02/Stave-treble.pdf"><img src="http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png"></a><br>Treble stave<br><a href="http://www.themco.ca/wp-content/uploads/2015/02/Bass.pdf"><img src=""http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png></a><br>Bass stave<br><a href="http://www.themco.ca/wp-content/uploads/2015/02/keyboard.pdf"><img src="http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png"></a><br>Treble and bass</p>
+        <p><a href="http://www.themco.ca/wp-content/uploads/2015/02/Stave-treble.pdf"><img src="http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png"></a><br>Treble stave<br><a href="http://www.themco.ca/wp-content/uploads/2015/02/Bass.pdf"><img src="http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png"></a><br>Bass stave<br><a href="http://www.themco.ca/wp-content/uploads/2015/02/keyboard.pdf"><img src="http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png"></a><br>Treble and bass</p>
 
         <p><a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><img src="http://www.themco.ca/wp-content/uploads/2015/02/TD-Shield_col_ns_EN_Rev_Tight.png" width="112" height="110"></p>
 
