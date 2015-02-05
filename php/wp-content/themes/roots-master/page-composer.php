@@ -34,8 +34,13 @@ Template Name: Page Composer Template
 
         </div><!-- /well -->
 
-        <p><a
-        href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><img src="http://www.themco.ca/wp-content/uploads/2015/02/TD-Shield_col_ns_EN_Rev_Tight.png" width="112" height="110"></p>
+        <p>Deadline for submission of compositions is April 30. Some written copies and recordings will be posted on our website in early June, and some works may be selected for performance or playing at our June 3 concert after intermission and at Frontier and Winnipeg area schools this spring. Additionally, a few students will be interviewed and featured on our website.</p>
+
+        <p>In the links below, you will find three staves: one treble, one bass, and one treble and bass. Download these now, and let the composing begin!</p>
+
+        <p><a href="http://www.themco.ca/wp-content/uploads/2015/02/Stave-treble.pdf"><img src="http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png"></a><br>Treble stave<br><a href="http://www.themco.ca/wp-content/uploads/2015/02/Bass.pdf"><img src=""http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png></a><br>Bass stave<br><a href="http://www.themco.ca/wp-content/uploads/2015/02/keyboard.pdf"><img src="http://www.themco.ca/wp-content/uploads/2015/02/Adobe_PDF_icon_128.png"></a><br>Treble and bass</p>
+
+        <p><a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><img src="http://www.themco.ca/wp-content/uploads/2015/02/TD-Shield_col_ns_EN_Rev_Tight.png" width="112" height="110"></p>
 
     </div><!-- /span7 -->
 
