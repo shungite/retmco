@@ -37,14 +37,14 @@ Template Name: Page Composer Template
 
         <p><b>Support materials</b> / Download these staves and compose your masterpiece!</p>
         
-        <p><span class="badge">1</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/Stave-treble.pdf"><b>Treble stave</b></a></p>
-        <p><span class="badge">2</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/Bass.pdf"><b>Bass stave</b></a></p>
-        <p><span class="badge">3</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/keyboard.pdf"><b>Treble &amp; bass stave</b></a></p>
+        <p><span class="badge">1</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/Stave-treble.pdf"><b>&nbsp;Treble stave</b></a></p>
+        <p><span class="badge">2</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/Bass.pdf"><b>&nbsp;Bass stave</b></a></p>
+        <p><span class="badge">3</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/keyboard.pdf"><b>&nbsp;Treble &amp; bass stave</b></a></p>
 
         </div><!-- /well -->
 
         <p>MCO&rsquo;s <b>TD Young Composer Program Challenge</b> is made possible with support from <a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><b>TD</b></a>.</p>
-        
+        <p>&nbsp;</p>
         <p><a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><img src="http://www.themco.ca/wp-content/uploads/2015/02/TD-Shield_col_ns_EN_Rev_Tight.png" width="112" height="110"></a></p>
         <p>&nbsp;</p>
 
