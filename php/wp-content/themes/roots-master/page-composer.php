@@ -35,17 +35,18 @@ Template Name: Page Composer Template
 
           <p>Deadline for submission of compositions is April 30. Some written copies and recordings will be posted on our website in early June, and some works may be selected for performance or playing at our June 3 concert and in Frontier School Division and Winnipeg area schools this spring. Additionally, a few students will be interviewed and featured on our website.</p>
 
-        <p><b>Support materials</b> / Download these staves and use them to compose your masterpiece!</p>
+        <p><b>Support materials</b> / Download these staves and compose your masterpiece!</p>
         
-        <p><span class="badge">1</span> <a href="http://www.themco.ca/wp-content/uploads/2015/02/Stave-treble.pdf"><b>Treble stave</b></a></p>
-        <p><span class="badge">2</span> <a href="http://www.themco.ca/wp-content/uploads/2015/02/Bass.pdf"><b>Bass stave</b></a></p>
-        <p><span class="badge">3</span> <a href="http://www.themco.ca/wp-content/uploads/2015/02/keyboard.pdf"><b>Treble &amp; bass stave</b></a></p>
+        <p><span class="badge">1</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/Stave-treble.pdf"><b>Treble stave</b></a></p>
+        <p><span class="badge">2</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/Bass.pdf"><b>Bass stave</b></a></p>
+        <p><span class="badge">3</span>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2015/02/keyboard.pdf"><b>Treble &amp; bass stave</b></a></p>
 
         </div><!-- /well -->
 
-        <p>The Manitoba Chamber Orchestra&rsquo;s <b>TD Young Composer Program Challenge</b> is made possible with support from <a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><b>TD</b></a>.</p>
+        <p>MCO&rsquo;s <b>TD Young Composer Program Challenge</b> is made possible with support from <a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><b>TD</b></a>.</p>
         
         <p><a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><img src="http://www.themco.ca/wp-content/uploads/2015/02/TD-Shield_col_ns_EN_Rev_Tight.png" width="112" height="110"></a></p>
+        <p>&nbsp;</p>
 
     </div><!-- /span7 -->
 
