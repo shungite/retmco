@@ -6,10 +6,10 @@ Template Name: Page Concert5 Template
 
 <div class="container">
 
-<div class="row">
+  <div class="row">
 
-	<div class="span8">
-		<img src="http://www.themco.ca/wp-content/uploads/2014/06/head18feb15.jpg" width="770" height="455">
+    <div class="span8">
+            <img src="http://www.themco.ca/wp-content/uploads/2014/06/head18feb15.jpg" width="770" height="455">
 	</div>
 	<div class="span2">
 		<p>.</p>
@@ -32,7 +32,7 @@ Template Name: Page Concert5 Template
 
 		<div>
 			<p>
-  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by Suzuki Music Winnipeg; Karen Barg, String Program Coordinator; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Rempel. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations.">Pizza Club</button>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Hear a special presentation by Suzuki Music Winnipeg; Karen Barg, String Program Coordinator; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Rempel. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations.">Pizza Club</button> <a href="http://www.themco.ca/listening-guide/"> <button class="btn btn-small btn-success" type="button">View listening guide</button></a>
 			</p>
 		</div>
 

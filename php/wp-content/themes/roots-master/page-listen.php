@@ -43,8 +43,12 @@ Template Name: Page Listen Template
         <p>
           <b>9-12 Making:</b> The learner develops competencies for listening by listening critically with discrimination and purpose to: 
         </p>
-        <p>&mdash;situate and contextualize music (e.g., cultural/ ideological/historical/social contexts, music style, genre, tradition, or praxis, etc.);<br>&mdash; support enjoyment and understanding of music;<br>&mdash; make and interpret music expressively and creatively;<br>&mdash; inform analysis, interpretation, judgement, appreciation, and evaluation.
-        </p>
+        <ul>
+          <li>situate and contextualize music (e.g., cultural/ ideological/historical/social contexts, music style, genre, tradition, or praxis, etc.)</li>
+          <li>support enjoyment and understanding of music</li>
+          <li>make and interpret music expressively and creatively</li>
+          <li>inform analysis, interpretation, judgement, appreciation, and evaluation</li>
+        </ul>
 
         <p>
           <b>K-8  Understanding Music in Context:</b> Demonstrate awareness of the intended meanings and/or purposes of music encountered in own performance and listening experiences
