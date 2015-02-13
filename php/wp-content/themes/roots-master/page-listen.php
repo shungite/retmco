@@ -135,7 +135,7 @@ Template Name: Page Listen Template
 
       <div class="well">
         <p>
-          For Educators
+          <b>For Educators</b>
         </p>
         <p>
           <b>Reflections and Responses</b> (K-8 Valuing; 9-12 Responding) 
@@ -146,9 +146,12 @@ Template Name: Page Listen Template
         <p>
           The learner develops and uses critical reflection and thinking for music learning:
         </p>
-        <p>
-          &mdash;The learner generates initial reactions to music experiences.<br>&mdash;The learner critically listens to, observes, and describes music experiences.<br>&mdash;The learner analyzes and interprets music experiences.<br>&mdash; The learner constructs meanings about music experiences. 
-        </p>
+        <ul>
+          <li>the learner generates initial reactions to music experiences</li>
+          <li>the learner critically listens to, observes, and describes music experiences</li>
+          <li>the learner analyzes and interprets music experiences</li>
+          <li>the learner constructs meanings about music experiences</li>
+        </ul>
 
         <p>
           <b>
@@ -158,9 +161,12 @@ Template Name: Page Listen Template
         <p>
           Students analyze, reflect on, and construct meaning in response to their own and others&rsquo; music:
         </p>
-        <p>
-          &mdash;Students analyze their own and others&rsquo; musical excerpts, works, and performances.<br>&mdash; Students form personal responses to and construct meaning from their own and others&rsquo; music.
-        </p>
+        <ul>
+          <li>students analyze their own and others</li>
+          <li>musical excerpts, works, and performances</li>
+          <li>students form personal responses to and construct meaning from their own and others&rsquo; music</li>
+        </ul>
+
       </div>
 
       <p>
@@ -281,7 +287,7 @@ Template Name: Page Listen Template
 
       <div class="well">
         <p>
-          For Educators: 
+          <b>For Educators:</b> 
         </p>
         <p>
           <b>Reflections and Responses</b><br>(K-8 Valuing; 9-12 Responding) 
@@ -295,9 +301,12 @@ Template Name: Page Listen Template
         <p>
           The learner develops and uses critical reflection and thinking for music learning:
         </p>
-        <p>
-          &mdash;The learner generates initial reactions to music experiences.<br>&mdash;The learner critically listens to, observes, and describes music experiences.<br>&mdash;The learner analyzes and interprets music experiences.<br>&mdash;The learner constructs meanings about music experiences. 
-        </p>
+        <ul>
+          <li>the learner generates initial reactions to music experiences</li>
+          <li>the learner critically listens to, observes, and describes music experiences</li>
+          <li>the learner analyzes and interprets music experiences</li>
+          <li>the learner constructs meanings about music experiences</li> 
+        </ul>
 
         <p>
           <b>
@@ -307,9 +316,11 @@ Template Name: Page Listen Template
         <p>
           Students analyze, reflect on, and construct meaning in response to their own and others&rsquo; music:
         </p>
-        <p>
-          &mdash;Students analyze their own and others&rsquo; musical excerpts, works, and performances.<br>&mdash; Students form personal responses to and construct meaning from their own and others&rsquo; music.
-        </p>
+        <ul>
+          <li>students analyze their own and others&rsquo; musical excerpts, works, and performances</li>
+          <li>students form personal responses to and construct meaning from their own and others&rsquo; music</li>
+        </ul>
+
       </div>
 
       <p>
