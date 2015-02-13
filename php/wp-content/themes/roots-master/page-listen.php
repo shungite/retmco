@@ -25,7 +25,7 @@ Template Name: Page Listen Template
         &nbsp;
       </p>
 
-      <p>&nbsp;<br><b>Listening Guide for the Beethoven Piano Concerto No. 2 and Mozart Symphony No. 40</b><br>Beryl Peters, Ph.D.</p>
+      <p><b>Listening Guide for the Beethoven Piano Concerto No. 2 and Mozart Symphony No. 40</b><br>Beryl Peters, Ph.D.</p>
 
       <p><b>BEETHOVEN PIANO CONCERTO NO. 2</b><p>
 
