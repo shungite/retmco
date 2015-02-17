@@ -3,3 +3,4 @@
 /php/local-config.php
 /php/wp-content/uploads/*
 /php/wp-content/cache/*
+*.swp
