@@ -145,7 +145,7 @@ Template Name: Page Listen Template
           <b>Reflections and Responses</b> (K-8 Valuing; 9-12 Responding) 
         </p>
         <p>
-          Grades 9-12 Responding
+          <b>Grades 9-12 Responding</b>
         </p>
         <p>
           The learner develops and uses critical reflection and thinking for music learning:
