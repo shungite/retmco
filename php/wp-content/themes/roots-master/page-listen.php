@@ -65,7 +65,11 @@ Template Name: Page Listen Template
 
       <p>Can you hear that it is written in three different sections, or movements? They are called:</p>
 
-      <p>1. Allegro con brio (fast, lively); 2. Adagio (slowly); 3. Rondo Molto Allegro (a music form called a rondo played very fast)</p>
+      <ol>
+        <li>Allegro con brio (fast, lively)</li>
+        <li>Adagio (slowly)</li>
+        <li>Rondo Molto Allegro (a music form called a rondo played very fast)</li>
+      </ol>
 
       <p>Each of the three sections or movements also has a particular form. The first movement Allegro con brio is written in sonata form. Can you hear a main theme introduced by the orchestra at the beginning of the work that Beethoven develops in different ways throughout this movement, and then returns to at the end of the movement? This kind of compositional development is characteristic of sonata form.</p>
 
@@ -221,9 +225,12 @@ Template Name: Page Listen Template
         Can you hear that it is written in four different sections, or movements? These movements use forms typical for a symphony written in this classical time period. They are: 
       </p>
 
-      <p>
-        1. Molto allegro (Very fast and lively); 2. Andante (a slower movement); 3. Menuetto Allegretto ( A minuet dance form); 4. Allegro Finale (a fast, lively finale) 
-      </p>
+      <ol>
+        <li>Molto allegro (Very fast and lively)</li>
+        <li>Andante (a slower movement)</li>
+        <li>Menuetto Allegretto ( A minuet dance form)</li>
+        <li>Allegro Finale (a fast, lively finale)</li>
+      </ol>
 
       <p>
         Each of the four sections or movements also has a particular form. The first, second, and fourth movements are written in sonata form. Can you hear a main theme introduced by the orchestra at the beginning of these movements that Mozart develops in different ways throughout the movement, and then returns to at the end of the movement? This kind of compositional development is characteristic of sonata form.
