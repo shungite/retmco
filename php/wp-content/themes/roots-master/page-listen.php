@@ -31,14 +31,10 @@ Template Name: Page Listen Template
 
       <div class="well">
         <p>
-          <b>
-            For Educators:
-          </b>
+          <b>FOR EDUCATORS</b>
         </p>
         <p>
-          <b>
-            Manitoba Music Curricular Connections
-          </b>
+          <b>Manitoba Music Curricular Connections</b>
         </p>
         <p>
           <b>9-12 Making:</b> The learner develops competencies for listening by listening critically with discrimination and purpose to: 
@@ -138,9 +134,7 @@ Template Name: Page Listen Template
       </p>
 
       <div class="well">
-        <p>
-          <b>For Educators</b>
-        </p>
+        <p><b>FOR EDUCATORS</b></p>
         <p>
           <b>Reflections and Responses</b> (K-8 Valuing; 9-12 Responding) 
         </p>
@@ -294,7 +288,7 @@ Template Name: Page Listen Template
 
       <div class="well">
         <p>
-          <b>For Educators:</b> 
+          <b>FOR EDUCATORS</b> 
         </p>
         <p>
           <b>Reflections and Responses</b><br>(K-8 Valuing; 9-12 Responding) 
