@@ -75,9 +75,9 @@ Template Name: Page Programs Template
 
   <div class="row-fluid">
     <div class="span7">
-      <p class="small"><b>MCO EDUCATION SPONSORS</b></p>
-      <p class="small">The <b>Canada Council for the Arts</b>, the <b>Manitoba Arts Council</b>, the <b>Winnipeg Arts Council</b>, <b>The Winnipeg Foundation</b>, <b>Assiniboine Credit Union</b>, the <b>Children&rsquo;s Heritage Fund</b>, <b>Friends of the Library</b>, <b>The Great-West Life Assurance Company</b>, the <b>Lloyd Carr-Harris Foundation</b>, <b>Manitoba Hydro</b>, <b>Manitoba Public Insurance</b>, <b>MB4Youth</b>, <a href="http://www.mts.ca"><b>MTS</b></a>, <b>Manitoba Teachers&rsquo; Society</b>, the <b>Musicians&rsquo; Performance Trust Fund</b>, <b>OmniTRAX Canada,</b> <b>Province of Manitoba Culture Branch</b>, the <b>Richardson Foundation</b>, the <b>Rita Menzies Endowment Fund for Arts Education</b>, the <b>Rotary Club of Winnipeg West</b>, <b>Sun Life Financial</b>, <b>TD Canada Trust</b>, the <b>Thomas Sill Foundation</b>, <b>Travel Manitoba</b>, <b>VIA Rail Canada</b>, and the <b>Winnipeg Jets True North Foundation</b>.</p>
-      <p>&nbsp;</p>
+      <p class="small"><b>MCO EDUCATION SPONSORS</b></small>
+      <p class="small">The <b>Canada Council for the Arts</b>, the <b>Manitoba Arts Council</b>, the <b>Winnipeg Arts Council</b>, <b>The Winnipeg Foundation</b>, <b>Assiniboine Credit Union</b>, the <b>Children&rsquo;s Heritage Fund</b>, <b>Friends of the Library</b>, <b>The Great-West Life Assurance Company</b>, the <b>Lloyd Carr-Harris Foundation</b>, <b>Manitoba Hydro</b>, <b>Manitoba Public Insurance</b>, <b>MB4Youth</b>, <a href="http://www.mts.ca"><b>MTS</b></a>, <b>Manitoba Teachers&rsquo; Society</b>, the <b>Musicians&rsquo; Performance Trust Fund</b>, <b>OmniTRAX Canada,</b> <b>Province of Manitoba Culture Branch</b>, the <b>Richardson Foundation</b>, the <b>Rita Menzies Endowment Fund for Arts Education</b>, the <b>Rotary Club of Winnipeg West</b>, <b>Sun Life Financial</b>, <b>TD Canada Trust</b>, the <b>Thomas Sill Foundation</b>, <b>Travel Manitoba</b>, <b>VIA Rail Canada</b>, and the <b>Winnipeg Jets True North Foundation</b>.</small>
+      <p class="small">&nbsp;</small>
     </div>
   </div>
 
