@@ -9,7 +9,7 @@ Template Name: Page Listen Template
   <div class="row">
 
     <div class="span8">
-      <img src="http://www.themco.ca/wp-content/uploads/2015/02/Listen18feb15.jpg" alt="" width="770" height="256">
+      <img src="http://www.themco.ca/wp-content/uploads/2015/03/lg18feb15.jpg" alt="" width="770" height="256">
     </div>
     <div class="span2">
       <p>.</p>
