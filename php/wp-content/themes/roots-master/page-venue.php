@@ -20,11 +20,11 @@ Template Name: Page Venue Template
           <p><b>Where and when do Manitoba Chamber Orchestra concerts take place?</b></p>
           <p>While the MCO presents many concerts throughout Manitoba, across Canada and abroad, the Orchestra&rsquo;s usual home is in historic  <a href="http://www.westminsterchurchwinnipeg.ca"><b>Westminster United Church</b></a>, located at 745 Westminster at Maryland in Winnipeg. The venue is accessible via the following bus routes:</p>
             <dl class="dl">
-              <dt>Tach&eacute; Avenue in St. Bon­iface to Wolseley</dt>
+              <dt>Tach&eacute; Avenue in St. Boniface to Wolseley</dt>
               <dd><a href="http://winnipegtransit.com/en/routes/10"><b>Route 10</b></a></dd>
-              <dt>Leila Avenue in West Kil­donan to the Miseri­cor­dia Hospital</dt>
+              <dt>Leila Avenue in West Kildonan to the Miseri­cor­dia Hospital</dt>
               <dd><a href="http://winnipegtransit.com/en/routes/17"><b>Route 17</b></a></dd>
-              <dt>Leighton and Watt in East Kil­donan through River Heights to Polo Park</dt>
+              <dt>Leighton and Watt in East Kildonan through River Heights to Polo Park</dt>
               <dd><a href="http://winnipegtransit.com/en/routes/20"><b>Route 20</b></a></dd>
               <dt>Logan and Sherbrook to Pembina in Ft. Garry</dt>
               <dd><a href="http://winnipegtransit.com/en/routes/29"><b>Route 29</b></a></dd>
