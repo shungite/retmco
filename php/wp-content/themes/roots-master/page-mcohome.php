@@ -35,7 +35,7 @@ Template Name: Page MCOhome Template
       <div class="well-white">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px"></a>
           <div class="media-body">
-            <p><strong><a href="#">MCO Vinyl Vault / St. Patrick&rsquo;s Day<br>Special Three-day Super Sale!</strong></a><br />On Monday, Tuesday and Wednesday (March 16th-18th), browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! From 10:00 am to 2:00 pm daily. MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p> 
+            <p><strong><a href="#">Next MCO Vinyl Vault sale:<br>Saturday, 25 April 2015</strong></a><br />From 10:00 am to 3:00 pm on the last Saturday of each month, browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p> 
           </div>
         </div>
       </div>
