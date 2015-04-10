@@ -9,7 +9,7 @@ Template Name: Page Heartstrings Template
   <div class="row">
 
     <div class="span8">
-      <img src="http://www.themco.ca/wp-content/uploads/2014/06/heartstrings.jpg" alt="" width="770" height="455">
+      <img src="http://www.themco.ca/wp-content/uploads/2015/04/heartstrings2.jpg" alt="" width="770" height="455">
     </div><!-- /span8 -->
 
     <div class="span2">
