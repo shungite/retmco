@@ -23,7 +23,7 @@ Template Name: Page MCOhome Template
       <div class="well">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2015/04/hs.png" width="96px" height="96px">
           <div class="media-body">
-            <p><strong><a href="http://www.themco.ca/heartstrings/">Coming May 8th: Heartrings<br>&mdash; the MCO&rsquo;s sumptuous gala dinner!</strong></a><br>Winnipeg&rsquo;s heavenly fundraiser takes place in the opulent 7th-floor ballrooms at The Fort Garry Hotel, and this year, we go Argentine! Special guests include Jaime Vargas and Vanessa Lawson. Sponsored by <a href="http://advisors.nbfwm.ca/en/teams/christianson-wealth-advisors"><b>Christianson Wealth Advisors, National Bank Financial</b></a>.</p> 
+            <p><strong><a href="http://www.themco.ca/heartstrings/">Coming May 8th: Heartrings,<br>the MCO&rsquo;s sumptuous gala dinner!</strong></a><br>Winnipeg&rsquo;s heavenly fundraiser takes place in the opulent 7th-floor ballrooms at The Fort Garry Hotel, and this year, we go Argentine! Special guests include Jaime Vargas and Vanessa Lawson. Sponsored by <a href="http://advisors.nbfwm.ca/en/teams/christianson-wealth-advisors"><b>Christianson Wealth Advisors, National Bank Financial</b></a>.</p> 
           </div>
         </div>
       </div>
