@@ -80,7 +80,7 @@ Template Name: Page Concert7 Template
 				<p><b>Eug&egrave;ne Ysa&#255;e</b><br>Sonata No. 6, in E Major, for solo violin</p>
 				<p><b>Ludwig van Beethoven</b><br>Wind Octet in E Flat Major, Op. 103</p>
 				<p><b>Antonin Dvo&#345;&aacute;k</b><br>String Sextet in A major, Op. 48 (B 80)<br>for two violins, two violas and two cellos</p>
-				<p>Concert sponsors / <b>Angela &amp; Robert Ross</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
+				<p>Concert sponsors / <b>Dr. Robert &amp; Angela B. Ross</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <strong><a href="http://music.cbc.ca/#/radio2/">CBC Radio 2 98.3</a></strong>, <strong><a href="http://www.cbc.ca/programguide/daily/today/cbc_radio_one">CBC Radio One 990</a></strong>,<br /><strong><a href="http://www.espace.mu/Espace-Musique/">Espace musique 89,9</a></strong>, <b><a href="http://www.classic107.com/">Classic 107.1 FM</a></b> and <strong><a href="http://www.goldenwestradio.com/">Golden West Radio</a></strong>
 			</div>
 			<div class="tab-pane fade" id="notes">
 				<p><b>Opera Overtures, arranged for wind octet<br>Wolfgang Amadeus Mozart</b></p>
