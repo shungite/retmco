@@ -21,7 +21,7 @@ Template Name: Page LG1415-06 Template
 
     <div class="span7">
 
-      <p>&nbsp;<br><b>Listening Guide for Bloch, From Jewish Life: Prayer; Janacek String Quartet No. 1; Haydn Cello Concerto in D Major, Op. 101</b><br>Beryl Peters, Ph.D.</p>
+      <p>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
 
       <p><b>ERNEST BLOCH: FROM JEWISH LIFE: PRAYER</b></p>
 

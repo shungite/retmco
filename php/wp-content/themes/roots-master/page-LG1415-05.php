@@ -21,9 +21,11 @@ Template Name: Page LG1415-05 Template
 
     <div class="span7">
 
-      <p>&nbsp;<br><b>Listening Guide for the Beethoven Piano Concerto No. 2 and Mozart Symphony No. 40</b><br>Beryl Peters, Ph.D.</p>
+      <p>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
 
-      <p><b>BEETHOVEN PIANO CONCERTO NO. 2</b><p>
+      <p>&nbsp;<br><b>Listening Guide for the Beethoven Piano Concerto No. 2 and Mozart Symphony No. 40</b></p>
+
+      <p><b>LUDWIG VAN BEETHOVEN: PIANO CONCERTO NO. 2</b><p>
 
       <p>Ludwig van Beethoven composed the Piano Concerto No. 2 over a number of years and it was finally published in 1801. Beethoven enjoyed performing this concerto as it showed off his talents both as a piano soloist and as a composer. You can read Haley Rempel&rsquo;s comments about this work on the MCO website to find out more about Beethoven and this work <a href="http://www.themco.ca/concert/manson-barnatan/"><b>here</b></a>.</p>
 
@@ -123,7 +125,7 @@ Template Name: Page LG1415-05 Template
 
       <p><span class="badge">7</span>&nbsp;Is there other music by Beethoven that you could listen to and compare to the sounds and experience of the Piano Concerto No. 2?</p>
 
-      <p><b>MOZART SYMPHONY NO. 40</b></p>
+      <p><b>WOLFGANG AMADEUS MOZART: SYMPHONY NO. 40</b></p>
 
       <p>Mozart wrote at least 41 symphonies and there is evidence that he probably wrote even more. He finished writing his 40th symphony in July 1788. This symphony is one of Mozart&rsquo;s most performed and admired symphonies and it exists in different versions. You can read Haley Rempel&rsquo;s comments about this work on the website to find out more about Mozart and the story of this work <a href="http://www.themco.ca/concert/manson-barnatan/"><b>here</b></a>.</p>
 

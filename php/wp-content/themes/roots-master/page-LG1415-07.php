@@ -21,7 +21,9 @@ Template Name: Page LG1415-07 Template
 
     <div class="span7">
 
-      <p>&nbsp;<br><b>OVERTURE TO <I>DIE ZAUBERFL&Ouml;TE</I> (THE MAGIC FLUTE), BY WOLFGANG AMADEUS MOZART</b><br>Beryl Peters, Ph.D.</p>
+      <p>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
+
+      <p>&nbsp;<br><b>WOLFGANG AMADEUS MOZART: OVERTURE TO <I>DIE ZAUBERFL&Ouml;TE</I> (THE MAGIC FLUTE)</b></p>
 
       <p>
       Wolfgang Amadeus Mozart (1756-1791) composed his 2 act comic opera Die Zauberfl&ouml;te (The Magic Flute) in 1791, the year he died. It premiered just three months before Mozart&rsquo;s death, was quickly embraced by audiences of the time, and has remained a hugely popular staple of the opera and orchestral repertoire around the world ever since. The Magic Flute was an innovative opera form called singspiel (similar to our Broadway musicals) that incorporated both singing and spoken dialogue. The opera combines comedy, farce, romance, fairy tale, Egyptian mythology, and Masonic elements. The opera features a Queen of the Night villain, her daughter Pamina, an Egyptian Prince named Tamino who rescues Pamina with the aid of a magic flute, Tamino&rsquo;s companion, a birdcatcher named Papageno, Papageno&rsquo;s romantic interest Papagena, and Sarastro, a High Priest of Isis and Osiris. 
@@ -206,7 +208,7 @@ Template Name: Page LG1415-07 Template
 
       <p>
       <b>
-        OVERTURE TO DON GIOVANNI, BY WOLFGANG AMADEUS MOZART
+        WOLFGANG AMADEUS MOZART: OVERTURE TO DON GIOVANNI
       </b>
       </p>
       <p>
@@ -384,7 +386,7 @@ Template Name: Page LG1415-07 Template
 
       <p>
       <b>
-        OVERTURE TO <i>THE MARRIAGE OF FIGARO</i> (LE NOZZE DI FIGARO), BY WOLFGANG AMADEUS MOZART
+        WOLFGANG AMADEUS MOZART: OVERTURE TO <i>THE MARRIAGE OF FIGARO</i> (LE NOZZE DI FIGARO)
       </b>
       </p>
       <p>
@@ -540,7 +542,7 @@ Template Name: Page LG1415-07 Template
       </p>
       <p>
       <b>
-        SONATA IN E MAJOR, OP. 27, NO. 6, BY EUG&Egrave;NE YSA&Yuml;E
+        EUG&Egrave;NE YSA&Yuml;E: SONATA IN E MAJOR, OP. 27, NO. 6
       </b>
       </p>
       Beryl Peters, Ph.D.
@@ -688,7 +690,7 @@ Template Name: Page LG1415-07 Template
 
       <p>
       <b>
-        OCTET IN E FLAT MAJOR, OP. 103, BY LUDWIG VAN BEETHOVEN
+        LUDWIG VAN BEETHOVEN: OCTET IN E FLAT MAJOR, OP. 103
       </b>
       </p>
       <p>
@@ -849,7 +851,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <b>SEXTET IN A MAJOR, OP. 48, BY ANTONIN DVO&#345;&Aacute;K</b>
+      <b>ANTONIN DVO&#345;&Aacute;K: SEXTET IN A MAJOR, OP. 48</b>
       </p>
 
       <p>
