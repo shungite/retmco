@@ -21,9 +21,9 @@ Template Name: Page LG1415-05 Template
 
     <div class="span7">
 
-      <p>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
+      <p>&nbsp;<br>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
 
-      <p>&nbsp;<br><b>Listening Guide for the Beethoven Piano Concerto No. 2 and Mozart Symphony No. 40</b></p>
+      <p><b>Listening Guide for the Beethoven Piano Concerto No. 2 and Mozart Symphony No. 40</b></p>
 
       <p><b>LUDWIG VAN BEETHOVEN: PIANO CONCERTO NO. 2</b><p>
 

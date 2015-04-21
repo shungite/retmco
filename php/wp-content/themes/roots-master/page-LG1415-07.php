@@ -21,9 +21,9 @@ Template Name: Page LG1415-07 Template
 
     <div class="span7">
 
-      <p>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
+      <p>&nbsp;<br>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
 
-      <p>&nbsp;<br><b>WOLFGANG AMADEUS MOZART: OVERTURE TO <I>DIE ZAUBERFL&Ouml;TE</I> (THE MAGIC FLUTE)</b></p>
+      <p><b>WOLFGANG AMADEUS MOZART: OVERTURE TO <I>DIE ZAUBERFL&Ouml;TE</I> (THE MAGIC FLUTE)</b></p>
 
       <p>
       Wolfgang Amadeus Mozart (1756-1791) composed his 2 act comic opera Die Zauberfl&ouml;te (The Magic Flute) in 1791, the year he died. It premiered just three months before Mozart&rsquo;s death, was quickly embraced by audiences of the time, and has remained a hugely popular staple of the opera and orchestral repertoire around the world ever since. The Magic Flute was an innovative opera form called singspiel (similar to our Broadway musicals) that incorporated both singing and spoken dialogue. The opera combines comedy, farce, romance, fairy tale, Egyptian mythology, and Masonic elements. The opera features a Queen of the Night villain, her daughter Pamina, an Egyptian Prince named Tamino who rescues Pamina with the aid of a magic flute, Tamino&rsquo;s companion, a birdcatcher named Papageno, Papageno&rsquo;s romantic interest Papagena, and Sarastro, a High Priest of Isis and Osiris. 
