@@ -9,7 +9,7 @@ Template Name: Page LG1415-07 Template
   <div class="row">
 
     <div class="span8">
-      <img src="http://www.themco.ca/wp-content/uploads/2015/03/lg17mar15.jpg" alt="" width="770" height="256">
+      <img src="http://www.themco.ca/wp-content/uploads/2015/04/lg22apr15.jpg" alt="" width="770" height="256">
     </div>
     <div class="span2">
       <p>.</p>
@@ -58,7 +58,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. The opera <i>The Magic Flute</i> is structured in 2 acts with an opening, introductory, instrumental <b>overture</b>. The <b>overture</b> played before the curtain opens sets the stage for the action and music to follow and helps the audience emotionally prepare for the opera. In Mozart&rsquo;s time the overture did not always contain reference to melodic themes heard in the rest of the opera but the slow introduction to this overture does contains three chords that are heard again in the opera at significant points. 
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. The opera <i>The Magic Flute</i> is structured in 2 acts with an opening, introductory, instrumental <b>overture</b>. The <b>overture</b> played before the curtain opens sets the stage for the action and music to follow and helps the audience emotionally prepare for the opera. In Mozart&rsquo;s time the overture did not always contain reference to melodic themes heard in the rest of the opera but the slow introduction to this overture does contains three chords that are heard again in the opera at significant points. 
       </p>
       <p>
       The <b>form</b> of the <b>Overture</b> to <i>The Magic Flute</i> is the classic three section sonata form structure: a first section called <b>exposition</b> that presents 2 themes; a middle <b>development</b> section where the themes are varied and developed; and a final <b>recapitulation</b> section that re-states the main themes. 
@@ -79,13 +79,13 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">2</span>What <b>Instruments</b> can you hear in this arrangement of Mozart&rsquo;s overture to <i>The Magic Flute</i>? Mozart originally scored this overture for: strings; two each of flutes, oboes, clarinets, bassoons, horns and trumpets; three trombones; and timpani.  In this arrangement for wind octet can you hear two each of oboes, clarinets, bassoons, and horns? 
+      <span class="badge">2</span> What <b>Instruments</b> can you hear in this arrangement of Mozart&rsquo;s overture to <i>The Magic Flute</i>? Mozart originally scored this overture for: strings; two each of flutes, oboes, clarinets, bassoons, horns and trumpets; three trombones; and timpani.  In this arrangement for wind octet can you hear two each of oboes, clarinets, bassoons, and horns? 
       </p>
       <p>
       Can you hear the wind instruments trading parts and calling and answering to each other throughout the overture? 
       </p>
       <p>
-      <span class="badge">3</span>What <b>tempos</b> (the speed of the music) can you identify in this work? Can you hear a slow tempo at the beginning of the overture followed by an energetic Allegro (fast and lively)?  What <b>dynamics</b> (the volume of the music), and <b>expression</b> (musical elements that express certain feelings or dispositions) are used throughout this overture? Does the overture begin with loud or quiet dynamics?  
+      <span class="badge">3</span> What <b>tempos</b> (the speed of the music) can you identify in this work? Can you hear a slow tempo at the beginning of the overture followed by an energetic Allegro (fast and lively)?  What <b>dynamics</b> (the volume of the music), and <b>expression</b> (musical elements that express certain feelings or dispositions) are used throughout this overture? Does the overture begin with loud or quiet dynamics?  
       </p>
 
       <p>
@@ -101,7 +101,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this overture? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work?  Was there a particular pattern that you could hear repeated anywhere in the work?  
+      <span class="badge">4</span> How is <b>rhythm</b> used in this overture? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work?  Was there a particular pattern that you could hear repeated anywhere in the work?  
       </p>
 
       <p>
@@ -125,7 +125,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this overture?  
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this overture?  
       </p>
 
       <p>
@@ -145,7 +145,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">6</span>Can you hear different kinds of <b>texture</b> in this work?  Where do you hear all the instruments playing together so that the sound is thick? (Think of the opening chords of the overture).  The three slow opening chords of the overture introduce the key of the piece and consist of the main tonic chord (I), subdominant (IV), and dominant (V), chords of the key of E flat major.  They are referred to elsewhere in the opera, particularly related to the temple and Sarastro, the High Priest.
+      <span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work?  Where do you hear all the instruments playing together so that the sound is thick? (Think of the opening chords of the overture).  The three slow opening chords of the overture introduce the key of the piece and consist of the main tonic chord (I), subdominant (IV), and dominant (V), chords of the key of E flat major.  They are referred to elsewhere in the opera, particularly related to the temple and Sarastro, the High Priest.
       </p>
 
       <p>
@@ -153,7 +153,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard. For example, the timbre of the oboe is different to the timbre of the clarinet, bassoon, or horn.  Can you pick out each of those instruments when they are playing just by listening to their individual timbres?
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard. For example, the timbre of the oboe is different to the timbre of the clarinet, bassoon, or horn.  Can you pick out each of those instruments when they are playing just by listening to their individual timbres?
       </p>
 
 
@@ -177,31 +177,31 @@ Template Name: Page LG1415-07 Template
         </ul>
       </div>
       <p>
-      <span class="badge">1</span>What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What adjectives might describe the mood that you felt when listening to this overture? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
+      <span class="badge">2</span> What adjectives might describe the mood that you felt when listening to this overture? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
       </p>
 
       <p>
-      <span class="badge">3</span>What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Mozart help make this work energetic?  
+      <span class="badge">3</span> What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Mozart help make this work energetic?  
       </p>
 
       <p>
-      <span class="badge">4</span>Were there parts of the overture that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">4</span> Were there parts of the overture that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">5</span>Different people often have different responses to the same music.  Ask other people who heard the same music about their response to Mozart&rsquo;s Overture to <i>The Magic Flute</i>.     
+      <span class="badge">5</span> Different people often have different responses to the same music.  Ask other people who heard the same music about their response to Mozart&rsquo;s Overture to <i>The Magic Flute</i>.     
       </p>
 
       <p>
-      <span class="badge">6</span>What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
+      <span class="badge">6</span> What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Mozart that you could listen to and compare to the sounds and experience of the Overture to <i>The Magic Flute</i>?  Try listening to the two other overtures on this concert program, the overture to <i>Don Giovanni</i> and the overture to <i>The Marriage of Figaro</i> and compare the sounds that you hear in these different overtures by Mozart.  How are they the same?  How are they different?
+      <span class="badge">7</span> Is there other music by Mozart that you could listen to and compare to the sounds and experience of the Overture to <i>The Magic Flute</i>?  Try listening to the two other overtures on this concert program, the overture to <i>Don Giovanni</i> and the overture to <i>The Marriage of Figaro</i> and compare the sounds that you hear in these different overtures by Mozart.  How are they the same?  How are they different?
       </p>
 
       <p>
@@ -248,7 +248,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. The opera <i>Don Giovanni</i> is structured in 2 acts with an opening, introductory, instrumental <b>overture</b>. The <b>overture</b> played before the curtain opens sets the stage for the action and music to follow and helps the audience emotionally prepare for the opera. In Mozart&rsquo;s time the overture did not always contain reference to melodic themes heard in the rest of the opera but in this overture, the Commendatore&rsquo;s theme is heard in the opening introduction to the overture. Other musical elements in the overture are also heard again at different points of the opera.  
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. The opera <i>Don Giovanni</i> is structured in 2 acts with an opening, introductory, instrumental <b>overture</b>. The <b>overture</b> played before the curtain opens sets the stage for the action and music to follow and helps the audience emotionally prepare for the opera. In Mozart&rsquo;s time the overture did not always contain reference to melodic themes heard in the rest of the opera but in this overture, the Commendatore&rsquo;s theme is heard in the opening introduction to the overture. Other musical elements in the overture are also heard again at different points of the opera.  
       </p>
       <p>
       The <b>form</b> of the <b>Overture</b> to <i>Don Giovanni</i> is the classic three section sonata form structure. The first section is called an <b>exposition</b> that typically presents 2 themes; however, in this particular overture you will hear 3 distinct themes in the exposition, none of which are borrowed from the opera. A middle <b>development</b> section follows where the themes are varied and developed, and a final <b>recapitulation</b> section re-states the main themes.
@@ -278,13 +278,13 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">2</span>What <b>Instruments</b> can you hear in this arrangement of Mozart&rsquo;s overture to <i>Don Giovanni</i>? Mozart originally scored this overture for: strings; two each of flutes, oboes, clarinets, bassoons, horns and trumpets; three trombones; and timpani.  In this arrangement for wind octet can you hear two each of oboes, clarinets, bassoons, and horns?
+      <span class="badge">2</span> What <b>Instruments</b> can you hear in this arrangement of Mozart&rsquo;s overture to <i>Don Giovanni</i>? Mozart originally scored this overture for: strings; two each of flutes, oboes, clarinets, bassoons, horns and trumpets; three trombones; and timpani.  In this arrangement for wind octet can you hear two each of oboes, clarinets, bassoons, and horns?
       </p>
       <p>
       Can you distinguish between the different instruments of the octet playing the different themes and rhythms of the overture? Can you hear the different instruments taking turns on various parts or calling back and forth to each other?
       </p>
       <p>
-      <span class="badge">3</span>What <b>tempos</b> (the speed of the music) can you identify in this work? Can you hear a slow tempo at the beginning of the overture followed by an energetic Allegro (fast and lively)?  How are <b>dynamics</b> (the volume of the music), and <b>expression</b> (musical elements that express certain feelings or dispositions) used to convey the contrasting nature of the <i>drama giocoso</i>? Can you hear the opening chords associated with the Commendatore played loudly and strongly and the quieter, more playful sections that suggest the playful and comedic aspects of the opera? Can you hear other contrasts of loud and quieter music?
+      <span class="badge">3</span> What <b>tempos</b> (the speed of the music) can you identify in this work? Can you hear a slow tempo at the beginning of the overture followed by an energetic Allegro (fast and lively)?  How are <b>dynamics</b> (the volume of the music), and <b>expression</b> (musical elements that express certain feelings or dispositions) used to convey the contrasting nature of the <i>drama giocoso</i>? Can you hear the opening chords associated with the Commendatore played loudly and strongly and the quieter, more playful sections that suggest the playful and comedic aspects of the opera? Can you hear other contrasts of loud and quieter music?
       </p>
 
       <p>
@@ -296,7 +296,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this overture? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work?  Was there a particular pattern that you could hear repeated anywhere in the work?  
+      <span class="badge">4</span> How is <b>rhythm</b> used in this overture? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work?  Was there a particular pattern that you could hear repeated anywhere in the work?  
       </p>
 
       <p>
@@ -304,7 +304,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this overture?  
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this overture?  
       </p>
 
       <p>
@@ -324,7 +324,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">6</span>Can you hear different kinds of <b>texture</b> in this work?  Where do you hear all the instruments playing together so that the sound is thick? (Think of the opening chords of the overture).  The slow opening chords of the overture are written in the key of D minor.  Can you hear where the texture changes with a lighter treatment of instrumentation?  Where the music becomes more playful the key also becomes brighter and changes from D minor to D major.
+      <span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work?  Where do you hear all the instruments playing together so that the sound is thick? (Think of the opening chords of the overture).  The slow opening chords of the overture are written in the key of D minor.  Can you hear where the texture changes with a lighter treatment of instrumentation?  Where the music becomes more playful the key also becomes brighter and changes from D minor to D major.
       </p>
 
       <p>
@@ -332,7 +332,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard. For example, the timbre of the oboe is different to the timbre of the clarinet, bassoon, or horn.  Can you pick out each of those instruments when they are playing just by listening to their individual timbres?
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard. For example, the timbre of the oboe is different to the timbre of the clarinet, bassoon, or horn.  Can you pick out each of those instruments when they are playing just by listening to their individual timbres?
       </p>
 
       <div class="well">
@@ -355,31 +355,31 @@ Template Name: Page LG1415-07 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What adjectives might describe the mood that you felt when listening to this overture? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
+      <span class="badge">2</span> What adjectives might describe the mood that you felt when listening to this overture? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
       </p>
 
       <p>
-      <span class="badge">3</span>What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Mozart help make this work energetic?  
+      <span class="badge">3</span> What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Mozart help make this work energetic?  
       </p>
 
       <p>
-      <span class="badge">4</span>Were there parts of the overture that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">4</span> Were there parts of the overture that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">5</span>Different people often have different responses to the same music.  Ask other people who heard the same music about their response to Mozart&rsquo;s Overture to <i>Don Giovanni</i>?
+      <span class="badge">5</span> Different people often have different responses to the same music.  Ask other people who heard the same music about their response to Mozart&rsquo;s Overture to <i>Don Giovanni</i>?
       </p>
 
       <p>
-      <span class="badge">6</span>What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
+      <span class="badge">6</span> What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Mozart that you could listen to and compare to the sounds and experience of the Overture to <i>Don Giovanni</i>?  Try listening to the two other overtures on this concert program, the overture to <i>The Magic Flute</i> and the overture to <i>The Marriage of Figaro</i> and compare the sounds that you hear in these different overtures by Mozart.  How are they the same?  How are they different?
+      <span class="badge">7</span> Is there other music by Mozart that you could listen to and compare to the sounds and experience of the Overture to <i>Don Giovanni</i>?  Try listening to the two other overtures on this concert program, the overture to <i>The Magic Flute</i> and the overture to <i>The Marriage of Figaro</i> and compare the sounds that you hear in these different overtures by Mozart.  How are they the same?  How are they different?
       </p>
 
       <p>
@@ -430,7 +430,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. The opera <i>The Marriage of Figaro</i> is structured in 4 acts with an opening, introductory, instrumental <b>overture</b>. The <b>overture</b> played before the curtain opens sets the stage for the action and music to follow and helps the audience emotionally prepare for the opera. In Mozart&rsquo;s time the overture did not always contain reference to melodic themes heard in the rest of the opera although Mozart&rsquo;s late operas did often include themes heard in the opera.  However, <i>The Marriage of Figaro</i> is a stand-alone work and does not contain any thematic references found in the rest of the opera, although the character of the music does suggest the frenetic action and qualities of the characters in the opera. 
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. The opera <i>The Marriage of Figaro</i> is structured in 4 acts with an opening, introductory, instrumental <b>overture</b>. The <b>overture</b> played before the curtain opens sets the stage for the action and music to follow and helps the audience emotionally prepare for the opera. In Mozart&rsquo;s time the overture did not always contain reference to melodic themes heard in the rest of the opera although Mozart&rsquo;s late operas did often include themes heard in the opera.  However, <i>The Marriage of Figaro</i> is a stand-alone work and does not contain any thematic references found in the rest of the opera, although the character of the music does suggest the frenetic action and qualities of the characters in the opera. 
       </p>
       <p>
       The <b>form</b> of the <b>Overture</b> to <i>The Marriage of Figaro</i> is an abridged sonata form structure. The three section sonata form that Mozart uses for the overture to <i>The Magic Flute</i> and <i>Don Giovanni</i> is shortened here to just two main sections. A smaller, shorter sonata is often called a <b>sonatina</b>. 
@@ -447,13 +447,13 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">2</span>What <b>Instruments</b> can you hear in this arrangement of Mozart&rsquo;s overture to <i>The Marriage of Figaro</i>? Mozart originally scored this overture for: strings; two each of flutes, oboes, clarinets, bassoons, horns, trumpets; and timpani.  In this arrangement for wind octet can you hear two each of oboes, clarinets, bassoons, and horns?
+      <span class="badge">2</span> What <b>Instruments</b> can you hear in this arrangement of Mozart&rsquo;s overture to <i>The Marriage of Figaro</i>? Mozart originally scored this overture for: strings; two each of flutes, oboes, clarinets, bassoons, horns, trumpets; and timpani.  In this arrangement for wind octet can you hear two each of oboes, clarinets, bassoons, and horns?
       </p>
       <p>
       Can you distinguish the different instruments of the octet playing the different themes and rhythms of the overture? Can you hear the different instruments taking turns on various parts or calling back and forth to each other?
       </p>
       <p>
-      <span class="badge">3</span>What is the overall <b>tempo</b> (the speed of the music) of this work? Can you hear how the Presto tempo always seems to be moving forward at a breathless pace to set up the frenetic mood of the opera action to follow?
+      <span class="badge">3</span> What is the overall <b>tempo</b> (the speed of the music) of this work? Can you hear how the Presto tempo always seems to be moving forward at a breathless pace to set up the frenetic mood of the opera action to follow?
       </p>
 
       <p>
@@ -469,11 +469,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this overture? Do you hear the steady pulsing, and persistent rhythms throughout this work? Do any particular rhythmic patterns stand out for you that you could listen for in the work? Is there a particular pattern that you could hear repeated anywhere in the work?  Do you hear running patterns of notes throughout this overture?
+      <span class="badge">4</span> How is <b>rhythm</b> used in this overture? Do you hear the steady pulsing, and persistent rhythms throughout this work? Do any particular rhythmic patterns stand out for you that you could listen for in the work? Is there a particular pattern that you could hear repeated anywhere in the work?  Do you hear running patterns of notes throughout this overture?
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this overture?  
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this overture?  
       </p>
 
       <p>
@@ -485,11 +485,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">6</span>How would you describe the <b>texture</b> of this work?  Do you hear the instruments all playing together at once to create thick sounding chords or do you hear the different voices of the instruments interacting together in more linear ways?   
+      <span class="badge">6</span> How would you describe the <b>texture</b> of this work?  Do you hear the instruments all playing together at once to create thick sounding chords or do you hear the different voices of the instruments interacting together in more linear ways?   
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard. For example, the timbre of the oboe is different to the timbre of the clarinet, bassoon, or horn.  Can you pick out each of those instruments when they are playing just by listening to their individual timbres?
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard. For example, the timbre of the oboe is different to the timbre of the clarinet, bassoon, or horn.  Can you pick out each of those instruments when they are playing just by listening to their individual timbres?
       </p>
 
       <div class="well">
@@ -513,31 +513,31 @@ Template Name: Page LG1415-07 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What adjectives might describe the mood that you felt when listening to this overture? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
+      <span class="badge">2</span> What adjectives might describe the mood that you felt when listening to this overture? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
       </p>
 
       <p>
-      <span class="badge">3</span>What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Mozart help make this work energetic?  
+      <span class="badge">3</span> What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Mozart help make this work energetic?  
       </p>
 
       <p>
-      <span class="badge">4</span>Were there parts of the overture that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">4</span> Were there parts of the overture that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">5</span>Different people often have different responses to the same music.  Ask other people who heard the same music about their response to the overture to Mozart&rsquo;s <i>The Marriage of Figaro</i>?
+      <span class="badge">5</span> Different people often have different responses to the same music.  Ask other people who heard the same music about their response to the overture to Mozart&rsquo;s <i>The Marriage of Figaro</i>?
       </p>
 
       <p>
-      <span class="badge">6</span>What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
+      <span class="badge">6</span> What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Mozart that you could listen to and compare to the sounds and experience Overture to <i>The Marriage of Figaro</i>?  Try listening to the two other overtures on this concert program, the overture to <i>The Magic Flute</i> and the overture to the <i>Don Giovanni</i> and compare the sounds that you hear in these different overtures by Mozart.  How are they the same?  How are they different?
+      <span class="badge">7</span> Is there other music by Mozart that you could listen to and compare to the sounds and experience Overture to <i>The Marriage of Figaro</i>?  Try listening to the two other overtures on this concert program, the overture to <i>The Magic Flute</i> and the overture to the <i>Don Giovanni</i> and compare the sounds that you hear in these different overtures by Mozart.  How are they the same?  How are they different?
       </p>
       <p>
       Listening Guide for Sonata in E Major, Op. 27 No. 6 by Eugène Ysaÿe
@@ -578,14 +578,14 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. This work for solo violin was composed as a single movement structure. The form can be described as a free rhapsody that includes a <b>cadenza</b> (a showy, difficult, virtuosic section) introduction and various contrasting sections.  Can you hear a section that sounds very lyrical with Spanish influences?  It occurs just after the opening cadenza.  Can you hear a section with very demanding and complex technical passages?  Can you hear a section that sounds like a tango?  
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. This work for solo violin was composed as a single movement structure. The form can be described as a free rhapsody that includes a <b>cadenza</b> (a showy, difficult, virtuosic section) introduction and various contrasting sections.  Can you hear a section that sounds very lyrical with Spanish influences?  It occurs just after the opening cadenza.  Can you hear a section with very demanding and complex technical passages?  Can you hear a section that sounds like a tango?  
       </p>
 
       <p>
-      <span class="badge">2</span>What <b>Instruments</b> do you hear playing this work? Is the violin playing by itself or do you hear any other instruments accompanying the violin?  Ysa&yuml;e specifically wrote all six of the sonatas in Op. 27 to be unaccompanied violin sonatas. 
+      <span class="badge">2</span> What <b>Instruments</b> do you hear playing this work? Is the violin playing by itself or do you hear any other instruments accompanying the violin?  Ysa&yuml;e specifically wrote all six of the sonatas in Op. 27 to be unaccompanied violin sonatas. 
       </p>
       <p>
-      <span class="badge">3</span>What <b>tempo</b> (the speed of the music) would you mainly associate with this work?  The composer marked this work as &ldquo;Allegro giusto non troppo vivo&rdquo; meaning lively and quickly with consistent speed but not too fast. 
+      <span class="badge">3</span> What <b>tempo</b> (the speed of the music) would you mainly associate with this work?  The composer marked this work as &ldquo;Allegro giusto non troppo vivo&rdquo; meaning lively and quickly with consistent speed but not too fast. 
       </p>
 
       <p>
@@ -605,7 +605,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this sonata? Is this the kind of music that you could keep a steady rhythm or beat to? Or do the rhythms have a more rhapsodic, virtuoso and improvisatory quality?
+      <span class="badge">4</span> How is <b>rhythm</b> used in this sonata? Is this the kind of music that you could keep a steady rhythm or beat to? Or do the rhythms have a more rhapsodic, virtuoso and improvisatory quality?
       </p>
 
       <p>
@@ -617,7 +617,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this sonata?  
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this sonata?  
       </p>
 
       <p>
@@ -629,11 +629,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">6</span>Can you hear different kinds of <b>texture</b> in this work?  Do you hear places where the violin plays single notes and other places where two notes are played together?  Do you hear places where more than 2 notes are played together to create a thicker texture?  
+      <span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work?  Do you hear places where the violin plays single notes and other places where two notes are played together?  Do you hear places where more than 2 notes are played together to create a thicker texture?  
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard, for example when the composer create special effects using techniques described above.  Can you hear different qualities of sound created by the different virtuosic techniques? 
+      <span class="badge">7</span> What kinds of <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard, for example when the composer create special effects using techniques described above.  Can you hear different qualities of sound created by the different virtuosic techniques? 
       </p>
 
       <div class="well">
@@ -657,31 +657,31 @@ Template Name: Page LG1415-07 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What adjectives might describe the mood that you felt when listening to this sonata? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
+      <span class="badge">2</span> What adjectives might describe the mood that you felt when listening to this sonata? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
       </p>
 
       <p>
-      <span class="badge">3</span>What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did you enjoy the sounds of the Spanish influences?  The tango? 
+      <span class="badge">3</span> What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did you enjoy the sounds of the Spanish influences?  The tango? 
       </p>
 
       <p>
-      <span class="badge">4</span>Were there parts of the sonata that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">4</span> Were there parts of the sonata that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">5</span>Different people often have different responses to the same music.  Ask others who heard the same music about their response to Ysa&yuml;e&rsquo;s Sonata in E major. 
+      <span class="badge">5</span> Different people often have different responses to the same music.  Ask others who heard the same music about their response to Ysa&yuml;e&rsquo;s Sonata in E major. 
       </p>
 
       <p>
-      <span class="badge">6</span>What feelings did it seem that Ysa&yuml;e was trying to communicate to his audience about this work? What music elements seemed to be important to him?
+      <span class="badge">6</span> What feelings did it seem that Ysa&yuml;e was trying to communicate to his audience about this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Ysa&yuml;e that you could listen to and compare to the sounds and experience of this sonata?  Try listening to the other five sonatas of Opus 27.  They can be found on youtube and on a wonderful CD of the six Ysa&yuml;e sonatas by the Manitoba Chamber Orchestra&rsquo;s concertmaster, Karl Stobbe. 
+      <span class="badge">7</span> Is there other music by Ysa&yuml;e that you could listen to and compare to the sounds and experience of this sonata?  Try listening to the other five sonatas of Opus 27.  They can be found on youtube and on a wonderful CD of the six Ysa&yuml;e sonatas by the Manitoba Chamber Orchestra&rsquo;s concertmaster, Karl Stobbe. 
       </p>
 
 
@@ -718,7 +718,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">1</span>Form in music refers to the musical architecture or the way the music is structured. The form of the Octet in E flat major is typical for classical string quartets and symphonies, although the treatment of the menuetto as more like that of a scherzo was certainly forward looking. The Octet in E flat major is structured in four movements:
+      <span class="badge">1</span> Form in music refers to the musical architecture or the way the music is structured. The form of the Octet in E flat major is typical for classical string quartets and symphonies, although the treatment of the menuetto as more like that of a scherzo was certainly forward looking. The Octet in E flat major is structured in four movements:
       </p>
 
       <ol>
@@ -753,11 +753,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">2</span>The Octet is written for 2 each of oboes, clarinets, bassoons, and horns. Can you distinguish between these instruments as you hear them playing? Listen for the oboe playing the first theme in the opening Allegro.  Can you hear the oboe&rsquo;s theme passed all around the different instruments of the ensemble?   Can you hear the oboe playing a soloistic part at the beginning of the second movement and the answering duet by the bassoon? Can you hear the instruments trading melodies back and forth? When do you hear individual instruments or sections and when do you hear the octet playing together? What other instruments are given predominant motifs heard in this work?
+      <span class="badge">2</span> The Octet is written for 2 each of oboes, clarinets, bassoons, and horns. Can you distinguish between these instruments as you hear them playing? Listen for the oboe playing the first theme in the opening Allegro.  Can you hear the oboe&rsquo;s theme passed all around the different instruments of the ensemble?   Can you hear the oboe playing a soloistic part at the beginning of the second movement and the answering duet by the bassoon? Can you hear the instruments trading melodies back and forth? When do you hear individual instruments or sections and when do you hear the octet playing together? What other instruments are given predominant motifs heard in this work?
       </p>
 
       <p>
-      <span class="badge">3</span>Beethoven uses <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying <b>tempos</b> (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest.  Which movements use louder music?  Which movements use quieter music?  Which movements are faster or slower than others? Which movement has the fastest tempo of all? 
+      <span class="badge">3</span> Beethoven uses <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying <b>tempos</b> (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest.  Which movements use louder music?  Which movements use quieter music?  Which movements are faster or slower than others? Which movement has the fastest tempo of all? 
       </p>
 
       <p>
@@ -765,7 +765,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this octet?  Are the rhythms lively or stately?  Which movement could you easily tap a steady rhythm or beat to? The rhythmic treatment in this octet mostly follows the traditions of the time. Did any particular rhythmic pattern stand out for you anywhere that you could listen for in the work?  Was there a particular pattern that you could hear repeated anywhere in the work?  Can you hear how the rhythm of the oboe theme in the first movement is repeated throughout that entire movement? Did you hear any instances of syncopation (accent on off beat) in the first movement and in the final Presto movement?  Did you hear a repeated rhythmic pattern in the bassoon part in the first movement?  This is called an <b>Alberti bass</b>.
+      <span class="badge">4</span> How is <b>rhythm</b> used in this octet?  Are the rhythms lively or stately?  Which movement could you easily tap a steady rhythm or beat to? The rhythmic treatment in this octet mostly follows the traditions of the time. Did any particular rhythmic pattern stand out for you anywhere that you could listen for in the work?  Was there a particular pattern that you could hear repeated anywhere in the work?  Can you hear how the rhythm of the oboe theme in the first movement is repeated throughout that entire movement? Did you hear any instances of syncopation (accent on off beat) in the first movement and in the final Presto movement?  Did you hear a repeated rhythmic pattern in the bassoon part in the first movement?  This is called an <b>Alberti bass</b>.
       </p>
 
       <p>
@@ -773,7 +773,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this octet?  Do you hear high sounds or pitches?  Do you hear low sounds or pitches? Can you pick out a particular melody in each of the four movements?  Can you hum or sing that melody? Could you draw the shape of the melody in the air?  When does it move up higher and when does it move lower?  
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this octet?  Do you hear high sounds or pitches?  Do you hear low sounds or pitches? Can you pick out a particular melody in each of the four movements?  Can you hum or sing that melody? Could you draw the shape of the melody in the air?  When does it move up higher and when does it move lower?  
       </p>
 
       <p>
@@ -781,11 +781,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">6</span>What different kinds of <b>textures</b> do you hear in this work?  Do you hear how Beethoven uses traditional approaches to harmony and instrumental texture in this work? Listen for how Beethoven creates the effect of steady accompaniment in the lower parts as for example the Alberti and arpeggiated bass parts in the bassoon in the first movement, while the higher instruments play the melodies above. The harmonies in this work heard usually in lower instruments function to support and accompany melodies often heard in the higher sounding instruments. 
+      <span class="badge">6</span> What different kinds of <b>textures</b> do you hear in this work?  Do you hear how Beethoven uses traditional approaches to harmony and instrumental texture in this work? Listen for how Beethoven creates the effect of steady accompaniment in the lower parts as for example the Alberti and arpeggiated bass parts in the bassoon in the first movement, while the higher instruments play the melodies above. The harmonies in this work heard usually in lower instruments function to support and accompany melodies often heard in the higher sounding instruments. 
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard, for example the kinds of sounds played by different instruments.  What is the difference between an oboe and a horn in terms of timbre?  When does the timbre of the music change because certain instruments are added or taken away? Can you hear different qualities of sound created by different instruments when instruments call and respond to each other? 
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard, for example the kinds of sounds played by different instruments.  What is the difference between an oboe and a horn in terms of timbre?  When does the timbre of the music change because certain instruments are added or taken away? Can you hear different qualities of sound created by different instruments when instruments call and respond to each other? 
       </p>
 
       <p>
@@ -820,31 +820,31 @@ Template Name: Page LG1415-07 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What adjectives might describe the mood that you felt when listening to this octet? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
+      <span class="badge">2</span> What adjectives might describe the mood that you felt when listening to this octet? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
       </p>
 
       <p>
-      <span class="badge">3</span>What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Beethoven help make this work exciting?  Did you hear parts of the octet that made you feel peaceful or calm and if so, what part of the octet were they in?  Were there any parts that sounded playful to you?  If so, which movement did you hear them in?
+      <span class="badge">3</span> What musical elements did you enjoy or find interesting?  Did you enjoy the melodies that you heard?  Did the rhythms, dynamics, or tempos used by Beethoven help make this work exciting?  Did you hear parts of the octet that made you feel peaceful or calm and if so, what part of the octet were they in?  Were there any parts that sounded playful to you?  If so, which movement did you hear them in?
       </p>
 
       <p>
-      <span class="badge">4</span>Were there parts of the octet that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">4</span> Were there parts of the octet that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">5</span>Different people often have different responses to the same music.  Ask others who heard the same music about their response to Beethoven&rsquo;s Octet in E flat major.    
+      <span class="badge">5</span> Different people often have different responses to the same music.  Ask others who heard the same music about their response to Beethoven&rsquo;s Octet in E flat major.    
       </p>
 
       <p>
-      <span class="badge">6</span>What feelings did it seem that Beethoven was trying to communicate to his audience about this work? What music elements seemed to be important to him?
+      <span class="badge">6</span> What feelings did it seem that Beethoven was trying to communicate to his audience about this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Beethoven that you could listen to and compare to the sounds and experience of the Octet in E flat Major?  Try doing a search of Beethoven&rsquo;s music on youtube or perhaps contrast different groups playing the same work.
+      <span class="badge">7</span> Is there other music by Beethoven that you could listen to and compare to the sounds and experience of the Octet in E flat Major?  Try doing a search of Beethoven&rsquo;s music on youtube or perhaps contrast different groups playing the same work.
       </p>
 
       <p>
@@ -877,7 +877,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. Can you hear that the Sextet in A major is structured in four movements?  They are: 
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. Can you hear that the Sextet in A major is structured in four movements?  They are: 
       </p>
       <ol>
         <li>Allegro moderato (moderately lively and quickly).</li>
@@ -914,11 +914,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">2</span>The Sextet Op. 48 was written for 2 violins, 2 violas, and 2 cellos. Can you distinguish between these instruments as you hear them playing? Can you hear the instruments trading melodies back and forth? This style of music featuring independent melodic lines relating with each other is called <b>contrapuntal</b>. When do you hear individual instruments or sections and when do you hear the sextet all playing together? What instruments are given predominant motifs heard in this work?
+      <span class="badge">2</span> The Sextet Op. 48 was written for 2 violins, 2 violas, and 2 cellos. Can you distinguish between these instruments as you hear them playing? Can you hear the instruments trading melodies back and forth? This style of music featuring independent melodic lines relating with each other is called <b>contrapuntal</b>. When do you hear individual instruments or sections and when do you hear the sextet all playing together? What instruments are given predominant motifs heard in this work?
       </p>
 
       <p>
-      <span class="badge">3</span>Dvo&#345;&aacute;k uses <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying tempos (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest.  Which movements use louder music?  Which movements use quieter music?  
+      <span class="badge">3</span> Dvo&#345;&aacute;k uses <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying tempos (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest.  Which movements use louder music?  Which movements use quieter music?  
       </p>
 
       <p>
@@ -934,11 +934,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this Sextet? Many of the rhythms of Bohemian/Czech folk dances and songs are heard in this work and there is considerable rhythmic variation.  Do you hear dotted note patterns (long then short sounds)?  Do you hear off beat rhythms that create the effect of an accent on beat four?  Can you pick out the three note off-beat rhythmic pattern of the second theme heard throughout the development section of the first movement?  Do you hear even rhythmic patterns?  Uneven long short long short patterns?
+      <span class="badge">4</span> How is <b>rhythm</b> used in this Sextet? Many of the rhythms of Bohemian/Czech folk dances and songs are heard in this work and there is considerable rhythmic variation.  Do you hear dotted note patterns (long then short sounds)?  Do you hear off beat rhythms that create the effect of an accent on beat four?  Can you pick out the three note off-beat rhythmic pattern of the second theme heard throughout the development section of the first movement?  Do you hear even rhythmic patterns?  Uneven long short long short patterns?
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this Sextet?  Many of the wealth of melodies featured in this work are taken from Bohemian or Czech folk tunes &mdash; can you hear those qualities in the melodies in this work? Dvo&#345;&aacute;k is known for his beautiful melodies. Can you pick out parts of these melodies that can be easily sung or hummed? 
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this Sextet?  Many of the wealth of melodies featured in this work are taken from Bohemian or Czech folk tunes &mdash; can you hear those qualities in the melodies in this work? Dvo&#345;&aacute;k is known for his beautiful melodies. Can you pick out parts of these melodies that can be easily sung or hummed? 
       </p>
 
       <p>
@@ -950,11 +950,11 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <span class="badge">6</span>What different kinds of <b>textures</b> do you hear in this work?  Do you hear how Dvo&#345;&aacute;k creates rich sonorities with the instruments of the sextet?  By adding a second viola and cello to the traditional string quartet configuration, Dvo&#345;&aacute;k created rich tone colours and colourful harmonies, borrowing from sounds found in Slavic dances and folk-songs. 
+      <span class="badge">6</span> What different kinds of <b>textures</b> do you hear in this work?  Do you hear how Dvo&#345;&aacute;k creates rich sonorities with the instruments of the sextet?  By adding a second viola and cello to the traditional string quartet configuration, Dvo&#345;&aacute;k created rich tone colours and colourful harmonies, borrowing from sounds found in Slavic dances and folk-songs. 
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together.  When does the timbre of the music change because certain instruments are added or taken away?  How is the timbre of this work where all the instruments are string instruments contrast to timbres in the Beethoven octet where the instruments are oboes, clarinets, bassoons, and horns? 
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? <b>Timbre</b> is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together.  When does the timbre of the music change because certain instruments are added or taken away?  How is the timbre of this work where all the instruments are string instruments contrast to timbres in the Beethoven octet where the instruments are oboes, clarinets, bassoons, and horns? 
       </p>
 
       <div class="well">
@@ -979,30 +979,30 @@ Template Name: Page LG1415-07 Template
 
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music?  Does this music sound like any other music you have heard before?  What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What feelings or moods did it seem that Dvo&#345;&aacute;k was trying to communicate to his audience in this work? What music elements seemed to be important to him?
+      <span class="badge">2</span> What feelings or moods did it seem that Dvo&#345;&aacute;k was trying to communicate to his audience in this work? What music elements seemed to be important to him?
       </p>
       <p>
-      <span class="badge">3</span>What adjectives might describe the mood that you felt when listening to this work? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
-      </p>
-
-      <p>
-      <span class="badge">4</span>What musical elements did you enjoy or find interesting? What feelings were you left with at the end of the fourth movement? 
+      <span class="badge">3</span> What adjectives might describe the mood that you felt when listening to this work? Can you identify what musical elements may have created that mood for you?  When did the mood change and why?
       </p>
 
       <p>
-      <span class="badge">5</span>Were there parts of the work that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">4</span> What musical elements did you enjoy or find interesting? What feelings were you left with at the end of the fourth movement? 
       </p>
 
       <p>
-      <span class="badge">6</span>Different people often have different responses to the same music.  Ask others who heard the same music about their response to Dvo&#345;&aacute;k&rsquo;s Sextet in A major. 
+      <span class="badge">5</span> Were there parts of the work that you did not enjoy?  Why or why not?  Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Dvo&#345;&aacute;k that you could listen to and compare to the sounds and experience of this Sextet? How does this work compare to the sounds and experience of listing to the Beethoven Octet in E flat major?  
+      <span class="badge">6</span> Different people often have different responses to the same music.  Ask others who heard the same music about their response to Dvo&#345;&aacute;k&rsquo;s Sextet in A major. 
+      </p>
+
+      <p>
+      <span class="badge">7</span> Is there other music by Dvo&#345;&aacute;k that you could listen to and compare to the sounds and experience of this Sextet? How does this work compare to the sounds and experience of listing to the Beethoven Octet in E flat major?  
       </p>
 
       <p>&nbsp;</p>
