@@ -21,7 +21,7 @@ Template Name: Page LG1415-07 Template
 
     <div class="span7">
 
-      <p>&nbsp;<br>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
+      <p>&nbsp;<br>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
 
       <p><b>WOLFGANG AMADEUS MOZART: OVERTURE TO <I>DIE ZAUBERFL&Ouml;TE</I> (THE MAGIC FLUTE)</b></p>
 

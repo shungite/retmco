@@ -21,7 +21,7 @@ Template Name: Page LG1415-06 Template
 
     <div class="span7">
 
-      <p>&nbsp;<br>The Manitoba Chamber Orchestra&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
+      <p>&nbsp;<br>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
 
       <p><b>ERNEST BLOCH: FROM JEWISH LIFE: PRAYER</b></p>
 
