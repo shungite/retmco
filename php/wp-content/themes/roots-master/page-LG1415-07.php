@@ -21,7 +21,7 @@ Template Name: Page LG1415-07 Template
 
     <div class="span7">
 
-      <p>&nbsp;<br><b>Listening Guide for the Overture to <i>Die Zauberfl&ouml;te</i> (The Magic Flute) by Wolfgang Amadeus Mozart</b><br>Beryl Peters, Ph.D.</p>
+      <p>&nbsp;<br><b>OVERTURE TO <I>DIE ZAUBERFL&Ouml;TE</I> (THE MAGIC FLUTE), BY WOLFGANG AMADEUS MOZART</b><br>Beryl Peters, Ph.D.</p>
 
       <p>
       Wolfgang Amadeus Mozart (1756-1791) composed his 2 act comic opera Die Zauberfl&ouml;te (The Magic Flute) in 1791, the year he died. It premiered just three months before Mozart&rsquo;s death, was quickly embraced by audiences of the time, and has remained a hugely popular staple of the opera and orchestral repertoire around the world ever since. The Magic Flute was an innovative opera form called singspiel (similar to our Broadway musicals) that incorporated both singing and spoken dialogue. The opera combines comedy, farce, romance, fairy tale, Egyptian mythology, and Masonic elements. The opera features a Queen of the Night villain, her daughter Pamina, an Egyptian Prince named Tamino who rescues Pamina with the aid of a magic flute, Tamino&rsquo;s companion, a birdcatcher named Papageno, Papageno&rsquo;s romantic interest Papagena, and Sarastro, a High Priest of Isis and Osiris. 
@@ -206,7 +206,7 @@ Template Name: Page LG1415-07 Template
 
       <p>
       <b>
-        Listening Guide for the Overture to Don Giovanni by Wolfgang Amadeus Mozart
+        OVERTURE TO DON GIOVANNI, BY WOLFGANG AMADEUS MOZART
       </b>
       </p>
       <p>
@@ -384,7 +384,7 @@ Template Name: Page LG1415-07 Template
 
       <p>
       <b>
-        Listening Guide for the Overture to The Marriage of Figaro (Le nozze di Figaro) by Wolfgang Amadeus Mozart
+        OVERTURE TO <i>THE MARRIAGE OF FIGARO</i> (LE NOZZE DI FIGARO), BY WOLFGANG AMADEUS MOZART
       </b>
       </p>
       <p>
@@ -421,7 +421,6 @@ Template Name: Page LG1415-07 Template
         <p><b>K-8 Understanding Music in Context:</b> Demonstrate awareness of the intended meanings and/or purposes of music encountered in own performance and listening experiences</p>
         <p><b>9-12 Connecting:</b> The learner develops understandings about the significance of music by connecting music to diverse contexts.</p>
       </div>
-
 
       <p>
       <b>
@@ -540,7 +539,9 @@ Template Name: Page LG1415-07 Template
       <span class="badge">7</span> Is there other music by Mozart that you could listen to and compare to the sounds and experience Overture to <i>The Marriage of Figaro</i>?  Try listening to the two other overtures on this concert program, the overture to <i>The Magic Flute</i> and the overture to the <i>Don Giovanni</i> and compare the sounds that you hear in these different overtures by Mozart.  How are they the same?  How are they different?
       </p>
       <p>
-      Listening Guide for Sonata in E Major, Op. 27 No. 6 by Eugène Ysaÿe
+      <b>
+        SONATA IN E MAJOR, OP. 27, NO. 6, BY EUG&Egrave;NE YSA&Yuml;E
+      </b>
       </p>
       Beryl Peters, Ph.D.
 
@@ -687,7 +688,7 @@ Template Name: Page LG1415-07 Template
 
       <p>
       <b>
-        Listening Guide for the Octet in E flat Major, Op. 103 by Ludwig van Beethoven
+        OCTET IN E FLAT MAJOR, OP. 103, BY LUDWIG VAN BEETHOVEN
       </b>
       </p>
       <p>
@@ -848,7 +849,7 @@ Template Name: Page LG1415-07 Template
       </p>
 
       <p>
-      <b> Listening Guide for the Sextet in A Major, Op. 48 by Antonin Dvo&#345;&aacute;k</b>
+      <b>SEXTET IN A MAJOR, OP. 48, BY ANTONIN DVO&#345;&Aacute;K</b>
       </p>
 
       <p>
