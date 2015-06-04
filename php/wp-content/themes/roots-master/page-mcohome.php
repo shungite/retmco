@@ -1,7 +1,7 @@
 <?php
 /*
 Template Name: Page MCOhome Template
-*/
+ */
 ?>
 
 <div class="container">
@@ -9,7 +9,9 @@ Template Name: Page MCOhome Template
   <div class="row-fluid">
     <div class="span8">
       <a href="http://www.themco.ca/quick-links-1516-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2015/06/SubscribeNow.jpg" alt="MCO / Subscribe now!"></a>
-      <p><b>Subscribe now to MCO&rsquo;s 2015/16 season &mdash; enjoy six or nine concerts in Westminster Church!</b> Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. Make this the season you subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;</p>
+      <h4><b>Subscribe now to MCO&rsquo;s 2015/16 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</h4>
+      <p></b>Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. Make this the season you subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;</p>
+      <p>&nbsp;</p>
     </div>
   </div><!-- /row -->
 
@@ -65,8 +67,8 @@ Template Name: Page MCOhome Template
 </div><!-- /container -->
 
 <script type="text/javascript">
-  $(document).ready(function () {
-    $("[rel=tooltip]").tooltip();
-  });
+$(document).ready(function () {
+  $("[rel=tooltip]").tooltip();
+});
 </script>
 
