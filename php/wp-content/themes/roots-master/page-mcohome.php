@@ -12,7 +12,7 @@ Template Name: Page MCOhome Template
       <h4><b>Subscribe now to MCO&rsquo;s 2015/16 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</h4>
       <p></b>Only subscribers enjoy every benefit the MCO has to offer, like a free premium compact disc, a Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and <b>savings of up to 25%!</b> Make this the season you subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;</p>
       <p>&nbsp;<br><a href="http://www.themco.ca/quick-links-1516-subscriptions/"><button class="btn btn-small btn-success" type="button">Quick links to 15/16 subscriptions here</button></a></p>
-      <p>&nnbsp;</p>
+      <p>&nbsp;</p>
     </div>
   </div><!-- /row -->
 
