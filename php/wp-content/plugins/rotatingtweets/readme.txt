@@ -2,9 +2,9 @@
 Contributors: mpntod
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9XCNM4QSVHYT8
 Tags: shortcode,widget,twitter,rotating,rotate,rotator,tweet,tweets,animation,jquery,jquery cycle,cycle,multilingual,responsive
-Requires at least: 2.6
-Tested up to: 4.1
-Stable tag: 1.7.8
+Requires at least: 3.2
+Tested up to: 4.1.1
+Stable tag: 1.7.12
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Twitter widget and shortcode to show your latest tweets one at a time an animate
 
 == Description ==
 * **Replaces a [shortcode](http://codex.wordpress.org/Shortcode) such as `[rotatingtweets screen_name='your_twitter']`, or a [widget](http://codex.wordpress.org/WordPress_Widgets), with a rotating display of your most recent tweets**
-* **Supports v 1.1 of the Twitter API** ([i.e. it still works](https://dev.twitter.com/blog/api-v1-is-retired))
+* **Supports v 1.1 of the Twitter API** ([i.e. it still works](https://blog.twitter.com/2013/api-v1-is-retired))
 * **Space efficient** - instead of showing all your tweets at once, shows one at a time and then smoothly replaces it with the next one. After showing all your tweets, loops back to the beginning again.
 * **Reliable** - keeps showing your latest Tweets even if the Twitter website is down.
 * **Customisable** - you decide whose tweets to show, how many to show, whether to include retweets and replies, and whether to show a follow button. You can also decide how quickly the tweets rotate and what type of animation to use.
@@ -30,7 +30,7 @@ Currently the following languages are available:
 * British English *(complete - mainly changing 'favorite' to 'favourite'!)*
 * Brazilian Portuguese *(complete - many thanks to Wilmerson Felipe for his help on this)*
 * German *(almost complete - many thanks to Nils Kroneberg for his help on this)*
-* Spanish *(basic tweet display only)*
+* Spanish *(complete - many thanks to Alberto Lario for his help on this)*
 * Italian *(complete - many thanks to [Mattia Migliorini](https://profiles.wordpress.org/deshack/) at [deshack](http://deshack.net/) for his help on this)*
 * Dutch *(public facing translation complete - many thanks to Natasja Weijer for her help on this)*
 * French *(almost complete - many thanks to [Alexandre Trudel](http://wordpress.org/support/profile/alexandretrudel) for his help on this)*
@@ -73,7 +73,7 @@ Possible variables for the shortcode include:
 	* `offset` = ''number'' - default is `'0'` - enables you to start on a later tweet - `'1'` starts on the 2nd tweet, `'2'` starts on the 3rd tweet, etc.
 * **Display options**
 	* `official_format` = `'1'`, `'2'` or `'custom'` - show one of the two official formats or a custom format if you have written your own `rotatingtweets_display_override()` function - default is `'0'`
-	* `timeout` = time that each tweet is shown in milliseconds - default is `'4000'` (i.e. 4 seconds)
+	* `timeout` = time that each tweet is shown in milliseconds - default is `'4000'` (i.e. 4 seconds). `timeout=0` allows for continuous scrolling.
 	* `speed` = time it takes to change from one tweet to the next in milliseconds - default is `'1000'` (i.e. 1 second)
 	* `links_in_new_window` = `'0'` or `'1'` - show links in a new tab or window - default is `'0'`
 	* `rotation_type` = If you are using version 1 of the JavaScript, you can use any of the options listed on the [jQuery.cycle website](http://jquery.malsup.com/cycle/browser.html) - default is `'scrollUp'.`  If you are using version 2 of the JavaScript, then the options are `'scrollUp'`,`'scrollDown'`,`'scrollHorz'`,`'scrollLeft'`,`'scrollRight'`,`'toss'`,`'scrollVert'`,`'fade'` and `'carousel'`
@@ -92,6 +92,8 @@ Possible variables for the shortcode include:
 		* `next` = content for the next button (default `'next'`)
 		* `middot` = content for the space between the buttons (default `' &middot; '`)
 		* `np_pos` = position for 'next' and 'prev' buttons - `'top'`, `'bottom'`, `'insidebottom'`, `'beforeafter'` or `'tweets'` (default `'top'`)
+	* `show_meta_pager` = `'0'` or `'1'` - show pager blobs below the tweets - default is `'0'`
+	* `show_meta_pager_blob` = content for your pager blob - default is `'<a href="#">&bull;</a>'`
 	* `show_media` = `'0'` or `'1'` - experimental option that shows images with the tweet - default is `'0'`
 	* `screen_name_plural` = `'0'` or `'1'` - experimental option that allows you to have a plural possessive in the default display format (e.g. *British Lions' Twitter*) - default is `'0'`
 	* `tweet_length` = maximum number of characters to show in tweet - default is `'0'` which allows whole tweet to be shown
@@ -99,7 +101,7 @@ Possible variables for the shortcode include:
 	* `official_format_override` = `'0'` or `'1'` - enables you to change the settings for `show_meta_reply_retweet_favorite` and `show_meta_timestamp` on the 'official formats'.
 
 * **Caching**
-	* `w3tc_render_to` = 'your_choice_of_random_string' - used to support 'fragment caching' by [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/).  For this to work, you also need to ensure that `W3TC_DYNAMIC_SECURITY` is defined in your `wp-config.php` file and that you not using 'HTTP Compression' on the 'Browser Cache' settings page or 'Enhanced Disk caching' on the 'Page Cache' settings page.
+	* `w3tc_render_to` = 'your_choice_of_random_string' - used to support 'fragment caching' by [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/).  For this to work, you also need to ensure that `W3TC_DYNAMIC_SECURITY` is defined in your `wp-config.php` file and that you not using 'HTTP Compression' on the W3 Total Cache 'Browser Cache' settings page or 'Enhanced Disk caching' on the W3 Total Cache 'Page Cache' settings page.
 	
 * **Twitter follow button**
 	* `show_follow` = `'0'` or `'1'` - show follow button - default is `'0'`
@@ -123,6 +125,7 @@ All the options are listed on the [Rotating Tweets installation page](http://wor
 = How can I include Rotating Tweets in my template? =
 Try something like:
 `<?php echo do_shortcode( "[rotatingtweets screen_name='your_twitter']" ) ?>`
+A common mistake with `do_shortcode` shortcodes is to use single-quotes or double-quotes all the way through without 'escaping' them.  This will normally break your site! It's best to use double-quotes to enclose the shortcode string and single-quotes inside the shortcode string (or vice-versa!).
 
 = How can I pull information from two accounts into one widget =
 The easiest way is to list more than one account in the 'Twitter name' box in the widget or use something like `screen_name='account1 account2'` in the shortcode.
@@ -179,10 +182,35 @@ into your CSS - changing `123px;` to the width you're aiming at - either via put
 You can do this by going to the `rotatingtweets/css` directory and renaming `rotatingtweets-sample.css` to `rotatingtweets.css` and putting it in the `wp-content/uploads/` directory.  This displays a Twitter bird to the left of your tweets.  Any CSS you put into `rotatingtweets.css` won't be overwritten when the plug-in is upgraded to the latest version.
 
 == Upgrade notice ==
-= 1.7.8 =
-* Important upgrade that fixes caching bug. Also addition of Italian!
+= 1.7.12 =
+* Updated version 2 of JavaScript incl. bug fix
 
 == Changelog ==
+= 1.7.12 =
+* Updated version 2 of JavaScript - updated jQuery.cycle2 and removal of bug
+* Fixing height bug
+* Fixing Carousel defaults
+* Updating `.pot` file
+
+= 1.7.11 =
+* Completion of Spanish translation - many thanks to Alberto Lario for his help on this
+* Fixing tweet height JavaScript bug
+* CSS tidying for TwentyFifteen template
+* Experimental function combining historical and current tweets
+
+= 1.7.10 =
+* Move to using HTML5 custom data attributes and `data()` functions to transfer variable values to version 1 of JavaScript - including 'speed' variable
+* Addition of 'pager' via `show_meta_pager` and `show_meta_pager_blob` variables
+* Addition of `rtw_hashtag_link` class to hashtag links
+* `timeout=0` now allows continuous scrolling
+* Updating object code for the widget
+
+= 1.7.9 =
+* Fixing Tweet timezone display problem 
+* Restoring Tweet time display by default for 'Official Twitter Guidelines (wide)'
+* Extra CSS added to enable people to hide links (should they want to)
+* Option to switch off JavaScript (for advanced users only)
+
 = 1.7.8 =
 * Solves bug when Base64 tries to decode an array
 
