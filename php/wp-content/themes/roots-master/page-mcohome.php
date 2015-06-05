@@ -8,7 +8,7 @@ Template Name: Page MCOhome Template
 
   <div class="row-fluid">
     <div class="span8">
-      <a href="http://www.themco.ca/quick-links-1516-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2015/06/SubscribeNow.jpg" alt="MCO / Subscribe now!"></a>
+      <a href="http://www.themco.ca/quick-links-1516-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2015/06/SubscribeNow2.jpg" alt="MCO / Subscribe now!"></a>
       <h4><b>Subscribe now to MCO&rsquo;s 2015/16 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</h4>
       <p></b>Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. Make this the season you subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;</p>
       <p>&nbsp;</p>
