@@ -14,6 +14,7 @@ Template Name: Page MCOhome Template
       <div>
         <p><a href="http://www.themco.ca/quick-links-1516-subscriptions/"><button class="btn btn-small btn-success" type="button">Quick links to 15/16 subscriptions here</button></a></p>
       </div>
+      <p>&nbsp;</p>
     </div>
   </div><!-- /row -->
 
