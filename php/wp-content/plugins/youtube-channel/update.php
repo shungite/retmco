@@ -249,3 +249,164 @@ function au_youtube_channel_update_routine_5() {
 	delete_option('youtube_channel_ver');
 
 } //END function au_youtube_channel_update_routine_5()
+
+/**
+ * Remove deprecated and migrate modified options
+ */
+function au_youtube_channel_update_routine_10() {
+
+	// get options from DB
+	$defaults = get_option('youtube_channel_defaults');
+
+	// Set default `link_to` and migrate
+	if ( ! isset($defaults['link_to']) ) {
+		$defaults['link_to'] = 'none';
+	} else {
+		switch ($defaults['link_to']) {
+			case 2:
+			case 'vanity':
+				$defaults['link_to'] = 'vanity';
+				break;
+			case 1:
+			case 'channel':
+				$defaults['link_to'] = 'channel';
+				break;
+			case 0:
+			case 'legacy':
+				$defaults['link_to'] = 'legacy';
+				break;
+			case 'none':
+			default:
+				$defaults['link_to'] = 'none';
+		}
+	}
+
+	// Migrate showbelow and showtitle in options
+	if ( ! empty($defaults['showtitle']) ) {
+		if ( ! empty($defaults['titlebelow']) ) {
+			$defaults['showtitle'] = 'below';
+		} else {
+			$defaults['showtitle'] = 'above';
+		}
+		if ( isset($defaults['titlebelow']) ) {
+			unset($defaults['titlebelow']);
+		}
+	} else {
+		$defaults['showtitle'] = 'none';
+	}
+
+	// Remove deprecated
+	$deprecated_options = array(
+		'vidqty',
+		'maxrnd',
+		'getrnd',
+		'random',
+		'only_pl',
+		'fixyt',
+		'showvidesc',
+		'videsclen',
+		'descappend',
+		'titlebelow',
+		'showgoto',
+		'userchan',
+		'fixnoitem',
+		'use_res'
+	);
+	foreach ( $deprecated_options as $deprecated ) {
+		if ( isset($defaults[$deprecated]) ) {
+			unset($defaults[$deprecated]);
+		}
+	}
+
+	if ( isset($defaults) ) {
+		update_option('youtube_channel_defaults', $defaults);
+		unset($defaults);
+	}
+
+} //END function au_youtube_channel_update_routine_10()
+
+
+/**
+ * Migrate widget settings to 3.0.8
+ */
+function au_youtube_channel_update_routine_11() {
+
+	$deprecated_widget_options = array(
+		'only_pl',
+		'showgoto',
+		'titlebelow',
+		'descappend'
+	);
+	// get YTC widgets
+	$ytc_widgets = get_option('widget_youtube-channel');
+	foreach ( $ytc_widgets as $widget_id => $widget_data ) {
+		// Process widget arrays, not _multiwidget bool
+		if ( $widget_id != '_multiwidget' ) {
+
+			// migrate only_pl to display
+			if ( isset($widget_data['only_pl']) && ! empty($widget_data['only_pl']) ) {
+				$ytc_widgets[ $widget_id ]['display'] = 'playlist';
+			}
+
+			// Migrate showbelow and showtitle in widgets
+			if ( ! empty($widget_data['showtitle']) ) {
+				if ( ! empty($widget_data['titlebelow']) ) {
+					$ytc_widgets[ $widget_id ]['showtitle'] = 'below';
+				} else {
+					$ytc_widgets[ $widget_id ]['showtitle'] = 'above';
+				}
+			} else {
+				$ytc_widgets[ $widget_id ]['showtitle'] = 'none';
+			}
+
+			// migrate link_to
+			if ( ! empty($widget_data['showgoto']) ) {
+
+				if ( isset($widget_data['link_to']) ) {
+					if ( $widget_data['link_to'] == 0 || $widget_data['link_to'] == 'legacy' ) {
+						$ytc_widgets[ $widget_id ]['link_to'] = 'legacy';
+					}
+					elseif ( $widget_data['link_to'] == 1 || $widget_data['link_to'] == 'channel' ) {
+						$ytc_widgets[ $widget_id ]['link_to'] = 'channel';
+					}
+					elseif ( $widget_data['link_to'] == 2 || $widget_data['link_to'] == 'vanity' ) {
+						$ytc_widgets[ $widget_id ]['link_to'] = 'vanity';
+					}
+				} else {
+					$ytc_widgets[ $widget_id ]['link_to'] = 'none';
+				}
+			} else {
+				$ytc_widgets[ $widget_id ]['link_to'] = 'none';
+			}
+
+			// Delete deprecated option
+			foreach ( $deprecated_widget_options as $deprecated_option_key ) {
+				if ( isset($widget_data[ $deprecated_option_key ]) ) {
+					unset ($ytc_widgets[ $widget_id ][ $deprecated_option_key ]);
+				}
+			}
+
+		} // END if ( $widget_id != '_multiwidget' )
+
+	} // END 	foreach ( $ytc_widgets as $widget_id => $widget_data )
+
+	update_option('widget_youtube-channel', $ytc_widgets);
+} // END function au_youtube_channel_update_routine_11()
+
+
+/**
+ * Add default value for new global option playsinline
+ */
+function au_youtube_channel_update_routine_14() {
+
+	// get options from DB
+	$defaults = get_option('youtube_channel_defaults');
+
+	$defaults['playsinline'] = 0;
+
+	if ( isset($defaults) ) {
+		update_option('youtube_channel_defaults', $defaults);
+		unset($defaults);
+	}
+
+} // END function au_youtube_channel_update_routine_14()
