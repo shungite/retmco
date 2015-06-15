@@ -65,7 +65,7 @@ Template Name: Page LG1415-09 Template
       </b>
       </p>
 
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. Although this string quartet transcription is structured in four movements, you will not hear the kinds of traditional forms that classical composers commonly used for their string quartets. Instead, the four movements could be compared to scenes in an opera, each telling a different story about Jan&aacute;&#269;ek&rsquo;s feelings for Kamila St&ouml;sslov&aacute; as revealed through his letters to her. Sometimes the different scenes are challenging to distinguish however, as there is continuous development of various rhythmic and melodic fragments of sound. 
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. Although this string quartet transcription is structured in four movements, you will not hear the kinds of traditional forms that classical composers commonly used for their string quartets. Instead, the four movements could be compared to scenes in an opera, each telling a different story about Jan&aacute;&#269;ek&rsquo;s feelings for Kamila St&ouml;sslov&aacute; as revealed through his letters to her. Sometimes the different scenes are challenging to distinguish however, as there is continuous development of various rhythmic and melodic fragments of sound. 
 
       Jan&aacute;&#269;ek begins each of his four movements with these tempo markings:
       <ol>
@@ -93,7 +93,7 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">2</span>The original String Quartet was written for 2 violins, viola, and cello but the performance by the Manitoba Chamber Orchestra is a transcription for string orchestra by Michael Oesterle on commission from the MCO. What <b>instruments</b> can you hear in this transcription for string orchestra? How many performers are playing onstage? 
+      <span class="badge">2</span> The original String Quartet was written for 2 violins, viola, and cello but the performance by the Manitoba Chamber Orchestra is a transcription for string orchestra by Michael Oesterle on commission from the MCO. What <b>instruments</b> can you hear in this transcription for string orchestra? How many performers are playing onstage? 
       </p>
 
       <p>
@@ -105,7 +105,7 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">3</span>Jan&aacute;&#269;ek uses <b>expressive elements</b> (musical elements that express certain feelings or dispositions) to capture his intense emotions and passion for Kamila St&ouml;sslov&aacute;. The composer uses rapidly changing <b>tempos</b> (the speed of the music) and <b>accelerando</b> (increases in tempo) to suggest agitation, anguish, passion, and varying emotions. Can you hear a particularly expressive accelerando in the third movement? This accelerando is so intense it creates an almost dizzying effect. 
+      <span class="badge">3</span> Jan&aacute;&#269;ek uses <b>expressive elements</b> (musical elements that express certain feelings or dispositions) to capture his intense emotions and passion for Kamila St&ouml;sslov&aacute;. The composer uses rapidly changing <b>tempos</b> (the speed of the music) and <b>accelerando</b> (increases in tempo) to suggest agitation, anguish, passion, and varying emotions. Can you hear a particularly expressive accelerando in the third movement? This accelerando is so intense it creates an almost dizzying effect. 
       </p>
 
       <p>
@@ -129,7 +129,7 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <P>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this string quartet transcription? Is this the kind of music that you can easily tap a steady rhythm or beat to? Can you hear that Jan&aacute;&#269;ek uses a very wide range and variety of rhythms that he repeats, contrasts and combines? Do you hear the way that Jan&aacute;&#269;ek uses rhythmic fragments to create the impression of speech patterns? Can you hear short rhythmic patterns (motifs) repeated at the opening of the work? Can you hear that the rhythmic pattern in the first four bars is repeated immediately and almost exactly in bars 5-8? 
+      <span class="badge">4</span> How is <b>rhythm</b> used in this string quartet transcription? Is this the kind of music that you can easily tap a steady rhythm or beat to? Can you hear that Jan&aacute;&#269;ek uses a very wide range and variety of rhythms that he repeats, contrasts and combines? Do you hear the way that Jan&aacute;&#269;ek uses rhythmic fragments to create the impression of speech patterns? Can you hear short rhythmic patterns (motifs) repeated at the opening of the work? Can you hear that the rhythmic pattern in the first four bars is repeated immediately and almost exactly in bars 5-8? 
       </P>
 
       <p>
@@ -137,7 +137,7 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this string quartet transcription?  
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this string quartet transcription?  
       </p>
 
       <p>
@@ -153,11 +153,11 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">6</span>What different kinds of <b>textures</b> do you hear in this work? Do you hear how Jan&aacute;&#269;ek uses the instruments to create a more minimalistic effect than the fuller orchestral sounds created in the Mozart Piano Concerto No. 26 also on this program? Jan&aacute;&#269;ek does not use traditional approaches to harmony or instrumental texture in this work but instead paints a mosaic of sound with various sound effects, tone colours, and melodic and rhythmic fragments, often interrupted by other instrumental sounds.   
+      <span class="badge">6</span> What different kinds of <b>textures</b> do you hear in this work? Do you hear how Jan&aacute;&#269;ek uses the instruments to create a more minimalistic effect than the fuller orchestral sounds created in the Mozart Piano Concerto No. 26 also on this program? Jan&aacute;&#269;ek does not use traditional approaches to harmony or instrumental texture in this work but instead paints a mosaic of sound with various sound effects, tone colours, and melodic and rhythmic fragments, often interrupted by other instrumental sounds.   
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because certain instruments are added or taken away? Can you hear different qualities of sound created by different instruments playing with the expressive techniques and effects such as <b>sul ponticello</b> described above? Can you hear the particular timbre of the viola (lower than the violin but higher than the cello) standing out over the other instruments at any time in this work?
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because certain instruments are added or taken away? Can you hear different qualities of sound created by different instruments playing with the expressive techniques and effects such as <b>sul ponticello</b> described above? Can you hear the particular timbre of the viola (lower than the violin but higher than the cello) standing out over the other instruments at any time in this work?
       </p>
 
       <div class="well">
@@ -181,11 +181,11 @@ Template Name: Page LG1415-09 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>Various sources have pointed out that Jan&aacute;&#269;ek was obsessed with Kamila St&ouml;sslov&aacute;. If you listen to Jan&aacute;&#269;ek&rsquo;s work with that perspective in mind, how are Jan&aacute;&#269;ek&rsquo;s obsessive feelings translated into music? 
+      <span class="badge">2</span> Various sources have pointed out that Jan&aacute;&#269;ek was obsessed with Kamila St&ouml;sslov&aacute;. If you listen to Jan&aacute;&#269;ek&rsquo;s work with that perspective in mind, how are Jan&aacute;&#269;ek&rsquo;s obsessive feelings translated into music? 
       </p>
 
       <p>
@@ -197,19 +197,19 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">4</span>What musical elements did you enjoy or find interesting? What effect did the melodic fragments or short themes have on you? Did the rhythms, dynamics, or tempos used by Jan&aacute;&#269;ek capture emotional intensity for you or did they create a different emotional response? What feeling were you left with at the end of the fourth movement? Is this a happy love story? Did the work end on a hopeful or a despairing note for you?
+      <span class="badge">4</span> What musical elements did you enjoy or find interesting? What effect did the melodic fragments or short themes have on you? Did the rhythms, dynamics, or tempos used by Jan&aacute;&#269;ek capture emotional intensity for you or did they create a different emotional response? What feeling were you left with at the end of the fourth movement? Is this a happy love story? Did the work end on a hopeful or a despairing note for you?
       </p>
 
       <p>
-      <span class="badge">5</span>Were there parts of the work that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">5</span> Were there parts of the work that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <P>
-      <span class="badge">6</span>Different people often have different responses to the same music. Ask someone else who heard the same music about her or his response to this transcription of Jan&aacute;&#269;ek&rsquo;s String Quartet No.2.
+      <span class="badge">6</span> Different people often have different responses to the same music. Ask someone else who heard the same music about her or his response to this transcription of Jan&aacute;&#269;ek&rsquo;s String Quartet No.2.
       </P>
 
       <p>
-      <span class="badge">7</span>Is there other music by Jan&aacute;&#269;ek that you could listen to and compare to the sounds and experience of this transcription of the String Quartet No. 2? Perhaps you could listen to Jan&aacute;&#269;ek&rsquo;s String Quartet No. 1, subtitled &ldquo;Kreutzer Sonata&rdquo; that the Manitoba Chamber Orchestra premiered as an orchestral arrangement on March 17, 2015. 
+      <span class="badge">7</span> Is there other music by Jan&aacute;&#269;ek that you could listen to and compare to the sounds and experience of this transcription of the String Quartet No. 2? Perhaps you could listen to Jan&aacute;&#269;ek&rsquo;s String Quartet No. 1, subtitled &ldquo;Kreutzer Sonata&rdquo; that the Manitoba Chamber Orchestra premiered as an orchestral arrangement on March 17, 2015. 
       </p>
 
       <p><b>WOLFGANG AMADEUS MOZART: PIANO CONCERTO NO. 26 IN D MAJOR (K 537) &ldquo;CORONATION&rdquo;</b></p>
@@ -247,7 +247,7 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. Can you identify the form of this piano concerto? Can you hear that it is written in three different sections, or movements? They are called: 
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. Can you identify the form of this piano concerto? Can you hear that it is written in three different sections, or movements? They are called: 
       </p>
 
       <ol>
@@ -282,7 +282,7 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">2</span>What <b>Instruments</b> can you hear in this concerto? How many performers are playing onstage? Mozart wrote this concerto for solo piano, 2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani (large drums) and strings. What string instruments do you hear (violin, viola, cello, double bass)? Can you pick out when you hear the other instruments? 
+      <span class="badge">2</span> What <b>Instruments</b> can you hear in this concerto? How many performers are playing onstage? Mozart wrote this concerto for solo piano, 2 oboes, 2 bassoons, 2 horns, 2 trumpets, timpani (large drums) and strings. What string instruments do you hear (violin, viola, cello, double bass)? Can you pick out when you hear the other instruments? 
       </p>
 
       <p>
@@ -294,7 +294,7 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">3</span>Mozart uses <b>expressive elements</b> (music elements that express certain feelings or dispositions), <b>tempo</b> (the speed of the music), and <b>dynamics</b> (the volume of the music) to create different moods throughout the concerto. 
+      <span class="badge">3</span> Mozart uses <b>expressive elements</b> (music elements that express certain feelings or dispositions), <b>tempo</b> (the speed of the music), and <b>dynamics</b> (the volume of the music) to create different moods throughout the concerto. 
       </p>
 
       <p>
@@ -314,11 +314,11 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this piano concerto? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work? Was there a particular pattern that you could hear repeated anywhere in the work?  
+      <span class="badge">4</span> How is <b>rhythm</b> used in this piano concerto? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work? Was there a particular pattern that you could hear repeated anywhere in the work?  
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this piano concerto?  
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this piano concerto?  
       </p>
 
       <p>
@@ -334,11 +334,11 @@ Template Name: Page LG1415-09 Template
       </p>
 
       <p>
-      <span class="badge">6</span>Can you hear different kinds of <b>texture</b> in this work? Where do you hear lots of instruments playing together so that the sound is thick? Where do you hear just a few instruments playing? Can you tell which instruments are playing? Where does the piano play all by itself?
+      <span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work? Where do you hear lots of instruments playing together so that the sound is thick? Where do you hear just a few instruments playing? Can you tell which instruments are playing? Where does the piano play all by itself?
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because Mozart adds different instruments to the strings? Can you hear when the strings are playing alone and when they are playing together with the piano and other instruments?
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because Mozart adds different instruments to the strings? Can you hear when the strings are playing alone and when they are playing together with the piano and other instruments?
       </p>
 
       <p>
@@ -366,31 +366,31 @@ Template Name: Page LG1415-09 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of? 
+      <span class="badge">1</span> What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of? 
       </p>
 
       <P>
-      <span class="badge">2</span>What adjectives might describe the mood that you felt when listening to this piano concerto? Can you identify what musical elements may have created that mood for you? When did the mood change and why?
+      <span class="badge">2</span> What adjectives might describe the mood that you felt when listening to this piano concerto? Can you identify what musical elements may have created that mood for you? When did the mood change and why?
       </P>
 
       <p>
-      <span class="badge">3</span>What musical elements did you enjoy or find interesting? Did you enjoy the melodies that you heard? Did the rhythms, dynamics, or tempos used by Mozart help make this work exciting? Did you hear parts of the piano concerto that made you feel peaceful or calm and if so, what part of the piano concerto were they in? Were there any parts that sounded playful to you? If so, which movement did you hear them in?
+      <span class="badge">3</span> What musical elements did you enjoy or find interesting? Did you enjoy the melodies that you heard? Did the rhythms, dynamics, or tempos used by Mozart help make this work exciting? Did you hear parts of the piano concerto that made you feel peaceful or calm and if so, what part of the piano concerto were they in? Were there any parts that sounded playful to you? If so, which movement did you hear them in?
       </p>
 
       <p>
-      <span class="badge">4</span>Were there parts of the Piano Concerto that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">4</span> Were there parts of the Piano Concerto that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">5</span>Different people often have different responses to the same music. Ask someone else who heard the same music about her or his response to Mozart&rsquo;s piano concerto no. 26.   
+      <span class="badge">5</span> Different people often have different responses to the same music. Ask someone else who heard the same music about her or his response to Mozart&rsquo;s piano concerto no. 26.   
       </p>
 
       <p>
-      <span class="badge">6</span>What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
+      <span class="badge">6</span> What feelings did it seem that Mozart was trying to communicate to his audience about this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Mozart that you could listen to and compare to the sounds and experience of the Piano Concerto No. 26? Could you listen to any other piano concertos by Mozart?  
+      <span class="badge">7</span> Is there other music by Mozart that you could listen to and compare to the sounds and experience of the Piano Concerto No. 26? Could you listen to any other piano concertos by Mozart?  
       </p>
 
     </div><!-- /span7 -->

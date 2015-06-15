@@ -29,7 +29,7 @@ Template Name: Page LG1415-08 Template
       Francesco Geminiani (1687-1762) was both a brilliant violin virtuoso and a composer of the Baroque period (roughly 1600-1750). Soon after Geminiani moved from his home in Italy to London in 1714, he established himself as a leading violin player, composer and theorist in England. In 1731 Geminiani wrote the famous and still authoritative The Art of Violin Playing.
       </p>
       <p>
-      The Concerto Grosso Op. 5, No. 12 is an arrangement of a Violin Sonata written by Geminiani¿s teacher, Arcangelo Corelli. Corelli published his highly popular twelve Sonatas for Violin and Continuo Op. 5 in 1700. Geminiani arranged all twelve sonatas as concerti grossi between 1726 and 1727. The last sonata is unique in that it is not a traditional sonata, but rather a set of variations on a widely known modal harmonic progression known as &lsquo;La Follia di Spagna&rsquo; or &lsquo;The Folly of Spain.&rsquo; This traditional harmonic progression can be traced to its use in 15th century dances of Spain and Portugal and has served as the source of inspiration for numerous composers. 
+      The Concerto Grosso Op. 5, No. 12 is an arrangement of a Violin Sonata written by Geminiani&rsquo;s teacher, Arcangelo Corelli. Corelli published his highly popular twelve Sonatas for Violin and Continuo Op. 5 in 1700. Geminiani arranged all twelve sonatas as concerti grossi between 1726 and 1727. The last sonata is unique in that it is not a traditional sonata, but rather a set of variations on a widely known modal harmonic progression known as &lsquo;La Follia di Spagna&rsquo; or &lsquo;The Folly of Spain.&rsquo; This traditional harmonic progression can be traced to its use in 15th century dances of Spain and Portugal and has served as the source of inspiration for numerous composers. 
       </p>
       <p>
       Geminani&rsquo;s arrangement of &lsquo;La Follia&rsquo; produced a virtuosic and brilliant set of contrasting variations for concerto grosso. 
@@ -55,19 +55,18 @@ Template Name: Page LG1415-08 Template
       </b>
       </p>
 
-      <span class="badge">1</span>Form in music refers to the musical architecture or the way the music is structured. The Concerto Grosso is a form of baroque music that contrasts a large ensemble called the ripieno with a smaller group of soloists known as the concertino. The word grosso is Italian for &ldquo;big concert&rdquo; and refers to the larger ripieno (or tutti or concerto grosso). 
+      <span class="badge">1</span> Form in music refers to the musical architecture or the way the music is structured. The Concerto Grosso is a form of baroque music that contrasts a large ensemble called the ripieno with a smaller group of soloists known as the concertino. The word grosso is Italian for &ldquo;big concert&rdquo; and refers to the larger ripieno (or tutti or concerto grosso). 
       Arcangelo Corelli, Geminiani&rsquo;s teacher, was the first composer to use the term Concerto Grosso. Typically, he used the string section as the ripieno group, and featured two violins and a cello in the concertino group. 
       Can you hear that the form of this Concerto Grosso is actually a set of variations on a theme? The original work features 23 variations on the La Follia theme and harmonic progression. 
 
-      The theme is presented at the outset of the work and is played adagio (slowly). You can hear the first variation as it is clearly contrasted to the theme by its faster, quick and lively Allegro tempo. The remaining variations are also easily distinguished by contrasting tempos. The highly contrasting and quick changing variations themselves feature different forms¿can you hear a jig, a march, or an arpeggiated variation? Can you hear musical themes and motives traded between the small and large groups? 
+      The theme is presented at the outset of the work and is played adagio (slowly). You can hear the first variation as it is clearly contrasted to the theme by its faster, quick and lively Allegro tempo. The remaining variations are also easily distinguished by contrasting tempos. The highly contrasting and quick changing variations themselves feature different forms &mdash; can you hear a jig, a march, or an arpeggiated variation? Can you hear musical themes and motives traded between the small and large groups? 
 
       <p>
-      <span class="badge">2</span>What <b>Instruments</b> can you hear in this Concerto Grosso by Geminiani? Can you hear the two contrasting groups of instruments in the <b>concertino</b> and <b>ripieno</b>? Can you hear the interplay between the solo violin and second violin as they play their virtuosic, technically difficult parts? Can you hear the conversations between the solo and tutti groups? Do you also hear a harpsichord that accompanies the groups? A harmony instrument such as a harpsichord, lute, or organ along with a bass melody instrument such as cello was known in Geminiani&rsquo;s time as a <b>continuo</b>. 
+      <span class="badge">2</span> What <b>Instruments</b> can you hear in this Concerto Grosso by Geminiani? Can you hear the two contrasting groups of instruments in the <b>concertino</b> and <b>ripieno</b>? Can you hear the interplay between the solo violin and second violin as they play their virtuosic, technically difficult parts? Can you hear the conversations between the solo and tutti groups? Do you also hear a harpsichord that accompanies the groups? A harmony instrument such as a harpsichord, lute, or organ along with a bass melody instrument such as cello was known in Geminiani&rsquo;s time as a <b>continuo</b>. 
       </p>
 
       <p>
-      <span class="badge">3</span>How does Geminiani use <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying <b>tempos</b> (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest and excitement? What <b>tempos</b> (the speed of the music) can you identify in this work? Can you hear a slow tempo at the beginning of the concerto gross followed by a more energetic Allegro (fast and lively)? Can you hear other contrasting tempos throughout the variations? 
-
+      <span class="badge">3</span> How does Geminiani use <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying <b>tempos</b> (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest and excitement? What <b>tempos</b> (the speed of the music) can you identify in this work? Can you hear a slow tempo at the beginning of the concerto gross followed by a more energetic Allegro (fast and lively)? Can you hear other contrasting tempos throughout the variations? 
       </p>
 
       <p>
@@ -87,16 +86,16 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <p>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this concerto grosso? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work? Can you identify the rhythmic pattern of the opening theme heard and varied throughout the concerto grosso? Can you hear that the opening theme makes use of a dotted note pattern (long then short sound)?  
+      <span class="badge">4</span> How is <b>rhythm</b> used in this concerto grosso? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work? Can you identify the rhythmic pattern of the opening theme heard and varied throughout the concerto grosso? Can you hear that the opening theme makes use of a dotted note pattern (long then short sound)?  
       </p>
 
       <p>
-      The opening theme is in ¾ time with three beats to a measure. Can you hear that the pulse or beat of the opening theme can be counted in threes? The opening bar is a quarter note followed by a dotted quarter note and eighth note. The second bar is made up of a half note followed by a quarter note. These patterns are featured in the opening theme and varied throughout the work.  
+      The opening theme is in &frac34; time with three beats to a measure. Can you hear that the pulse or beat of the opening theme can be counted in threes? The opening bar is a quarter note followed by a dotted quarter note and eighth note. The second bar is made up of a half note followed by a quarter note. These patterns are featured in the opening theme and varied throughout the work.  
       </p>
 
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this Concerto Grosso? Can you hear how the melody of the opening solemn theme is repeated, combined, and varied in different ways throughout the Concerto Grosso? The &ldquo;La Follia&rdquo; melody is known as a very catchy tune¿can you hum this melody? 
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this Concerto Grosso? Can you hear how the melody of the opening solemn theme is repeated, combined, and varied in different ways throughout the Concerto Grosso? The &ldquo;La Follia&rdquo; melody is known as a very catchy tune &mdash; can you hum this melody? 
       </p>
 
       <p>
@@ -108,7 +107,7 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <p>
-      <span class="badge">6</span>Can you hear different kinds of <b>texture</b> in this work produced by the two different groups of instruments¿concertino and ripieno? Where do you hear all the instruments playing together so that the sound is thick? 
+      <span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work produced by the two different groups of instruments, concertino and ripieno? Where do you hear all the instruments playing together so that the sound is thick? 
       </p>
 
       <p>
@@ -116,7 +115,7 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because certain instruments are added or taken away? How is the timbre of the ripieno contrasted to the timbre of the instruments in the concertino? 
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because certain instruments are added or taken away? How is the timbre of the ripieno contrasted to the timbre of the instruments in the concertino? 
       </p>
 
       <div class="well">
@@ -140,15 +139,15 @@ Template Name: Page LG1415-08 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What feelings or moods did it seem that Geminiani was trying to communicate to his audience in this work? What music elements seemed to be important to him?
+      <span class="badge">2</span> What feelings or moods did it seem that Geminiani was trying to communicate to his audience in this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">3</span>What adjectives might describe the mood that you felt when listening to this work? Can you identify what musical elements may have created that mood for you? When did the mood change and why?
+      <span class="badge">3</span> What adjectives might describe the mood that you felt when listening to this work? Can you identify what musical elements may have created that mood for you? When did the mood change and why?
       </p>
 
       <p>
@@ -156,15 +155,15 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <p>
-      <span class="badge">5</span>Were there parts of the work that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">5</span> Were there parts of the work that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">6</span>Different people often have different responses to the same music. Ask others who heard the same music about their response to Geminiani&rsquo;s Concerto Grosso in D Minor. 
+      <span class="badge">6</span >Different people often have different responses to the same music. Ask others who heard the same music about their response to Geminiani&rsquo;s Concerto Grosso in D Minor. 
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Geminiani that you could listen to and compare to the sounds and experience of this Concerto Grosso? How does this work compare to the sounds and experience of listening to the original Violin Sonata in D minor by Corelli? Could you listen to other Baroque concerto grossi or Baroque composers?
+      <span class="badge">7</span> Is there other music by Geminiani that you could listen to and compare to the sounds and experience of this Concerto Grosso? How does this work compare to the sounds and experience of listening to the original Violin Sonata in D minor by Corelli? Could you listen to other Baroque concerto grossi or Baroque composers?
       </p>
 
       <p>
@@ -201,7 +200,7 @@ Template Name: Page LG1415-08 Template
       </b>
       </p>
 
-      <span class="badge">1</span><b>Form</b> in music refers to the musical architecture or the way the music is structured. The Lute Concert in D Major follows Vivaldi&rsquo;s typical fast slow fast three-movement form for concertos. Can you hear that this work is in three large sections or movements called:
+      <span class="badge">1</span> <b>Form</b> in music refers to the musical architecture or the way the music is structured. The Lute Concert in D Major follows Vivaldi&rsquo;s typical fast slow fast three-movement form for concertos. Can you hear that this work is in three large sections or movements called:
 
       <ol>
         <li>Allegro (lively and quick)</li>
@@ -230,11 +229,11 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <p>
-      <span class="badge">2</span>What <b>Instruments</b> can you hear in this Lute Concerto by Vivaldi? Can you hear the guitar contrasted with the tutti (all instruments played together) thematic ritornello sections? Can you hear the conversations between the solo and tutti groups? Do you also hear a harpsichord that accompanies the lute? A harmony instrument such as a harpsichord or organ along with a bass melody instrument was known in Vivaldi&rsquo;s time as the <b>continuo</b>. 
+      <span class="badge">2</span> What <b>Instruments</b> can you hear in this Lute Concerto by Vivaldi? Can you hear the guitar contrasted with the tutti (all instruments played together) thematic ritornello sections? Can you hear the conversations between the solo and tutti groups? Do you also hear a harpsichord that accompanies the lute? A harmony instrument such as a harpsichord or organ along with a bass melody instrument was known in Vivaldi&rsquo;s time as the <b>continuo</b>. 
       </p>
 
       <p>
-      <span class="badge">3</span>How does Vivaldi use <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying <b>tempos</b> (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest and excitement? What <b>tempos</b> (the speed of the music) can you identify in this work? Do you hear fast tempos in the first and third movements? 
+      <span class="badge">3</span> How does Vivaldi use <b>expressive elements</b> (musical elements that express certain feelings or dispositions), varying <b>tempos</b> (the speed of the music), and <b>Dynamics</b> (the volume of the music) to create interest and excitement? What <b>tempos</b> (the speed of the music) can you identify in this work? Do you hear fast tempos in the first and third movements? 
       </p>
 
       <p>
@@ -262,7 +261,7 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <P>
-      <span class="badge">4</span>How is <b>rhythm</b> used in this lute concerto? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work? Can you hear the first movement opening three note scalic rhythmic pattern that sounds almost like a bird call in the quickly ornamented sounds? Then after two &ldquo;bird calls&rdquo; can you hear four notes repeated in the same rhythm? Can you hear the decorated bird call rhythms anywhere else in the first movement? Can you hear that the second theme of the opening ritornello has more even rhythms? 
+      <span class="badge">4</span> How is <b>rhythm</b> used in this lute concerto? Do you hear sections that have a steady rhythm or beat that you could tap to? Did any particular rhythmic pattern stand out for you that you could listen for in the work? Can you hear the first movement opening three note scalic rhythmic pattern that sounds almost like a bird call in the quickly ornamented sounds? Then after two &ldquo;bird calls&rdquo; can you hear four notes repeated in the same rhythm? Can you hear the decorated bird call rhythms anywhere else in the first movement? Can you hear that the second theme of the opening ritornello has more even rhythms? 
       </P>
 
       <p>
@@ -270,7 +269,7 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <p>
-      <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this Lute Concerto? 
+      <span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this Lute Concerto? 
       </p>
 
       <p>
@@ -286,7 +285,7 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <P>
-      <span class="badge">6</span>Can you hear different kinds of <b>texture</b> in this work produced by the two different groups of instruments¿soloist and tutti orchestra? Where do you hear all the instruments playing together so that the sound is thick? Can you hear the thick, chordal (homophonic) sounds of the tutti parts in the first and third movements?
+      <span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work produced by the two different groups of instruments &mdash; soloist and tutti orchestra? Where do you hear all the instruments playing together so that the sound is thick? Can you hear the thick, chordal (homophonic) sounds of the tutti parts in the first and third movements?
       </P>
 
       <p>
@@ -298,7 +297,7 @@ Template Name: Page LG1415-08 Template
       </p>
 
       <p>
-      <span class="badge">7</span>What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because certain instruments are added or taken away? How is the timbre of the tutti contrasted to the timbre of the guitar? 
+      <span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound that can be heard, for example the kinds of sounds that the string instruments make when they play together. When does the timbre of the music change because certain instruments are added or taken away? How is the timbre of the tutti contrasted to the timbre of the guitar? 
       </p>
 
       <div class="well">
@@ -321,31 +320,31 @@ Template Name: Page LG1415-08 Template
       </div>
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What feelings or moods did it seem that Vivaldi was trying to communicate to his audience in this work? What music elements seemed to be important to him?
+      <span class="badge">2</span> What feelings or moods did it seem that Vivaldi was trying to communicate to his audience in this work? What music elements seemed to be important to him?
       </p>
 
       <p>
-      <span class="badge">3</span>What adjectives might describe the mood that you felt when listening to this work? Can you identify what musical elements may have created that mood for you? When did the mood change and why?
+      <span class="badge">3</span> What adjectives might describe the mood that you felt when listening to this work? Can you identify what musical elements may have created that mood for you? When did the mood change and why?
       </p>
 
       <p>
-      <span class="badge">4</span>What musical elements did you enjoy or find interesting? What feelings were you left with at the end of the lute concerto? 
+      <span class="badge">4</span> What musical elements did you enjoy or find interesting? What feelings were you left with at the end of the lute concerto? 
       </p>
 
       <p>
-      <span class="badge">5</span>Were there parts of the work that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">5</span> Were there parts of the work that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">6</span>Different people often have different responses to the same music. Ask others who heard the same music about their response to Vivaldi&rsquo;s Lute Concerto in D?
+      <span class="badge">6</span> Different people often have different responses to the same music. Ask others who heard the same music about their response to Vivaldi&rsquo;s Lute Concerto in D?
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by Vivaldi that you could listen to and compare to the sounds and experience of this Lute Concerto? Have you ever heard Vivaldi&rsquo;s The Four Seasons? Could you listen to other Baroque concertos?
+      <span class="badge">7</span> Is there other music by Vivaldi that you could listen to and compare to the sounds and experience of this Lute Concerto? Have you ever heard Vivaldi&rsquo;s The Four Seasons? Could you listen to other Baroque concertos?
       </p>
 
       <p>
@@ -394,7 +393,7 @@ Template Name: Page LG1415-08 Template
         <li>Do you hear humour, as do many listeners, in this work? What music elements might contribute to the humour of this piece?</li>
         <li>What creates a feeling of hardness, aggressiveness, and perhaps violence in this work?</li>
         <li>Do you hear qualities of jealousy &mdash; how might that be created in the music?</li>
-        <li>Do you hear unexpected sounds in the music¿what elements create a sense of the unexpected and surprise for you?</li>
+        <li>Do you hear unexpected sounds in the music &mdash; what elements create a sense of the unexpected and surprise for you?</li>
       </ul>
 
       <div class="well">
@@ -418,31 +417,31 @@ Template Name: Page LG1415-08 Template
       </div>  
 
       <p>
-      <span class="badge">1</span>What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
+      <span class="badge">1</span> What is your immediate response to this music? Does this music sound like any other music you have heard before? What does this music make you think of?  
       </p>
 
       <p>
-      <span class="badge">2</span>What feelings or moods did it seem that the composers were trying to communicate in these works? What music elements were important?
+      <span class="badge">2</span> What feelings or moods did it seem that the composers were trying to communicate in these works? What music elements were important?
       </p>
 
       <p>
-      <span class="badge">3</span>What adjectives might describe the mood that you felt when listening to these works? Can you identify what musical elements may have created that mood for you?  
+      <span class="badge">3</span> What adjectives might describe the mood that you felt when listening to these works? Can you identify what musical elements may have created that mood for you?  
       </p>
 
       <p>
-      <span class="badge">4</span>What musical elements did you enjoy or find interesting? What feelings were you left with at the end of these works? 
+      <span class="badge">4</span> What musical elements did you enjoy or find interesting? What feelings were you left with at the end of these works? 
       </p>
 
       <p>
-      <span class="badge">5</span>Were there parts of the works that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
+      <span class="badge">5</span> Were there parts of the works that you did not enjoy? Why or why not? Can you identify which music elements made you enjoy or not enjoy the music?
       </p>
 
       <p>
-      <span class="badge">6</span>Different people often have different responses to the same music. Ask others who heard the same music about their response to these works.
+      <span class="badge">6</span> Different people often have different responses to the same music. Ask others who heard the same music about their response to these works.
       </p>
 
       <p>
-      <span class="badge">7</span>Is there other music by contemporary composers that you could listen to and compare to the sounds and experience of these works?
+      <span class="badge">7</span> Is there other music by contemporary composers that you could listen to and compare to the sounds and experience of these works?
       </p>
 
     </div><!-- /span7 -->
