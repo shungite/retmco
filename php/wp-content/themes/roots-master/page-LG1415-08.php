@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page LG1415-07 Template
+Template Name: Page LG1415-08 Template
 */
 ?>
 
@@ -49,21 +49,17 @@ Template Name: Page LG1415-07 Template
         <p><b>9-12 Connecting:</b> The learner develops understandings about the significance of music by connecting music to diverse contexts.</p>
       </div>
 
-
-
       <p>
       <b>
         The following questions can help you listen to this work:
       </b>
       </p>
 
-
       <span class="badge">1</span>Form in music refers to the musical architecture or the way the music is structured. The Concerto Grosso is a form of baroque music that contrasts a large ensemble called the ripieno with a smaller group of soloists known as the concertino. The word grosso is Italian for &ldquo;big concert&rdquo; and refers to the larger ripieno (or tutti or concerto grosso). 
       Arcangelo Corelli, Geminiani&rsquo;s teacher, was the first composer to use the term Concerto Grosso. Typically, he used the string section as the ripieno group, and featured two violins and a cello in the concertino group. 
       Can you hear that the form of this Concerto Grosso is actually a set of variations on a theme? The original work features 23 variations on the La Follia theme and harmonic progression. 
 
       The theme is presented at the outset of the work and is played adagio (slowly). You can hear the first variation as it is clearly contrasted to the theme by its faster, quick and lively Allegro tempo. The remaining variations are also easily distinguished by contrasting tempos. The highly contrasting and quick changing variations themselves feature different forms¿can you hear a jig, a march, or an arpeggiated variation? Can you hear musical themes and motives traded between the small and large groups? 
-
 
       <p>
       <span class="badge">2</span>What <b>Instruments</b> can you hear in this Concerto Grosso by Geminiani? Can you hear the two contrasting groups of instruments in the <b>concertino</b> and <b>ripieno</b>? Can you hear the interplay between the solo violin and second violin as they play their virtuosic, technically difficult parts? Can you hear the conversations between the solo and tutti groups? Do you also hear a harpsichord that accompanies the groups? A harmony instrument such as a harpsichord, lute, or organ along with a bass melody instrument such as cello was known in Geminiani&rsquo;s time as a <b>continuo</b>. 
@@ -273,7 +269,6 @@ Template Name: Page LG1415-07 Template
       Can you hear the use of dotted rhythms featured in the second movement that give a rocking quality to this section? Can you hear longer held rhythms in the accompaniment part? Do you hear the fast rhythms that create rhythmic vitality in the third movement?
       </p>
 
-
       <p>
       <span class="badge">5</span>How is <b>melody</b> or <b>pitch</b> used in this Lute Concerto? 
       </p>
@@ -387,7 +382,6 @@ Template Name: Page LG1415-07 Template
         <li>What is the effect of passages where instruments are muted or play without vibrato?</li>
         <li>How are expressive music elements (dynamics, tempo, legato, sustained rhythms and melodies) used to create a return to serenity at the conclusion of this work?</li>
       </ul>
-
 
       <p>
       Critics have declared Gerald Barry&rsquo;s music like no other, always unexpected, sometimes surreal, and revealing elements of a musical maverick. Do you hear these qualities in <i>La Jalousie Taciturne</i>? What music elements might create these qualities?

@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page LG1415-07 Template
+Template Name: Page LG1415-09 Template
 */
 ?>
 
@@ -151,7 +151,6 @@ Template Name: Page LG1415-07 Template
       <p>
       Can you hear two different themes played by the viola in the adagio movement? These themes are often considered to represent a love duet between Jan&aacute;&#269;ek and Kamila St&ouml;sslov&aacute;. Does the first melody played by the viola suggest sadness perhaps as a result of distance between Jan&aacute;&#269;ek and the woman he loves? Can you hear how this theme is transformed throughout the movement by different instruments and expressive treatment? Do you hear a sudden dance tune that might suggest an orchestra playing at the spa where Jan&aacute;&#269;ek and Kamila met in the setting suggested by this movement? What happens to the dance melody? Does it continue happily or do the sad sounding melodies of the opening movement return? What does this sad melodic ending suggest about the meaning of the second movement? 
       </p>
-
 
       <p>
       <span class="badge">6</span>What different kinds of <b>textures</b> do you hear in this work? Do you hear how Jan&aacute;&#269;ek uses the instruments to create a more minimalistic effect than the fuller orchestral sounds created in the Mozart Piano Concerto No. 26 also on this program? Jan&aacute;&#269;ek does not use traditional approaches to harmony or instrumental texture in this work but instead paints a mosaic of sound with various sound effects, tone colours, and melodic and rhythmic fragments, often interrupted by other instrumental sounds.   
