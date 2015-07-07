@@ -8,7 +8,7 @@ Template Name: Page MCOhome Template
 
   <div class="row-fluid">
     <div class="span8">
-      <a href="http://www.themco.ca/quick-links-1516-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2015/06/SubscribeNow2.jpg" alt="MCO / Subscribe now!"></a>
+      <a href="http://www.themco.ca/quick-links-1516-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2015/07/SubscribeNow.png" alt="MCO / Subscribe now!"></a>
       <h4><b>Subscribe now to MCO&rsquo;s 2015/16 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</h4>
       <p></b>Only subscribers enjoy every benefit the MCO has to offer, like a free premium compact disc, a Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and <b>savings of up to 25%!</b> Plus, design your own subscription: a 9-concert package can be three tickets to each of three concerts; a 6-concert package can be two to each of three &hellip; you do the math! Make this the season you subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;</p>
         <p><a href="http://www.themco.ca/wp-content/uploads/2015/03/1516Renewal.pdf"><button class="btn btn-small btn-inverse" type="button">Renewal form</button> <a href="http://www.themco.ca/quick-links-1516-subscriptions/"><button class="btn btn-small btn-success" type="button">Quick links to 15/16 subscription tickets</button></a><br>&nbsp;</p>
@@ -24,7 +24,7 @@ Template Name: Page MCOhome Template
       <div class="well-white">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/07/DonorCello.jpg" width="96px" height="96px"></a>
           <div class="media-body">
-            <p><strong><a href="http://www.themco.ca/quick-links-1516-subscriptions/">Subscribe now to MCO&rsquo;s 2015/16 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</strong></a><br />Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. Make this the season you subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;</p> 
+            <p><strong><a href="http://www.themco.ca/quick-links-1516-subscriptions/">Subscribe now to MCO&rsquo;s 2015/16 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</strong></a><br />Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. Make this the season you subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;</p>
           </div>
         </div>
       </div>
@@ -36,7 +36,7 @@ Template Name: Page MCOhome Template
       <div class="well">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px"></a>
           <div class="media-body">
-            <p><strong><a href="#">Next MCO Vinyl Vault sale: Saturday, 27 June 2015</strong></a><br />From 10:00 am to 3:00 pm on the last Saturday of each month, browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p> 
+            <p><strong><a href="#">Next MCO Vinyl Vault sale: Saturday, 27 June 2015</strong></a><br />From 10:00 am to 3:00 pm on the last Saturday of each month, browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p>
           </div>
         </div>
       </div>
@@ -71,4 +71,3 @@ $(document).ready(function () {
   $("[rel=tooltip]").tooltip();
 });
 </script>
-
