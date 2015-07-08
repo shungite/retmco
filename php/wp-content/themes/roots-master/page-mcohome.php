@@ -36,7 +36,7 @@ Template Name: Page MCOhome Template
       <div class="well">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px"></a>
           <div class="media-body">
-            <p><strong><a href="#">Next MCO Vinyl Vault sale: Saturday, 27 June 2015</strong></a><br />From 10:00 am to 3:00 pm on the last Saturday of each month, browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p>
+            <p><strong><a href="#">4-DAY SUMMER SIZZLE SALE! Tuesday, August 27th thru Friday, August 21st &hellip;</strong></a><br />Get your hot vinyl from 10:00 am to 2:00 pm for four glorious odays in August! Browse to your heart's content through Winnipeg&rsquo;s finest used LP/CD collection. 1000s of LPs have been donated since our last sale! MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p>
           </div>
         </div>
       </div>
