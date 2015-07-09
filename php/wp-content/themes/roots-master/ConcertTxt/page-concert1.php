@@ -76,8 +76,8 @@ Template Name: Page Concert1 Template
 				<p>Marc-Andr&eacute; Hamelin, piano</p>
 				<p><b>THE BUHLER CONCERT</b></p>
 				<p><strong>Valentyn Sylvestrov</strong><br><i>The Messenger</i> (Der Bote), for synthesizer, piano and string orchestra</p>
-				<p>Wolfgang Amadeus Mozart<br>Symphony No.25, in G minor (K 183 / 173dB)</p>
-				<p>Giya Kancheli<br><i>Valse Boston</i></p>
+				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No.25, in G minor (K 183 / 173dB)</p>
+				<p><b>Giya Kancheli</b><br><i>Valse Boston</i></p>
 				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
 			</div>
 		  <div class="tab-pane fade" id="bios">
