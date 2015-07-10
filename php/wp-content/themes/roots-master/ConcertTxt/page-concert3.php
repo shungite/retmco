@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page Concert1 Template
+Template Name: Page Concert3 Template
 */
 ?>
 
@@ -22,14 +22,14 @@ Template Name: Page Concert1 Template
 	<div class="span7">
 		<h4><div>Lovely Christmas bits &lsquo;n bobs, baroque baubles</div></h4>
 		<p>Our MCO Christmas Concert will sparkle like a treasure trove of musical gems, with wonderful traditional works, such as Benjamin Britten&rsquo;s Ceremony of Carols, to be sung by the Winnipeg Boys Choir (Carolyn Boyes, Music Director), and Arcangelo Corelli&rsquo;s Christmas Concerto. </p>
-		<p>Slightly less traditional is the Christmas anthem <i>The Gist of Time</i> by Eric Robertson, with text by Tim Wynne-Jones. This choral work will be sung by the Pembina Trails Voices Singers, directed by David Sawatzky & Philip Lapatha.</p>
+		<p>Slightly less traditional is the Christmas anthem <i>The Gist of Time</i> by Eric Robertson, with text by Tim Wynne-Jones. This choral work will be sung by the Pembina Trails Voices Singers, directed by David Sawatzky &mp; Philip Lapatha.</p>
 		<p>Heinrich Ignaz Franz von Biber was one of the most important composers for the violin in the history of the instrument. As a skilled violinist himself, his difficult music continues to challenge violinists today. We&rsquo;ll all have fun with this early work by Biber, in which various unusual violin techniques are used to imitate a whole menagerie of animals! </p>
     <p><b>Earl Stafford</b></p>
-		<p>Winnipeg legend Earl Stafford is the complete conductor. He is comfortable conducting and playing a variety of styles of music &mdash; from the classics to the avant garde, and from chamber music to pops. Twenty-five years as the Royal Win­nipeg Ballet&rsquo;s Music Director and Principal Con­ductor add a new dimension altogether.</p>
+		<p>Winnipeg legend Earl Stafford is the complete conductor. He is comfortable conducting and playing a variety of styles of music &mdash; from the classics to the avant garde, and from chamber music to pops. Twenty-five years as the Royal Winnipeg Ballet&rsquo;s Music Director and Principal Conductor add a new dimension altogether.</p>
 		<p>With this versatile conductor at the helm, this MCO Christmas offering will be a treat for all, with its sparkling and intriguing range of works. </p>
   <div>
     <p><p>
-  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="On Monday, November 2nd, at 7:30 pm, Anne Manson discusses relationships among Kancheli, Shostakovich and Sylvestrov.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Desautels Faculty of Music at the University of Manitoba; cello studio of Dr. Minna Rose Chung; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book three days in advance for MCO&rsquo;s Pizza Club! Arrive at 6 pm for pizza and a pre-concert presentation, followed by the concert. Tickets are $7.50 for students, including pizza; adults pay regular price. Space is limited; call 204.783.7377 to reserve yours.">Pizza Club</button>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Suzuki Music Winnipeg; Karen Barg, String Program Coordinator; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book three days in advance for MCO&rsquo;s Pizza Club! Arrive at 6 pm for pizza and a pre-concert presentation, followed by the concert. Tickets are $7.50 for students, including pizza; adults pay regular price. Space is limited; call 204.783.7377 to reserve yours.">Pizza Club</button>
 			</p></p>
   </div>
 

@@ -30,7 +30,7 @@ Template Name: Page Concert1 Template
 
 		<div>
 			<p>
-  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Subscriber event" data-content="A special box dinner (optional) and presentation on the coming season by Anne Manson &mdash; for subscribers only; 5:30 pm.">McNally Robinson</button>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Subscriber event" data-content="A special box dinner (optional) and presentation on the coming season by Anne Manson &mdash; for subscribers only; 5:30 pm.">Subscriber event</button>
 			</p>
 		</div>
 

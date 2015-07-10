@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page Concert1 Template
+Template Name: Page Concert2 Template
 */
 ?>
 
