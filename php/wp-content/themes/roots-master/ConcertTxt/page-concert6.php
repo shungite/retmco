@@ -76,7 +76,7 @@ Template Name: Page Concert6 Template
 				<p><b>Randolph Peters</b><br><i>Everything That Rises</i></p>
 				<p><b>Ludwig van Beethoven</b><br>Piano Concerto No. 4, in G Major, Op. 58</p>
 				<p><b>John Burge</b><br><i>Flanders Fields Reflections</i></p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
+				<p>Concert co-sponsors / <a href="http://www.lawtonpartners.ca/Home"><b>Lawton Partners Financial Planning Services Ltd.</b></a> and <b>Drs. Bill Pope &amp; Elizabeth Tippett-Pope</b><br />Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
 			</div>
 		  <div class="tab-pane fade" id="bios">
 				<p>Coming soon!</p>

@@ -77,7 +77,7 @@ Template Name: Page Concert2 Template
 				<p><strong>Giya Kancheli</strong><br><i>V&amp;V,</i> for violin and taped voice with string orchestra</p>
 				<p><b>Robert Schumann</b><br>Cello Concerto in A minor, Op. 129</p>
 				<p><b>Dmitri Shostakovich</b> (arr. Barshai)<br>Chammber Symphony, Op. 110A</i></p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
+				<p>Concert sponsor / <a href="http://www.investorsgroup.com/en/default.aspx"><b>Investors Group</b></a><br />Guest artist sponsor / <a href="http://wynward.com/"><b>Wynward Insurance Group</b></a><br />Concertmaster sponsor / <a href="http://www.prolific.ca/"><b>The Prolific Group</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
 			</div>
 		  <div class="tab-pane fade" id="bios">
 				<p>Coming soon!</p>
