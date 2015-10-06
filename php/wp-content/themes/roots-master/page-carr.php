@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page Bezaly Template
+Template Name: Page Carr Template
 */
 ?>
 <div class="container">
@@ -35,6 +35,6 @@ Template Name: Page Bezaly Template
 
 </div><!-- /row -->
 
-<?php get_template_part('templates/content', 'bezaly'); ?>
+<?php get_template_part('templates/content', 'carr'); ?>
 
 </div><!-- /container -->
