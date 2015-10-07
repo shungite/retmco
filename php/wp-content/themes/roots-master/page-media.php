@@ -26,7 +26,7 @@ Template Name: Page Media Template
         <div class="well">
 
           <p><strong>Upcoming concerts video playlist<br>from the Official MCO YouTube Channel</strong></p>
-          <iframe width="80%" height="360" src="//www.youtube.com/watch?v=8TqjFYYY2H0&index=1&list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" frameborder="0" allowfullscreen></iframe>
+          <iframe width="80%" height="360" src="//www.youtube.com/channel/UCIz_vC8l_-WAnv-AnPzJqUQ" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" target="_blank"><small>Go to playlist</small></a></p>
 
           <p><strong>Classic 107 playlist<br>from the Official MCO YouTube Channel</strong></p>
