@@ -26,17 +26,17 @@ Template Name: Page Media Template
         <div class="well">
 
           <p><strong>Upcoming concerts video playlist<br>from the Official MCO YouTube Channel</strong></p>
-          <iframe width="80%" height="360" src="//www.youtube.com/embed/JgVEUqK4ips?list=UUIz_vC8l_-WAnv-AnPzJqUQ" frameborder="0" allowfullscreen></iframe>
+          <iframe width="80%" height="360" src="//www.youtube.com/watch?v=8TqjFYYY2H0&index=1&list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" target="_blank"><small>Go to playlist</small></a></p>
-          
+
           <p><strong>Classic 107 playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/5uGtV6LMADA?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" target="_blank"><small>Go to playlist</small></a></p>
-          
+
           <p><strong>Education + outreach playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/Vwr58yd0dww?list=PLrh6cFljbZhG3TzWqRMzEzaLNe2xE965K" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhG3TzWqRMzEzaLNe2xE965K" target="_blank"><small>Go to playlist</small></a></p>
-          
+
           <p><strong>Other videos playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/J0899Jovfe8?list=PLrh6cFljbZhExham6y4DC7Tj_NtJWVq7P" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhExham6y4DC7Tj_NtJWVq7P" target="_blank"><small>Go to playlist</small></a></p>
@@ -55,9 +55,9 @@ Template Name: Page Media Template
           <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141119.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;19 November 2014</p>
           <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141112.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;12 November 2014</p>
           <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141105.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;5 November 2014</p>
-          
+
           <p><small><i>Please note: programs may take a few moments to begin playing.<br>These links stream the show at 128 kbps.</i></small></p>
-          
+
         </div>
 
         <div class="well-white">
