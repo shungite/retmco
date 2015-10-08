@@ -78,7 +78,7 @@ Template Name: Page Concert5 Template
 				<p><b>George Frideric Handel</b><br>Harp Concerto in B-Flat Major, Op.4/6 (HWV 294)</p>
 				<p><b>Claude Debussy</b><br><i>Danse sacrée et Danse profane</i></p>
 				<p><b>Joseph Haydn</b><br />Symphony No. 85, in B-flat Major (Hob.I:85) &mdash; &lsquo;La Reine&rsquo;
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
+				<p>Guest artist sponsor / <a href="http://www.terracon.co/"><b>Terracon Development Ltd.</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
 			</div>
 		  <div class="tab-pane fade" id="bios">
 				<p>Coming soon!</p>

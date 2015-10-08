@@ -1,10 +1,10 @@
 === YouTube Channel ===
 Contributors: urkekg
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Q6Q762MQ97XJ6
+Donate link: http://urosevic.net/wordpress/donate/?donate_for=youtube-channel
 Tags: youtube, channel, playlist, single, widget, widgets, youtube player, feed, video, thumbnail, embed, sidebar, iframe, html5, responsive
 Requires at least: 3.9.0
-Tested up to: 4.2.2
-Stable tag: 3.0.8.3
+Tested up to: 4.3.2
+Stable tag: 3.0.8.6
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -31,6 +31,7 @@ For manual set of videos from YouTube check out [Easy YouTube Gallery](https://w
 * Thumbnail mode opens video in lightbox
 * Custom feed caching timeout
 * Optional video autoplay with optional muted audio
+* Optional TinyMCE button on post/page edit (can be disabled on General plugin settings page)
 * Show customized link to channel/vanity/legacy username below videos
 * Final look is highly customizable thanks to predefined classes for each element of YTC block!
 
@@ -183,6 +184,8 @@ You can get **Channel ID** from page [Account Advanced](https://www.youtube.com/
 
 == Frequently Asked Questions ==
 
+Please note, latest FAQ you can find [on our website](http://urosevic.net/wordpress/plugins/youtube-channel/faq/). This section on WordPress.org has been updated only on plugin version release, so questions answered between releases are not visible here.
+
 = How to get that YouTube Data API Key? =
 
 Please folllow [Installation](https://wordpress.org/plugins/youtube-channel/installation/) instructions.
@@ -200,18 +203,58 @@ Do exactly what message says - check and correct Channel ID in default settings/
 1. Try to remove restrictions by referer or IP in your **YouTube Data API Key** and refresh page after couple minutes.
 1. If that does not help, please try to create new API Key for Server w/o restrictions (not to regenerate existing one).
 
-If there is no `YTC ERROR` code in HTML source, visit [Google API Explorer](https://developers.google.com/apis-explorer/#p/youtube/v3/youtube.playlistItems.list?part=snippet&maxResults=5&playlistId=) and append:
+= How to use Google APIs Explorer to verify YouTube feeds? =
+
+If there is no `YTC ERROR` code in HTML source, visit [Google API Explorer](https://developers.google.com/apis-explorer/#p/youtube/v3/youtube.playlistItems.list?part=snippet&maxResults=5&playlistId=) and append to the end of URL one of resource ID’s based on your Channel ID:
 
 * for videos from channel replace **UC** with **UU** in Channel ID (so *UCRPqmcpGcJ_gFtTmN_a4aVA* becomes *UURPqmcpGcJ_gFtTmN_a4aVA*)
 * for videos from Favourited videos replace **UC** with **FL** (so *UCRPqmcpGcJ_gFtTmN_a4aVA* becomes *FLRPqmcpGcJ_gFtTmN_a4aVA*)
 * for videos from Liked Videos replace **UC** with **LL** (so *UCRPqmcpGcJ_gFtTmN_a4aVA* becomes *LLRPqmcpGcJ_gFtTmN_a4aVA*)
-* for videos from Playlist simply use Playlist ID (like *PLEC850BE962234400*)
+* for videos from Playlist simply use Playlist ID (like *PLEC850BE962234400* or *RDMMjUe8uoKdHao*)
 
-Note that all four resources are *playlists* (including channel), so append mentioned ID to field **playlistId** (not to **id**), and click **Execute** button at the bottom of that page.
+Note that all four resources are *playlists* (including uploads to channel), so append mentioned ID to field **playlistId** (not to **id**), and click **Execute** button at the bottom of that page.
 
-1. If you receive some error, fix settings.
-1. If there is no error but you do not get any video in results - contact Google Support.
-1. If there are video results but not displayed with YouTube Channel plugin - [contact us](https://wordpress.org/support/plugin/youtube-channel)
+1. If you receive some error in results, tune parameters in APIs Explorer.
+1. If there is no error but you do not get any video in results, and you are sure that there is public videos in selected resource – contact Google Support.
+1. If there are video results but not displayed with YouTube Channel plugin – check topic [Read before you post support question or report bug](https://wordpress.org/support/topic/ytc3-read-before-you-post-support-question-or-report-bug) and then [start your own support topic](https://wordpress.org/support/plugin/youtube-channel#postform).
+
+= What this YTC ERROR/HTTP Error means? =
+
+You will be able to reproduce HTTP Error w/o WordPress if you have SSH access to server where you host your website. Simply login to shell and run following command:
+
+`curl https://www.googleapis.com/youtube/v3/playlistItems`
+
+If you do not receive response like one below, then you'll receive HTTP Error from curl command.
+
+`{
+ "error": {
+  "errors": [
+   {
+    "domain": "global",
+    "reason": "required",
+    "message": "Required parameter: part",
+    "locationType": "parameter",
+    "location": "part"
+   }
+  ],
+  "code": 400,
+  "message": "Required parameter: part"
+ }
+}`
+
+Known HTTP Errors:
+
+**error:0D0890A1:asn1 encoding routines:ASN1_verify:unknown message digest algorithm**
+
+The remote connection software you are using on your server might be compiled with a very old version of OpenSSL that does not take certificates signed with sha256-With-RSA-Encryption into account. It requires at least OpenSSL 0.9.8o for a total management of SHA256.
+
+Please contact your server admin or hosting provider about this issue.
+
+**Problem with the SSL CA cert (path? access rights?)**
+
+This is a server related issue (not related to YouTube Channel or WordPress).
+
+To resolve the issue, you’ll need to restart Apache (or nginx). If that doesn’t fix the problem, you’ll need to restart your entire server. Or simply contact server support.
 
 = Where to find correct Channel ID and/or Vanity custom Name? =
 
@@ -234,7 +277,17 @@ Check out [Channel custom URL](https://support.google.com/youtube/answer/2657968
 
 = Where to find Playlist ID? =
 
-Playlist ID can be manualy extracted from YouTube playlist URL. Part of strings after `&list=` that begins with uppercase letters **PL** represent Playlist ID (not full URL).
+Playlist ID can be manually extracted from YouTube playlist URL. Just look for string after `&list=` parameter in URL which can contain lowercase and uppercase letters, dash and underscore characters. Regular playlists starts with uppercase letters **PL** (like *PLEC850BE962234400*), but Playlist ID for YouTube mixes start with uppercase **RD** (like *RDCfMMlT8Lyns*).
+
+= Video titles missing after plugin update =
+
+If you inserted videos by shortcode previous v3.0.8 then you probably have set parameter `showtitle=1`.
+
+Since version v3.0.8 of plugin this parameter has been changed to accept values `none`, `above` and `below`, depending do you wish to hide video title, or to display them above/below video thumbnail.
+
+So, you can:
+1. Remove `showtitle` parameter from shortcode and set **Show title** global plugin option on **Content** tab, or
+1. Change parameter `showtitle` to `above` or `below`.
 
 = How to force embeding 320p video with better audio quality? =
 
@@ -253,24 +306,39 @@ You can try with shortcode combination:
 
 and custom CSS code added to theme style.css or similar customization:
 `.youtube_channel.ytc_wall_1-6 .ytc_video_container {
-	padding: 5px;
-	box-sizing: border-box;
+    padding: 5px;
+    box-sizing: border-box;
+    max-width: 33.333%;
 }
-.youtube_channel.ytc_wall_1-6 .ytc_video_container:not(:first-child) {
-	max-width: 33.333%;
+.youtube_channel.ytc_wall_1-6 .ytc_video_container.ytc_video_1 {
+    max-width: 100%;
 }
 @media screen and (max-width: 768px) {
-	.youtube_channel.ytc_wall_1-6 .ytc_video_container:not(:first-child) {
-		max-width: 50%;
-	}
+    .youtube_channel.ytc_wall_1-6 .ytc_video_container:not(.ytc_video_1) {
+        max-width: 50%;
+    }
 }
 @media screen and (max-width: 480px) {
-	.youtube_channel.ytc_wall_1-6 .ytc_video_container:not(:first-child) {
-		max-width: 100%;
-	}
+    .youtube_channel.ytc_wall_1-6 .ytc_video_container:not(.ytc_video_1) {
+        max-width: 100%;
+    }
 }`
 
 So, we display thumbnails for 7 random videos from default (global) playlist, and distribute small thumbnails to 3 columns on wide screens, 2 columns under 768px and single thumbnail per row under 480px.
+
+
+= How to reduce size of/remove thumbnail Play button? =
+
+Since v3.0.8 we changed how thumnail Play button is embedded. If you wish to reduce button size, tune transform CSS property in theme's style.css, like this:
+`.youtube_channel .ytc_thumb>span:before {
+  transform: scale(.65);
+}`
+
+If you wish to remove (hide) play button from thumbnails, simply set display property to none, like this:
+
+`.youtube_channel .ytc_thumb>span:before {
+  display: none !important;
+}`
 
 = Your plugin does not support *THIS* or *THAT* =
 
@@ -279,6 +347,36 @@ If you really need that missing feature ASAP, feel free to [contact me](urosevic
 If you don't wish to pay for enhancements (then you don't care would that be implemented in a week, month, year or so), then send new [Support topic](https://wordpress.org/support/plugin/youtube-channel) with *Topic title* in format **[Feature Request] ...**
 
 == Changelog ==
+= 3.0.8.6 =
+* Fix: Broken Enhanced Privacy on small screens in forked MagnificPopupAU library
+* Enhanced: Finished making code compliant to WordPress Core coding standards
+
+= 3.0.8.5 =
+* Enhanced: Settings page made compliant to WordPress Core Coding Standard
+* Fix: Wrong links to external resources on Settings page
+* Fix: Opening external resources links on Settings page in new tab
+* Change: Replace PayPal donation links to prevent account limitations if plugin is used on website that violates PayPal's Acceptable Use Policy
+
+= 3.0.8.4 (2015-06-10/16/17/18/19-07/10) =
+* Fix: (6/19) Undefined notice for apikey
+* Fix: (6/18) Wrong name of widgets page on Help tab
+* Fix: (6/17) Do not load empty JS asset to prevent clash with VisualComposer and invisible rows wit enabled strtching
+* Fix: (6/16) Initiate .MagnificPopupAU() on window load event, not on DOM ready event
+* Fix: Lost some settings during igration from old to new options in settings and widgets
+* Add: (7/13) New global option **Disable TinyMCE** added to **General** tab. Enabled by default, disable to remove TinyMCE icon from post/page Visual Editor
+* Add: (7/10) New global option **Enable Full Screen** added to **Video** tab. Disabled by default, enable fullscreen option for embedded playlist
+* Add: (6/18) Support to initiate .MagnificPopupAU() on .ajaxComplete() and support dynamically loaded YTC within AJAX
+* Add: New global option **Play inline on iOS** added to **Video** tab. Disabled by default, provide support for playsinline parameter.
+* Add: Support for (playsinline)[https://developers.google.com/youtube/player_parameters#playsinline] player option in MagnificPopup library to play video on mobile devices in page instead in device player (disabled by default)
+* Add: Default option settings for nolightbox and
+* Cleanup: Removed unused modules from MagnificPopup library
+* Change: Help tab now have shortcode parameters distributed to subtabs
+* Change: Lightbox classes by prepending `ytc-` in front of all MagnificPopup classes
+* Change: Reduce minimal screen width from 700px to 320px when lightbox will not be used and will open video directly on YouTube website.
+* Improve: Updated strings for localization support
+* Improve: Updated FAQ with new question about play button on thumbnails
+* Updated Serbian localization
+
 = 3.0.8.3 (2015-06-09) =
 * Add: Support for enhanced privacy videos in lightbox (MagnificPopupAU tweak)
 
@@ -448,3 +546,4 @@ Cleanup and optimization release
 2. YouTube Channel customized widget settings
 3. YouTube Channel in WP Customizer and Dynamic Wall layout
 4. How to add YouTube Data API Key to YouTube Channel
+5. TinyMCE form to easy configure YouTube Channel shortcode for content

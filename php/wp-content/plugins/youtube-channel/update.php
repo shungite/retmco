@@ -395,14 +395,25 @@ function au_youtube_channel_update_routine_11() {
 
 
 /**
- * Add default value for new global option playsinline
+ * Add default value for new global options playsinline and nolightbox
  */
 function au_youtube_channel_update_routine_14() {
 
 	// get options from DB
 	$defaults = get_option('youtube_channel_defaults');
 
-	$defaults['playsinline'] = 0;
+	if ( ! isset($defaults['playsinline']) ) {
+		$defaults['playsinline'] = 0;
+	}
+	if ( ! isset($defaults['nolightbox']) ) {
+		$defaults['nolightbox'] = 0;
+	}
+
+	// add new default option `fullscreen`
+	$defaults['fullscreen'] = 0;
+
+	// add new default option `tinymce`
+	$defaults['tinymce'] = 1;
 
 	if ( isset($defaults) ) {
 		update_option('youtube_channel_defaults', $defaults);
