@@ -25,11 +25,9 @@ Template Name: Page Carr Template
 		<p>This unique salon evening includes <b>wine with sweets and savouries</b>.</p>
 
 <div class="row-fluid">
-		<div class="span6">
       <div class="well">
 				<p><strong>Colin Carr</strong> Colin Carr appears throughout the world as a soloist, chamber musician, recording artist, and teacher. He has played with major orchestras worldwide, including the Royal Concertgebouw Orchestra, The Philharmonia, Royal Philharmonic, BBC Symphony, the orchestras of Chicago, Los Angeles, Washington, Philadelphia, Montréal and all the major orchestras of Australia and New Zealand. Conductors with whom he has worked include Rattle, Gergiev, Dutoit, Elder, Skrowasczewski and Marriner. He has been a regular guest at the BBC Proms and has twice toured Australia. With his duo partner Thomas Sauer he has played recitals throughout the United States and Europe. They have recently played recitals together at the Concertgebouw in Amsterdam, Philadelphia&rsquo;s Chamber Music Society and at Wigmore Hall in London. Colin has played complete cycles of the Bach Solo Suites at Wigmore Hall, at the Chamber Music Society of Lincoln Center, the Gardner Museum in Boston and recently in Montr&eacute;al, Toronto, Ottawa and Vancouver.</p>
 			</div>
-	</div>
 </div>
 
 </div><!-- /span6 -->
