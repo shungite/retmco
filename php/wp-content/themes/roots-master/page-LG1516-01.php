@@ -21,9 +21,9 @@ Template Name: Page LG1516-01 Template
 
       <div class="span7">
 
-        <p><p>&nbsp;<br>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
+        <p><b>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</b></p>
 
-          <p>MOZART: SYMPHONY NO. 25 IN G MINOR (K 183 / 173DB)</p>
+          <p><b>MOZART: SYMPHONY NO. 25 IN G MINOR (K 183 / 173DB)</b></p>
 
           <p>Mozart (1756-1791) wrote at least 41 symphonies and there is evidence that he probably wrote even more.  He composed number 25 in Salzburg near the end of 1773 when he was only 17 years old. Symphony No. 25 is considered to be Mozart&rsquo;s first &ldquo;tragic&rdquo; symphony and was written in the <i>Sturm und Drang</i> style. The Sturm und Drang (Storm and Stress) movement in music featured dramatic emotional extremes often represented by minor keys as in this symphony, and by dramatic and sudden changes in tempo, dynamics, expressive music elements, and with effects such as the use of tremolo.</p>
 
@@ -123,11 +123,12 @@ Template Name: Page LG1516-01 Template
 
           <p><span class="badge">7</span> Is there other music by Mozart that you could listen to and compare to the sounds and experience of the Symphony No. 25? Mozart only wrote two symphonies in minor keys.  Symphony no. 25 is the first minor symphony and known as the &ldquo;little g minor.&rdquo;  The second minor symphony is No. 40 and sometimes known as the &ldquo;great g minor.&rdquo; Can you listen to Symphony No. 40 and compare it to No. 25 written many years earlier?</p>
 
+        </div><!-- /span7 -->
 
-          <?php get_template_part('templates/content', 'listen'); ?>
+        </div><!-- /row -->
 
-</div><!-- /container -->
+        <?php get_template_part('templates/content', 'listen'); ?>
 
-</div>
+        </div><!-- /container -->
 
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
