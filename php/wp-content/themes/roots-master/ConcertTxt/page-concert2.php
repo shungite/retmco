@@ -80,10 +80,60 @@ Template Name: Page Concert2 Template
 				<p>Concert sponsor / <a href="http://www.investorsgroup.com/en/default.aspx"><b>Investors Group</b></a><br />Guest artist sponsor / <a href="http://wynward.com/"><b>Wynward Insurance Group</b></a><br />Concertmaster sponsor / <a href="http://www.prolific.ca/"><b>The Prolific Group</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
 			</div>
 		  <div class="tab-pane fade" id="bios">
-				<p>Coming soon!</p>
+				<p><b>Colin Carr</b></p>
+
+				<p>Colin Carr appears throughout the world as a soloist, chamber musician, recording artist, and teacher. He has played with major orchestras worldwide, including the Royal Concertgebouw Orchestra, The Philharmonia, Royal Philharmonic, BBC Symphony, the orchestras of Chicago, Los Angeles, Washington, Philadelphia and Montr&eacute;al, and all the major orchestras of Australia and New Zealand. Conductors with whom he has worked include Rattle, Gergiev, Dutoit, Elder, Skrowasczewski and Marriner. He has been a regular guest at the BBC Proms and has twice toured Australia.</p>
+
+				<p>With his duo partner Thomas Sauer he has played recitals throughout the United States and Europe. They have recently played recitals together at the Concertgebouw in Amsterdam, Philadelphia&rsquo;s Chamber Music Society and at Wigmore Hall in London. Colin has played complete cycles of the Bach Solo Suites at Wigmore Hall, the Chamber Music Society of Lincoln Center, the Gardner Museum in Boston and recently in Montr&eacute;al, Toronto, Ottawa and Vancouver.</p>
+
+				<p>Colin&rsquo;s recordings for GM Recordings of the Bach Suites and the unaccompanied cello works of Kodaly, Britten, Crumb, and Schuller are highly acclaimed, as is his recent recording of the complete cello/piano works of Mendelssohn with Thomas Sauer on Cello Classics. The Brahms Sonatas on Arabesque, with pianist Lee Luvisi, is also a favourite. Last year there were two major releases: a new recording of the complete Bach Suites on the Wigmore Live Label and the complete Beethoven cello/piano music (also with Tom Sauer) on the MSR Classics label. Colin was the soloist in Elgar&rsquo;s Cello Concerto in a <i>BBC Music Magazine</i> recording with the BBC Philharmonic. He has also recorded Tchaikovsky and Schoenberg sextets with the Emerson Quartet for Sony.</p>
+
+				<p>As a member of the Golub-Kaplan-Carr Trio, he recorded and toured extensively for 20 years. Chamber music plays an important role in his musical life. He is a frequent visitor to international chamber music festivals and has appeared often as a guest with the Guarneri and Emerson string quartets and with New York&rsquo;s Chamber Music Society of Lincoln Center.</p>
+
+				<p>Colin is the winner of many prestigious international awards, including First Prize in the Naumburg Competition, the Gregor Piatigorsky Memorial Award, Second Prize in the Rostropovich International Cello Competition and winner of the Young Concert Artists competition.</p>
+
+				<p>He first played the cello at the age of five. Three years later he went to the Yehudi Menuhin School, where he studied with Maurice Gendron and later William Pleeth. He was made a professor at the Royal Academy of Music in 1998, having been on the faculty of the New England Conservatory in Boston for 16 years. In 1998, St. John&rsquo;s College, Oxford created the post of &lsquo;Musician in Residence&rsquo; for him, and in September 2002 he became a professor at Stony Brook University in New York.</p>
+
+				<p>Colin&rsquo;s cello was made by Matteo Gofriller in Venice in 1730. He makes his home with his wife Caroline and three children, Clifford, Frankie and Anya, in an old house outside Oxford.</p>
+
 			</div>
 			<div class="tab-pane fade" id="notes">
-				<p>Coming soon!</p>
+
+				<p><b>V&thinsp;&amp;&thinsp;V<br>Giya Kancheli</b></p>
+
+				<p>Kancheli composed this haunting, ethereal work in 1995 and scored it for solo violin, strings and tape. He wrote the following note to introduce it:</p>
+
+				<p>&ldquo;In my third symphony, the vocal part was performed and recorded by a famous Georgian popular singer, Mr. H. Gonashvili. The uniqueness and distinctiveness of his voice (he died tragically in an accident in 1988) have inspired me to use the recording of his voice in my new composition, V&thinsp;&amp;&thinsp;V. In this relatively small piece I tried to confront the Eternal (the Divine voice) and the Real (the soloing violin and the string orchestra). The first performance of this piece was conducted by Mr. (Yehudi) Menuhin and it has also been played by Mr. (Gidon) Kremer. It is a great honour and an excitement to me, as both persons combine the notions of Eternity and Reality in themselves.&rdquo;</p>
+
+				<p><b>Cello Concerto in A Minor, Op. 129<br>Robert Schumann</b></p>
+
+				<p>Schumann composed this work between October 10 and 24, 1850. The first performance was given on June 9, 1860, by soloist Ludwig Ebert and the Leipzig Conservatory Orchestra, to honour the fiftieth anniversary of the composer&rsquo;s birth.</p>
+
+				<p>In the autumn of 1850, Schumann, his wife Clara, and their six children moved from Dresden to D&uuml;sseldorf, where Robert took up his new position as General Director of Music. The Schumanns had had quite a dull and trying time in Dresden. Clara wrote, &ldquo;Everything seems so antiquated here. Not a single intelligent person can be seen on the street; they all look like Philistines! Musicians one doesn&rsquo;t see at all.&rdquo; Another incentive to relocate was the Dresden Opera&rsquo;s refusal to produce Schumann&rsquo;s opera <i>Genoveva</i>.</p>
+
+				<p>Their new home city&rsquo;s beautiful location on the verdant banks of the Rhine River proved very much to their liking. Local musicians welcomed the illustrious couple warmly, staging an elaborate function that included a musical serenade, a concert, a dinner and a ball.</p>
+
+				<p>One almost immediate creative product of the move was Robert&rsquo;s exuberant and colourful Symphony No. 3, nicknamed &lsquo;Rhenish&rsquo; or &lsquo;Rhineland.&rsquo; Another was this lyrical concerto, which he composed with typical speed. Far from typical were the doubts about it that arose later (as did the mental illness that would lead to his death in 1856). Seeking to improve and polish it, he went over it with several prominent cellists. He cancelled a performance that had been scheduled for 1852, and as late as 1854, the year it was published, he was still tinkering with details. For unknown reasons, the concerto does not appear to have been performed in public until four years after his death.</p>
+
+				<p>It is a beautiful, poetic work, created as much with the orchestra in mind as the solo instrument. It continued two of Schumann&rsquo;s favoured procedures: the entire piece is performed as a single, uninterrupted whole, and some of its themes recur throughout the piece, rather than in just one movement.</p>
+
+				<p>Clara loved it. &ldquo;It pleases me very much, and seems to be written in true cello style,&rdquo; she wrote in her diary. &ldquo;The Romantic quality, the vivacity, the freshness and humour, also the highly interesting interweaving of cello and orchestra are indeed wholly ravishing, and what euphony and deep feeling one finds in all the melodic passages!&rdquo;</p>
+
+				<p>It opens with a brief, gentle orchestral prelude, followed by a lyrical cello theme. The second subject is romantic as well. The movement gains its sense of drama and conflict from the development of these ideas and from their interaction with the orchestral theme heard at the start. There is no solo cadenza. Instead, a quiet transitional passage leads into the slow movement. Pizzicato strings introduce this haunting, dream-like song without words, music perfectly suited to the expressive side of the cello&rsquo;s personality.</p>
+
+				<p>Schumann recalls the concerto&rsquo;s prelude in the passage that links the slow movement and the finale. The last movement is the most outgoing portion of the concerto, and its most humorous. The concerto&rsquo;s only cadenza comes near the end. In a bold, innovative step, it is accompanied by the orchestra, rather than being performed, as it would be traditionally, only by the soloist. Composers such as Elgar, Schoenberg and Walton would replicate this procedure in their concertos. Following the cadenza, soloist and orchestra race merrily to the concluding bars.</p>
+
+				<p><b>Chamber Symphony in C Minor, Op. 110a<br>Dmitri Shostakovich (transcribed for string orchestra from String Quartet No. 8 by Rudolf Barshai)</b></p>
+
+				<p>Shostakovich&rsquo;s 15 string quartets are every bit as vital to an appreciation of his music as the 15 symphonies. He poured into them many of his most intimate thoughts, especially during those periods when it was dangerous, if not lethal, for a Soviet artist to publicly display personal emotions.</p>
+
+				<p>Its powerful, expressive directness has made it the most frequently performed of his quartets. He composed it between July 12 and 14, 1960, and it was premiered by the Beethoven Quartet in Leningrad on October 2. He wrote it during a visit to Dresden and publicly dedicated it &ldquo;To the memory of the victims of fascism and war.&rdquo; This provided Soviet authorities with a politically correct inspiration, but he gave it a personal spin by, at least inwardly, including himself among the victims. In a letter to a friend, Isaak Glikman, he revealed additional intentions: &ldquo;I was thinking about the fact that if I die sometime or other, it&rsquo;s pretty unlikely that someone will write a work in my memory. So I decided to write such a piece myself. The basic theme of the Quartet is DSCH (the German names for the notes d, e-flat, c, b) i.e. my initials. It also makes use of themes from my works and the revolutionary song <i>Tormented by Grievous Bondage</i>.&rdquo;</p>
+
+				<p>Another friend, Lev Lebedinsky, wrote that Shostakovich was contemplating suicide at that time, due to his recently giving in to long-standing pressure to join the Communist party. Lebedinsky stated that Shostakovich considered the Quartet not only an autobiography but also his last will and testament. Lebedinsky convinced him not to take his own life. Fifteen years later, the Quartet was performed at Shostakovich&rsquo;s funeral.</p>
+
+				<p>Several transcriptions of the Quartet have appeared. Shostakovich gave his blessing to this highly effective version for string orchestra by Rudolf Barshai, who prepared it and renamed it Chamber Symphony shortly after the premiere of the original quartet version. He later created transcriptions of several other Shostakovich quartets. Barshai developed an intimate knowledge of Shostakovich&rsquo;s music, first as viola player in the Borodin Quartet, then as conductor. In 1969, he premiered Symphony No. 14, which Shostakovich dedicated to Benjamin Britten.</p>
+
+				<p>As with the Schumann Cello Concerto, the five movements of the Chamber Symphony are performed without breaks between them. The first is drenched in slow, desolate anguish. Next comes a tour-de-force of stark, driving power, then a bitingly satiric scherzo/waltz. The fourth movement, quoting the revolutionary song, alternates sharp dramatic outbursts with troubled meditations. The fugal finale exceeds the first movement in the depths of its ashen, dehumanized desolation.</p>
 
 			</div>
 
