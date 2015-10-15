@@ -49,13 +49,9 @@ Template Name: Page Media Template
           <p><a href="https://ckuw.ca/"><img src="http://www.themco.ca/wp-content/uploads/2014/12/CKUW-round-logo-2014-150.png"></a>
           <p><a href="http://www.donanderson.ca/"><b>Don Anderson</b></a> is your host for <a href="https://ckuw.ca/programs/detail/classical-kaleidoscope"><b>Musicnet Radio Winnipeg</b></a> on <a href="http://ckuw.ca"><b>CKUW 95.9 FM</b></a>, a weekly program suported by the member groups of Winnipeg&rsquo;s <a href="http://musicnet.mb.ca"><b>Musicnet</b></a> consortium. Don backs up the music with plenty of information and anecdotes, with a focus on Winnipeg’s rich array of live concerts. <b>Tune in for ticket giveaways, visits from special guests &amp; much more! Wednesdays from 2:00 to 4:00 pm.</b> Listen to these recent broadcasts...</p>
 
-          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141210.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;10 December 2014 show</p>
-          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141203.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;3 December 2014 show</p>
-          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141126.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;26 November 2014</p>
-          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141119.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;19 November 2014</p>
-          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141112.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;12 November 2014</p>
-          <p><?php echo do_shortcode('[sc_embed_player fileurl="http://station.ckuw.ca/128/20141105.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;5 November 2014</p>
-
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="https://ckuw.ca/128/20151014.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;14 October 2015 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="https://ckuw.ca/128/20151007.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;7 October 2015 show</p>
+          <p><?php echo do_shortcode('[sc_embed_player fileurl="https://ckuw.ca/128/20150930.14.00-16.00.mp3"]'); ?>&nbsp;&nbsp;30 September 2015</p>
           <p><small><i>Please note: programs may take a few moments to begin playing.<br>These links stream the show at 128 kbps.</i></small></p>
 
         </div>
