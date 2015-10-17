@@ -29,7 +29,7 @@ Template Name: Page Concert3 Template
 		<p>With this versatile conductor at the helm, this MCO Christmas offering will be a treat for all, with its sparkling and intriguing range of works. </p>
   <div>
     <p><p>
-  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Suzuki Music Winnipeg; Karen Barg, String Program Coordinator; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book three days in advance for MCO&rsquo;s Pizza Club! Arrive at 6 pm for pizza and a pre-concert presentation, followed by the concert. Tickets are $7.50 for students, including pizza; adults pay regular price. Space is limited; call 204.783.7377 to reserve yours.">Pizza Club</button>
+  			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Suzuki Music Winnipeg; Karen Barg, String Program Coordinator; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Rempel. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations.">Pizza Club</button>
 			</p></p>
   </div>
 
