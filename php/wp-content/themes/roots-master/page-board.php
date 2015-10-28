@@ -23,22 +23,21 @@ Template Name: Page Board Template
             <dt>Secretary</dt>
             <dd>Alice MacKenzie</dd>
             <dt>Members</dt>
-            <dd>Zaz Bajon</dd>
-            <dd>Coralie Bryant</dd>
-            <dd>Jim Chapryk</dd>
-            <dd>Robert Giesbrecht</dd>
-            <dd>Joan Hardy</dd>
+            <dd>Father Geoffrey Angeles
+            <dd>Robert Giesbrecht
+            <dd>Joan Hardy
             <dd>Sue Irving</dd>
-            <dd>Suzanne Kennelly</dd>
             <dd>Elaine Margolis</dd>
             <dd>Michael McIntyre</dd>
             <dd>Ingrid M&ouml;hlmann</dd>
+            <dd>Julie Mongeon-Ferr&eacute;</dd>
             <dd>Sunny Oh</dd>
             <dd>Beryl Peters</dd>
             <dd>Nicola Schaefer</dd>
             <dd>Moti Shojania</dd>
+            <dd>Walter Silicz</dd>
             <dd>Alison Thiessen</dd>
-            <dd>Elizabeth Tippett-Pope</dd>
+            <dd>Aimee Warkentin</dd>
           </dl>
         <p><strong>Administration</strong></p>
           <dl class="dl">
