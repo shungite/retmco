@@ -9,7 +9,7 @@ Template Name: Page Concert3 Template
 <div class="row">
 
 	<div class="span8">
-		<img src="http://www.themco.ca/wp-content/uploads/2015/07/head01dec15.png" width="770" height="455">
+		<img src="http://www.themco.ca/wp-content/uploads/2015/11/head01dec15b.jpg" width="770" height="455">
 	</div>
 	<div class="span2">
 		<p>.</p>
