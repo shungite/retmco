@@ -20,7 +20,7 @@ Template Name: Page Concert3 Template
 <div class="row">
 
 	<div class="span7">
-		<h4><div>Lovely Christmas bits &lsquo;n bobs, baroque baubles</div></h4>
+		<h4><div>Lovely Christmas bits &lsquo;n bobs, baroque baubles</div></h4>
 		<p>Our MCO Christmas Concert will sparkle like a treasure trove of musical gems, with wonderful traditional works, such as Benjamin Britten&rsquo;s Ceremony of Carols, to be sung by the Winnipeg Boys Choir (Carolyn Boyes, Music Director), and Arcangelo Corelli&rsquo;s Christmas Concerto. </p>
 		<p>Slightly less traditional is the Christmas anthem <i>The Gist of Time</i> by Eric Robertson, with text by Tim Wynne-Jones. This choral work will be sung by the Pembina Trails Voices Singers, directed by David Sawatzky &mp; Philip Lapatha.</p>
 		<p>Heinrich Ignaz Franz von Biber was one of the most important composers for the violin in the history of the instrument. As a skilled violinist himself, his difficult music continues to challenge violinists today. We&rsquo;ll all have fun with this early work by Biber, in which various unusual violin techniques are used to imitate a whole menagerie of animals! </p>
@@ -49,10 +49,10 @@ Template Name: Page Concert3 Template
 	<div class="span1">
 
 		<img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
-	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=877cc86fef5744e1b3901b211a30a87f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40" /></a><br />
- 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=cf131bfec29b4475993aa09b022ea0e6"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a><br />
-	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2e80d45ac9e64ec79c0a431ec9e08a8b"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a>
-		<p class="fineprint">Click ticket above to add to shopping cart; adjust quantity in cart and return to purchase other types of tickets.</p>
+	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=877cc86fef5744e1b3901b211a30a87f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+ 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=cf131bfec29b4475993aa09b022ea0e6"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=2e80d45ac9e64ec79c0a431ec9e08a8b"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
+			<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
 
 	</div> <!-- /span1 -->
 
