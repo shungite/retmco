@@ -2,9 +2,9 @@
 Contributors: urkekg
 Donate link: http://urosevic.net/wordpress/donate/?donate_for=youtube-channel
 Tags: youtube, channel, playlist, single, widget, widgets, youtube player, feed, video, thumbnail, embed, sidebar, iframe, html5, responsive
-Requires at least: 3.9.0
-Tested up to: 4.3.2
-Stable tag: 3.0.8.6
+Requires at least: 4.0
+Tested up to: 4.4
+Stable tag: 3.0.8.9
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -182,6 +182,12 @@ When you generate your own YouTube Data API Key, from your **Dashboard** go to *
 Also, do not forget to check and update **Channel ID** in plugin's General settings, Widgets and/or shortcodes.
 You can get **Channel ID** from page [Account Advanced](https://www.youtube.com/account_advanced) while you're loagged in to your YouTube account.
 
+[youtube http://www.youtube.com/watch?v=wOqkfkNhOUE]
+
+[youtube http://www.youtube.com/watch?v=qaLqWi4-9jI]
+
+[youtube http://www.youtube.com/watch?v=u5TnGBVoG9c]
+
 == Frequently Asked Questions ==
 
 Please note, latest FAQ you can find [on our website](http://urosevic.net/wordpress/plugins/youtube-channel/faq/). This section on WordPress.org has been updated only on plugin version release, so questions answered between releases are not visible here.
@@ -347,6 +353,22 @@ If you really need that missing feature ASAP, feel free to [contact me](urosevic
 If you don't wish to pay for enhancements (then you don't care would that be implemented in a week, month, year or so), then send new [Support topic](https://wordpress.org/support/plugin/youtube-channel) with *Topic title* in format **[Feature Request] ...**
 
 == Changelog ==
+
+= 3.0.8.9 =
+* Fix: Set `Hide link` for `Link to` option for `Link to Channel` in global setting does not work (reported by drweby2).
+* Change: Set minumal required WordPress version 4.0
+* Update: Supported WordPress Version to 4.4
+
+= 3.0.8.8 =
+* Fix: Link to channel enabled in Widget not shown if related link ID has not set in Widget (ignored general settings).
+* Fix: Undefined notices
+
+= 3.0.8.7 =
+* Enhance: Merge two improvements for MagnificPopupAU fork from core library (commit 60d5aa4 and 1d0f697)
+* Fix: TinyMCE button does not have icon when new post/page is created
+* Fix: Strip non-number characters entered in shortcode TinyMCE creator for Fetch, Show, Initial Width and Description length attributes.
+* Fix: make sure that Initial Width is always in pixels (if user enter width in percentage, strip percent sign and threat value as pixel value)
+
 = 3.0.8.6 =
 * Fix: Broken Enhanced Privacy on small screens in forked MagnificPopupAU library
 * Enhanced: Finished making code compliant to WordPress Core coding standards

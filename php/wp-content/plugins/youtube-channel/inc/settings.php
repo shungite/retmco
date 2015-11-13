@@ -1027,7 +1027,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 
 				// --- Link to Channel ---
 				case 'ytc_link':
-					$sanitized['link_to']    = ( isset( $options['link_to'] ) ) ? intval( $options['link_to'] ) : $this->defaults['link_to'];
+					$sanitized['link_to']    = ( isset( $options['link_to'] ) ) ? $options['link_to'] : $this->defaults['link_to'];
 					$sanitized['goto_txt']   = ( ! empty( $options['goto_txt'] ) ) ? $options['goto_txt'] : $this->defaults['goto_txt'];
 					$sanitized['popup_goto'] = ( isset( $options['popup_goto'] ) ) ? intval( $options['popup_goto'] ) : $this->defaults['popup_goto'];
 				break; // Link to Channel
