@@ -20,8 +20,8 @@ Template Name: Page Concert5 Template
 <div class="row">
 
 	<div class="span7">
-		<h4><div>Emmanuel Ceysson: the &lsquo;Enfant terrible&rsquo; of the harp</div></h4>
-		<p>French harpist Emmanuel Ceysson sweeps away all the clich&eacute;s associated with his instrument. His infectious enthusiasm and boundless energy reveal the harp in all its sparkling splendour, in a world where poetry rhymes with temperament.</p>
+		<h4><div>Emmanuel Ceysson:<br>the &lsquo;Enfant terrible&rsquo; of the harp</div></h4>
+		<p>French harpist <b>Emmanuel Ceysson</b> sweeps away all the clich&eacute;s associated with his instrument. His infectious enthusiasm and boundless energy reveal the harp in all its sparkling splendour, in a world where poetry rhymes with temperament.</p>
 		<p>When you think of the harp, the sensory music of Claude Debussy comes to mind. His works are infused with a shimmering translucence, and <i>Danse sacr&eacute;e et Danse profane</i> will transport us to a meadow in <i>fin-de-si&egrave;cle</i> France. It will be interesting to hear it alongside Handel&rsquo;s much earlier concerto.</p>
 		<p>There is so much music to love at this concert: the premiere of <i>Life on Mars</i> by Heidi Ouellette, Ravel&rsquo;s trusty Introduction and Allegro and a Haydn symphony to boot!</p>
     <p><b>Heidi Ouellette </b></p>

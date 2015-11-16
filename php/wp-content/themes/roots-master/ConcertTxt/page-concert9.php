@@ -21,12 +21,12 @@ Template Name: Page Concert6 Template
 
 	<div class="span7">
 		<h4><div>Isabel Bayrakdarian &mdash; Live on stage!</div></h4>
-		<p>Canadian-Armenian soprano Isabel Bayrakdarian changed the MCO forever. With her, we have toured to places we might not have imagined, we have delighted our hometown audience on numerous occasions, and we have even formed our own record label. She is one of ours!</p>
+		<p>Canadian-Armenian soprano <b>Isabel Bayrakdarian</b> changed the MCO forever. With her, we have toured to places we might not have imagined, we have delighted our hometown audience on numerous occasions, and we have even formed our own record label. She is one of ours!</p>
 		<p>Born in Lebanon, she moved to Canada as a teenager. She graduated from the University of Toronto with an honours BSc in Engineering Science (Biomedical Engineering Option!).</p>
 		<p>And she sings: &ldquo;&hellip; the satin beauty, whose voice carried all before it. No, that doesn&rsquo;t say it all: Her voice is one of the most engaging and congenial in the world today&rdquo; (<i>Ottawa Citizen</i>).</p>
-		<p>Anne Manson opens the concert with the second installment in the mini-theme begun in March, with John Burge&rsquo;s <i>Upper Canada Fiddle Suite</i>.</p>
+		<p><b>Anne Manson</b> opens the concert with the second installment in the mini-theme begun in March, with John Burge&rsquo;s <i>Upper Canada Fiddle Suite</i>.</p>
     <p><b>Our juno-nominated CD!</b></p>
-		<p>It has been wonderful listening to our MCOrecords release, <i>Troubadour &amp; the Nightingale</i>, but it&rsquo;s time again to hear Isabel live with the Orchestra! She will sing Respighi&rsquo;s lush <i>Il Tramonto</i> and Roberto Sierra&rsquo;s <i>Songs from the Diaspora</i>.</p>
+		<p>It has been wonderful listening to our <b>MCOrecords </b>release, <i>Troubadour &amp; the Nightingale</i>, but it&rsquo;s time again to hear Isabel live with the Orchestra! She will sing Respighi&rsquo;s lush <i>Il Tramonto</i> and Roberto Sierra&rsquo;s <i>Songs from the Diaspora</i>.</p>
   <div>
     <p><p>
   			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="Wednesday, June 8th, at 7:30 pm; a talk with Anne Manson and Isabel Bayrakdarian.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Kelvin High School chamber choir; Kim Brown director; 6:45.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations.">Pizza Club</button>

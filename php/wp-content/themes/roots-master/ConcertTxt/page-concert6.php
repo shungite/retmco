@@ -21,7 +21,7 @@ Template Name: Page Concert6 Template
 
 	<div class="span7">
 		<h4><div>Scott Yoo conducts Janina Fialkowska</div></h4>
-		<p>At the MCO, we cherish our longtime friends, and Janina Fialkowska is our BFF! That goes for Scott Yoo, too! As our guests on numerous occasions, these two wonderful musicians have created many memorable musical moments.</p>
+		<p>At the MCO, we cherish our longtime friends, and <b>Janina Fialkowska</b> is our BFF! That goes for <b>Scott Yoo</b>, too! As our guests on numerous occasions, these two wonderful musicians have created many memorable musical moments.</p>
 		<p>Janina Fialkowska is known the world over for her exquisite pianism. For almost forty years she has enchanted audiences with her glorious lyrical sound, her sterling musicianship and her profound sense of musical integrity. &ldquo;Indeed, lesser mortals may well weep with envy at such unfaltering authority. She has done her one time mentor, Arthur Rubinstein, proud&rdquo; (<i>Gramophone</i>).</p>
 		<p>On this programme is the first of two works by Canadian composer John Burge this season. &ldquo;I was sent some scores of his a while ago,&rdquo; says Anne Manson, &ldquo;and took a look at them, among others, when we were planning the season. I was struck by the strength of his work and its approachability and thought that it would be interesting for the audience to get more than one look at him during the course of the season.&rdquo;</p>
     <p><b>Scott Yoo</b></p>

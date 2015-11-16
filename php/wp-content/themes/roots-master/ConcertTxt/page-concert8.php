@@ -21,9 +21,9 @@ Template Name: Page Concert6 Template
 
 	<div class="span7">
 		<h4><div>James Ehnes stops by on National recital tour!</div></h4>
-		<p>There is exciting news afoot for Canadian music lovers: James Ehnes and Andrew Armstrong will embark on a nationwide recital tour in 2016. Naturally, the best gig will be this one in James&rsquo;s home province with his MCO audience friends!</p>
-		<p>GRAMMY Award-winning violin virtuoso Ehnes and dazzling pianist Armstrong make a powerhouse duo. They perform and record together often, and last appeared on the MCO stage in 2010 (with cellist Robert deMaine). It is still early days for the tour, but some of the repertoire has been worked out, which is listed below. James has also said that &ldquo;various virtuoso works will be announced from the stage.&rdquo;</p>
-		<p>Bramwell Tovey, a lifelong friend of James, has also promised to contribute something special to celebrate the recital tour in the form of a brand new composition [&ldquo;I&rsquo;m excited!&rdquo; &mdash; James].</p>
+		<p>There is exciting news afoot for Canadian music lovers: <b>James Ehnes</b> and <b>Andrew Armstrong</b> will embark on a nationwide recital tour in 2016. Naturally, the best gig will be this one in James&rsquo;s home province with his MCO audience friends!</p>
+		<p>GRAMMY Award-winning violin virtuoso Ehnes and dazzling pianist Armstrong make a powerhouse duo. They perform and record together often, and last appeared on the MCO stage in 2010 (with cellist <b>Robert deMaine</b>). It is still early days for the tour, but some of the repertoire has been worked out, which is listed below. James has also said that &ldquo;various virtuoso works will be announced from the stage.&rdquo;</p>
+		<p><b>Bramwell Tovey</b>, a lifelong friend of James, has also promised to contribute something special to celebrate the recital tour in the form of a brand new composition [&ldquo;I&rsquo;m excited!&rdquo; &mdash; James].</p>
 		<p>Now it&rsquo;s unanimous. We&rsquo;re all excited!</p>
     <p><b>Andrew Armstrong </b></p>
 		<p>Praised by critics for his passionate expression and dazzling technique, pianist Andrew Armstrong has delighted audiences around the world. Armstrong is devoted to outreach and education programs, and in addition to his many concerts, his performances are heard regularly on National Public Radio and WQXR, NYC.</p>

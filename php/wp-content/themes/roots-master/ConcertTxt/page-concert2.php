@@ -21,12 +21,12 @@ Template Name: Page Concert2 Template
 
 	<div class="span7">
 		<h4><div>Cellist Colin Carr, back in Winnipeg!</div></h4>
-		<p>Colin Carr earned local celebrity status when he performed at the inaugural Winnipeg Cello Festival in 2011. He reinforced that Winnipeg connection when he played again with the MCO in 2013. Carr now returns to perform one of the repertoire&rsquo;s most unusual cello concertos.</p>
+		<p><b>Colin Carr</b> earned local celebrity status when he performed at the inaugural Winnipeg Cello Festival in 2011. He reinforced that Winnipeg connection when he played again with the MCO in 2013. Carr now returns to perform one of the repertoire&rsquo;s most unusual cello concertos.</p>
 		<p>On the score for his Cello Concerto in A Minor, Robert Schumann wrote &lsquo;concert piece&rsquo; rather than &lsquo;concerto,&rsquo; and it shows in the structure. It&rsquo;s a controversial work that demands playing of the highest order, and together with the cello concertos of Dvo&#345;&aacute;k and Elgar, forms a group of three great Romantic works for that instrument.</p>
 		<p>Schumann famously abhorred receiving applause between movements, and as a result, there are no breaks between any of the movements in the concerto.</p>
 		<p>There&rsquo;s no room left to talk about Shostakovich&rsquo;s monumental Chamber Symphony! It is a profound work, for which the composer mined his own life for source material. His friend Lev Lebedinsky said, &ldquo;It was his farewell to life.&rdquo;</p>
     <p><b>Post-modern, and then some</b></p>
-		<p>&ldquo;I have always loved Kancheli, a Georgian composer who has a unique voice, very haunting and melodic. He sometimes will sustain seemingly endless streams of beautiful sounds at, for example, an extremely quiet dynamic, so the music sounds very much like a meditation.</p>
+		<p>MCO&rsquo;s <b>Anne Manson</b> says, &ldquo;I have always loved Kancheli, a Georgian composer who has a unique voice, very haunting and melodic. He sometimes will sustain seemingly endless streams of beautiful sounds at, for example, an extremely quiet dynamic, so the music sounds very much like a meditation.</p>
 		<p>&ldquo;He was one of a group of composers from the Soviet Union, who developed and exchanged ideas at about the same time: Schnittke, Gubaidulina, and Sylvestrov were part of that group. They all were influenced by Shostakovich, among other composers.&rdquo;</p>
   <div>
     <p><p>

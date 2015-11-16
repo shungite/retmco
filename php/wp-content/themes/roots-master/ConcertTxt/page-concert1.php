@@ -21,12 +21,12 @@ Template Name: Page Concert1 Template
 
 	<div class="span7">
 		<h4><div>Marc-Andr&eacute; Hamelin &ldquo;urged to return by a riotous ovation&rdquo; &hellip;</div></h4>
-		<p>Ring any bells? The words from <i>The Oregonian</i> sound wonderfully familiar to anyone who has been at an MCO concert with Marc-Andr&eacute; Hamelin. The piano superstar first appeared with us in 1991, and he has been one of the high points of every season in which he has appeared.</p>
+		<p>Ring any bells? The words from <i>The Oregonian</i> sound wonderfully familiar to anyone who has been at an MCO concert with <b>Marc-Andr&eacute; Hamelin</b>. The piano superstar first appeared with us in 1991, and he has been one of the high points of every season in which he has appeared.</p>
 		<p>Hamelin moves between new and traditional repertoire with ease, and at this concert, he will do so quite literally with Valentyn Sylvestrov&rsquo;s <i>The Messenger</i>, which is new, yet not recent. Sylvestrov has said, &ldquo;I do not write new music. My music is a response to and an echo of what already exists.&rdquo;</p>
 		<p>At this opening concert, Anne Manson will present the first of two works this season by Georgian composer Giya Kancheli. &lsquo;The Kancheli which Marc-Andr&eacute; is playing is a major work which he has talked to me about playing with the MCO for some time now,&rdquo; says Manson. &ldquo;He doesn&rsquo;t have a chance to play it very often.&rdquo;</p>
 		<p><b>Post-modern, and then some</b></p>
 		<p>Using traditional tonal and modal techniques, the Ukrainian composer Valentyn Sylvestrov creates a unique and delicate tapestry of dramatic and emotional textures, qualities which he suggests are otherwise sacrificed in much of contemporary music.</p>
-		<p>On <i>The Messenger</i>: &ldquo;It is as if a visitor from some other dimension in time came to us with a message &hellip; perhaps Larysa herself, perhaps some distant muse speaking in the language of the late eighteenth century. This archaic and yet vitally contemporary language is filtered through a profoundly post-modern sensibility.&rdquo;</p>
+		<p>Sylvestrov, on <i>The Messenger</i>: &ldquo;It is as if a visitor from some other dimension in time came to us with a message &hellip; perhaps Larysa herself, perhaps some distant muse speaking in the language of the late eighteenth century. This archaic and yet vitally contemporary language is filtered through a profoundly post-modern sensibility.&rdquo;</p>
 
 		<div>
 			<p>

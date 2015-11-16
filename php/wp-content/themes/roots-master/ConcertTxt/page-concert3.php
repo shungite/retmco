@@ -21,8 +21,8 @@ Template Name: Page Concert3 Template
 
 	<div class="span7">
 		<h4><div>Lovely Christmas bits &lsquo;n bobs, baroque baubles</div></h4>
-		<p>Our MCO Christmas Concert will sparkle like a treasure trove of musical gems, with wonderful traditional works, such as Benjamin Britten&rsquo;s Ceremony of Carols, to be sung by the Winnipeg Boys Choir (Carolyn Boyes, Music Director), and Arcangelo Corelli&rsquo;s Christmas Concerto. </p>
-		<p>Slightly less traditional is the Christmas anthem <i>The Gist of Time</i> by Eric Robertson, with text by Tim Wynne-Jones. This choral work will be sung by the Pembina Trails Voices Singers, directed by David Sawatzky &mp; Philip Lapatha.</p>
+		<p>Our MCO Christmas Concert will sparkle like a treasure trove of musical gems, with wonderful traditional works, such as Benjamin Britten&rsquo;s <i>A Ceremony of Carols</i>, to be sung by the <b>Winnipeg Boys Choir</b> (Carolyn Boyes, Music Director), and Arcangelo Corelli&rsquo;s <i>Christmas Concerto</i>. </p>
+		<p>Slightly less traditional is the Christmas anthem <i>The Gist of Time</i> by Eric Robertson, with text by Tim Wynne-Jones. This choral work will be sung by the <b>Pembina Trails Voices Singers</b>, directed by David Sawatzky &mp; Philip Lapatha.</p>
 		<p>Heinrich Ignaz Franz von Biber was one of the most important composers for the violin in the history of the instrument. As a skilled violinist himself, his difficult music continues to challenge violinists today. We&rsquo;ll all have fun with this early work by Biber, in which various unusual violin techniques are used to imitate a whole menagerie of animals! </p>
     <p><b>Earl Stafford</b></p>
 		<p>Winnipeg legend Earl Stafford is the complete conductor. He is comfortable conducting and playing a variety of styles of music &mdash; from the classics to the avant garde, and from chamber music to pops. Twenty-five years as the Royal Winnipeg Ballet&rsquo;s Music Director and Principal Conductor add a new dimension altogether.</p>

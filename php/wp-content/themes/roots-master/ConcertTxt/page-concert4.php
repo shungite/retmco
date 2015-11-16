@@ -20,10 +20,10 @@ Template Name: Page Concert4 Template
 <div class="row">
 
 	<div class="span7">
-		<h4><div>Alain Trudel &amp; friends, double concerti, percussion</div></h4>
-		<p>What&rsquo;s better than a concerto? A double concerto! Even better than one single double concerto would be two double concertos. Our guest conductor Alain Trudel has lined up some of our favourite musicians for an incredible evening of interesting permutations and combinations.</p>
-		<p>MCO Concertmaster Karl Stobbe and violinist Kerry DuWors will take centre stage for the Bach double violin concerto, which is perhaps one of the most well-known works by that composer.  Patricia Evans and Caroline Oberheu will play a double horn concerto by Leopold Mozart, father and teacher of the more famous M.</p>
-		<p>There&rsquo;s new music, too! The concert begins with percussionist Victoria Sparks and the premiere of a new concerto by composer Sid Robinovitch. Also interesting will be the Lyric Suite, written by Alban Berg around 1925 using methods derived from Schoenberg&rsquo;s twelve-tone system.</p>
+		<h4>Double concerto times two,<br>and Soloists times five!</h4>
+		<p>What&rsquo;s better than a concerto? A double concerto! Even better than one single double concerto would be two double concertos. Our guest conductor <b>Alain Trudel</b> has lined up some of our favourite musicians for an incredible evening of interesting permutations and combinations.</p>
+		<p>MCO Concertmaster <b>Karl Stobbe</b> and violinist <b>Kerry DuWors</b> will take centre stage for the Bach double violin concerto, which is perhaps one of the most well-known works by that composer.  <b>Patricia Evans</b> and <b>Ken MacDonald</b> will play a double horn concerto by Leopold Mozart, father and teacher of the more famous M.</p>
+		<p>There&rsquo;s new music, too! The concert begins with percussionist <b>Victoria Sparks</b> and the premiere of a new concerto by composer Sid Robinovitch. Also interesting will be the <i>Lyric Suite</i>, written by Alban Berg around 1925 using methods derived from Schoenberg&rsquo;s twelve-tone system.</p>
     <p><b>Sid Robinovitch</b></p>
 		<p>Over the years, Sid Robinovitch has composed some of our favourite premieres! He writes for a wide variety of musical ensembles, and his music has also been performed by the Winnipeg, Toronto and Montreal Symphony Orchestras, the Elmer Iseler Singers, and the Vancouver Chamber Choir.</p>
 		<p>His works have been frequently broadcast on CBC radio, including original pieces based on folk-tales from around the world and his arrangements of Judeo-Spanish folk-songs. His most recent composition for the MCO was <i>Cantus Borealis: Song of the Forest</i>.</p>
