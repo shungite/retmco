@@ -22,9 +22,9 @@ Template Name: Page Heartstrings Template
 
     <div class="span6">
       <h4>The MCO&rsquo;s gala evening<br>&mdash; fabulous 2016 edition!</h4>
-      <p>Winnipeg&rsquo;s heavenly fundraiser is on Friday, May 6th this year. As usual, it takes place in the opulent 7th-floor ballrooms at The Fort Garry Hotel, and this year, we go Argentine! Special guests include <b>Jaime Vargas</b> and <b>Vanessa Lawson</b>.</p>
+      <p>Winnipeg&rsquo;s heavenly fundraiser is on Friday, May 6th this year. As usual, it takes place in the opulent 7th-floor ballrooms at The Fort Garry Hotel, and this year, it&rsquo;s ALL THAT JAZZ!</p>
       <p>Friday, 6 May 2016<br>The Fort Garry Hotel, Seventh Floor</p>
-      <p>6:30 pm, Cava, Tapas<br>7:30 pm, Dinner and M&uacute;sica latina<br>9:30 pm, Desserts, Liqueurs and Tango<br>Live &amp; Silent Auctions<br>Tickets $175, table of ten $1,750, patron tickets $200</p>
+      <p>6:30 pm, hors d&rsquo;oeuvres<br>7:30 pm, Dinner<br>9:30 pm, Desserts and Liqueurs<br>Live &amp; Silent Auctions<br>Tickets $175, table of ten $1,750, patron tickets $200</p>
       <p><strong>&bull; <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=5e8d5ea5e2174f6d8876407b6b7c0efa">buy tickets @ $175</a><br>&bull; <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=ae1f89e45f4b46b18661d7397fd43bc2">buy a table of ten @ $1750</a><br>&bull; <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=8b1b400a4cd8448b91b4692661dc4299">buy Patron tickets @ $200*</a></strong></p>
 <small><b>Heartrings is sponsored by</b></small>
 <p><a href="http://advisors.nbfwm.ca/en/teams/christianson-wealth-advisors"><img src="http://www.themco.ca/wp-content/uploads/2015/04/CWANBF476.png" width="476" height="92" border=0 alt="MCO Heartstrings"></a></p>
