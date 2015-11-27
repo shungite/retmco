@@ -47,7 +47,8 @@ Template Name: Page LG1516-02 Template
 
                 <p>Although each of the sections is played without pause and connected by fragments of similar thematic material, each of the three sections or movements of the concerto can still be distinguished by particular characteristics, differing tempos, and by key changes. </p>
 
-                The three connected movements in this cello concerto are:
+                <p>The three connected movements in this cello concerto are:</p>
+
                 <ul>
                   <li>Nicht zu schnell (not too fast, in A minor)</li>
                   <li>Langsam (slow, in F major)</li>
