@@ -46,7 +46,7 @@ Template Name: Page LG1516-03 Template
 
 
 
-                <p><span class="badge">1</span> The form (organizational structure) of A Ceremony of Carols is a multi-sectioned cycle of 11 movements. (Some authorities describe the work in 12 movements and separately number the pieces &ldquo;That yong&euml; child&rdquo; and &ldquo;Balulalow&rdquo;).  It includes 8 carols (unless 4a and 4b are considered separately) and a harp interlude, and is framed by a processional and recessional both based on the same liturgical Gregorian chant. Within the larger formal structure, the individual pieces demonstrate great variety of musical elements and also each have their own distinct form.  Listen for the following sections:</p>
+                <p><span class="badge">1</span> The form (organizational structure) of <i>A Ceremony of Carols</i> is a multi-sectioned cycle of 11 movements. (Some authorities describe the work in 12 movements and separately number the pieces &ldquo;That yong&euml; child&rdquo; and &ldquo;Balulalow&rdquo;).  It includes 8 carols (unless 4a and 4b are considered separately) and a harp interlude, and is framed by a processional and recessional both based on the same liturgical Gregorian chant. Within the larger formal structure, the individual pieces demonstrate great variety of musical elements and also each have their own distinct form.  Listen for the following sections:</p>
 
                 <ol>
                   <li>Procession (&ldquo;Hodie Christus natus est&rdquo; based on liturgical Gregorian chant, sung in Latin, and rejoicing in the birth of Christ)</li>
@@ -66,11 +66,11 @@ Template Name: Page LG1516-03 Template
                   <li>Recession (a repeat of the opening &quot;Hodie Christus natus est&quot; liturgical chant.) </li>
                 </ol>
 
-                <p><span class="badge">2</span> What Instruments or voices can you hear in A Ceremony of Carols? What different groups of performers are onstage? Do you hear adult or children&rsquo;s voices? Do all the voices sing the same thing at the same time throughout the work? Can you hear vocal soloists perform during this work? </p>
+                <p><span class="badge">2</span> What Instruments or voices can you hear in <i>A Ceremony of Carols</i>? What different groups of performers are onstage? Do you hear adult or children&rsquo;s voices? Do all the voices sing the same thing at the same time throughout the work? Can you hear vocal soloists perform during this work? </p>
 
                 <p>Are any string instruments playing in this work (violin, viola, cello, double bass)? Can you pick out the harp featured as accompanist and soloist in this work?  Can you hear the harp playing in the opening &quot;Hodie Christus natus est&quot;?  Listen for when the harp is the solo instrument as in the Interlude and when it accompanies other voices.</p>
 
-                <p><span class="badge">3</span> Can you identify changing moods throughout A Ceremony of Carols? How does Benjamin Britten use tempo (the speed of the music), dynamics (the volume of the music), and expression (musical elements that express certain feelings or dispositions) to create different and contrasting moods?</p>
+                <p><span class="badge">3</span> Can you identify changing moods throughout <i>A Ceremony of Carols</i>? How does Benjamin Britten use tempo (the speed of the music), dynamics (the volume of the music), and expression (musical elements that express certain feelings or dispositions) to create different and contrasting moods?</p>
 
                 <p>Which movements use mostly fast music?  Which movement uses mostly slow music?  Can you hear when the tempo of the music changes and gets faster or slower?  How does that affect the mood of the work?</p>
 
@@ -88,7 +88,7 @@ Template Name: Page LG1516-03 Template
 
                 <p>Britten loved the sound of bells and introduced a bell effect at different points in this work. For example, listen to the bell-like harmonics of the harp in the Interlude and the effect of bells also heard in &lsquo;Wolcum Yole!&rsquo; and &ldquo;Deo gracias.&rdquo;</p>
 
-                <p><span class="badge">4</span> How is rhythm used in the A Ceremony of Carols? Do you hear steady marching rhythms in the opening harp accompaniment to &ldquo;Wolcum Yole?&rdquo; Can you hear syncopated rhythms (offbeat rhythms where the accent is on the weak instead of the strong beat) in &ldquo;Deo gracias?&rdquo; </p>
+                <p><span class="badge">4</span> How is rhythm used in the <i>A Ceremony of Carols</i>? Do you hear steady marching rhythms in the opening harp accompaniment to &ldquo;Wolcum Yole?&rdquo; Can you hear syncopated rhythms (offbeat rhythms where the accent is on the weak instead of the strong beat) in &ldquo;Deo gracias?&rdquo; </p>
 
                 <p>In the third section of this work, &ldquo;There is no rose of such vertu,&rdquo; can you hear a group of three notes (triplets) played against a group of two notes (duple time) in the harp?   Britten used a technique common since Medieval times to convey a contrast between imperfect humankind and the perfection of God.  Imperfect humankind is represented by the use of duple (2/2) time, emphasized by the 2/2 pulse maintained by the harp. The Latin phrases are set as triplets, considered a symbol of holy perfection and heard in contrast against the &ldquo;imperfect&rdquo; duple accompaniment.  </p>
 
@@ -116,7 +116,7 @@ Template Name: Page LG1516-03 Template
 
                 <p>Can you hear that different sections use different sounding scales (major, minor, modal, pentatonic)? The harp Interlude uses a five note pentatonic scale that creates the effect of a Balinese gamelan orchestra, which Britten had heard shortly before leaving the United States to return home to England.</p>
 
-                <p><span class="badge">6</span> Can you hear different kinds of texture (the combination and interaction of multiple voices and instrumental parts) in A Ceremony of Carols? There are dramatic texture changes in texture throughout this work and also within movements.  Can you hear when Britten uses solo voice, unison voices (one melodic line sung by all voices at the same time), or homophonic voices (a dominating melody accompanied by chords often all moving similarly together) for different purposes? For a good contrast between unison and homophonic voices, listen for the close, lush harmonies of the voices when singing the English text contrasted with the chant-like unison voices singing the Latin text in &ldquo;There is no Rose.&rdquo;  Then listen to the thinner texture of sounds in, &ldquo;That Yong&euml; Child&rdquo;.</p>
+                <p><span class="badge">6</span> Can you hear different kinds of texture (the combination and interaction of multiple voices and instrumental parts) in <i>A Ceremony of Carols</i>? There are dramatic texture changes in texture throughout this work and also within movements.  Can you hear when Britten uses solo voice, unison voices (one melodic line sung by all voices at the same time), or homophonic voices (a dominating melody accompanied by chords often all moving similarly together) for different purposes? For a good contrast between unison and homophonic voices, listen for the close, lush harmonies of the voices when singing the English text contrasted with the chant-like unison voices singing the Latin text in &ldquo;There is no Rose.&rdquo;  Then listen to the thinner texture of sounds in, &ldquo;That Yong&euml; Child&rdquo;.</p>
 
                 <p><span class="badge">7</span> What kinds of timbre do you hear? Timbre refers to different qualities of sound, for example the kinds of sound that all the voices make when they sing together, or the very different kind of sound heard by the solo harp. Britten achieves a wide range of timbre or color in this work to create different moods and contrasts of sound to emphasize certain text. When does the timbre of the music change because Britten adds or takes away different voices?  How does Britten use timbre to create a lullaby effect in Balulalow?  A battle effect in This Little Babe?   What is the effect of the timbre of the harp in this work when it accompanies the voices? When it plays as a solo instrument?</p>
 
@@ -140,21 +140,21 @@ Template Name: Page LG1516-03 Template
                   </ul>
                 </div>
 
-                <p><span class="badge">1</span> What is your immediate response to A Ceremony of Carols? Does this music sound like any other music you have heard before? What does this music make you think of? Have you heard any other music by Benjamin Britten?</p>
+                <p><span class="badge">1</span> What is your immediate response to <i>A Ceremony of Carols</i>? Does this music sound like any other music you have heard before? What does this music make you think of? Have you heard any other music by Benjamin Britten?</p>
 
                 <p><span class="badge">2</span> What adjectives might describe the mood that you felt when listening to this work? Can you identify what musical elements may have created that mood for you? When did the mood change and why?</p>
 
                 <p><span class="badge">3</span> What musical elements did you enjoy or find interesting? Did you enjoy the use of harp?  Did you like the melodies that you heard? Did the rhythms, dynamics, or tempos used by Britten help make this work exciting? Did you hear parts of the work that made you feel peaceful or calm and if so, what part of the work were they in? Were there any parts that sounded particularly dramatic to you? If so, which movement did you hear them in and why did they feel dramatic to you? Were there parts of the work that you did not enjoy? Why or why not? </p>
 
-                <p><span class="badge">4</span> Different people often have different responses to the same music. Ask someone else who heard the same music about their response to Britten&rsquo;s A Ceremony of Carols.</p>
+                <p><span class="badge">4</span> Different people often have different responses to the same music. Ask someone else who heard the same music about their response to Britten&rsquo;s <i>A Ceremony of Carols</i>.</p>
 
-                <p><span class="badge">5</span> What feelings did it seem that Britten was trying to communicate to his audience about this work? What music elements seemed to be important to him? Is there other music by Benjamin Britten that you could listen to and compare to the sounds and experience of the A Ceremony of Carols? Great performances of Benjamin Britten&rsquo;s A Young Person&rsquo;s Guide to the Orchestra and War Requiem can be found on youtube.</p>
+                <p><span class="badge">5</span> What feelings did it seem that Britten was trying to communicate to his audience about this work? What music elements seemed to be important to him? Is there other music by Benjamin Britten that you could listen to and compare to the sounds and experience of the <i>A Ceremony of Carols</i>? Great performances of Benjamin Britten&rsquo;s A Young Person&rsquo;s Guide to the Orchestra and War Requiem can be found on youtube.</p>
 
                 <p>You might enjoy watching the 2012 movie Moonrise Kingdom, which features music by Benjamin Britten drawn from Britten&apos;s opera for children, Noye&apos;s Fludde, and his Young Person&apos;s Guide to the Orchestra.</p>
 
                 <p><span class="badge">6</span> Benjamin Britten is considered one of the leading composers of modern English music. Other leading modern English composers whose music you might wish to explore are Edward Elgar, Ralph Vaughan Williams, William Walton, and Michael Tippett.</p>
 
-                <p><span class="badge">7</span> Benjamin Britten&rsquo;s A Ceremony of Carols has been performed by many different choirs around the world. Different directors and choirs interpret this work in different ways. It might be fun to hear other recordings of this same work or to listen to youtube recordings of other choirs performing this work.</p>
+                <p><span class="badge">7</span> Benjamin Britten&rsquo;s <i>A Ceremony of Carols</i> has been performed by many different choirs around the world. Different directors and choirs interpret this work in different ways. It might be fun to hear other recordings of this same work or to listen to youtube recordings of other choirs performing this work.</p>
 
         </div><!-- /span7 -->
 
