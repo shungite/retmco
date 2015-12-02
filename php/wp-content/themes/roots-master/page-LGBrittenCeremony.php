@@ -22,7 +22,7 @@ Template Name: Page LGBrittenCeremony Template
       <div class="span7">
         <p>&nbsp;</p>
 
-        <p>The Manitoba Chamber Orchestra understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Prepared by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. Published online a week or two prior to our concerts, they offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students &mdash; with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
+        <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Prepared by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students &mdash; with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
 
           <p><b>BRITTEN: A CEREMONY OF CAROLS, OP. 28</b></p>
 
