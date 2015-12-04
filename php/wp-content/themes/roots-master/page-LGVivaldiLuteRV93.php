@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page LGVivaldiFluteRV93 Template
+Template Name: Page LGVivaldiLuteRV93 Template
 */
 ?>
 
