@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page LG1415-07 Template
+Template Name: Page LGMozartOvDG Template
 */
 ?>
 
