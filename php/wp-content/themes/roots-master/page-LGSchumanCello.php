@@ -18,6 +18,8 @@ Template Name: Page LGSchumannCello Template
   </div><!-- /row -->
 
   <div class="row">
+    
+    <div class="span7">
 
     <p>&nbsp;</p>
 
