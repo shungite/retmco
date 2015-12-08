@@ -30,8 +30,8 @@ Template Name: Page Media Template
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" target="_blank"><small>Go to playlist</small></a></p>
 
           <p><strong>Complete! Mozart&rsquo;s 40th Symphony<br>from the Official MCO YouTube Channel</strong></p>
-          <iframe width="80%" height="360" src="//www.youtube.com/embed/8TqjFYYY2H0" frameborder="0" allowfullscreen></iframe>
-          <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" target="_blank"><small>Go to playlist</small></a></p>
+          <iframe width="80%" height="360" src="//www.youtube.com/embed/_22L-N6w_Mw" frameborder="0" allowfullscreen></iframe>
+          <p><a href="http://www.themco.ca/mozart-symphony-no-40/" target="_blank"><small>Go to MTS Future First Listening Guide</small></a></p>
 
           <p><strong>Classic 107 playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/1GxA-8-dtIY?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" frameborder="0" allowfullscreen></iframe>
