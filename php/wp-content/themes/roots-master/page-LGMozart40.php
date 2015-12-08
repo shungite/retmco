@@ -29,6 +29,9 @@ Template Name: Page LGMozart40 Template
 
       <p>Mozart wrote at least 41 symphonies and there is evidence that he probably wrote even more. He finished writing his 40th symphony in July 1788. This symphony is one of Mozart&rsquo;s most performed and admired symphonies and it exists in different versions. You can read Haley Rempel&rsquo;s comments about this work on the website to find out more about Mozart and the story of this work <a href="http://www.themco.ca/concert/manson-barnatan/"><b>here</b></a>.</p>
 
+      <p><b>Click PLAY to watch the Manitoba Chamber Orchestra<br>perform this work in its entirety!</b></p>
+      <p style="font-family:Arial, Helvetica, sans-serif; text-align:left; color:#4e4e4e; font-size:12px; font-weight:normal; line-height:15px;"><a href="https://www.youtube.com/embed/_22L-N6w_Mw" target="_blank"><img src="http://www.themco.ca/wp-content/uploads/2014/10/YouTube-social-circle_red_48px.png"></a></p>
+
       <p><b>When you listen to this symphony by Mozart, you will hear musical elements that give this work a strong emotional quality. Perhaps you might even feel there is a sense of tragedy, grief, or passionate feelings expressed in this work. The following questions can help you listen to this work.</b></p>
 
       <p><span class="badge">1</span>&nbsp;Can you identify the form (organizational structure) of this symphony?</p>
