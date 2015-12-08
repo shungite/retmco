@@ -25,7 +25,7 @@ Template Name: Page LGJanacekSQ2 Template
 
       <p>
       <b>
-        LEO&#353; JAN&AACUTE;&#269;EK: STRING QUARTET NO. 2<br>&mdash;TRANSCRIBED FOR STRING ORCHESTRA BY MICHAEL OESTERLE
+        LEO&#353; JAN&Aacute;&#268;EK: STRING QUARTET NO. 2<br>&mdash;TRANSCRIBED FOR STRING ORCHESTRA BY MICHAEL OESTERLE
       </b>
       </p>
 
