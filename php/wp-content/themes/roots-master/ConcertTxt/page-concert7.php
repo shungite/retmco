@@ -75,7 +75,7 @@ Template Name: Page Concert6 Template
 				<p><b>Antonio Vivaldi</b><br>Sinfonia in G minor, RV 157</p>
 				<p><b>Antonio Vivaldi</b><br>Flautino Concerto in G-major (RV 443)</p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 15, in G Major (K 124)</p>
-				<p><b>Antonio Vivaldi</b><br><i>Tempesta di Mare</i>, Op. 10, No. 1, in F Major (RV 433)</p>
+				<p><b>Antonio Vivaldi</b><br>Recorder Concerto in C Minor (RV 441)</p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 17, in G Major (K 129)</p>
 				<p>Concert sponsor / <b>LBL Holdings</b><br />Guest artist sponsor / <b>Paul Henteleff &mdash; in memory of Nel Henteleff</b><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
 			</div>
