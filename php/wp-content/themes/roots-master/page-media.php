@@ -31,7 +31,7 @@ Template Name: Page Media Template
 
           <p><strong>Complete! Kancheli&rsquo;s <i>Valse Boston</i><br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/phKwtMeOWjM" frameborder="0" allowfullscreen></iframe>
-          <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" target="_blank"><small>Go to playlist</small></a></p>
+          <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhFD-9BkggcL1VmW8C9FWof_" target="_blank"><small>Go to playlist</small></a></p>
 
           <p><strong>Complete! Mozart&rsquo;s 40th Symphony<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/_22L-N6w_Mw" frameborder="0" allowfullscreen></iframe>
