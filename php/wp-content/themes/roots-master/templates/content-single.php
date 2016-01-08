@@ -12,5 +12,6 @@
       <?php the_tags('<ul class="entry-tags"><li>','</li><li>','</li></ul>'); ?>
     </footer>
     <?php /* comments_template('/templates/comments.php'); */ ?>
+    <h1>&nbsp;</h1>
   </article>
 <?php endwhile; ?>
