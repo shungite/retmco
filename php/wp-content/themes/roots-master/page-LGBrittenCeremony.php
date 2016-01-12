@@ -131,8 +131,7 @@ Template Name: Page LGBrittenCeremony Template
                   <p><b>Grades K-8 Valuing</b></p>
                   <p>Students analyze, reflect on, and construct meaning in response to their own and others&rsquo; music:</p>
                   <ul>
-                    <li>students analyze their own and others</li>
-                    <li>musical excerpts, works, and performances</li>
+                    <li>students analyze their own and others&rsquo; musical excerpts, works, and performances</li>
                     <li>students form personal responses to and construct meaning from their own and others&rsquo; music</li>
                   </ul>
                 </div>
