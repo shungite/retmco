@@ -25,7 +25,7 @@ Template Name: Page LGBachViolin1043 Template
 
       <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Written by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students&thinsp;&mdash;&thinsp;with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
 
-      <p><b>ERNEST BLOCH: FROM JEWISH LIFE: PRAYER</b></p>
+      <p><b>JOHAN SEBASTIAN BACH: CONCERTO FOR TWO VIOLINS, STRINGS, AND CONTINUO IN D MINOR, BWV1043</b></p>
 
       <p>Johann Sebastian Bach (1685-1750) composed the Concerto for Two Violins during the late Baroque period (1680-1750), likely between 1720 and 1730 although the exact date of composition has never been verified. This popular work is an exquisite example of Bach&rsquo;s late Baroque stylistic writing and is often known simply as the &ldquo;Bach Double.&rdquo; It is Bach&rsquo;s only concerto for two violins.</p>
 
