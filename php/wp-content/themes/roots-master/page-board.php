@@ -49,8 +49,8 @@ Template Name: Page Board Template
             <dd>Joan Gillis</dd>
             <dt>Office Manager &amp; Front-of-house Manager</dt>
             <dd>Elise Anderson</dd>
-            <dt>Conrad Sweatman</dt>
-            <dd>Marketing &amp; Communications Manager</dd>
+            <dt>Marketing &amp; Communications Manager</dt>
+            <dd>Conrad Sweatman</dd>
             <dt>Administrative Assistant</dt>
             <dd>Corinne Friesen Loewen</dd>
             <dt>Bookeeper</dt>
