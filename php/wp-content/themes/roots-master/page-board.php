@@ -49,11 +49,13 @@ Template Name: Page Board Template
             <dd>Joan Gillis</dd>
             <dt>Office Manager &amp; Front-of-house Manager</dt>
             <dd>Elise Anderson</dd>
+            <dt>Conrad Sweatman</dt>
+            <dd>Marketing &amp; Communications Manager</dd>
             <dt>Administrative Assistant</dt>
             <dd>Corinne Friesen Loewen</dd>
             <dt>Bookeeper</dt>
             <dd>Pat Ireton</dd>
-            <dt>Director, Systems and Design</dt>
+            <dt>Systems and Design</dt>
             <dd>Jon Snidal</dd>
             <dt>Concert Manager</dt>
             <dd>Boyd MacKenzie</dd>
