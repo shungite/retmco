@@ -1,12 +1,9 @@
 === wp-Typography ===
-Contributors: kingjeffrey
-Donate link: http://kingdesk.com/projects/donate/
-Tags: typography, typogrify, hyphenation, SmartyPants, widow, widon't, units, wrapping, wrap, URLs, Email, formatting, smart quotes, quote marks, dashes, em dash, en dash, ellipses, trademark, copyright, service mark, fractions, math, math symbols, ordinal suffixes, ordinal, CSS hooks, ampersands, uppercase, numbers, guillemets, text, smartypants, format, style, quotes, prettify, type, font, admin, automatic, comment, comments, content, headings, heading, CSS, custom, excerpt, feed, feeds, RSS, filter, links, page, pages, plugin, post, posts, title, wordpress, XHTML
-Requires at least: 2.7
-Tested up to: 3.0.4
-Stable tag: 2.0.4
-
-
+Contributors: pputzer
+Tags: typography, hyphenation, smart quotes, quote marks, smartypants, typogrify, quotes, prettify, widows, orphans, small caps, diacritics
+Requires at least: 4.0
+Tested up to: 4.4
+Stable tag: 3.1.3
 
 Improve your web typography with: hyphenation, space control, intelligent character replacement, and CSS hooks.
 
@@ -14,7 +11,7 @@ Improve your web typography with: hyphenation, space control, intelligent charac
 
 Improve your web typography with:
 
-* Hyphenation &mdash; [over 40 languages supported](http://kingdesk.com/projects/wp-typography-faqs/#what-hyphenation-language-patterns-are-included)
+* Hyphenation &mdash; [over 50 languages supported](https://code.mundschenk.at/wp-typography/frequently-asked-questions/#what-hyphenation-language-patterns-are-included)
 
 * Space control, including:
     * widow protection
@@ -38,17 +35,11 @@ Improve your web typography with:
 
 wp‐Typography has the following requirements:
 
-* the host server must run PHP 5 or later
-* your installation of PHP 5 must include the [mbstring extension](http://us3.php.net/manual/en/mbstring.installation.php) (most do)
+* the host server must run PHP 5.3.4 or later
+* your installation of PHP 5.3.4+ must include the [mbstring extension](http://us3.php.net/manual/en/mbstring.installation.php) (most do)
 * text must be encoded UTF‐8
-* all markup must be valid xHTML syntax, specifically:
-    * every element must be closed
-    * every attribute must have a value enclosed in quotes
-    * tag names and attributes must be lowercase
 
-wp-Typography can easily be ported to any other PHP based content management system.  A sister project &mdash; [PHP Typography](http://kingdesk.com/projects/php-typography/ "PHP Typography") assembles all typographic functionality (without any WordPress specific code) in an object oriented format that is ready for WordPress independent use.
-
-View the [wp-Typography homepage](http://kingdesk.com/projects/wp-typography/ "wp-Typography Homepage") for more information.
+wp-Typography can easily be ported to any other PHP based content management system. It is based on original work by Jeffrey D. King. More information can be found [original wp-Typography homepage](http://kingdesk.com/projects/wp-typography/ "wp-Typography Homepage").
 
 == Installation ==
 
@@ -70,7 +61,7 @@ Alternately, you may manually upload the plugin by following the following instr
 
 == Frequently Asked Questions ==
 
-FAQs are maintained at the [wp-Typography website](http://kingdesk.com/projects/wp-typography-faqs/ "wp-Typography FAQs").
+FAQs are maintained on the [wp-Typography website](https://code.mundschenk.at/wp-typography/frequently-asked-questions/).
 
 Three questions come up so frequently, we will republish their answers here:
 
@@ -84,13 +75,11 @@ More likely than not, your WordPress theme is using an improper function to set 
 
 If you are uncomfortable editing your theme's code, you may alternatively go to the wp-Typography settings page in your admin panel and add `h1` and `h2` to the "Do not process the content of these HTML elements:" field.  This will disable typographic processing within improperly designed page title links <em>and</em> page titles.
 
-There is an error in the core of WordPress (as of version 2.8.1) that uses the wrong function to provide post titles for secondary RSS feeds (like RSS feeds for single page comments or categories.  This error will return any HTML tags used for CSS Hooks or character styling, and the tags will be visible when someone clicks on the RSS icon in the address bar of their browser.  If this bothers you, your only option (until WordPress corrects this error) is to disable all typographic processing in your page titles as described in the paragraph above. Updates on this WordPress bug may be followed [here](https://core.trac.wordpress.org/ticket/10410).
-
 = Does this plugin work with wp-Typogrify? =
 
 This plugin is an official replacement for the [wp-Typogrify plugin](http://wordpress.org/extend/plugins/wp-typogrify/).  Please uninstall wp-Typogrify and install wp-Typography in its place.
 
-Remember, many more FAQs are are addressed the [wp-Typography website](http://kingdesk.com/projects/wp-typography-faqs/ "wp-Typography FAQs").
+Remember, many more FAQs are are addressed the [wp-Typography website](https://code.mundschenk.at/wp-typography/frequently-asked-questions/).
 
 
 == Screenshots ==
@@ -99,7 +88,68 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 
 == Changelog ==
 
-= 2.0.4 - January 4, 2011 = 
+= 3.1.3 - January 13, 2016 =
+* Pre­vent in­cor­rect re­place­ment of straight quotes with primes (e.g. `"number 6"` is not re­placed with `“num­ber 6″` but with `“num­ber 6”`).
+* Fixed a bug that pre­vented header tags (`<h1>` … `<h6>`) that were set as “tags to ig­nore” from ac­tu­ally be­ing left alone by the plu­gin.
+
+= 3.1.2 - January 7, 2016 =
+* Do not create (most) transients if Disable Caching is set. This prevents unchecked database growth on large installations.
+
+= 3.1.1 - January 5, 2016 =
+* Fixed fatal error when running on PHP 5.3 (use of $this in anonymous function).
+
+= 3.1.0 - January 3, 2016 =
+* Minimum PHP version updated to 5.3.4 (from 5.3.0) to ensure consistent handling of UTF-8 regular expressions.
+* Added workaround for insane NextGEN Gallery filter priority (props Itsacon).
+* Added "Clear Cache" button.
+* Changed internal option names to conform to WordPress standards (no camel case).
+* Performance improvements through lazy initialization and caching of the PHP_Typography object state.
+* Fixed diacritics replacement for UTF-8 strings
+* Refactored plugin code for easier maintenance.
+* Date-like values (e.g. "during the fiscal year 2015/2016") are not converted to smart fractions anymore.
+* Added ability to switch between dash styles: both traditional US (em dash without spacing) and international usage (en dash with spaces) can be selected.
+* Various white-space fixes related to dash styling.
+* Language names in the Settings panel are sorted correctly for all locales.
+* Fixed a bug where block-level tags where not detected corrected.
+* Added workaround for duplicate ID warnings generated by some versions of libXML.
+* Updated all hyphenation files and added the following new languages:
+  * Afrikaans,
+  * Armenian,
+  * Dutch,
+  * Georgian,
+  * German (Traditional),
+  * Latin (Classical),
+  * Latvian,
+  * Thai, and
+  * Turkmen.
+
+= 3.0.4 - December 12, 2015 =
+* Prevent accidentally invalid XPath queries from being fatal on the frontend.
+* Replaced old FAQ links in the README.
+
+= 3.0.3 - December 8, 2015 =
+* Use WordPress languages packs for translations.
+* Fixed a bug in the XPath expression for ignoring tags by CSS ID.
+
+= 3.0.2 - December 3, 2015 =
+* A typo prevented custom quote styles from working.
+
+= 3.0.1 - December 3, 2015 =
+* Prevent drop-down box settings from being accidentally overwritten (props Stefan Engenhorst).
+* Earlier check for minimum PHP version to prevent a parsing error on PHP 5.2 (props Javi).
+
+= 3.0.0 - December 2, 2015 =
+* DOM-based HTML parsing with HTML5-PHP
+* Translation-ready & German translation added
+* Added German as a diacritics language (mainly for French words).
+* Various optimizations (hyphenation is still slow, though)
+* Fixed custom hyphenation patterns.
+* Fixed some calls to deprecated functions.
+* Adopted semantic versioning for the project.
+* Added workaround for Safari font bug.
+* Added transient caching to speed things up a bit.
+
+= 2.0.4 - January 4, 2011 =
 
 * An errant "settings" link was being injected into the "Plugins" page. It has been removed.
 
@@ -123,12 +173,10 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 * Added `*{text-rendering: optimizeLegibility;}` to default CSS rules to enable kerning and ligatures in supported browsers. Note this will not appear for upgrades, only new installs
 * Upgraded to [PHP Typography 2.0](http://kingdesk.com/projects/php-typography/)
 
-
 = 1.22 - March 4, 2010 =
 
 * Fixed bug that caused occasional hyphenation errors for non-English languages.
 * Upgraded to [PHP Typography 1.22](http://kingdesk.com/projects/php-typography/)
-
 
 = 1.21.1 - January 22, 2010 =
 
@@ -138,7 +186,6 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 
 * Fixed bug in custom diacritic handling
 * Upgraded to [PHP Typography 1.21](http://kingdesk.com/projects/php-typography/)
-
 
 = 1.20 - December 20, 2009 =
 
@@ -214,7 +261,6 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 * Expanded the multibyte character set recognized as valid word characters for improved hyphenation
 * Upgraded to [PHP Typography 1.10](http://kingdesk.com/projects/php-typography/)
 
-
 = 1.9 - August 12, 2009 =
 
 * Added option to force single character words to wrap to new line (unless they are widows).
@@ -275,7 +321,6 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 * moved the processing of widow handling after hyphenation so that max-pull would not be compared to the length of the adjacent word, but rather the length of the adjacent word segment (i.e. that after a soft hyphen)
 * Upgraded to [PHP Typography 1.2](http://kingdesk.com/projects/php-typography/)
 
-
 = 1.1 - July 22, 2009 =
 
 * took advantage of new feature in PHP Typography 1.1 where we could just set user settings without first setting phpTypography defaults for a slight performance improvement.
@@ -284,7 +329,7 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 
 = 1.0.4 - July 20, 2009 =
 
-* Added test for curl to avoid bug where admin panel would not load 
+* Added test for curl to avoid bug where admin panel would not load
 
 = 1.0.3 - July 17, 2009 =
 
@@ -299,7 +344,6 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 * Corrected smart math handling to not convert slashes in URLs to division signs
 * Corrected issue where some server settings were throwing a warning in the admin panel for use of file_get_contents()
 
-
 = 1.0.1 - July 15, 2009 =
 
 * Corrected label in admin interface that indicated pretty fractions were part of basic math handling.
@@ -308,7 +352,6 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 
 * Changed default settings from all options being enabled to a minimal set being enabled.
 * Added test to phpTypography methods `process()` and `process_feed()` to skip processing if `$isTitle` parameter is `TRUE` and `h1` or `h2` is an excluded HTML tag
-
 
 = 1.0 beta 9 - July 14, 2009 =
 
@@ -346,7 +389,6 @@ Remember, many more FAQs are are addressed the [wp-Typography website](http://ki
 * Corrected default settings
 * Alphabetically sorted languages returned with get_languages() method
 * Added a "Restore Defaults" option to the admin page
-
 
 = 1.0 beta 4 - July 7, 2009 =
 
