@@ -3,7 +3,7 @@
 Plugin Name: YouTube Channel
 Plugin URI: http://urosevic.net/wordpress/plugins/youtube-channel/
 Description: Quick and easy embed latest or random videos from YouTube channel (user uploads, liked or favourited videos) or playlist. Use <a href="widgets.php">widget</a> for sidebar or shortcode for content. Works with <em>YouTube Data API v3</em>.
-Version: 3.0.8.9
+Version: 3.0.9
 Author: Aleksandar Urošević
 Author URI: http://urosevic.net/
 Text Domain: youtube-channel
@@ -19,12 +19,14 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 	{
 
 		const DB_VER = 14;
-		const VER = '3.0.8.9';
+		const VER = '3.0.9';
 
 		public $plugin_name   = 'YouTube Channel';
 		public $plugin_slug   = 'youtube-channel';
 		public $plugin_option = 'youtube_channel_defaults';
 		public $plugin_url;
+
+		public $ytc_html5_js = '';
 
 		/**
 		 * Construct class
@@ -428,7 +430,8 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 			$js = '';
 
 			// Print YT API only if we have set ytc_html5_js in $_SESSION
-			if ( ! empty( $_SESSION['ytc_html5_js'] ) ) {
+			// if ( ! empty( $_SESSION['ytc_html5_js'] ) ) {
+			if ( ! empty( $this->ytc_html5_js ) ) {
 				$js .= "
 					if (!window['YT']) {
 						var tag=document.createElement('script');
@@ -437,7 +440,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 						firstScriptTag.parentNode.insertBefore(tag,firstScriptTag);
 					}
 					function ytc_create_ytplayers(){
-						{$_SESSION['ytc_html5_js']}
+						{$this->ytc_html5_js}
 					}
 					try {
 						ytc_create_ytplayers();
@@ -1151,7 +1154,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 				if ( ! empty( $instance['norel'] ) ) { $output[] = '&amp;rel=0'; } // disable related videos
 				if ( ! empty( $instance['controls'] ) ) { $output[] = '&amp;controls=0'; }
 				if ( ! empty( $instance['hideinfo'] ) ) { $output[] = '&amp;showinfo=0'; }
-				if ( ! empty( $instance['autoplay'] ) ) { $output[] = '&amp;autoplay=1'; }
+				if ( ! empty( $instance['autoplay'] ) && 1 == $y ) { $output[] = '&amp;autoplay=1'; }
 				if ( ! empty( $instance['hideanno'] ) ) { $output[] = '&amp;iv_load_policy=3'; }
 				if ( ! empty( $instance['themelight'] ) ) { $output[] = '&amp;theme=light'; }
 				if ( ! empty( $instance['modestbranding'] ) ) { $output[] = '&amp;modestbranding=1'; }
@@ -1168,7 +1171,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 				// youtube API async
 				$js_vars = '';
 				$js_vars .= ( ! empty( $instance['norel'] ) ) ? 'rel:0,' : '';
-				$js_vars .= ( ! empty( $instance['autoplay'] ) ) ? 'autoplay:1,' : '';
+				$js_vars .= ( ! empty( $instance['autoplay'] ) && 1 == $y ) ? 'autoplay:1,' : '';
 				$js_vars .= ( ! empty( $instance['hideinfo'] ) ) ? 'showinfo:0,' : '';
 				$js_vars .= ( ! empty( $instance['controls'] ) ) ? 'controls:0,' : '';
 				$js_vars .= ( ! empty( $instance['themelight'] ) ) ? "theme:'light'," : '';
@@ -1179,7 +1182,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 
 				$js_end = '';
 				$js_end .= ( ! empty( $instance['hideanno'] ) ) ? 'iv_load_policy:3,' : '';
-				$js_end .= ( ! empty( $instance['autoplay'] ) && ! empty( $instance['autoplay_mute'] ) ) ? "events:{'onReady':ytc_mute}," : '';
+				$js_end .= ( ! empty( $instance['autoplay'] ) && ( 1 == $y ) && ! empty( $instance['autoplay_mute'] ) ) ? "events:{'onReady':ytc_mute}," : '';
 				$js_end = rtrim( $js_end, ',' );
 
 				$js_player_id      = str_replace( '-', '_', $yt_id );
@@ -1202,10 +1205,10 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 				$ytc_html5_js .= "videoId:'{$yt_id}',enablejsapi:1,playerVars:{{$js_vars}},origin:'{$site_domain}',{$js_end}});";
 
 				// prepare JS for footer
-				if ( empty( $_SESSION['ytc_html5_js'] ) ) {
-					$_SESSION['ytc_html5_js'] = $ytc_html5_js;
+				if ( empty( $this->ytc_html5_js ) ) {
+					$this->ytc_html5_js = $ytc_html5_js;
 				} else {
-					$_SESSION['ytc_html5_js'] .= $ytc_html5_js;
+					$this->ytc_html5_js .= $ytc_html5_js;
 				}
 			} else { // default is thumbnail
 
@@ -1226,7 +1229,6 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 				// Do we need thumbnail w/ or w/o tooltip
 				$tag_title = ( empty( $instance['no_thumb_title'] ) ) ? $tag_title = "title=\"{$yt_title}\"" : '';
 				$output[] = "<a href=\"//www.youtube.com/watch?v=${yt_id}${p}\" ${tag_title} class=\"ytc_thumb ytc-lightbox {$arclass}\"><span style=\"background-image: url({$yt_thumb});\" ${tag_title} id=\"ytc_{$yt_id}\"></span></a>";
-				// $output[] = "<a href=\"//${youtube_domain}/watch?v=${yt_id}${p}\" ${tag_title} class=\"ytc_thumb ytc-lightbox {$arclass}\"><span style=\"background-image: url({$yt_thumb});\" ${tag_title} id=\"ytc_{$yt_id}\"></span></a>";
 
 			} // what to show conditions
 
@@ -1240,6 +1242,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 
 				$video_description = $item->snippet->description;
 				$etcetera = '';
+				##TODO: If description should note be shortened, print HTML formatted desc
 				if ( $instance['desclen'] > 0 ) {
 					if ( strlen( $video_description ) > $instance['desclen'] ) {
 						$video_description = substr( $video_description, 0, $instance['desclen'] );
