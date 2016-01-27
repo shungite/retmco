@@ -123,6 +123,8 @@ Template Name: Page Bios Template
 
       <p>From Carnegie Hall crowds to Rusti the Orangutan, Michiko Singh has performed for diverse audiences around the world. Before joining the Winnipeg Symphony in 2010 as Fourth Horn, she was a member of the Vancouver, Memphis, Hartford and Honolulu Symphonies and the Hong Kong Philharmonic. She was a regular performer with the Royal Hawaiian Band. Described as &ldquo;skilled&rdquo; by the NY Times, Michiko received a Bachelors and Masters degrees from the Juilliard School where she studied with Jerome Ashby, Associate Principal Horn of the New York Philharmonic. She is a single mom to a 5-year-old boy and 19-year-old Jack Russell Terrier.</p>
 
+      <small>Photo: Leif Norman</small>
+
       <p>&nbsp;</p>
 
     </div><!-- /span7 -->
