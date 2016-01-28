@@ -23,7 +23,7 @@ Template Name: Page Bios Template
 
       <p>&nbsp;</p>
 
-      <p><b>THESE ARE JUST SOME</b> of the musicians you will hear and see on the Manitoba Chamber Orchestra stage in the 2015/16 season. Return often to check for new musicians or an update to your favourite player's story!</p>
+      <p><b>THESE ARE JUST SOME</b> of the orchestra players you will hear and see on the Manitoba Chamber Orchestra stage in the 2015/16 season. Return often to check for new musicians or an update to your favourite player's story!</p>
 
       <p><b>Desiree Abbey, cello</b></p>
 
