@@ -23,6 +23,8 @@ Template Name: Page Bios Template
 
       <p>&nbsp;</p>
 
+      <p><b>THESE ARE JUST SOME</b> of the musicians you will hear and see on the Manitoba Chamber Orchestra stage in the 2015/16 season. Return often to check for new musicians or an update to your favourite player's story!</p>
+
       <p><b>Desiree Abbey, cello</b></p>
 
       <p>A native of Toronto, Desiree Abbey has appeared as a cello soloist with the Cleveland Institute of Music Orchestra, the Guelph Symphony Orchestra, and the National Repertory Orchestra.</p>
