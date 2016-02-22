@@ -49,21 +49,21 @@ Template Name: Page Programs Template
           <p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered before the following concerts:</p>
           <dl class="dl">
             <dt>November 3</dt>
-            <dd>Anne Manson presents British cellist Colin Carr and Robert Schumann&rsquo;s enigmatic Cello Concerto in A Minor.</dd>
+            <dd><b>Anne Manson</b> presents British cellist <b>Colin Carr</b> and Robert Schumann&rsquo;s enigmatic Cello Concerto in A Minor.</dd>
             <dt>December 1</dt>
-            <dd>Guest conductor Earl Stafford, the Winnipeg Boys&rsquo; Choir and the Pembina Trails Voices Singers will put on a Christmas concert for all ages to enjoy!</dd>
+            <dd>Guest conductor <b>Earl Stafford</b>, the<b> Winnipeg Boys&rsquo; Choir</b> and the <b>Pembina Trails Voices Singers</b> will put on a Christmas concert for all ages to enjoy!</dd>
             <dt>January 12</dt>
-            <dd>Alain Trudel and friends: Victoria Sparks (percussion); Karl Stobbe and Kerry DuWors (double violin concerto); plus Patricia Evans &amp; Callie Oberheu (double horn).</dd>
+            <dd><b>Alain Trudel</b> and friends: <b>Victoria Sparks</b> (percussion); <b>Karl Stobbe</b> and <b>Kerry DuWors</b> (double violin concerto); plus <b>Patricia Evans</b> &amp; <b>Ken MacDonald</b> (double horn).</dd>
             <dt>February 23</dt>
-            <dd>Anne Manson introduces the &rsquo;enfant terrible&rsquo; of harp: Emmanuel Ceysson sweeps away the instrument&rsquo;s clich&eacute;s.</dd>
+            <dd><b>Anne Manson</b> introduces the &rsquo;enfant terrible&rsquo; of the harp: <b>Emmanuel Ceysson</b> sweeps away the instrument&rsquo;s clich&eacute;s.</dd>
             <dt>March 23</dt>
-            <dd>Scott Yoo will present pianist Janina Fialkowska and Beethoven&rsquo;s Piano Concerto No. 4, in G Major, Op. 58. </dd>
+            <dd><b>Scott Yoo</b> will present pianist <b>Janina Fialkowska</b> and Beethoven&rsquo;s Piano Concerto No. 4, in G Major, Op. 58. </dd>
             <dt>April 27</dt>
-            <dd>Anne Manson presents 16-year-old Dutch Eurovision Young Musicians recorder sensation Lucie Horsch! Lucie will play the piece that won her a spot in the 2014 finals.</dd>
+            <dd><b>Anne Manson</b> presents 16-year-old Dutch Eurovision Young Musicians recorder sensation <b>Lucie Horsch</b>! Lucie will play the piece that won her a spot in the 2014 finals.</dd>
             <dt>May 18</dt>
-            <dd>It&rsquo;s Chamber Night, Deluxe Edition, as Manitoba violin superstar James Ehnes and pianist Andrew Armstrong stop in at the MCO on their national recital tour!</dd>
+            <dd>It&rsquo;s Chamber Night, Deluxe Edition, as Manitoba violin superstar <b>James Ehnes</b> and pianist <b>Andrew Armstrong</b> stop in at the MCO on their national recital tour!</dd>
             <dt>June 9</dt>
-            <dd>Anne Manson welcomes Canadian-Armenian star soprano Isabel Bayrakdarian back to the MCO for Respighi&rsquo;s Il Tramonto (text by Percy Bysshe Shelley) and Songs from the Diaspora by Roberto Sierra.</dd>
+            <dd><b>Anne Manson</b> welcomes Canadian-Armenian star soprano <b>Isabel Bayrakdarian</b> back to the MCO for Respighi&rsquo;s <i>Il Tramonto</i> (text by Percy Bysshe Shelley) and <i>Songs from the Diaspora</i> by Roberto Sierra.</dd>
           </dl>
           <p class="text-error"><b>Space is limited</b></p>
           <p class="text-error">Register early by phone: call Joan at 204.783.7377 at least three days before the concert to purchase tickets and book your spot in the MCO Pizza Club. Pizza is free with your concert tickets; parents, grandparents, teachers and children welcome! <b>Concerts begin at 7:30 pm.</b></p>
