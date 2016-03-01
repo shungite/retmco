@@ -32,7 +32,7 @@ Template Name: Page Concert6 Template
 			</p></p>
   </div>
 
-		<b>The concert begins at 7:30 pm on April 27th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $32 for adults, $30 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204.783.7377).</b>
+		<b>Evening concert at 7:30 pm, hour-long matinee concert at 1:00 pm. Both concerts April 27th at <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets for both shows are $32 adults, $30 seniors and $10 students (including GST). Buy your tickets to both concerts right here or on MCO’s Ticketline (204)&thinsp;783-7377. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave).</b>
 
 		<!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
@@ -47,11 +47,17 @@ Template Name: Page Concert6 Template
 
 	<div class="span1">
 
-		<img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
-	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=0ffc25ee994c4f6089d67d0b5a8d0483"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
- 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=8c3b274b2b1e4be1bef4b63857684e3c"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
-	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=3b87dbe669d1452a8153adc183ab8078"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
-			<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
+		<img src="http://www.themco.ca/wp-content/uploads/2016/03/BuyTicketsHere.png" alt="" width="75" height="150" /><br />
+	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=0ffc25ee994c4f6089d67d0b5a8d0483"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+ 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=8c3b274b2b1e4be1bef4b63857684e3c"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=3b87dbe669d1452a8153adc183ab8078"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
+
+		<img src="http://www.themco.ca/wp-content/uploads/2016/03/MatineeTicketsHereLo.png" alt="" width="75" height="150" /><br />
+		<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=7869ee95eef7400db2dba222bb687d51"><img rel="tooltip" title="Add adult matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+	 	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=d7d739157ee040bab6e059633f97b752"><img rel="tooltip" title="Add senior matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+		<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=648a4ff0dd31458cb0f4e2ae3359a5a3"><img rel="tooltip" title="Add student matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
+
+		<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
 
 	</div> <!-- /span1 -->
 
@@ -75,7 +81,7 @@ Template Name: Page Concert6 Template
 				<p><b>Antonio Vivaldi</b><br>Sinfonia in G minor, RV 157</p>
 				<p><b>Antonio Vivaldi</b><br>Recorder Concerto in C Minor (RV 441)</p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 15, in G Major (K 124)</p>
-				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 17, in G Major (K 129)</p>				
+				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 17, in G Major (K 129)</p>
 				<p><b>Antonio Vivaldi</b><br>Flautino Concerto in G-major (RV 443)</p>
 				<p>Concert sponsor / <b>LBL Holdings</b><br />Guest artist sponsor / <b>Paul Henteleff &mdash; in memory of Nel Henteleff</b><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
 			</div>
