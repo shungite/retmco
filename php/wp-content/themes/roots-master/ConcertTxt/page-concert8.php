@@ -21,6 +21,7 @@ Template Name: Page Concert6 Template
 
 	<div class="span7">
 		<h4><div>James Ehnes stops by on National recital tour!</div></h4>
+		<p class="text-info"><b>UPDATE</b> / Due to popular demand, Ehnes and Armstrong will now perform twice on May 18th: an hour-long matinee at 1:00 pm, and an evening concert at 7:30 pm. The matinee will feature selected pieces from the evening concert repertoire listed below.</p>
 		<p>There is exciting news afoot for Canadian music lovers: <b>James Ehnes</b> and <b>Andrew Armstrong</b> will embark on a nationwide recital tour in 2016. Naturally, the best gig will be this one in James&rsquo;s home province with his MCO audience friends!</p>
 		<p>GRAMMY Award-winning violin virtuoso Ehnes and dazzling pianist Armstrong make a powerhouse duo. They perform and record together often, and last appeared on the MCO stage in 2010 (with cellist <b>Robert deMaine</b>). It is still early days for the tour, but some of the repertoire has been worked out, which is listed below. James has also said that &ldquo;various virtuoso works will be announced from the stage.&rdquo;</p>
 		<p><b>Bramwell Tovey</b>, a lifelong friend of James, has also promised to contribute something special to celebrate the recital tour in the form of a brand new composition [&ldquo;I&rsquo;m excited!&rdquo; &mdash; James].</p>
@@ -80,6 +81,7 @@ Template Name: Page Concert6 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br>18 May 2016</p>
 				<p>James Ehnes, violin<br />Andrew Armstrong, piano</p>
+				<p><b>Bramwell Tovey</b><br><i>Stream of Limelight</i></p>
 				<p><b>George Frideric Handel</b><br>Sonata in D major (HWV 371)</p>
 				<p><b>Ludwig van Beethoven</b><br>Sonata No. 5, in F Major, Op. 24 &mdash; &lsquo;Spring&rsquo;</p>
 				<p>Guest artist sponsor / <a href="http://www.quadasset.com/"><b>Quadrant Asset Management</b></a><br />Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.

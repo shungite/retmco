@@ -21,6 +21,7 @@ Template Name: Page Concert6 Template
 
 	<div class="span7">
 		<h4><div>Eurovision star Lucie Horsch!</div></h4>
+		<p class="text-info"><b>UPDATE</b> / Due to popular demand, Lucie Horsch will now perform twice on April 27th: an hour-long matinee at 1:00 pm, and an evening concert at 7:30 pm. The matinee will feature selected pieces from the evening concert repertoire listed below.</p>
 		<p>The MCO has always had a knack for discovering the freshest talent on any continent! This time, we went to Europe for Eurovision Young Musicians recorder sensation <b>Lucie Horsch</b>, who represented the Netherlands in the biennial competition for under-18-year-olds. Lucie was a finalist in the event, which was held in Cologne in 2014.</p>
 		<p><b>Anne Manson</b> calls Lucie, &ldquo;an extraordinary prodigy, with a great deal of sophistication and taste in her playing.&rdquo; For us, Lucie will perform the piece she played at the Eurovision final, the Flautino Concerto in G Major, as well as the <i>Tempesta di Mare</i>, both composed by Vivaldi in 1728-29.</p>
 		<p>Two Mozart symphonies appear on the programme, as well. Why the 15th and 17th? The connection is that Mozart was about the same age as our soloist when he composed them!</p>

@@ -33,7 +33,7 @@ Template Name: Page Programs Template
       <div class="well">
         <div class="media-body">
           <p><strong><a href="http://www.sunlife.ca/">Sun Life Financial</a><br>&lsquo;Music for all!&rsquo;program: Open dress rehearsals for schools</strong></p>
-          <p>Bring your school group to Westminster Church for a 50-minute open dress rehearsal. Learn about the work that goes into presenting a professional orchestral performance. Watch musicians and conductor rehearse and be the first to hear what audiences will hear that night! <strong>Tickets $6.00 including GST.</strong> These open dress rehearsals are best suited to senior students, adults and home-schooled children. They are working rehearsals with some stopping and starting. Offered for the concerts listed <a href="http://www.themco.ca/schools-form"><strong>on this form.</strong></a></p>
+          <p>Bring your school group to Westminster Church for a 50-minute open dress rehearsal. Learn about the work that goes into presenting a professional orchestral performance. Watch musicians and conductor rehearse and be the first to hear what audiences will hear that night! <strong>Tickets $6.00 including GST.</strong> These open dress rehearsals are best suited to senior students, adults and home-schooled children. They are working rehearsals with some stopping and starting. More information about this season&rsquo;s dress rehearsals and ticket prices available <a href="http://www.themco.ca/schools-form"><strong>on this form.</strong></a></p>
           <p><a href="http://www.sunlife.ca/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/SunLife-logo.png"></a></p>
         </div>
       </div>
