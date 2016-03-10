@@ -47,7 +47,7 @@ Template Name: Page Media Template
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhG3TzWqRMzEzaLNe2xE965K" target="_blank"><small>Go to playlist</small></a></p>
 
           <p><strong>Other videos playlist<br>from the Official MCO YouTube Channel</strong></p>
-          <iframe width="80%" height="360" src="//www.youtube.com/embed/J0899Jovfe8?list=PLrh6cFljbZhExham6y4DC7Tj_NtJWVq7P" frameborder="0" allowfullscreen></iframe>
+          <iframe width="80%" height="360" src="//www.youtube.com/embed/SgD6xwonMys?list=PLrh6cFljbZhExham6y4DC7Tj_NtJWVq7P" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhExham6y4DC7Tj_NtJWVq7P" target="_blank"><small>Go to playlist</small></a></p>
 
         </div><!-- /well -->
