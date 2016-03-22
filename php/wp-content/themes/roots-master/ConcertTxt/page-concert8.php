@@ -21,7 +21,7 @@ Template Name: Page Concert6 Template
 
 	<div class="span7">
 		<h4><div>James Ehnes stops by on National recital tour!</div></h4>
-		<p class="text-info"><b>UPDATE</b> / Due to popular demand, Ehnes and Armstrong will now perform twice on May 18th: an hour-long matinee at 1:00 pm, and an evening concert at 7:30 pm. The matinee will feature selected pieces from the evening concert repertoire listed below.</p>
+		<p class="text-info"><b>EVENING CONCERT SOLD OUT!</b> / Due to popular demand, Ehnes and Armstrong will now perform twice on May 18th: an hour-long matinee at 1:00 pm, and an evening concert at 7:30 pm. The matinee will feature selected pieces from the evening concert repertoire listed below.</p>
 		<p>There is exciting news afoot for Canadian music lovers: <b>James Ehnes</b> and <b>Andrew Armstrong</b> will embark on a nationwide recital tour in 2016. Naturally, the best gig will be this one in James&rsquo;s home province with his MCO audience friends!</p>
 		<p>GRAMMY Award-winning violin virtuoso Ehnes and dazzling pianist Armstrong make a powerhouse duo. They perform and record together often, and last appeared on the MCO stage in 2010 (with cellist <b>Robert deMaine</b>). It is still early days for the tour, but some of the repertoire has been worked out, which is listed below. James has also said that &ldquo;various virtuoso works will be announced from the stage.&rdquo;</p>
 		<p><b>Bramwell Tovey</b>, a lifelong friend of James, has also promised to contribute something special to celebrate the recital tour in the form of a brand new composition [&ldquo;I&rsquo;m excited!&rdquo; &mdash; James].</p>
@@ -35,7 +35,7 @@ Template Name: Page Concert6 Template
 			</p></p>
   </div>
 
-		<b>Evening concert at 7:30 pm, hour-long matinee concert at 1:00 pm. Both concerts May 18th at <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets for both shows are $32 adults, $30 seniors and $10 students (including GST). Buy your tickets to both concerts right here or on MCO’s Ticketline (204)&thinsp;783-7377. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave).</b>
+		<b>EVENING CONCERT SOLD OUT! Hour-long matinee concert at 1pm. Both concerts are on May 18th at <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets for the matinee concert are $32 adults, $30 seniors and $10 students (incl. GST), available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave), or MCO&rsquo;s Ticketline (204) 783-7377.</b>
 
 		<!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
@@ -49,11 +49,6 @@ Template Name: Page Concert6 Template
 	</div><!-- /span7 -->
 
 	<div class="span1">
-
-		<img src="http://www.themco.ca/wp-content/uploads/2016/03/BuyTicketsHere.png" alt="" width="75" height="150" /><br />
-	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=33f94011ede043499b7576b0ec3b94d8"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
- 	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=394654ea2e34488790a84de43aaee600"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
-	  <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=43065afc984c4249904cb5ffaa7c752f"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
 
 		<img src="http://www.themco.ca/wp-content/uploads/2016/03/MatineeTicketsHereLo.png" alt="" width="75" height="150" /><br />
 		<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=db41c7c39f444bb5be618b7a19bae938"><img rel="tooltip" title="Add adult matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
