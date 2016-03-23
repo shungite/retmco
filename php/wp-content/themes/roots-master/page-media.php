@@ -39,8 +39,7 @@ Template Name: Page Media Template
 
           <p><strong>Classic 107 playlist<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/AG2e1383biE?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" frameborder="0" allowfullscreen></iframe>
-          <iframe width="80%" height="360" src="//www.youtube.com/embed/Qik9G4FXAmI?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" frameborder="0" allowfullscreen></iframe>
-          <iframe width="80%" height="360" src="//www.youtube.com/embed/j4EXqy2oYFM?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" frameborder="0" allowfullscreen></iframe>
+          <iframe width="80%" height="360" src="//www.youtube.com/embed/99vehLHgzJo?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" frameborder="0" allowfullscreen></iframe>
           <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhH87SF1DNn1l94aLtUHAqM-" target="_blank"><small>Go to playlist</small></a></p>
 
           <p><strong>Education + outreach playlist<br>from the Official MCO YouTube Channel</strong></p>
