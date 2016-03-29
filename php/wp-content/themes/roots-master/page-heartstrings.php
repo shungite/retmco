@@ -29,7 +29,7 @@ Template Name: Page Heartstrings Template
 <small><b>Heartrings is sponsored by</b></small>
 <p><a href="http://advisors.nbfwm.ca/en/teams/christianson-wealth-advisors"><img src="http://www.themco.ca/wp-content/uploads/2015/04/CWANBF476.png" width="476" height="92" border=0 alt="Event sponsor"></a></p>
       <p><small>Heartstrings Wine Sponsor: <a href="http://www.mbll.ca/"><b>Manitoba Liquor and Lotteries</b></a><br>Heartstrings Music Sponsor: <a href="http://www.payworks.ca/"><b>Payworks</b></a></p>
-      <p>Heartstrings Reception Sponsors: <a href="https://profile.rbcwealthmanagement.com/Jon.Holeman"><img src="http://www.themco.ca/wp-content/uploads/2016/03/16_90783_NT6_002_Holeman-Sponsor-Logo.png" width="260" height="119" alt="Reception sponsor"></a>
+      <p>Heartstrings Reception Sponsors:<br><a href="https://profile.rbcwealthmanagement.com/Jon.Holeman"><img src="http://www.themco.ca/wp-content/uploads/2016/03/16_90783_NT6_002_Holeman-Sponsor-Logo300.png" width="300" height="137" alt="Reception sponsor"></a></p>
 
       <p><small>Tickets must be purchased by 3 May 2016, and will not be available at the door. Patrons are acknowledged in the program and receive a larger tax receipt.</small></p>
 
