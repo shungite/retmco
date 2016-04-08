@@ -21,6 +21,8 @@ Template Name: Page LGVivaldiRecorder441 Template
 
     <div class="span7">
 
+      <p>&nbsp;</p>
+
       <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Written by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students&thinsp;&mdash;&thinsp;with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
 
       <p>
@@ -101,7 +103,7 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <p>Vivaldi writes many melodic contrasts into the third movement. What different melodic features can you hear in the third movement? Can you hear large melodic leaps? Both very high and very low notes for the recorder?  Ornamented melodic lines?  Fast scalic patterns? Triplet melodic sequences? Rapid arpeggiated passages where the recorder alternates jumping back and forth on different notes of a chord? When you listen to the solo recorder and orchestra instruments can you pick out which instruments play mostly higher notes? Which instruments in the orchestra play lower notes?  </p>
 
-      <p><span class="badge">1</span> Can you hear different kinds of <b>texture</b> in this work? Musical texture refers to the layers of sound that are heard in the music. Where do you hear lots of instruments playing together so that the sound is thick? Where do you hear just a few instruments playing to create sparser sounding texture?</p>
+      <p><span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work? Musical texture refers to the layers of sound that are heard in the music. Where do you hear lots of instruments playing together so that the sound is thick? Where do you hear just a few instruments playing to create sparser sounding texture?</p>
 
       <p>Can you hear where the texture of this concerto is many-layered with different independent busy lines or voices played by the orchestra and solo musician? This kind of texture is called <b>polyphonic</b> or &lsquo;many voiced.&rsquo;</p>
 
@@ -144,7 +146,7 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <p><span class="badge">6</span> What feelings did it seem that Vivaldi was trying to communicate to his audience about this work? What music elements seemed to be important to him?</p>
 
-      <p><span class="badge">7</span> Is there other music by Vivaldi that you could listen to and compare to the sounds and experience of the Recorder Concerto in C minor? Perhaps you could listen to other music by Vivaldi, such as <i>The Four Seasons</i>? Try listening to any of the Johann Sebastian Bach concertos to see if you can hear Vivaldi influences in Bach&rsquo;s music. Bach stated that he used the Vivaldi concertos as inspiration for his writing.</p>
+      <p><span class="badge">7</span> Is there other music by Vivaldi that you could listen to and compare to the sounds and experience of the Recorder Concerto in C minor? Perhaps you could listen to other music by Vivaldi, such as The Four Seasons? Try listening to any of the Johann Sebastian Bach concertos to see if you can hear Vivaldi influences in Bach&rsquo;s music. Bach stated that he used the Vivaldi concertos as inspiration for his writing.</p>
 
     </div><!-- /span7 -->
 
