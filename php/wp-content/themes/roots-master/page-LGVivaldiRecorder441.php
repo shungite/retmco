@@ -161,7 +161,7 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <div class="tab-pane fade" id="fr">
         <div>
-        <p>Fran&ccedil;ais &agrave; venir bient&ocirc;t!</p>
+        <p>Version en langue fran&ccedil;aise &agrave; venir bient&ocirc;t!</p>
       </div>
       </div>
 
