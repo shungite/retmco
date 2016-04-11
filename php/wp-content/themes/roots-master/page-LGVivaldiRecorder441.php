@@ -277,7 +277,7 @@ Template Name: Page LGVivaldiRecorder441 Template
 
           <p><span class="badge">6</span> Quels sentiments Vivaldi essayait-il de communiquer par le biais de cette &oelig;uvre musicale? Quels sont les &eacute;l&eacute;ments de la musique qui semblaient &ecirc;tre importants pour lui?</p>
 
-          <p>7<span class="badge">7</span> Pourriez-vous &eacute;couter et comparer cette musique &agrave; d&rsquo;autres musiques &eacute;crites par Vivaldi? Pourriez-vous &eacute;couter par exemple, &laquo; Les quatre saisons&raquo;? Pourriez-vous &eacute;galement &eacute;couter l&apos;un des concertos de Johann S&eacute;bastian Bach pour trouver l&rsquo;influence de Vivaldi dans sa musique? Bach a d&eacute;clar&eacute; qu&apos;il a utilis&eacute; les concertos de Vivaldi comme source d&apos;inspiration pour ses propres compositions.</p>
+          <p><span class="badge">7</span> Pourriez-vous &eacute;couter et comparer cette musique &agrave; d&rsquo;autres musiques &eacute;crites par Vivaldi? Pourriez-vous &eacute;couter par exemple, &laquo; Les quatre saisons&raquo;? Pourriez-vous &eacute;galement &eacute;couter l&apos;un des concertos de Johann S&eacute;bastian Bach pour trouver l&rsquo;influence de Vivaldi dans sa musique? Bach a d&eacute;clar&eacute; qu&apos;il a utilis&eacute; les concertos de Vivaldi comme source d&apos;inspiration pour ses propres compositions.</p>
       </div>
       </div>
 
