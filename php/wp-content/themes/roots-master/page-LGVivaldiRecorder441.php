@@ -161,7 +161,122 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <div class="tab-pane fade" id="fr">
         <div>
-        <p>Version en langue fran&ccedil;aise &agrave; venir bient&ocirc;t!</p>
+          <p><b>CONCERTO POUR FLÛTE À BEC EN DO MINEUR, RV 441 D’ANTONIO VIVALDI</b> </p>
+
+          <p>Antonio Vivaldi, n&eacute; &agrave; Venise en 1678 et mort &agrave; Vienne en 1741 &eacute;tait un violoniste, professeur et compositeur italien c&eacute;l&egrave;bre de l&rsquo;&eacute;poque baroque. &Eacute;galement ordonn&eacute; pr&ecirc;tre, Vivaldi a servi pendant de nombreuses ann&eacute;es en tant que ma&icirc;tre de violon, chef d&apos;orchestre et compositeur en r&eacute;sidence &agrave; Ospedale della Piet&agrave;, hospice, orphelinat et conservatoire de musique prestigieux de Venise. La Piet&agrave; offrait une &eacute;ducation musicale de tr&egrave;s haut niveau et Vivaldi composa un nombre imposant de pi&egrave;ces sacr&eacute;es, instrumentales et vocales pour les jeunes filles de grand talent de cet orphelinat. La Piet&agrave; &eacute;tait tr&egrave;s bien dot&eacute;e financi&egrave;rement puisque beaucoup des jeunes orphelines &eacute;taient en fait les enfants ill&eacute;gitimes de riches nobles italiens, plac&eacute;es dans cet orphelinat &agrave; la demande de leurs p&egrave;res.</p>
+
+          <p>Vivaldi est r&eacute;put&eacute; pour avoir &eacute;crit plus de 500 concertos pour orchestre et instruments solos. Les quatre concertos pour violon connus sous le nom  &laquo; Les quatre saisons &raquo; sont devenus tr&egrave;s populaires puisqu&rsquo;ils ont &eacute;t&eacute; utilis&eacute;s dans des milliers d&apos;enregistrements et comme musique de films et de publicit&eacute;s. Vivaldi a &eacute;crit plus de 40 op&eacute;ras ainsi que des &oelig;uvres pour ch&oelig;ur et pour une vari&eacute;t&eacute; d&apos;instruments tels que le hautbois, le violon, le basson, le violoncelle, la fl&ucirc;te, et diff&eacute;rentes fl&ucirc;tes &agrave; bec.</p>
+
+          <p>Les concertos de Vivaldi pour fl&ucirc;te traversi&egrave;re et fl&ucirc;te &agrave; bec exigent beaucoup de virtuosit&eacute;. Les solos des concertos pour fl&ucirc;te &agrave; bec ont probablement &eacute;t&eacute; &eacute;crits en lien avec le talent technique et musical des instrumentistes virtuoses et des ensembles musicaux de la Piet&agrave;. Le concerto en do mineur RV 441 est reconnu pour son exigence technique et virtuose. Ce concerto est consid&eacute;r&eacute; comme un joyau parmi tous les concertos de Vivaldi.</p>
+
+          <div class="well">
+          <p><b>POUR LES &Eacute;DUCATEURS :</b></p>
+          <p><b>Liens curriculaires avec les cadres manitobains en musique</b></p>
+          <p><b>9e &agrave; la 12e ann&eacute;e - Faire</b> : L&rsquo;apprenant d&eacute;veloppe ses comp&eacute;tences d&rsquo;&eacute;coute pour faire de la musique sous toutes ses formes en &eacute;coutant de fa&ccedil;on critique, discriminative et intentionn&eacute;e pour :</p>
+          <ul>
+          <li>contextualiser la musique ou l&rsquo;exp&eacute;rience musicale (p. ex. : un contexte culturel, id&eacute;ologique, historique, un style ou un genre de musique particulier, une tradition, etc.); </li>
+          <li>le plaisir de jouer, d&rsquo;&eacute;couter et de comprendre la musique; </li>
+          <li>faire de la musique et l&rsquo;interpr&eacute;ter de fa&ccedil;on expressive et cr&eacute;ative; </li>
+          <li>analyser, interpr&eacute;ter, porter des jugements esth&eacute;tiques, appr&eacute;cier et &eacute;valuer.</li>
+          </ul>
+          <p><b>Maternelle &agrave; la 8e ann&eacute;e - Comprendre la musique en contexte </b>: de d&eacute;montrer sa connaissance des significations et/ou des buts vis&eacute;s de la musique dans ses propres interpr&eacute;tations et dans ses exp&eacute;riences d&rsquo;&eacute;coute</p>
+          <p><b>9e &agrave; la 12e ann&eacute;e - &Eacute;tablir des liens </b>: l&rsquo;apprenant d&eacute;veloppe une compr&eacute;hension de la port&eacute;e de la musique en &eacute;tablissant des liens avec divers lieux, &eacute;poques, cultures et groupes sociaux.</p>
+          </div>
+
+          <p><b>Voici des suggestions pour vous aider &agrave; &eacute;couter cette &oelig;uvre :</b></p>
+
+          <p><span class="badge">1</span> Les &oelig;uvres musicales poss&egrave;dent une architecture appel&eacute;e forme musicale. Pouvez-vous entendre la structure de ce concerto compos&eacute;e de trois diff&eacute;rents mouvements? Le compositeur italien Antonio Vivaldi (1678-1741) &eacute;tait reconnu pour &eacute;crire des formes musicales en trois mouvements vif-lent-vif. Dans ce concerto les mouvements sont:</p>
+          <ul>
+            <li>Allegro non molto (vif, mais pas trop);</li>
+          <li>Largo (large, lent);</li>
+          <li>Allegro (vif et allègre)</li>
+          </ul>
+          <p>Chaque mouvement a &eacute;galement une forme particuli&egrave;re. Dans ce concerto, Vivaldi utilise une version de la forme ritornello. La forme ritornello est bas&eacute;e sur un th&egrave;me r&eacute;current (un refrain appel&eacute; le ritornello) jou&eacute; par l&apos;orchestre et entrecoup&eacute; de solos jou&eacute;s par le soliste ou par de petits groupes d&apos;instruments. Le mot ritornello est d&eacute;riv&eacute; du mot italien ritornare qui se traduit par &laquo; retour &raquo;. L&apos;alternance entre les tutti et les solos est une caract&eacute;ristique commune de la forme ritornello du concerto baroque.</p>
+
+          <p>Le ritornello est g&eacute;n&eacute;ralement entendu dans l&apos;introduction, puis il revient apr&egrave;s le solo comme un interlude et comme postlude &agrave; la fin du mouvement. Dans ce concerto-ci, pouvez-vous entendre la fl&ucirc;te &agrave; bec jouer avec l&apos;orchestre dans le ritornello au d&eacute;but du premier mouvement? Pouvez-vous &eacute;galement entendre la fl&ucirc;te &agrave; bec jouer avec l&rsquo;orchestre dans le ritornello qui conclut le troisi&egrave;me mouvement? Le jeu et les contrastes entre le ritornello orchestral et celui du solo de la fl&ucirc;te &agrave; bec peuvent &ecirc;tre entendus tout au long du concerto et le dialogue entre l&apos;orchestre et fl&ucirc;te &agrave; bec solo se distingue un peu plus dans le troisi&egrave;me mouvement Allegro. Pouvez-vous entendre le tutti (qui signifie &laquo; tout &raquo; ou &laquo; tout l&rsquo;orchestre &raquo;) qui alterne avec la fl&ucirc;te &agrave; bec solo dans ce mouvement?</p>
+
+          <p><span class="badge">2</span> Quels instruments peut-on entendre dans ce concerto? Un concerto est une &oelig;uvre musicale pour un interpr&egrave;te soliste ou un petit groupe de solistes et un orchestre. Dans ce concerto, le soliste joue la fl&ucirc;te &agrave; bec. Il existe diff&eacute;rentes fl&ucirc;tes &agrave; bec de tailles diff&eacute;rentes&nbsp;: sopranino, soprano, alto, t&eacute;nor et basse. Pouvez-vous dire quelle sorte de fl&ucirc;te &agrave; bec est jou&eacute;e dans ce concerto? Ce concerto est habituellement interpr&eacute;t&eacute; &agrave; la fl&ucirc;te alto m&ecirc;me si elle a &eacute;t&eacute; transpos&eacute;e pour d&rsquo;autres sortes de fl&ucirc;tes &agrave; ainsi que pour la fl&ucirc;te traversi&egrave;re.</p>
+
+          <p>Quand entendez-vous la fl&ucirc;te pour la premi&egrave;re fois dans ce mouvement? Remarquez-vous la fa&ccedil;on dont Vivaldi met l&apos;accent sur les solos de fl&ucirc;te et leur donne une place sp&eacute;ciale dans le concerto? Pouvez-vous entendre la fl&ucirc;te dialoguer avec l&apos;orchestre? Pouvez-vous entendre comment Vivaldi a utilis&eacute; l&rsquo;orchestre pour accompagner le soliste? Pouvez-vous entendre quand l&apos;orchestre joue seul et lorsque la fl&ucirc;te joue les m&ecirc;mes parties que l&apos;orchestre?</p>
+
+          <p>Combien d&rsquo;autres instruments sont jou&eacute;s? Quels instruments &agrave; cordes reconnaissez-vous (violon, alto, violoncelle, contrebasse)? Pouvez-vous entendre le clavecin? Le clavecin fait partie d&apos;un groupe d&apos;instruments qui fait l&rsquo;accompagnement et apporte un soutien harmonique appel&eacute; basso continuo ou continuo. Le basso continuo signifie &laquo; basse continue &raquo; et &agrave; l&apos;&eacute;poque baroque, il &eacute;tait souvent compos&eacute; d&apos;un instrument &agrave; clavier et d&rsquo;une basse ou autre instrument au registre plus grave, par exemple, le violoncelle, la contrebasse, ou le basson. Le nombre et le type d&apos;instruments dans le groupe de continuo variaient beaucoup selon diff&eacute;rentes pratiques en musique baroque, mais incluaient au moins un instrument qui pouvait jouer les accords (par exemple, le clavecin, l&rsquo;orgue, le luth, la harpe ou la guitare) en combinaison avec un instrument au registre plus grave.</p>
+
+          <p><span class="badge">3</span> Vivaldi utilise le tempo (vitesse de la musique), les nuances (volume de la musique), et l&apos;expression (&eacute;l&eacute;ments musicaux qui expriment certains sentiments) pour cr&eacute;er les contrastes et les diff&eacute;rentes atmosph&egrave;res du concerto.</p>
+
+          <p>Pouvez-vous identifier une atmosph&egrave;re particuli&egrave;re pour chaque mouvement du concerto? Quel genre d&rsquo;ambiance est cr&eacute;&eacute; par le dialogue &eacute;nergique entre la fl&ucirc;te solo et l&apos;orchestre dans le premier et le troisi&egrave;me mouvement? Pouvez-vous entendre un changement soudain d&rsquo;atmosph&egrave;re &agrave; l&rsquo;ouverture du deuxi&egrave;me mouvement?</p>
+
+          <p>Quels mouvements ont un tempo plus rapide? Quel mouvement a un tempo plus lent? Pouvez-vous entendre quand le tempo change et devient plus rapide ou plus lent? Comment cela affecte-t-il l&apos;atmosph&egrave;re de l&rsquo;&oelig;uvre?</p>
+
+          <p>La musique a-t-elle &eacute;t&eacute; jou&eacute;e au m&ecirc;me volume (fort, doux, etc.)? Quand entendez-vous la musique jou&eacute;e fortement, doucement? Quelle nuance est principalement utilis&eacute;e dans le deuxi&egrave;me mouvement? Les changements de nuance produisent quelles sortes d&rsquo;effets? Entendez-vous les crescendi ou les decrescendi?</p>
+
+          <p>Entendez-vous les sons secs et courts (staccato)&nbsp;? Entendez-vous les sons li&eacute;s (legato)? Entendez-vous les sons forts soudains (accents)?</p>
+
+          <p>Vivaldi ajoute aussi des qualit&eacute;s expressives au concerto en utilisant des ornements. L&rsquo;ornementation &eacute;tait courante &agrave; l&apos;&eacute;poque baroque et les interpr&egrave;tes ajoutaient certaines fioritures  ou d&eacute;corations musicales &agrave; leurs partitions. Vivaldi orne les notes de la m&eacute;lodie en ajoutant des notes suppl&eacute;mentaires tr&egrave;s courtes juste au-dessus ou en dessous de la note principale de la m&eacute;lodie ou en alt&eacute;rant les rythmes. Au d&eacute;but du premier mouvement, pouvez-vous entendre une note trill&eacute;e appel&eacute; acciaccatura? Pouvez-vous entendre ces trilles et ces acciaccaturas ressemblant aux chants d&rsquo;oiseaux &agrave; la fl&ucirc;te dans le troisi&egrave;me mouvement?</p>
+
+          <p><span class="badge">4</span> Comment le rythme est-il utilis&eacute; dans ce concerto? Entendez-vous les parties de l&rsquo;&oelig;uvre qui ont un rythme r&eacute;gulier ou puls&eacute;? La pulsation continue entendue tout le long du concerto est une caract&eacute;ristique de la musique baroque.</p>
+
+          <p>Le premier ritornello commence par un motif rythmique de croches et de doubles-croches qui ressemble au rythme parl&eacute; suivant&nbsp;: &laquo; Saut&rsquo; ici, saut&rsquo; l&agrave;-bas, cours plus vite, cours plus vite &raquo; Entendez-vous ce motif ou une partie de ce motif dans d&apos;autres parties dans du premier mouvement?</p>
+
+          <p>Le d&eacute;but du solo de fl&ucirc;te du premier mouvement comporte un rythme en triolet (trois notes jou&eacute;es &eacute;galement dans l&apos;espace de deux). Pouvez-vous entendre lorsque la fl&ucirc;te commence &agrave; jouer ces triolets dans un motif m&eacute;lodique descendant? &Eacute;coutez ces motifs de triolet ascendants et descendants &agrave; d&apos;autres endroits dans le premier mouvement.</p>
+
+          <p>Ce concerto de Vivaldi est connu comme l&apos;un des concertos les plus exigeants sur le plan de la virtuosit&eacute; de l&apos;&eacute;poque baroque, d&ucirc; en partie aux d&eacute;fis rythmiques et m&eacute;lodiques. Pouvez-vous entendre o&ugrave; la fl&ucirc;te joue des passages rythmiques tr&egrave;s rapides dans le premier mouvement? Certaines parties de la partition de la fl&ucirc;te sont &eacute;crites en triples croches, soit la valeur de 1/32 d&rsquo;une figure de note ronde.</p>
+
+          <p>Pouvez-vous entendre la fa&ccedil;on dont les motifs rythmiques changent dans le deuxi&egrave;me mouvement? Pouvez-vous entendre des notes de plus longue dur&eacute;e dans ce deuxi&egrave;me mouvement de concerto? Pouvez-vous entendre le retour des motifs de triolet et des passages rythmiques plus rapides dans le troisi&egrave;me mouvement?</p>
+
+          <p><span class="badge">5</span> Comment la m&eacute;lodie est-elle utilis&eacute;e dans ce concerto? Dans ce concerto, l&rsquo;&eacute;criture m&eacute;lodique de Vivaldi pour la fl&ucirc;te en fait une &oelig;uvre extr&ecirc;mement difficile, m&ecirc;me pour le plus grand virtuose. C&rsquo;est la raison pour laquelle ce concerto est consid&eacute;r&eacute; comme un des concertos le plus exigeant sur le plan de la virtuosit&eacute; dans tout le r&eacute;pertoire baroque! Ce concerto est difficile &agrave; jouer parce qu&apos;il y a beaucoup de grands sauts m&eacute;lodiques, en particulier dans les passages rythmiques complexes et rapides.</p>
+
+          <p>Pouvez-vous entendre des endroits dans les trois mouvements o&ugrave; la fl&ucirc;te joue des notes qui semblent faire de grands sauts allant du grave &agrave; l&rsquo;aigu? Pouvez-vous rep&eacute;rer o&ugrave; sont les motifs m&eacute;lodiques pour fl&ucirc;te et orchestre qui contrastent et ressemblent &agrave; des gammes rapides? Ces motifs rapides sont consid&eacute;r&eacute;s tr&egrave;s p&eacute;rilleux par les plus grands interpr&egrave;tes de fl&ucirc;te &agrave; bec! Pouvez-vous dessiner la forme m&eacute;lodique dans les airs quand les sons montent et  descendent? Dans le premier mouvement, pouvez-vous entendre le d&eacute;but orchestral du ritornello (refrain) ou les fragments r&eacute;p&eacute;t&eacute;s de cette m&eacute;lodie tout au long du premier mouvement?</p>
+
+          <p>Comment pourriez-vous d&eacute;crire les m&eacute;lodies entendues dans le deuxi&egrave;me mouvement? Selon vous, est-ce que la m&eacute;lodie ressemble &agrave; une procession ou une marche? Entendez-vous les trois notes r&eacute;p&eacute;t&eacute;es au d&eacute;but du deuxi&egrave;me mouvement? Les deux premi&egrave;res notes sont jou&eacute;es dans le m&ecirc;me rythme et la troisi&egrave;me note est une note plus courte qui conduit &agrave; la m&ecirc;me s&eacute;quence m&eacute;lodique jou&eacute;e dans un registre plus aigu. Entendez-vous des notes r&eacute;p&eacute;t&eacute;es ailleurs dans le deuxi&egrave;me mouvement?</p>
+
+          <p>Vivaldi utilise plusieurs contrastes m&eacute;lodiques dans le troisi&egrave;me mouvement. Quelles sont les caract&eacute;ristiques m&eacute;lodiques perceptibles dans le troisi&egrave;me mouvement? Pouvez-vous entendre de grands sauts m&eacute;lodiques? Les deux notes tr&egrave;s aigu&euml;s et tr&egrave;s graves pour la fl&ucirc;te? Les ornements des lignes m&eacute;lodiques? Les s&eacute;ries de gammes rapides? Les s&eacute;quences de triolets m&eacute;lodiques? Les passages rapides d&rsquo;arp&egrave;ges o&ugrave; la fl&ucirc;te saute d&rsquo;une note &agrave; l&rsquo;autre sur les notes diff&eacute;rentes d&apos;un accord? Lorsque vous &eacute;coutez les solos de fl&ucirc;te et les instruments de l&rsquo;orchestre, pouvez-vous dire quels instruments jouent les notes les plus aigu&euml;s? Quels sont les instruments de l&apos;orchestre qui jouent des notes plus graves?</p>
+
+          <p><span class="badge">6</span> Pouvez-vous entendre diff&eacute;rentes textures musicales dans cette &oelig;uvre musicale? La texture musicale est d&eacute;finie par des couches sonores entendues dans la musique. O&ugrave; entendez-vous plusieurs instruments jouer tous ensemble donnant une texture plus &eacute;paisse? O&ugrave; entendez-vous seulement quelques instruments jouer donnant une texture plus clairsem&eacute;e?</p>
+
+          <p>Pouvez-vous entendre l&agrave; o&ugrave; la texture est compos&eacute;e de diff&eacute;rentes voix ind&eacute;pendantes jou&eacute;es par l&apos;orchestre et l&rsquo;instrument solo? Ce type de texture est appel&eacute; polyphonie ou &laquo; plusieurs voix &raquo;.</p>
+
+          <p>Entendez-vous l&agrave; o&ugrave; la texture de ce concerto a moins de voix et o&ugrave; les instruments de l&rsquo;orchestre sont plus uniformes ou se ressemblent et ont moins de rythmes ou de m&eacute;lodies uniques et ind&eacute;pendants? Les accords qui se ressemblent et qui sont utilis&eacute;s pour soutenir la m&eacute;lodie principale, ind&eacute;pendante d&eacute;finissent l&rsquo;homophonie dans la texture sonore.</p>
+
+          <p>&Eacute;coutez la texture sonore du deuxi&egrave;me mouvement. Pouvez-vous entendre l&apos;orchestre qui a moins de voix ind&eacute;pendantes et qui est homophonique et plut&ocirc;t compos&eacute; d&rsquo;accords?</p>
+
+          <p><span class="badge">7</span> Quels timbres sonores reconnaissez-vous? Le timbre est d&eacute;fini par la qualit&eacute; de son cr&eacute;&eacute;e par diff&eacute;rents instruments. Par exemple, le type de son des instruments &agrave; cordes quand ils jouent ensemble est une qualit&eacute; de son diff&eacute;rente de celle produite par les cuivres comme la trompette ou le cor fran&ccedil;ais. Pouvez-vous entendre la fa&ccedil;on dont le timbre change lorsque le clavecin joue avec les cordes? Lorsque la fl&ucirc;te joue avec les cordes?</p>
+
+          <p>Quand Vivaldi ajoute ou enl&egrave;ve diff&eacute;rents instruments, le timbre de l&rsquo;&oelig;uvre change. Pouvez-vous entendre quand l&apos;orchestre joue seul et quand il joue avec le soliste? Pouvez-vous entendre diff&eacute;rentes qualit&eacute;s de son en fonction l&apos;instrument ou des instruments qui jouent? &Agrave; l&rsquo;&eacute;coute, pouvez-vous reconna&icirc;tre les instruments qui jouent?</p>
+
+          <div class="well">
+            <p><b>POUR LES ÉDUCATEURS</b></p>
+          <p><b>Appr&eacute;cier, r&eacute;fl&eacute;chir et r&eacute;agir</b></p>
+          <p><b>(Maternelle &agrave; la 8e ann&eacute;e - Appr&eacute;cier; 9e &agrave; la 12e ann&eacute;e - R&eacute;agir)</b></p>
+
+          <p><b>9e &agrave; la 12e ann&eacute;e - R&eacute;agir</b></p>
+          <p>L&rsquo;apprenant a recours &agrave; la r&eacute;flexion critique afin d&rsquo;enrichir son apprentissage en musique et d&eacute;velopper son identit&eacute; et son pouvoir d&rsquo;action.</p>
+          <ul>
+            <li>L&rsquo;apprenant manifeste ses r&eacute;actions initiales &agrave; l&rsquo;&eacute;gard de ses exp&eacute;riences musicales.</li>
+          <li>L&rsquo;apprenant &eacute;coute d&rsquo;une fa&ccedil;on critique et d&eacute;crit ses exp&eacute;riences musicales.</li>
+          <li>L&rsquo;apprenant analyse et interpr&egrave;te ses exp&eacute;riences musicales.</li>
+          <li>L&rsquo;apprenant applique ses nouvelles compr&eacute;hensions au sujet de la musique pour agir de mani&egrave;re transformatrice.</li>
+          </ul>
+
+          <p><b>Maternelle &agrave; la 8e ann&eacute;e - Appr&eacute;cier</b></p>
+          <p>L&rsquo;&eacute;l&egrave;ve analyse la musique cr&eacute;&eacute;e par lui et par d&rsquo;autres, y r&eacute;fl&eacute;chit et y donne un sens.</p>
+          <ul>
+            <li>L&rsquo;&eacute;l&egrave;ve analysera des extraits de ses propres compositions et interpr&eacute;tations ainsi que ceux des autres.</li>
+          <li>L&rsquo;&eacute;l&egrave;ve d&eacute;veloppera des r&eacute;ponses personnelles et construira du sens de ses propres cr&eacute;ations musicales et de celles des autres.</li>
+          </ul>
+
+          <p><span class="badge">1</span> Quelle est votre r&eacute;action initiale &agrave; l&rsquo;&eacute;gard de cette musique? Avez-vous d&eacute;j&agrave; entendu de la musique du m&ecirc;me style? &Agrave; quoi cette musique vous fait-elle penser?</p>
+
+          <p><span class="badge">2</span> Quels adjectifs pourraient d&eacute;crire votre &eacute;tat d&apos;esprit &agrave; l&apos;&eacute;coute de ce concerto pour fl&ucirc;te &agrave; bec? Pouvez-vous identifier les &eacute;l&eacute;ments musicaux qui peuvent avoir influenc&eacute; votre humeur pendant cette &eacute;coute? Avez-vous chang&eacute; d&rsquo;humeur, comment et pourquoi pensez-vous?</p>
+
+          <p><span class="badge">3</span> Quels &eacute;l&eacute;ments musicaux avez-vous avez aim&eacute;s ou trouv&eacute;s int&eacute;ressants? Avez-vous appr&eacute;ci&eacute; les m&eacute;lodies? Est-ce que les rythmes, les nuances, ou les tempos utilis&eacute;s par Vivaldi contribuent &agrave; rendre l&rsquo;&oelig;uvre dynamique et &eacute;nergique? Quelles parties de l&rsquo;&oelig;uvre ont l&rsquo;effet de vous calmer? Quelles parties de l&rsquo;&oelig;uvre ont l&rsquo;effet de vous enjouer? Pouvez-vous les identifier et dans quel mouvement&nbsp;?</p>
+
+          <p><span class="badge">4</span> Y a-t-il des parties du concerto pour fl&ucirc;te &agrave; bec que vous n&rsquo;avez pas aim&eacute;es? Pourquoi ou pourquoi pas? Pouvez-vous identifier les &eacute;l&eacute;ments musicaux qui vous font appr&eacute;cier ou non la musique?</p>
+
+          <p><span class="badge">5</span> Diff&eacute;rentes personnes r&eacute;agissent diff&eacute;remment &agrave; la m&ecirc;me musique. Demandez &agrave; quelqu&apos;un qui a entendu la m&ecirc;me &oelig;uvre musicale sa r&eacute;action &agrave; l&rsquo;&eacute;gard de ce concerto.</p>
+
+          <p><span class="badge">6</span> Quels sentiments Vivaldi essayait-il de communiquer par le biais de cette &oelig;uvre musicale? Quels sont les &eacute;l&eacute;ments de la musique qui semblaient &ecirc;tre importants pour lui?</p>
+
+          <p>7<span class="badge">7</span> Pourriez-vous &eacute;couter et comparer cette musique &agrave; d&rsquo;autres musiques &eacute;crites par Vivaldi? Pourriez-vous &eacute;couter par exemple, &laquo; Les quatre saisons&raquo;? Pourriez-vous &eacute;galement &eacute;couter l&apos;un des concertos de Johann S&eacute;bastian Bach pour trouver l&rsquo;influence de Vivaldi dans sa musique? Bach a d&eacute;clar&eacute; qu&apos;il a utilis&eacute; les concertos de Vivaldi comme source d&apos;inspiration pour ses propres compositions.</p>
       </div>
       </div>
 
