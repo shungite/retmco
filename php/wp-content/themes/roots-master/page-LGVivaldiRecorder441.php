@@ -263,6 +263,7 @@ Template Name: Page LGVivaldiRecorder441 Template
             <li>L&rsquo;&eacute;l&egrave;ve analysera des extraits de ses propres compositions et interpr&eacute;tations ainsi que ceux des autres.</li>
           <li>L&rsquo;&eacute;l&egrave;ve d&eacute;veloppera des r&eacute;ponses personnelles et construira du sens de ses propres cr&eacute;ations musicales et de celles des autres.</li>
           </ul>
+        </div>
 
           <p><span class="badge">1</span> Quelle est votre r&eacute;action initiale &agrave; l&rsquo;&eacute;gard de cette musique? Avez-vous d&eacute;j&agrave; entendu de la musique du m&ecirc;me style? &Agrave; quoi cette musique vous fait-elle penser?</p>
 
