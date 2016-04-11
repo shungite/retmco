@@ -156,6 +156,9 @@ Template Name: Page LGVivaldiRecorder441 Template
 
           <p><span class="badge">7</span> Is there other music by Vivaldi that you could listen to and compare to the sounds and experience of the Recorder Concerto in C minor? Perhaps you could listen to other music by Vivaldi, such as The Four Seasons? Try listening to any of the Johann Sebastian Bach concertos to see if you can hear Vivaldi influences in Bach&rsquo;s music. Bach stated that he used the Vivaldi concertos as inspiration for his writing.</p>
 
+        </div>
+
+
       <div class="tab-pane fade" id="fr">
         <div>
         <p>French coming soon!</p>
@@ -163,9 +166,8 @@ Template Name: Page LGVivaldiRecorder441 Template
       </div>
 
 
-        </div>
 
-      </div>
+    </div><!-- /tab content -->
 
     </div><!-- /span7 -->
 
