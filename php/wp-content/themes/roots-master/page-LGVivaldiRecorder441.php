@@ -161,7 +161,7 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <div class="tab-pane fade" id="fr">
         <div>
-        <p>French coming soon!</p>
+        <p>Fran&ccedil;ais &agrave; venir bient&ocirc;t!</p>
       </div>
       </div>
 
