@@ -20,7 +20,7 @@ Template Name: Page Horsch Template
       <p><strong>Discover Lucie Horsch</strong></p>
 
       <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/0fc55d5f-b1aa-4211-86b4-32078d9af987?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-      <p><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon150.png"></p>
+      <p><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon100.png"></p>
 
       <p>&nbsp;<br><strong>D&eacute;couvre l'artiste Lucie Horsch</strong></p>
 
