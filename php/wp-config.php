@@ -138,6 +138,10 @@ define( 'WP_AUTO_UPDATE_CORE', false );
 
 /* That's all, stop editing! Happy blogging. */
 
+/** Added for ibook uploads */
+
+define('ALLOW_UNFILTERED_UPLOADS', true);
+
 /** Added for wp super cache */
 
 define(‘WP_CACHE’, true);
