@@ -24,7 +24,7 @@ function create_concert_post_types() {
 		'public' => true,
 		'menu_position' => 20,
 		'taxonomies' => array('category', 'post_tag'),
-		'supports' => array( 
+		'supports' => array(
 			'title',
 			'editor',
 			'thumbnail',
@@ -81,6 +81,14 @@ function replace_howdy( $wp_admin_bar ) {
  'title' => $newtitle,
  ) );
  }
- add_filter( 'admin_bar_menu', 'replace_howdy',25 );
+add_filter( 'admin_bar_menu', 'replace_howdy',25 );
+
+add_filter('upload_mimes', 'pixert_upload_types');
+function pixert_upload_types($existing_mimes=array()){
+ $existing_mimes['mp4'] = 'video/x-mp4';
+ $existing_mimes['ibooks'] = 'video/ibooks';
+ $existing_mimes['mid'] = 'audio/midi';
+ return $existing_mimes;
+}
 
  ?>
