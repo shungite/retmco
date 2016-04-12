@@ -20,12 +20,12 @@ Template Name: Page Horsch Template
       <p><strong>Discover Lucie Horsch</strong></p>
 
       <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/0fc55d5f-b1aa-4211-86b4-32078d9af987?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-      <p><a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-EN.ibooks"><b>Download iBook here (9mb)</b></a></p>
+      <p><a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-EN.ibooks"><b>Download iBook here</b> (9MB)</a></p>
 
       <p>&nbsp;<br><strong>D&eacute;couvre l'artiste Lucie Horsch</strong></p>
 
       <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/787e9080-d80e-47bd-af1f-3953109b6654?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-      <p><a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici (9mb)</b></a></p>
+      <p><a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (9MB)</a></p>
 
   </div><!-- /well -->
 
