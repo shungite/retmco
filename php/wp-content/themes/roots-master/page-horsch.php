@@ -10,7 +10,7 @@ Template Name: Page Horsch Template
   <div class="span8">
     <p>&nbsp;</p>
     <blockquote>
-      <p>&hellip;an extraordinary prodigy, with a great deal of sophistication and taste in her playing.</p>
+      <p>Luci Horsch is an extraordinary prodigy, with a great deal of sophistication and taste in her playing.</p>
       <small>Anne Manson</small>
     </blockquote>
 
@@ -25,9 +25,11 @@ Template Name: Page Horsch Template
 
       <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/787e9080-d80e-47bd-af1f-3953109b6654?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
 
-  </div>
+  </div><!-- /well -->
 
-</div>
+</div><!-- /span8 -->
+
+</div><!-- /row -->
 
 <?php get_template_part('templates/content', 'media'); ?>
 
