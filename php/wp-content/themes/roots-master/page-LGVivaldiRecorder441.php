@@ -31,13 +31,11 @@ Template Name: Page LGVivaldiRecorder441 Template
       <div class="tab-content">
         <div class="tab-pane fade in active" id="en">
 
+          <p><b>Manitoba Chamber Orchestra Listening Guides</b></p>
+
           <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Written by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students&thinsp;&mdash;&thinsp;with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
 
-          <p>
-          <b>
-            ANTONIO VIVALDI: RECORDER CONCERTO IN C MINOR, RV 441
-          </b>
-          </p>
+          <p><b>Antonio Vivaldi: Recorder Concerto in C Minor, RV 441</b></p>
 
           <p>Antonio Vivaldi was a renowned Baroque Italian composer, violinist, and teacher who was born in Venice, Italy in 1678 and died in 1741. Vivaldi, also an ordained priest, served for many years as string teacher, conductor and composer-in-residence at Ospedale della Piet&agrave;, a convent, orphanage, and well-regarded music school in Venice. The Piet&agrave; had exceptionally high musical standards and Vivaldi composed a large body of sacred vocal and instrumental music for the highly talented female music ensembles at Piet&agrave;. Piet&agrave; was financially very well-endowed, since many of the female &ldquo;orphans&rdquo; were actually the illegitimate children of wealthy Italian noblemen and placed there at the request of their fathers.</p>
 
@@ -162,9 +160,11 @@ Template Name: Page LGVivaldiRecorder441 Template
       <div class="tab-pane fade" id="fr">
         <div>
 
+          <p><b>Guides d&rsquo;&eacute;coute de l&rsquo;Orchestre de chambre du Manitoba</b></p>
+
           <p>L&rsquo;Orchestre de chambre du Manitoba (OCM) comprend l&apos;importance de l&apos;&eacute;ducation musicale, c&rsquo;est pourquoi nous avons cr&eacute;&eacute; une ressource &eacute;ducative unique pour les enseignants et les parents. Les premiers guides d&rsquo;&eacute;coute MTS r&eacute;dig&eacute;s par la p&eacute;dagogue musicale <b>Beryl Peters, Ph.D.</b>, offrent une analyse claire et approfondie du r&eacute;pertoire des concerts. Ces guides d&rsquo;&eacute;coute offrent l&rsquo;occasion aux adultes et aux apprenants de la maternelle &agrave; la 12e ann&eacute;e de s&rsquo;initier aux grandes &oelig;uvres de Bach, Beethoven, Britten, etc. Ils sont accompagn&eacute;s d&rsquo;anecdotes historiques captivantes, de notions th&eacute;oriques de base pour les &eacute;l&egrave;ves plus jeunes et de l&apos;information plus complexe pour les &eacute;l&egrave;ves plus avanc&eacute;s. En effet, &agrave; peu pr&egrave;s tout le monde peut en apprendre avec les guides d&rsquo;&eacute;coute MTS&hellip; Bonne lecture!</p>
 
-          <p><b>CONCERTO POUR FLÛTE À BEC EN DO MINEUR, RV 441 D’ANTONIO VIVALDI</b> </p>
+          <p><b>Concerto pour fl&ucirc;te &agrave; bec en do mineur, RV 441 d&rsquo;Antonio Vivaldi</b> </p>
 
           <p>Antonio Vivaldi, n&eacute; &agrave; Venise en 1678 et mort &agrave; Vienne en 1741 &eacute;tait un violoniste, professeur et compositeur italien c&eacute;l&egrave;bre de l&rsquo;&eacute;poque baroque. &Eacute;galement ordonn&eacute; pr&ecirc;tre, Vivaldi a servi pendant de nombreuses ann&eacute;es en tant que ma&icirc;tre de violon, chef d&apos;orchestre et compositeur en r&eacute;sidence &agrave; Ospedale della Piet&agrave;, hospice, orphelinat et conservatoire de musique prestigieux de Venise. La Piet&agrave; offrait une &eacute;ducation musicale de tr&egrave;s haut niveau et Vivaldi composa un nombre imposant de pi&egrave;ces sacr&eacute;es, instrumentales et vocales pour les jeunes filles de grand talent de cet orphelinat. La Piet&agrave; &eacute;tait tr&egrave;s bien dot&eacute;e financi&egrave;rement puisque beaucoup des jeunes orphelines &eacute;taient en fait les enfants ill&eacute;gitimes de riches nobles italiens, plac&eacute;es dans cet orphelinat &agrave; la demande de leurs p&egrave;res.</p>
 
