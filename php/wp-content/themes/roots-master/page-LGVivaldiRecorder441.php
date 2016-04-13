@@ -23,8 +23,6 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <p>&nbsp;</p>
 
-      <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Written by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students&thinsp;&mdash;&thinsp;with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
-
       <ul class="nav nav-pills">
         <li class="active"><a href="#en" data-toggle="tab"><strong>English</strong></a></li>
         <li><a href="#fr" data-toggle="tab"><strong>French</strong></a></li>
@@ -32,6 +30,8 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <div class="tab-content">
         <div class="tab-pane fade in active" id="en">
+
+          <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Written by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students&thinsp;&mdash;&thinsp;with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
 
           <p>
           <b>
@@ -161,6 +161,9 @@ Template Name: Page LGVivaldiRecorder441 Template
 
       <div class="tab-pane fade" id="fr">
         <div>
+
+          <p>L&rsquo;Orchestre de chambre du Manitoba (OCM) comprend l&apos;importance de l&apos;&eacute;ducation musicale, c&rsquo;est pourquoi nous avons cr&eacute;&eacute; une ressource &eacute;ducative unique pour les enseignants et les parents. Les premiers guides d&rsquo;&eacute;coute MTS r&eacute;dig&eacute;s par la p&eacute;dagogue musicale <b>Beryl Peters, Ph.D.</b>, offrent une analyse claire et approfondie du r&eacute;pertoire des concerts. Ces guides d&rsquo;&eacute;coute offrent l&rsquo;occasion aux adultes et aux apprenants de la maternelle &agrave; la 12e ann&eacute;e de s&rsquo;initier aux grandes &oelig;uvres de Bach, Beethoven, Britten, etc. Ils sont accompagn&eacute;s d&rsquo;anecdotes historiques captivantes, de notions th&eacute;oriques de base pour les &eacute;l&egrave;ves plus jeunes et de l&apos;information plus complexe pour les &eacute;l&egrave;ves plus avanc&eacute;s. En effet, &agrave; peu pr&egrave;s tout le monde peut en apprendre avec les guides d&rsquo;&eacute;coute MTS&hellip; Bonne lecture!</p>
+
           <p><b>CONCERTO POUR FLÛTE À BEC EN DO MINEUR, RV 441 D’ANTONIO VIVALDI</b> </p>
 
           <p>Antonio Vivaldi, n&eacute; &agrave; Venise en 1678 et mort &agrave; Vienne en 1741 &eacute;tait un violoniste, professeur et compositeur italien c&eacute;l&egrave;bre de l&rsquo;&eacute;poque baroque. &Eacute;galement ordonn&eacute; pr&ecirc;tre, Vivaldi a servi pendant de nombreuses ann&eacute;es en tant que ma&icirc;tre de violon, chef d&apos;orchestre et compositeur en r&eacute;sidence &agrave; Ospedale della Piet&agrave;, hospice, orphelinat et conservatoire de musique prestigieux de Venise. La Piet&agrave; offrait une &eacute;ducation musicale de tr&egrave;s haut niveau et Vivaldi composa un nombre imposant de pi&egrave;ces sacr&eacute;es, instrumentales et vocales pour les jeunes filles de grand talent de cet orphelinat. La Piet&agrave; &eacute;tait tr&egrave;s bien dot&eacute;e financi&egrave;rement puisque beaucoup des jeunes orphelines &eacute;taient en fait les enfants ill&eacute;gitimes de riches nobles italiens, plac&eacute;es dans cet orphelinat &agrave; la demande de leurs p&egrave;res.</p>
@@ -172,7 +175,7 @@ Template Name: Page LGVivaldiRecorder441 Template
           <div class="well">
           <p><b>POUR LES &Eacute;DUCATEURS :</b></p>
           <p><b>Liens curriculaires avec les cadres manitobains en musique</b></p>
-          <p><b>9e &agrave; la 12e ann&eacute;e - Faire</b> : L&rsquo;apprenant d&eacute;veloppe ses comp&eacute;tences d&rsquo;&eacute;coute pour faire de la musique sous toutes ses formes en &eacute;coutant de fa&ccedil;on critique, discriminative et intentionn&eacute;e pour :</p>
+          <p><b>9e &agrave; la 12e ann&eacute;e - Faire</b> : L&rsquo;apprenant d&eacute;veloppe ses comp&eacute;tences d&rsquo;&eacute;coute pour faire de la musique sohus toutes ses formes en &eacute;coutant de fa&ccedil;on critique, discriminative et intentionn&eacute;e pour :</p>
           <ul>
           <li>contextualiser la musique ou l&rsquo;exp&eacute;rience musicale (p. ex. : un contexte culturel, id&eacute;ologique, historique, un style ou un genre de musique particulier, une tradition, etc.); </li>
           <li>le plaisir de jouer, d&rsquo;&eacute;couter et de comprendre la musique; </li>
