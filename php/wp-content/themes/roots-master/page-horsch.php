@@ -48,7 +48,7 @@ Template Name: Page Horsch Template
         <li>PDF (pour lecture et impression, sans composantes interactives, est disponible &agrave; partir de la version en ligne)</li>
       </ul>
 
-      <p>Bonnes découvertes musicales!</p>
+      <p><b>Bonnes découvertes musicales!</b></p>
 
       <p>&nbsp;<br><strong>Guide d&rsquo;apprentissage</strong></p>
 
