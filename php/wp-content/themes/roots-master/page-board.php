@@ -23,9 +23,8 @@ Template Name: Page Board Template
             <dt>Secretary</dt>
             <dd>Alice MacKenzie</dd>
             <dt>Members</dt>
-            <dd>Father Geoffrey Angeles
-            <dd>Robert Giesbrecht
-            <dd>Joan Hardy
+            <dd>Robert Giesbrecht</dd>
+            <dd>Joan Hardy</dd>
             <dd>Sue Irving</dd>
             <dd>Elaine Margolis</dd>
             <dd>Michael McIntyre</dd>
