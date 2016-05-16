@@ -74,7 +74,7 @@ Template Name: Page Concert6 Template
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br>9 June 2016</p>
 				<p>Isabel Bayrakdarian, soprano</p>
 				<p><b>John Burge</b><br><i>Upper Canada Fiddle Suite</i></p>
-				<p><b>Roberto Sierra (arr. B. MacKenzie)</b><br><i>Songs from the Diaspora</i></p>
+				<p><b>George Frideric Handel</b><br><i>Brilla nell’ alma</i>, from <i>Alessandro</i></p>
 				<p><b>Ralph Vaughan Williams</b><br><i>Fantasia on a Theme of Thomas Tallis</i></p>
 				<p><b>Ottorino Respighi (arr. A. Trudel)</b><br><i>Il Tramonto</i> (The Sunset), text by Percy Bysshe Shelley</p>
 				<p>Concert sponsor / <b>Gail Asper Family Foundation</b><br />Concertmaster sponsor / <b>Elaine and Neil Margolis</b><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
