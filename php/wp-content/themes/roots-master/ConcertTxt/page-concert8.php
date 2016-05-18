@@ -10,7 +10,7 @@ Template Name: Page Concert6 Template
 
 	<div class="span8">
 		<img src="http://www.themco.ca/wp-content/uploads/2015/07/head18may16.png" width="770" height="455">
-	</div>
+	</http://www.richardgillis.ca/wp-content/themes/winterize//images/homebg.jpgdiv>
 	<div class="span2">
 		<p>.</p>
 	</div>
