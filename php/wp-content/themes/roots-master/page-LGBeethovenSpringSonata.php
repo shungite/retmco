@@ -68,9 +68,9 @@ Template Name: Page LGBeethovenSpringSonata Template
 
           <p>The final and fourth movement is another rondo, but this rondo is more extended than the compressed rondo variation of the second movement. The fourth movement rondo follows the pattern ABACABAD. This means that the main theme (A) is heard 4 times with two different sections (B and C) heard in between the A sections and concluding with a new section D. Can you hear the A theme repeated after each contrasting section? </p>
 
-          <p><span class="badge">2</span> What instruments can you hear in this sonata? Beethoven listed the piano first in his titles for the piano and violin sonatas and up until this time in musical history, the piano typically was the main instrument when paired with the violin. But in this sonata, Beethoven writes equally for the violin and piano. Can you hear how each instrument has an important and independent voice in this sonata? </p>
+          <p><span class="badge">2</span> What <b>instruments</b> can you hear in this sonata? Beethoven listed the piano first in his titles for the piano and violin sonatas and up until this time in musical history, the piano typically was the main instrument when paired with the violin. But in this sonata, Beethoven writes equally for the violin and piano. Can you hear how each instrument has an important and independent voice in this sonata? </p>
 
-          <p><span class="badge">3</span> Beethoven uses tempo (the speed of the music), dynamics (the volume of the music), and expression (musical elements that express certain feelings or dispositions) to create drama, contrast, and different moods in this sonata. </p>
+          <p><span class="badge">3</span> Beethoven uses <b>tempo</b> (the speed of the music), <b>dynamics</b> (the volume of the music), and <b>expression</b> (musical elements that express certain feelings or dispositions) to create drama, contrast, and different moods in this sonata. </p>
 
           <p>Can you identify the mood Beethoven is trying to create in each movement? Which movements use mostly fast music? Which movement uses mostly slow music? Can you hear when the tempo of the music changes and gets faster or slower? How does that affect the mood of the work?</p>
 
@@ -82,13 +82,13 @@ Template Name: Page LGBeethovenSpringSonata Template
 
           <p>What dynamic level is mostly used for the short third movement? The fourth movement uses many dynamic contrasts. Listen for the crescendo and decrescendo sections. </p>
 
-          <p>Do you hear musical sounds that are short sounding (staccato) or very smooth sounding (legato)? The first movement begins with beautiful legato sounds in the violin. Then in the second theme of the first movement, staccato passages can be heard after the sforzando introduction to the second theme. Staccato notes can also be heard in the repeated note sections. </p>
+          <p><b>Do you hear musical sounds that are short sounding (<b>staccato</b>) or very smooth sounding (<b>legato</b>)? The first movement begins with beautiful legato sounds in the violin. Then in the second theme of the first movement, staccato passages can be heard after the sforzando introduction to the second theme. Staccato notes can also be heard in the repeated note sections.</b> </p>
 
           <p>Where do you hear staccato sounds in the third scherzo movement--in the A or the B section? </p>
 
           <p>Beethoven also adds expressive qualities to this sonata by the use of ornamentation. Ornamentation involves musical flourishes or decorations to the musical line. In the first movement, can you hear short, decorative bird-like trills in the violin part? Can you listen for trills and other ornamentation in other movements of this work?</p>
 
-          <p><span class="badge">4</span> How is rhythm used in this sonata? Do you hear sections that have a steady rhythm or beat that you could tap to? The classical period in music was marked by a greater variation of rhythm than that used in the previous Baroque period. Beethoven uses a wide range of rhythms in this sonata. Can you make out the rhythmic pattern of the opening theme of the first movement? Do you hear that the theme begins with a long note followed by flowing, faster sixteenth notes? Do you then hear the piano echo the same rhythmic pattern? Where else do you hear this rhythmic pattern in the first movement? </p>
+          <p><span class="badge">4</span> How is <b>rhythm</b> used in this sonata? Do you hear sections that have a steady rhythm or beat that you could tap to? The classical period in music was marked by a greater variation of rhythm than that used in the previous Baroque period. Beethoven uses a wide range of rhythms in this sonata. Can you make out the rhythmic pattern of the opening theme of the first movement? Do you hear that the theme begins with a long note followed by flowing, faster sixteenth notes? Do you then hear the piano echo the same rhythmic pattern? Where else do you hear this rhythmic pattern in the first movement? </p>
 
           <p>Can you hear a repeated rhythmic pattern in the second theme of the first movement that might sound like knocking at a door? It can be heard in both the violin and the piano parts. Can you listen for this rhythmic pattern again in the first movement? </p>
 
@@ -96,7 +96,7 @@ Template Name: Page LGBeethovenSpringSonata Template
 
           <p>Can you hear dramatic syncopated (off-beat) rhythms in the fourth rondo movement? Can you hear triplet rhythms in this movement? Triplet rhythms are three notes played in the time it normally takes to play two notes. What other rhythmic patterns stand out for you in this sonata? Is there another particular pattern that you can hear repeated between the violin and piano? </p>
 
-          <p><span class="badge">5</span> How is melody or pitch used in this sonata? </p>
+          <p><span class="badge">5</span> How is <b>melody</b> or <b>pitch</b> used in this sonata? </p>
 
           <p>Can you hear that the violin&rsquo;s opening melody in the first movement begins on a long high note that flows downwards with ornamented and scalic notes to land on a lower, long note a sixth lower? The interval of a descending sixth is a melodic feature heard throughout all movements of this sonata. </p>
 
@@ -106,13 +106,13 @@ Template Name: Page LGBeethovenSpringSonata Template
 
           <p>A repeated note figure is also heard in the fourth movement. It is a melodic fragment that is easy to sing. Can you hear it in the opening violin part after the piano introduction to the fourth movement? The melody begins with a three note ornamented figure followed by four descending notes with the last of the four descending notes repeated three times. What other melodic patterns can you hear in this sonata? Are there any other melodies that are easy to sing?  </p>
 
-          <p><span class="badge">6</span> Can you hear different kinds of texture in this work? Musical texture refers to the layers of sound that are heard in the music. </p>
+          <p><span class="badge">6</span> Can you hear different kinds of <b>texture</b> in this work? Musical texture refers to the layers of sound that are heard in the music. </p>
 
           <p>Can you hear where the texture of this sonata features independent lines or voices played by the violin and piano and exchanged between them? In these sections, the violin and the piano sound like equal partners. </p>
 
           <p>Can you hear where the texture of the sonata changes so that there is one main melodic voice in the violin accompanied by solid or broken chords in the piano, as for example parts of the second movement Adagio? </p>
 
-          <p><span class="badge">7</span> What kinds of instrumental timbre do you hear? Timbre is the different qualities of sound created by different instruments. For example the kind of sound that string instruments make when they play together is a different quality of sound to that produced by brass instruments like the trumpet or French horn. How would you describe the timbre of the violin? Of the piano? Of the piano playing with the violin? Can you hear different qualities of sound depending on what instrument or instruments are playing? Can you tell which instruments are playing just from hearing them? </p>
+          <p><span class="badge">7</span> What kinds of instrumental <b>timbre</b> do you hear? Timbre is the different qualities of sound created by different instruments. For example the kind of sound that string instruments make when they play together is a different quality of sound to that produced by brass instruments like the trumpet or French horn. How would you describe the timbre of the violin? Of the piano? Of the piano playing with the violin? Can you hear different qualities of sound depending on what instrument or instruments are playing? Can you tell which instruments are playing just from hearing them? </p>
 
           <div class="well">
             <p><b>FOR EDUCATORS</b></p>
