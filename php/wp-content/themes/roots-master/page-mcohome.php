@@ -14,10 +14,6 @@ Template Name: Page MCOhome Template
     </div>
   </div><!-- /row -->
 
-  <div class="row-fluid">
-    <small>&nbsp;</small>
-  </div>
-
 <div class="row-fluid">
     <div class="span8">
       <div class="well">
