@@ -20,7 +20,7 @@ Template Name: Page MCOhome Template
 
 <div class="row-fluid">
     <div class="span8">
-      <div class="well-white">
+      <div class="well">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px"></a>
           <div class="media-body">
             <p><strong><a href="#">Next MCO Vinyl Vault &amp; CD Cellar sale: 10 am to 3 pm, Saturday, 25 June 2016</strong></a><br />Winnipeg&rsquo;s largest and cheapest record collection. (We&rsquo;re pretty sure.) From indie rock to funk, new wave to classical&thinsp;&mdash;&thinsp;there&rsquo;s something for every kind of music snob. <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p>
@@ -33,7 +33,7 @@ Template Name: Page MCOhome Template
   <div class="row-fluid">
 
     <div class="span4">
-      <div class="well">
+      <div class="well-white">
         <p><strong><a href="#">Sign up here for MCO&rsquo;s<br><em>Noteworthy</em> email newsletter!</strong></a></p>
         <p>Our just-about-monthly missive is filled with information on upcoming concerts and special events. Unsubscribe at any time.</p>
         <?php echo do_shortcode('[contact-form-7 id="1045" title="Noteworthy"]'); ?>
