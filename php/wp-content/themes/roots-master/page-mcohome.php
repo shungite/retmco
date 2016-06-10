@@ -33,7 +33,7 @@ Template Name: Page MCOhome Template
   <div class="row-fluid">
 
     <div class="span4">
-      <div class="well-white">
+      <div class="well">
         <p><strong><a href="#">Sign up here for MCO&rsquo;s<br><em>Noteworthy</em> email newsletter!</strong></a></p>
         <p>Our just-about-monthly missive is filled with information on upcoming concerts and special events. Unsubscribe at any time.</p>
         <?php echo do_shortcode('[contact-form-7 id="1045" title="Noteworthy"]'); ?>
