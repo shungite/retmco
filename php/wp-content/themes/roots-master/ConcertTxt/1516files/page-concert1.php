@@ -9,7 +9,7 @@ Template Name: Page Concert1 Template
 <div class="row">
 
 	<div class="span8">
-		<img src="http://www.themco.ca/wp-content/uploads/2016/06/head13sep16.jpg" width="770" height="455">
+		<img src="http://www.themco.ca/wp-content/uploads/2015/07/head14oct15.png" width="770" height="455">
 	</div>
 	<div class="span2">
 		<p>.</p>
@@ -20,19 +20,21 @@ Template Name: Page Concert1 Template
 <div class="row">
 
 	<div class="span7">
-		<h4><div>James Ehnes&thhinsp;&mdash;&thinsp;this time<br>with the Orchestra!</div></h4>
-		<p>The fact that no introduction is required for James Ehnes won&rsquo;t stop us from gushing about his towering achievements.</p>
-		<p>The Brandon native&rsquo;s career took off like a shot in his teens, when he performed as a soloist with several major orchestras &ndash; including the MCO. By his early 30s he&rsquo;d been elected to the Royal Society of Canada, appointed to the Order of Canada, earned an honorary doctorate, and won a Grammy for one of over 40 CDs he&rsquo;s recorded.</p>
-		<p>A musician whose virtuosity knows no bounds, Ehnes&rsquo;s playing might simply be described as the best. The Globe and Mail calls him &ldquo;the Jascha Heifetz of our day.&rdquo; For this concert Ehnes will play-conduct three big ones from the common practice era: Elgar&rsquo;s String Serenade, Dvoř&aacute;k&rsquo;s Serenade, Op. 22, and Beethoven&rsquo;s Violin Concerto, Op. 61.</p>
-		<p><b>James Ehnes&thinsp;&hellip;&thinsp;violist?</b></p>
-		<p>Ehnes&rsquo; talents run as wide as they do deep. Did you know that he also plays the viola? He&rsquo;s recorded and performed with the instrument, though usually he&rsquo;s heard on his $8 million Stradivarius violin. As well as playing the Strad for this concert, Ehnes will conduct the orchestra.</p>
+		<h4><div>Marc-Andr&eacute; Hamelin &ldquo;urged to return by a riotous ovation&rdquo; &hellip;</div></h4>
+		<p>Ring any bells? The words from <i>The Oregonian</i> sound wonderfully familiar to anyone who has been at an MCO concert with <b>Marc-Andr&eacute; Hamelin</b>. The piano superstar first appeared with us in 1991, and he has been one of the high points of every season in which he has appeared.</p>
+		<p>Hamelin moves between new and traditional repertoire with ease, and at this concert, he will do so quite literally with Valentyn Sylvestrov&rsquo;s <i>The Messenger</i>, which is new, yet not recent. Sylvestrov has said, &ldquo;I do not write new music. My music is a response to and an echo of what already exists.&rdquo;</p>
+		<p>At this opening concert, Anne Manson will present the first of two works this season by Georgian composer Giya Kancheli. &lsquo;The Kancheli which Marc-Andr&eacute; is playing is a major work which he has talked to me about playing with the MCO for some time now,&rdquo; says Manson. &ldquo;He doesn&rsquo;t have a chance to play it very often.&rdquo;</p>
+		<p><b>Post-modern, and then some</b></p>
+		<p>Using traditional tonal and modal techniques, the Ukrainian composer Valentyn Sylvestrov creates a unique and delicate tapestry of dramatic and emotional textures, qualities which he suggests are otherwise sacrificed in much of contemporary music.</p>
+		<p>Sylvestrov, on <i>The Messenger</i>: &ldquo;It is as if a visitor from some other dimension in time came to us with a message &hellip; perhaps Larysa herself, perhaps some distant muse speaking in the language of the late eighteenth century. This archaic and yet vitally contemporary language is filtered through a profoundly post-modern sensibility.&rdquo;</p>
+
 		<div>
 			<p>
   			<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Subscriber event" data-content="A special box dinner (optional) and presentation on the coming season by Anne Manson &mdash; for subscribers only; 5:30 pm.">Subscriber event</button>
 			</p>
 		</div>
 
-		<b>The concert begins at 7:30 pm on September 13th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $32 for adults, $30 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204.783.7377).</b>
+		<b>The concert begins at 7:30 pm on October 14th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $32 for adults, $30 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204.783.7377).</b>
 
 		<!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
