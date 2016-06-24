@@ -25,7 +25,7 @@ Template Name: Page Ehnes Template
       <p>The Discover Learning Guide is available in three formats:</p>
       <ul>
         <li>electronic book ibook (iPad, iPhone, iPod touch or Mac)</li>
-        <li>COMING SOON / online version (viewable with internet connection on most devices and browsers)</li>
+        <li>online version (viewable with internet connection on most devices and browsers)</li>
         <li>PDF (for reading and printing, no interactive components, available from within online version)</li>
       </ul>
       <p><b>Enjoy your musical discoveries!</b></p>
@@ -35,7 +35,7 @@ Template Name: Page Ehnes Template
       <p><strong>Learning Guide</strong></p>
 
       <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/a7836707-bbe1-443c-a7d2-0bea257a7b24" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-      <p><a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-EN.ibooks"><b>Download iBook here</b> (9MB)</a></p>
+      <p><a href="#"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="#"><b>Download iBook here</b> (9MB)</a></p>
 
       <p>&nbsp;</p>
 
@@ -55,7 +55,7 @@ Template Name: Page Ehnes Template
       <p>&nbsp;<br><strong>Guide d&rsquo;apprentissage</strong></p>
 
       <iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/bac87fd1-4472-4ffa-891a-3ad2a572ff1a" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-      <p><a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (9MB)</a></p>
+      <p><a href="#"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="#"><b>T&eacute;l&eacute;charger iBook ici</b> (9MB)</a></p>
 
   </div><!-- /well -->
 
