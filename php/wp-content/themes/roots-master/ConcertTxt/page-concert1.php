@@ -24,7 +24,7 @@ Template Name: Page Concert1 Template
 		<p>The fact that no introduction is required for James Ehnes won&rsquo;t stop us from gushing about his towering achievements.</p>
 		<p>The Brandon native&rsquo;s career took off like a shot in his teens, when he performed as a soloist with several major orchestras&thinsp;&mdash;&thinsp;including the MCO. By his early 30s he&rsquo;d been elected to the Royal Society of Canada, appointed to the Order of Canada, earned an honorary doctorate, and won a Grammy for one of over 40 CDs he&rsquo;s recorded.</p>
 		<p>A musician whose virtuosity knows no bounds, Ehnes&rsquo;s playing might simply be described as the best. The <i>Globe and Mail</i> calls him &ldquo;the Jascha Heifetz of our day.&rdquo; For this concert Ehnes will play-conduct three big ones from the common practice era: Elgar&rsquo;s String Serenade, Dvoř&aacute;k&rsquo;s Serenade, Op. 22, and Beethoven&rsquo;s Violin Concerto, Op. 61.</p>
-		<p><b>James Ehnes&thinsp;&hellip;&thinsp;violist?</b></p>
+		<p><b>James Ehnes &hellip; violist?</b></p>
 		<p>Ehnes&rsquo; talents run as wide as they do deep. Did you know that he also plays the viola? He&rsquo;s recorded and performed with the instrument, though usually he&rsquo;s heard on his $8 million Stradivarius violin. As well as playing the Strad for this concert, Ehnes will conduct the orchestra.</p>
 		<!-- <div>
 			<p>

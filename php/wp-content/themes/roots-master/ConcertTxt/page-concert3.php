@@ -26,8 +26,6 @@ Template Name: Page Concert3 Template
 		<p>This is von Oeyen&rsquo;s first time performing in Winnipeg, so he may be best known to Winnipeggers for his stellar recent recordings of time-honoured piano repertoire by the likes of Liszt and Chopin.</p>
 		<p>This concert, however, will see von Oeyen exploring more iconoclastic territory. He&rsquo;ll perform Shostakovich&rsquo;s playful Piano Concerto No. 1. Rich with humour and folk elements, it stands in contrast to the more pensive Shostakovich works performed by the MCO last season.</p>
 		<p>The concert goes out with a bang, wrapping up with Mozart&rsquo;s 29th symphony, a landmark work that shows the 18 year-old composer really coming into his own.</p>
-		<p><b>Shostakovich&thinsp;&mdash;&thinsp;musical conservative?</b></p>
-		<p>Shostakovich has been called many things&thinsp;&mdash;&thinsp;political dissident, Soviet collaborator, decadent formalist&thinsp;&mdash;&thinsp;but a conservative is usually not one of them. However his Piano Concerto No. 1 is replete with traditional elements, from folk themes to quotations of Beethoven and Haydn. Could it be that in this early work the emerging artist was still channeling the old masters for inspiration? Maybe, but there&rsquo;s an ironic edge to these borrowings that&rsquo;s in the same irreverent spirit of Shostakovich&rsquo;s more mature work.</p>
 
 		<div>
 	    <p><img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations.">Pizza Club</button></p>
@@ -77,7 +75,7 @@ Template Name: Page Concert3 Template
 				<p><b>Douglas Pew</b><br><i>I Was a Stranger</i><br> Manitoba Chamber Orchestra commission, Canadian premiere performance</p>
 				<p><b>Dmitri Shostakovich</b><br>Piano Concerto in C Minor, No. 1, Op. 35</p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 29, K 201</p>
-				<p>Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
+				<p>Concert sponsor / <a href="http://www.pollardbanknote.com/"><b>Pollard Banknote</b><br></a>Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">
