@@ -37,6 +37,20 @@ Template Name: Page LGHandelViolinHWV371 Template
 
             <p>Mystery surrounds the violin sonatas written by the Baroque composer George Frideric Handel (1685-1759). In recent years, musicologists have questioned the origin of some violin sonatas attributed to Handel. Experts from around the world, however, have authenticated Handel&rsquo;s Sonata in D major HWV 371; his Sonata in D major manuscript dating from around 1750 still survives today. But even this authenticated sonata has been associated with intrigue and uncertainty, as it can also be found in pirated publications and with falsified title pages. The Violin Sonata HWV 371 known as the &ldquo;Great D major&rdquo; is considered a masterpiece in the solo violin genre and is one of Handel&rsquo;s last violin sonatas, never published in his lifetime.</p>
 
+            <div class="well">
+              <p><b>FOR EDUCATORS</b></p>
+              <p><b>Manitoba Music Curricular Connections</b></p>
+              <p><b>9-12 Making:</b> The learner develops competencies for listening by listening critically with discrimination and purpose to:</p>
+              <ul>
+                <li>situate and contextualize music (e.g., cultural/ ideological/historical/social contexts, music style, genre, tradition, or praxis, etc.)</li>
+                <li>support enjoyment and understanding of music</li>
+                <li>make and interpret music expressively and creatively</li>
+                <li>inform analysis, interpretation, judgement, appreciation, and evaluation</li>
+              </ul>
+              <p><b>K-8 Understanding Music in Context:</b> Demonstrate awareness of the intended meanings and/or purposes of music encountered in own performance and listening experiences</p>
+              <p><b>9-12 Connecting:</b> The learner develops understandings about the significance of music by connecting music to diverse contexts.</p>
+            </div>
+
             <p>Here are some ways to help you listen to this work:</p>
 
             <p>Music compositions have a certain architecture called musical <b>form</b>. Can you hear that the structure of this sonata is made up of four different sections or movements? In the classical period, the term sonata referred to a particular kind of musical form, but the word <i>sonata</i> as used during Handel&rsquo;s time described almost any kind of composition written for an instrumental ensemble.</p>
