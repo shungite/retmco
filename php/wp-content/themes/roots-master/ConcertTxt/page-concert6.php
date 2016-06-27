@@ -73,8 +73,11 @@ Template Name: Page Concert6 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br>29 March 2017</p>
 				<p>Gemma New, conductor<br>Sam Casseday, double bass</p>
-				<p><b>Josef Suk</b><br> Serenade for Strings, in E Flat Major, Op. 6</p>
+				<p><b>Alan Gordon Bell</b><br><i>Dynamus</i></p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Violin Concerto No. 5 (arr. for double bass!)</p>
+				<p><b>Sir Ernest MacMillan</b><br><i>Two Sketches on String Airs</i></p>
+				<p><b>Josef Suk</b><br><i>Serenade for Strings</i>, in E Flat Major, Op. 6</p>
+
 				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
 			</div>
 
