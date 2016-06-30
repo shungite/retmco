@@ -2,7 +2,7 @@
 /*
 Plugin Name: Rotating Tweets (Twitter widget & shortcode)
 Description: Replaces a shortcode such as [rotatingtweets screen_name='your_twitter_name'], or a widget, with a rotating tweets display 
-Version: 1.8.2
+Version: 1.8.4
 Text Domain: rotatingtweets
 Domain Path: /languages
 Author: Martin Tod
@@ -276,7 +276,7 @@ class rotatingtweets_Widget extends WP_Widget {
 		<p><input id="<?php echo $this->get_field_id('tw_links_in_new_window'); ?>" name="<?php echo $this->get_field_name('tw_links_in_new_window'); ?>" type="checkbox" value="1" <?php if($tw_links_in_new_window==1): ?>checked="checked" <?php endif; ?>/><label for="<?php echo $this->get_field_id('tw_links_in_new_window'); ?>"> <?php _e('Open all links in new window or tab?','rotatingtweets'); ?></label></p>
 		<p><label for="<?php echo $this->get_field_id('tw_tweet_count'); ?>"><?php _e('How many tweets?','rotatingtweets'); ?> <select id="<?php echo $this->get_field_id('tw_tweet_count'); ?>" name="<?php echo $this->get_field_name('tw_tweet_count');?>">
 		<?php 
-		for ($i=1; $i<31; $i++) {
+		for ($i=1; $i<61; $i++) {
 			echo "\n\t<option value='$i' ";
 		if($tw_tweet_count==$i): ?>selected="selected" <?php endif; 
 			echo ">$i</option>";
@@ -1160,7 +1160,7 @@ function rotatingtweets_get_tweets_sf($tw_screen_name,$tw_include_rts,$tw_exclud
 	endif;
 	# Checks if it is time to call Twitter directly yet or if it should use the cache
 	if($timegap > $cache_delay):
-		$apioptions = array('screen_name'=>$tw_screen_name,'include_entities'=>1,'count'=>40,'include_rts'=>$tw_include_rts,'exclude_replies'=>$tw_exclude_replies);
+		$apioptions = array('screen_name'=>$tw_screen_name,'include_entities'=>1,'count'=>60,'include_rts'=>$tw_include_rts,'exclude_replies'=>$tw_exclude_replies);
 		$twitterusers = FALSE;
 		if($tw_search) {
 			$apioptions['q']=$tw_search;
@@ -1238,7 +1238,7 @@ function rotatingtweets_get_tweets_sf($tw_screen_name,$tw_include_rts,$tw_exclud
 		if(!empty($firstentry['text']) ):
 			$number_returned_tweets = count($twitterjson);
 			if(WP_DEBUG) echo "<!-- ".$number_returned_tweets." tweets returned -->";
-			if( $tw_search && $tw_merge && $number_returned_tweets < 40 && isset($latest_json) && is_array($latest_json) && count($latest_json)>0 ):
+			if( $tw_search && $tw_merge && $number_returned_tweets < 60 && isset($latest_json) && is_array($latest_json) && count($latest_json)>0 ):
 				if(WP_DEBUG) echo "<!-- ".count($latest_json)." tweets in cache -->";
 				$twitterjson = rotatingtweet_combine_jsons($twitterjson,$latest_json);
 				if(WP_DEBUG) echo "<!-- ".count($twitterjson)." tweets in merged json -->";
@@ -1290,16 +1290,24 @@ function rotatingtweets_transform_collection_data($twittertweets,$twitterusers) 
 	return $return;
 }
 function rotatingtweet_combine_jsons($a,$b) {
-	$tweet_keys = array();
-	foreach($a as $item) {
-		$tweet_keys[] = $item['id_str'];
-	}
-	foreach($b as $item) {
-		if( !empty($item['id_str']) && !in_array($item['id_str'],$tweet_keys) ):
-			$a[]=$item;
-		endif;
-	}
-	return rotatingtweets_sort_json($a);
+	if(is_array($a) && count($a) && is_array($b) && count($b)):
+		$tweet_keys = array();
+		foreach($a as $item) {
+			$tweet_keys[] = $item['id_str'];
+		}
+		foreach($b as $item) {
+			if( !empty($item['id_str']) && !in_array($item['id_str'],$tweet_keys) ):
+				$a[]=$item;
+			endif;
+		}
+		return rotatingtweets_sort_json($a);
+	elseif(is_array($a) && count($a)):
+		return($a);
+	elseif(is_array($b) && count($b)):
+		return($b);
+	else:
+		return null;
+	endif;
 }
 function rotatingtweets_sort_json($a) {
 	$sort_json = array();

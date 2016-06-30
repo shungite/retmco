@@ -3,8 +3,8 @@ Contributors: mpntod
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=9XCNM4QSVHYT8
 Tags: shortcode,widget,twitter,rotating,rotate,rotator,tweet,tweets,animation,jquery,jquery cycle,cycle,multilingual,responsive,page builder
 Requires at least: 3.2
-Tested up to: 4.4.1
-Stable tag: 1.8.2
+Tested up to: 4.5
+Stable tag: 1.8.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -183,10 +183,18 @@ into your CSS - changing `123px;` to the width you're aiming at - either via put
 You can do this by going to the `rotatingtweets/css` directory and renaming `rotatingtweets-sample.css` to `rotatingtweets.css` and putting it in the `wp-content/uploads/` directory.  This displays a Twitter bird to the left of your tweets.  Any CSS you put into `rotatingtweets.css` won't be overwritten when the plug-in is upgraded to the latest version.
 
 == Upgrade notice ==
-= 1.8.2 = 
-* Fixed 'Undefined variable' bug in line 648
+= 1.8.4 = 
+* Updated JavaScript for plug-ins and themes with their own JQuery Cycle2 installations
 
 == Changelog ==
+= 1.8.4 = 
+* Updated JavaScript for plug-ins and themes with their own [JQuery Cycle2](http://jquery.malsup.com/cycle2/) installations
+
+= 1.8.3 = 
+* Fixed 'Invalid argument' bug when combining tweets from different accounts
+* Allow up to 60 tweets
+* Deletion of Italian `.mo` file - since now available as a [Wordpress-hosted translation pack](https://translate.wordpress.org/projects/wp-plugins/rotatingtweets)
+
 = 1.8.2 = 
 * Fixed 'Undefined variable' bug in line 648
 
