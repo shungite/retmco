@@ -19,7 +19,7 @@ Template Name: Page MCOhome Template
       <div class="well">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px"></a>
           <div class="media-body">
-            <p><strong><a href="#">Hot fun in the sun summer super sale<br>&mdash; July 26th, 27th and 28th!</strong></a><br />Don&rsquo;t miss the fun in July at our three-day super sale, with live DJs, give-aways and more! Browse the MCO collectioin for everything from indie rock to funk, new wave to classical&thinsp;&mdash;&thinsp;there&rsquo;s something for everyone. <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p>
+            <p><strong><a href="#">HOT FUN IN THE SUN SUMMER SUPER SALE<br>&mdash; THREE DAYS: JULY 26th, 27th &amp; 28th!</strong></a><br />Don&rsquo;t miss the fun in July at our three-day super sale, with live DJs, give-aways and more! Browse the MCO collection for everything from indie rock to funk, new wave to classical&thinsp;&mdash;&thinsp;there&rsquo;s something for everyone. <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).</p>
           </div>
         </div>
       </div>
