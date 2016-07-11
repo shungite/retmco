@@ -16,71 +16,56 @@ Template Name: Page Programs Template
   </div><!-- /row -->
 
   <div class="row">
+
     <div class="span7">
-      <h4>Students love the excitement<br />of live chamber music!</h4>
-      <p>Whether it&rsquo;s a school band or choir, Orff group, recorder ensemble, or private studio, children learn through music! There are so many reasons to bring the young people in your life to an MCO event &mdash; they won&rsquo;t hear anything like this anywhere else.</p>
-      <p>Help them create a cultural and musical framework for themselves. Show them where their music studies can lead &mdash; they can become an audience member, composer, conductor, musician, board member, donor, educator or CD purchaser. Have fun sharing music with them and with other avid music fans.</p>
-      <p><strong>School visits &mdash; the MCO comes to you</strong> / the MCO Outreach Ensemble is a roaming troupe of MCO players consisting of violin, viola, cello, double bass and guitar. It offers workshops and mini-concerts in schools throughout the province. Call 204.783.7377 for more info or to request a visit.</p>
+
       <p>&nbsp;</p>
+
+      <ul class="nav nav-pills">
+        <li class="active"><a href="#en" data-toggle="tab"><strong>English</strong></a></li>
+        <li><a href="#fr" data-toggle="tab"><strong>French</strong></a></li>
+      </ul>
+
+      <div class="tab-content">
+        <div class="tab-pane fade in active" id="en">
+
+          <b>Students love the excitement<br />of live chamber music!</b>
+          <p>Bring your students to one or both of these special matinee performances! Use the order form on the reverse to book your tickets today or call 204-783-7377 for more information.</p>
+          <p><span class="badge">1</span> <b>The MCO performs with the Frontier Fiddlers, February 14</b></p>
+          <p>Made up of students in the Frontier School Division, the Frontier Fiddlers represents <i>la cr&egrave;me de la cr&egrave;me</i> of young fiddle players in the province. They come from as far away as Grand Rapids, Matheson Island, Berens River, and Norway House. They play Red River jigs with breakneck speed. And all of them are teenagers or younger. </p>
+          <p>At this concert, the Frontier Fiddlers will treat us to a spectacular medley of fiddle tunes with a Red River flavour. With the orchestra, they&rsquo;ll also perform selections from Bart&oacute;k and Bach, and a folk-inspired new work by favourite Winnipeg composer Jim Hiscott.</p>
+          <p><b><span class="badge">2</span> MCO, Th&eacute;&acirc;tre Cercle Molière &mdash; music and theatre, June 7 and 8 </b></p>
+          <p>Nanabush is the trickster figure of Anishinaabe mythology&thinsp;&mdash;&thinsp;a cultural hero who, according to legend, is responsible for dogs&rsquo; proclivity to sniff one another&rsquo;s tails and for rescuing the forest from Paul Bunyan.</p>
+          <p><i>Nanabush and the Drum&thinsp;/&thinsp;Nanabozho et le tambour</i>, a music and theatre collaboration between the MCO and Th&eacute;&acirc;tre Cercle Moli&egrave;re, envisions Nanabush&rsquo;s role in the foundation of the M&eacute;tis. He sets up playful obstacles for a hapless French voyageur, as he attempts to navigate the land and woo his more savvy Indigenous love interest.</p>
+          <p>While celebrating Canada&rsquo;s 150th birthday, the piece illuminates the diversity of our heritage with a sense of humour and spectacle. The work is bilingual, but accessible to French and English students equally.</p>
+          <p>&nbsp;</p>
+
+        </div>
+
+
+      <div class="tab-pane fade" id="fr">
+        <div>
+
+          <b>Les jeunes aiment l&rsquo;enthousiasme<br>de la musique en direct&thinsp;!</b>
+          <p>Amenez vos &eacute;l&egrave;ves &agrave; l&rsquo;une ou aux deux pr&eacute;sentations de ces matin&eacute;es sp&eacute;ciales ! Utilisez le formulaire de commande &agrave; l&rsquo;endos pour r&eacute;server vos billets d&egrave;s aujourd&rsquo;hui ou composez le 204-783-7377 pour de plus amples renseignements.</p>
+          <p><span class="badge">1</span> <b>l&rsquo;OCM joue avec les Frontier Fiddlers, le 14 f&eacute;vrier</b></p>
+          <p>Compos&eacute; d&rsquo;&eacute;l&egrave;ves de la division scolaire Frontier, le groupe Frontier Fiddlers repr&eacute;sente la cr&egrave;me de la cr&egrave;me des jeunes joueurs de violon dans la province. Ils viennent d&rsquo;aussi loin que Grand Rapids, l&rsquo;&Icirc;le Matheson, Berens River et Norway House. Ils jouent des gigues de la rivi&egrave;re Rouge &agrave; une vitesse vertigineuse. Et tous sont des adolescents ou plus jeunes.</p>
+          <p>Lors de ce concert, le groupe Frontier Fiddlers nous g&acirc;tera avec un m&eacute;lange spectaculaire d&rsquo;airs de violon avec une saveur de la rivi&egrave;re Rouge. Accompagn&eacute;s de l&rsquo;orchestre, les &eacute;l&egrave;ves pr&eacute;senteront aussi une s&eacute;lection de pi&egrave;ces de Bart&oacute;k et de Bach et une nouvelle &oelig;uvre d&rsquo;inspiration folklorique du compositeur favori de Winnipeg, Jim Hiscott.</p>
+          <p><b><span class="badge">2</span> l&rsquo;OCM, Th&eacute;&acirc;tre Cercle Moli&egrave;re&thinsp;&mdash;&thinsp;musique et th&eacute;&acirc;tre, les 7 et 8 juin</b></p>
+          <p>Nanabozho, connu dans la mythologie des Anishinaabe comme &eacute;tant le Filou, est un h&eacute;ros culturel qui, selon la l&eacute;gende, est responsable de la propension des chiens &agrave; se renifler la queue et du sauvetage de la for&ecirc;t de Paul Bunyan.</p>
+          <p><i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i>, une collaboration musicale et th&eacute;&acirc;trale entre l&rsquo;OCM et le Th&eacute;&acirc;tre Cercle Moli&egrave;re, imagine le r&ocirc;le de Nanabozho dans la cr&eacute;ation des M&eacute;tis. Il met en place des obstacles amusants pour un pauvre voyageur qui tente de se frayer un chemin sur la terre et de faire la cour &agrave; sa bien-aim&eacute;e autochtone plus rus&eacute;e.</p>
+          <p>Tout en c&eacute;l&eacute;brant le 150e anniversaire du Canada, la pi&egrave;ce met en &eacute;vidence la diversit&eacute; de notre patrimoine avec un sens d&rsquo;humour et du spectacle. L&rsquo;&oelig;uvre est bilingue, mais accessible tant pour les &eacute;tudiants francophones qu&rsquo;anglophones.</p>
+          <p>&nbsp;</p>
+
+        </div>
+      </div>
+
+    </div><!-- /tab content -->
+
     </div><!-- /span7 -->
-    <div class="span1">
-      <a href="http://www.themco.ca/schools-form/"><img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /></a><br />
-      <p class="fineprint">Click above for order form.</p>
-    </div><!-- /span1 -->
-  </div><!-- /row -->
-  <div class="row-fluid">
-    <div class="span7">
-      <div class="well">
-        <div class="media-body">
-          <p><strong><a href="http://www.sunlife.ca/">Sun Life Financial</a><br>&lsquo;Music for all!&rsquo;program: Open dress rehearsals for schools</strong></p>
-          <p>Bring your school group to Westminster Church for a 50-minute open dress rehearsal. Learn about the work that goes into presenting a professional orchestral performance. Watch musicians and conductor rehearse and be the first to hear what audiences will hear that night! These open dress rehearsals are best suited to senior students, adults and home-schooled children. They are working rehearsals with some stopping and starting. More information about this season&rsquo;s dress rehearsals and ticket prices available <a href="http://www.themco.ca/schools-form"><strong>on this form.</strong></a></p>
-          <p><a href="http://www.sunlife.ca/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/SunLife-logo.png"></a></p>
-        </div>
-      </div>
-    </div>
-  </div><!-- /row -->
-
-  <div class="row-fluid">
-
-    <div class="span7">
-      <div class="well-white">
-        <div class="media-body">
-          <p><strong>MCO Pizza Club</strong></p>
-          <p><strong>Come at 6:00 pm</strong> for a primer on the music that you will be hearing in that evening's concert. Pizza and a drink are included in your ticket cost if you book at least three days ahead. Appropriate for all ages, student groups and family groups. Offered before the following concerts:</p>
-          <dl class="dl">
-            <dt>November 3</dt>
-            <dd><b>Anne Manson</b> presents British cellist <b>Colin Carr</b> and Robert Schumann&rsquo;s enigmatic Cello Concerto in A Minor.</dd>
-            <dt>December 1</dt>
-            <dd>Guest conductor <b>Earl Stafford</b>, the<b> Winnipeg Boys&rsquo; Choir</b> and the <b>Pembina Trails Voices Singers</b> will put on a Christmas concert for all ages to enjoy!</dd>
-            <dt>January 12</dt>
-            <dd><b>Alain Trudel</b> and friends: <b>Victoria Sparks</b> (percussion); <b>Karl Stobbe</b> and <b>Kerry DuWors</b> (double violin concerto); plus <b>Patricia Evans</b> &amp; <b>Ken MacDonald</b> (double horn).</dd>
-            <dt>February 23</dt>
-            <dd><b>Anne Manson</b> introduces the &rsquo;enfant terrible&rsquo; of the harp: <b>Emmanuel Ceysson</b> sweeps away the instrument&rsquo;s clich&eacute;s.</dd>
-            <dt>March 23</dt>
-            <dd><b>Scott Yoo</b> will present pianist <b>Janina Fialkowska</b> and Beethoven&rsquo;s Piano Concerto No. 4, in G Major, Op. 58. </dd>
-            <dt>April 27</dt>
-            <dd><b>Anne Manson</b> presents 16-year-old Dutch Eurovision Young Musicians recorder sensation <b>Lucie Horsch</b>! Lucie will play the piece that won her a spot in the 2014 finals.</dd>
-            <dt>May 18</dt>
-            <dd>It&rsquo;s Chamber Night, Deluxe Edition, as Manitoba violin superstar <b>James Ehnes</b> and pianist <b>Andrew Armstrong</b> stop in at the MCO on their national recital tour!</dd>
-            <dt>June 9</dt>
-            <dd><b>Anne Manson</b> welcomes Canadian-Armenian star soprano <b>Isabel Bayrakdarian</b> back to the MCO for Respighi&rsquo;s <i>Il Tramonto</i> (text by Percy Bysshe Shelley) and <i>Songs from the Diaspora</i> by Roberto Sierra.</dd>
-          </dl>
-          <p class="text-error"><b>Space is limited</b></p>
-          <p class="text-error">Register early by phone: call the MCO office at 204.783.7377 at least three days before the concert to purchase tickets and book your spot in the MCO Pizza Club. Pizza is free with your concert tickets; parents, grandparents, teachers and children welcome! <b>Concerts begin at 7:30 pm.</b></p>
-        </div>
-      </div>
-    </div>
 
   </div><!-- /row -->
 
-  <div class="row-fluid">
-    <div class="span7">
-      <div class="well">
-        <p><b>MCO EDUCATION SPONSORS</b></p>
-        <p>The <a href="http://www.canadacouncil.ca/"><b>Canada Council for the Arts</b></a>, the <a href="http://artscouncil.mb.ca/"><b>Manitoba Arts Council</b></a>, the <a href="http://winnipegarts.ca/"><b>Winnipeg Arts Council</b></a>, <a href="http://www.wpgfdn.org/"><b>The Winnipeg Foundation</b></a>, the <a href="https://www.winnipegsd.ca/FAMILY%20COMMUNITY/ChildrensHeritageFund/Pages/default.aspx"><b>Children&rsquo;s Heritage Fund</b></a>, <a href="http://friendswpl.ca/"><b>Friends of the Library</b></a>, <a href="http://www.greatwestlife.com/001/Home/index.htm"><b>The Great-West Life Assurance Company</b></a>, the <a href="http://www.lchf.ca/"><b>Lloyd Carr-Harris Foundation</b></a>, <a href="https://www.assiniboine.mb.ca/"><b>Assiniboine Credit Union</b></a>, <a href="http://www.hydro.mb.ca/"><b>Manitoba Hydro</b></a>, <a href="http://www.mpi.mb.ca/en/Pages/default.aspx"><b>Manitoba Public Insurance</b></a>, <a href="http://www.gov.mb.ca/cyo/youth/"><b>MB4Youth</b></a>, <a href="http://www.mts.ca/mts/future+first"><b>MTS Future First</b></a>, <a href="http://www.mbteach.org/"><b>Manitoba Teachers&rsquo; Society</b></a>, the <b>Musicians&rsquo; Performance Trust Fund</b>, <a href="http://www.gov.mb.ca/chc/artsbranch/index.html?print"><b>Province of Manitoba Culture Branch</b></a>, the <a href="http://www.richardson.ca/community/richardson-foundation"><b>Richardson Foundation</b></a>, the <b>Rita Menzies Endowment Fund for Arts Education</b>, the <a href="http://www.clubrunner.ca/Portal/Home.aspx?accountid=1004"><b>Rotary Club of Winnipeg West</b></a>, <a href="http://www.sunlife.ca/"><b>Sun Life Financial</b></a>, the <a href="http://thomassillfoundation.com/"><b>Thomas Sill Foundation</b></a> and <a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><b>TD</b></a>.</p>
-      </div>
-    </div>
-  </div>
 
 <?php get_template_part('templates/content', 'programs'); ?>
 
