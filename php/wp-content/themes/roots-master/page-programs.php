@@ -29,7 +29,7 @@ Template Name: Page Programs Template
       <div class="tab-content">
         <div class="tab-pane fade in active" id="en">
 
-          <p><b>Students love the excitement<br />of live chamber music!</b></p>
+          <p><h4>Students love the excitement<br />of live chamber music!</h4></p>
           <p>Bring your students to one or both of these special matinee performances! Use the order form on the reverse to book your tickets today or call 204-783-7377 for more information.</p>
           <p><span class="badge">1</span> <b>The MCO performs with the Frontier Fiddlers, February 14</b></p>
           <p>Made up of students in the Frontier School Division, the Frontier Fiddlers represents <i>la cr&egrave;me de la cr&egrave;me</i> of young fiddle players in the province. They come from as far away as Grand Rapids, Matheson Island, Berens River, and Norway House. They play Red River jigs with breakneck speed. And all of them are teenagers or younger. </p>
@@ -51,6 +51,11 @@ Template Name: Page Programs Template
             <p>Genevi&egrave;ve Pelletier, Director<br>Anne Manson, Conductor</p>
             <p><i>Nanabush and the Drum&thinsp;/&thinsp;Nanabozho et le tambour</i><br>Bilingual script by Rh&eacute;al Cenerini<br>Music by Michael Oesterle</p>
           </div>
+
+          <p><b>Bus subsidies</b></p>
+          <p>Please note that bus subsidies are available for transporting your students to our concerts. Please contact the MCO at 204-783-7377 for more details.</p>
+          <p><b>MTS Future First Listening Guides</b></p>
+          <p>Have you seen our MTS Future First Listening Guides? Prime your students for our matinee concerts with our play-by-play analysis of concert repertoire. Listening guides are generally available on the education section at themco.ca the week before the concert.</p>
           <p>&nbsp;</p>
 
         </div>
@@ -58,7 +63,7 @@ Template Name: Page Programs Template
       <div class="tab-pane fade" id="fr">
         <div>
 
-          <p><b>Les jeunes aiment l&rsquo;enthousiasme<br>de la musique en direct&thinsp;!</b></p>
+          <p><h4>Les jeunes aiment l&rsquo;enthousiasme<br>de la musique en direct&thinsp;!</h4></p>
           <p>Amenez vos &eacute;l&egrave;ves &agrave; l&rsquo;une ou aux deux pr&eacute;sentations de ces matin&eacute;es sp&eacute;ciales ! Utilisez le formulaire de commande &agrave; l&rsquo;endos pour r&eacute;server vos billets d&egrave;s aujourd&rsquo;hui ou composez le 204-783-7377 pour de plus amples renseignements.</p>
           <p><span class="badge">1</span> <b>l&rsquo;OCM joue avec les Frontier Fiddlers, le 14 f&eacute;vrier</b></p>
           <p>Compos&eacute; d&rsquo;&eacute;l&egrave;ves de la division scolaire Frontier, le groupe Frontier Fiddlers repr&eacute;sente la cr&egrave;me de la cr&egrave;me des jeunes joueurs de violon dans la province. Ils viennent d&rsquo;aussi loin que Grand Rapids, l&rsquo;&Icirc;le Matheson, Berens River et Norway House. Ils jouent des gigues de la rivi&egrave;re Rouge &agrave; une vitesse vertigineuse. Et tous sont des adolescents ou plus jeunes.</p>
@@ -79,6 +84,10 @@ Template Name: Page Programs Template
             <p>Genevi&egrave;ve Pelletier, metteure en sc&egrave;ne<br>Anne Manson, chef d&rsquo;orchestre</p>
             <p><i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i><br>Texte bilingue par Rh&eacute;al Cenerini<br>Musique par Michael &oelig;sterle</p>
           </div>
+          <p><b>Subventions pour autobus</b></p>
+          <p>Veuillez noter que des subventions pour autobus sont disponibles pour transporter vos &eacute;l&egrave;ves &agrave; nos concerts. Veuillez communiquer avec l&rsquo;OCM au 204-783-7377 pour de plus amples d&eacute;tails.</p>
+          <p><b>Guides d&rsquo;apprentissage de MTS Future First</b></p>
+          <p>Avez-vous vu nos Guides d&rsquo;apprentissage de MTS Future First ? Pr&eacute;parez vos &eacute;l&egrave;ves pour nos matin&eacute;es avec une analyse d&eacute;taill&eacute;e du r&eacute;pertoire du concert. Les Guides d&rsquo;apprentissage sont g&eacute;n&eacute;ralement disponibles dans la section &eacute;ducative &laquo; Education &raquo; &agrave; themco.ca la semaine avant le concert.</p>
 
           <p>&nbsp;</p>
 
