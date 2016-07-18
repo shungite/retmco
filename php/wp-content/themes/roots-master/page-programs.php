@@ -85,7 +85,7 @@ Template Name: Page Programs Template
           <p><i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i>, une collaboration musicale et th&eacute;&acirc;trale entre l&rsquo;OCM et le Th&eacute;&acirc;tre Cercle Moli&egrave;re, imagine le r&ocirc;le de Nanabozho dans la cr&eacute;ation des M&eacute;tis. Il met en place des obstacles amusants pour un pauvre voyageur qui tente de se frayer un chemin sur la terre et de faire la cour &agrave; sa bien-aim&eacute;e autochtone plus rus&eacute;e.</p>
           <p>Tout en c&eacute;l&eacute;brant le 150e anniversaire du Canada, la pi&egrave;ce met en &eacute;vidence la diversit&eacute; de notre patrimoine avec un sens d&rsquo;humour et du spectacle. L&rsquo;&oelig;uvre est bilingue, mais accessible tant pour les &eacute;tudiants francophones qu&rsquo;anglophones.</p>
           <div class="well">
-            <p>Matin&eacute;e d&eacute;butant &agrave; 10 h 30<br>(portes ouvertes d&egrave;s 10 h)<br>Le mercrexdi 7 juin et le jeudi 8 juin 2017<br>Anne Manson, directrice musicale<br>Karl Stobbe, premier violon<br>Westminster United Church<br>745, avenue Westminster</p>
+            <p>Matin&eacute;e d&eacute;butant &agrave; 10 h 30<br>(portes ouvertes d&egrave;s 10 h)<br>Le mercredi 7 juin et le jeudi 8 juin 2017<br>Anne Manson, directrice musicale<br>Karl Stobbe, premier violon<br>Westminster United Church<br>745, avenue Westminster</p>
             <p>Genevi&egrave;ve Pelletier, metteure en sc&egrave;ne<br>Anne Manson, chef d&rsquo;orchestre</p>
             <p><i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i><br>Texte bilingue par Rh&eacute;al Cenerini<br>Musique par Michael &oelig;sterle</p>
           </div>
