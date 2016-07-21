@@ -19,7 +19,7 @@ Template Name: Page MCOhome Template
       <div class="well">
         <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-square" src="http://www.themco.ca/wp-content/uploads/2016/07/simple_turntable_colour_web.png" width="120px" height="95px"></a>
           <div class="media-body">
-            <p><strong><a href="#">HOT FUN IN THE SUN SUMMER SUPER SALE<br>&mdash; THREE DAYS: JULY 26th, 27th &amp; 28th!</strong></a><br />Don&rsquo;t miss the fun in July at our three-day super sale, with live DJs, give-aways and more! Browse the MCO collection for everything from indie rock to funk, new wave to classical&thinsp;&mdash;&thinsp;there&rsquo;s something for everyone. <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Ave. (near The Bay).</p>
+            <p><strong><a href="#">HOT FUN IN THE SUN SUMMER SUPER SALE<br>&mdash; THREE DAYS: JULY 26th, 27th &amp; 28th!</strong></a><br />Don&rsquo;t miss the fun in July at our three-day super sale, with live DJs, give-aways and more! Browse the MCO collection for everything from indie rock to funk, new wave to classical&thinsp;&mdash;&thinsp;there&rsquo;s something for everyone. <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Ave. (near The Bay). Big thanks to <a href="http://www.timhortons.com/us/en/index.php"><b>Tim Hortons</b></a> for the coffee!</p>
           </div>
         </div>
       </div>
