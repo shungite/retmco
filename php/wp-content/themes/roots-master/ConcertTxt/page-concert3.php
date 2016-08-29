@@ -72,7 +72,7 @@ Template Name: Page Concert3 Template
 			<div class="tab-pane fade in active" id="repertoire">
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br>8 November 2016</p>
 				<p>Anne Manson, conductor<br>Andrew von Oeyen, piano</p>
-				<p><b>Douglas Pew</b><br><i>I Was a Stranger</i><br> Manitoba Chamber Orchestra commission, Canadian premiere performance</p>
+				<p><b>Christos Hatzis</b><br><i>Zeitgeist (Sprit of the Age)</i></p>
 				<p><b>Dmitri Shostakovich</b><br>Piano Concerto in C Minor, No. 1, Op. 35</p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 29, K 201</p>
 				<p>Concert sponsor / <a href="http://www.pollardbanknote.com/"><b>Pollard Banknote</b><br></a>Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
