@@ -14,17 +14,17 @@ Template Name: Page MCOhome Template
     </div>
   </div><!-- /row -->
 
-<div class="row-fluid">
-    <div class="span8">
-      <div class="well">
-        <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-square" src="http://www.themco.ca/wp-content/uploads/2016/07/simple_turntable_colour_web.png" width="120px" height="95px"></a>
-          <div class="media-body">
-            <p><strong><a href="#">Hot Fun in the Sun Summer Super Sale<br>10:00 am to 3:00 pm, July 26th, 27th &amp; 28th!</strong></a><br />Don&rsquo;t miss the fun in July at our three-day super sale, with live DJs, give-aways and more! Browse the MCO collection for everything from indie rock to funk, new wave to classical&thinsp;&mdash;&thinsp;there&rsquo;s something for everyone. <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Ave. (near The Bay). Big thanks to <a href="http://www.timhortons.com/us/en/index.php"><b>Tim Hortons</b></a> for the coffee!</p>
+  <div class="row-fluid">
+      <div class="span8">
+        <div class="well-white">
+          <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2016/07/simple_turntable_colour_web.png" width="120px" height="95px"></a>
+            <div class="media-body">
+              <p><strong><a href="#">Next MCO Vinyl Vault sale:<br>Saturday, 24 September 2016</strong></a><br />From 10:00 am to 3:00 pm on the last Saturday of each month, browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Ave. (near The Bay).</p> 
+            </div>
           </div>
         </div>
       </div>
-    </div>
-  </div><!-- /row -->
+    </div><!-- /row -->
 
   <div class="row-fluid">
 
