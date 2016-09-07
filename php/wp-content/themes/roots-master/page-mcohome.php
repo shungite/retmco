@@ -7,12 +7,12 @@ Template Name: Page MCOhome Template
 <div class="container">
 
   <div class="row-fluid">
-    <div class="span8">
-      <a href="http://www.themco.ca/quick-links-to-1617-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2016/06/Subscribe.png" alt="MCO / Subscribe now!"></a>
-      <h4>Subscribe now to MCO&rsquo;s 2016/17 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</h4>
-      <p>Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <b><a href="http://www.themco.ca/quick-links-to-1617-subscriptions/">Build your package here.</b></a><br><a href="http://www.themco.ca/quick-links-to-1617-subscriptions/"><img rel="tooltip" title="Click to build your package" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTx.png" alt="" width="62" height="40"></a> <a href="http://www.themco.ca/quick-links-to-1617-subscriptions/"><img rel="tooltip" title="Click to build your package" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTx.png" alt="" width="62" height="40" /></a> <a href="http://www.themco.ca/quick-links-to-1617-subscriptions/"><img rel="tooltip" title="Click to build your package" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTx.png" alt="" width="62" height="40" /></a></p>
-    </div>
-  </div><!-- /row -->
+      <div class="span8">
+        <a href="http://www.themco.ca/concert/james-ehnes/"><img src="http://www.themco.ca/wp-content/uploads/2016/06/head13sep16.jpg" alt="MCO / James Ehnes "></a>
+        <h4>JViolinist James Ehnes<br>&mdash;&thinsp;this time with the Orchestra!</h4>
+        <p>A musician whose virtuosity knows no bounds, Ehnes&rsquo;s playing might simply be described as the best. The <i>Globe and Mail</i> calls him &ldquo;the Jascha Heifetz of our day.&rdquo; For this concert Ehnes will play-conduct three big ones from the common practice era. See details <a href="http://www.themco.ca/concert/james-ehnes/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=4f68d403a48e46ec899b29fbc741fccd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c6c79e09f31d4a018bdc361a415e5546"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=56b94bf425394be284569bdbe857768c"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a></p>
+      </div>
+    </div><!-- /row -->
 
   <div class="row-fluid">
       <div class="span8">
