@@ -9,10 +9,22 @@ Template Name: Page MCOhome Template
   <div class="row-fluid">
       <div class="span8">
         <a href="http://www.themco.ca/concert/james-ehnes/"><img src="http://www.themco.ca/wp-content/uploads/2016/06/head13sep16.jpg" alt="MCO / James Ehnes "></a>
-        <h4>JViolinist James Ehnes<br>&mdash;&thinsp;this time with the Orchestra!</h4>
+        <h4>Violinist James Ehnes<br>&mdash;&thinsp;this time with the Orchestra!</h4>
         <p>A musician whose virtuosity knows no bounds, Ehnes&rsquo;s playing might simply be described as the best. The <i>Globe and Mail</i> calls him &ldquo;the Jascha Heifetz of our day.&rdquo; For this concert Ehnes will play-conduct three big ones from the common practice era. See details <a href="http://www.themco.ca/concert/james-ehnes/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=4f68d403a48e46ec899b29fbc741fccd"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c6c79e09f31d4a018bdc361a415e5546"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=56b94bf425394be284569bdbe857768c"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a></p>
       </div>
     </div><!-- /row -->
+
+    <div class="row-fluid">
+      <div class="span8">
+        <div class="well">
+          <div class="media"><a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/07/DonorCello.jpg" width="96px" height="96px"></a>
+            <div class="media-body">
+              <p><strong><a href="http://www.themco.ca/quick-links-to-1617-subscriptions/">Subscribe now to MCO&rsquo;s 2016/17 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</strong></a><br />Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <b>Early bird prices in effect!</b></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
   <div class="row-fluid">
       <div class="span8">
