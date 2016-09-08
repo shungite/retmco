@@ -51,7 +51,7 @@ Template Name: Page Concert4 Template
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=e06fca072a8b40c6a26140ce4712dcfa"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
  	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c0699f20e51b44c8a75f7fb06424e78f"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=9d0d18e4a0ca48f99d874de47172b9af"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
-			
+
 			<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
 
 	</div> <!-- /span1 -->
@@ -81,7 +81,7 @@ Template Name: Page Concert4 Template
 				<p><b>Sergei Rachmaninoff</b><br><i>Vocalise</i>, Op. 34, No. 14</p>
 				<p><b>Adolphe Adam</b><br><i>O Holy Night</i></p>
 				<p><b>Joseph Haydn</b><br>Symphony No. 49&thinsp;&mdash;&thinsp;&lsquo;La passione&rsquo;</p>
-				<p>Presenting sponsor / <a href="https://www.carpathiacu.mb.ca/"><b>Carpathia Credit Union</b></a><br>Concert co-sponsors / <b>Dr. Bill Pope &amp; Elizabeth Tippett-Pope</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
+				<p>Presenting sponsor / <a href="https://www.carpathiacu.mb.ca/"><b>Carpathia Credit Union</b></a><br>Concert co-sponsors / <b>Dr. Bill Pope &amp; Elizabeth Tippett-Pope</b><br>Guest artist sponsors / <b>Sandi &amp; Ron Mielitz</b><br>Concert media sponsor / <a href="https://www.cjnu.ca/"><b>Nostalgia Broadcasting Co-operative (CJNU 93.7)</b></a></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">

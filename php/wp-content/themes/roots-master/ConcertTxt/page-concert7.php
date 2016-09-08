@@ -50,7 +50,7 @@ Template Name: Page Concert7 Template
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=fd013d4be91941ffa1e56cbf0340a81e"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
  	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c0ed99b4cc7848d89e525fb890cfbea1"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=768beb8510244ff69c1cf18383a98f11"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
-			
+
 			<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
 
 	</div> <!-- /span1 -->
@@ -76,7 +76,7 @@ Template Name: Page Concert7 Template
 				<p><b>Luke Nickel</b><br>New composition<br>Manitoba Arts Council commission<br>World premiere performance</p>
 				<p><b>Richard Strauss</b><br><i>Metamorphosen</i></p>
 				<p><b>Richard Strauss</b><br><i>Four Last Songs</i> (quintet version)</p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
+				<p>Concert sponsor / <a href="https://www.canadahelps.org/en/charities/the-gail-asper-family-foundation-inc/?gclid=CjwKEAjwmMS-BRCm5dn51JLbp1wSJACc61tFw3QwWIC0TqZiU-b970wX5FWstUYwP-ixSt1dy_0YhRoCo0fw_wcB"><b>Gail Asper Family Foundation</b></a><br>Concert media sponsor / <b>Neighbours of Tuxedo (<a href="http://www.bestversionmedia.com/">Best Version Media</a>)</b></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">

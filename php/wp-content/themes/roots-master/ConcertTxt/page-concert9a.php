@@ -82,7 +82,6 @@ Template Name: Page Concert9 Template
 				<p><i>Nanabush and the Drum</i>&thinsp;/&thinsp;<i>Nanabozho et le tambour</i><br>Anne Manson, conductor<br>Genevi&egrave;ve Pelletier, Director</p>
 				<p><i>A Soldier&rsquo;s Tale</i> (evening performances only)<br>Script by Charles-Ferdinand Ramuz<br>Music by Igor Stravinsky</p>
 				<p><i>Nanabozho et le tambour</i> / <i>Nanabush and the Drum</i><br> Script by Rhéal Cenerini<br> Music by Michael Oesterle</p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">

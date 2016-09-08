@@ -23,7 +23,7 @@ Template Name: Page Concert2 Template
 		<h4><div>Dame Evelyn Glennie<br>&mdash;&thinsp;Vivaldi vibes</div></h4>
 		<p>There are many reasons to be astonished by Dame Evelyn Glennie. She&rsquo;s master of a vast variety of percussive instruments, a motivational speaker, a jeweler, an arranger, and, ahem, a noble.</p>
 		<p>Audiences also tend to marvel that Glennie, the world&rsquo;s premier solo percussionist, is profoundly deaf, although she has a decidedly different attitude about the matter: &ldquo;For me, my deafness is no more important than the fact I am female with brown eyes,&rdquo; she says.</p>
-		<p>Fresh off winning the Polar Music Prize and recording an album with Dire Straits guitarist Mark Knopfler, the Scottish polyglot will tour Eastern Canada with the MCO in the fall of 2016. For her Winnipeg stop on this tour, she&rsquo;ll perform marimba and vibraphone arrangements of Vivaldi and Corelli (you read that right!) as well as a handful of short, powerful contemporary works&thinsp;&mdash;&thinsp;including a piece by frequent MCO collaborator Michael Oesterle.</p>
+		<p>Fresh off winning the Polar Music Prize and recording an album with Dire Straits guitarist Mark Knopfler, the Scottish polyglot will tour Eastern Canada with the MCO in the fall of 2016. For her Winnipeg stop on this tour, she&rsquo;ll perform marimba and vibraphone arrangements of Vivaldi and Corelli (you read that right!) as well as a piece by frequent MCO collaborator Michael Oesterle.</p>
 		<p><b>Michael Oesterle</b></p>
 		<p>The Princeton educated Michael Oesterle composes in a style reminiscent of the East-Coast American minimalists (Steve Reich, John Adams), and offers a balance between simplicity and complexity that has a broad appeal to audiences. This is the second time Dame Evelyn plays Oesterle&rsquo;s <i>Kaluza Klein</i> with the MCO; it was commissioned for her and premiered by the MCO in 2012.</p>
 
@@ -50,7 +50,7 @@ Template Name: Page Concert2 Template
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=967f0e29522b48ad855d74cecf2796c4"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
  	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=6e2b699ca5f6456bb299f306784a8247"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=ad6dfbfd3c2f488aaaee4808aad37332"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
-			
+
 			<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
 
 	</div> <!-- /span1 -->
@@ -78,7 +78,7 @@ Template Name: Page Concert2 Template
 				<p><b>Fritz Kreisler</b><br><i>Praeludium and Allegro in the Style of Pugnani</i></p>
 				<p><b>Arcangelo Corelli</b><br>Violin Sonata in D Minor, Op. 5, No.12&thinsp;&mdash;&thinsp;&lsquo;La Folia&rsquo;<br>(arr. by Karl Jenkins for marimba &amp; strings)</p>
 				<p><b>Antonio Vivaldi</b><br>Piccolo Concerto in C Major, RV&thinsp;443<br>(arr. by Evelyn Glennie for vibraphone &amp; strings)</p>
-				<p>Concert sponsor / <b>LBL Holdings</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
+				<p>Concert sponsor / <b>LBL Holdings</b><br>Concert media sponsor / <a href="https://www.cjnu.ca/"><b>Nostalgia Broadcasting Co-operative (CJNU 93.7)</b></a></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">

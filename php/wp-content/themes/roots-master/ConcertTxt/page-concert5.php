@@ -80,10 +80,10 @@ Template Name: Page Concert5 Template
 				<p><strong>Manitoba Chamber Orchestra</strong><br />Anne Manson, Music Director<br />Karl Stobbe, Concertmaster<br />Westminster United Church<br>14 February 2017</p>
 				<p>Anne Manson, conductor<br>The Frontier Fiddlers</p>
 				<p>Fiddle medley (traditional)</p>
-				<p><b>Jim Hiscott</b><br>New composition<br>Manitoba Arts Council commission<br>World premiere performance</p>
+				<p><b>Jim Hiscott</b><br><i>Water Circle</i><br>Manitoba Arts Council commission<br>World premiere performance</p>
 				<p><b>Johann Sebastian Bach</b><br>Violin Concerto no. 2 in E Major, BWV&thinsp;1042 </p>
 				<p><b>B&eacute;la Bart&oacute;k</b><br><i>Divertimento for String Orchestra</i></p>
-				<p>Concert sponsors / <b>Dr. Dr. R.T. &amp; Mrs. Angela B. Ross</b><br>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
+				<p>Concert sponsors / <b>Dr. Dr. R.T. &amp; Mrs. Angela B. Ross</b></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">

@@ -51,7 +51,7 @@ Template Name: Page Concert8 Template
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=00ff92bf4f5c43999d1be8fd16af5840"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
  	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=6c9fa8f892cc4b99b07542541e60d46d"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=bea87bfeb23740dd8ccd1c8cbf6f105f"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
-			
+
 			<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
 
 	</div> <!-- /span1 -->
@@ -83,7 +83,7 @@ Template Name: Page Concert8 Template
 				<p><b>Luke Nickel</b><br>New composition<br>Manitoba Arts Council commission<br>World premiere performance</p>
 				<p><b>Richard Strauss</b><br><i>Metamorphosen</i></p>
 				<p><b>Richard Strauss</b><br><i>Four Last Songs</i> (quintet version)</p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
+				<p>Concert sponsor / <a href="http://www.johnstongroup.ca/"><b>Johnston Group</b></a></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">

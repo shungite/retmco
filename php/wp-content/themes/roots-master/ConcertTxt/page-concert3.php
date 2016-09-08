@@ -50,7 +50,7 @@ Template Name: Page Concert3 Template
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=c116b65be0594684800885922da8a95f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
  	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=abe9d1b0c5014dbabcf62ef8ae88cc57"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
 	  	<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=12f9239a19844208ad4db79f8bdeeecb"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
-			
+
 			<p class="fineprint">Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.</p>
 
 	</div> <!-- /span1 -->
@@ -76,7 +76,7 @@ Template Name: Page Concert3 Template
 				<p><b>Christos Hatzis</b><br><i>Zeitgeist (Sprit of the Age)</i></p>
 				<p><b>Dmitri Shostakovich</b><br>Piano Concerto in C Minor, No. 1, Op. 35</p>
 				<p><b>Wolfgang Amadeus Mozart</b><br>Symphony No. 29, K 201</p>
-				<p>Concert sponsor / <a href="http://www.pollardbanknote.com/"><b>Pollard Banknote</b><br></a>Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a><br />Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.</p>
+				<p>Concert sponsor / <a href="http://www.pollardbanknote.com/"><b>Pollard Banknote</b><br></a>Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">

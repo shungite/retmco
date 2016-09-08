@@ -78,7 +78,7 @@ Template Name: Page Concert1 Template
 				<p><strong>Edward Elgar</strong><br><i>Serenade for Strings</i>, in E Minor, Op. 20</p>
 				<p><b>Anton&iacute;n Dvoř&aacute;k</b><br><i>Serenade</i>, in E Major, Op. 22</p>
 				<p><b>Ludwig van Beethoven</b><br>Violin Concerto in D Major, Op. 61</p>
-				<p>Print media sponsor / <strong><a href="http://www.winnipegfreepress.com/">Winnipeg Free Press</a></strong><br />Radio media sponsors / <a href="http://www.icimusique.ca/" title="ICI musique"><strong>ICI musique 89.9</strong></a>, <a href="http://www.classic107.com/"><strong>Classic 107</a></strong> and <a href="http://www.goldenwestradio.com" title="Golden West Radio"><strong>Golden West Radio</strong></a>.
+				<p>Concert sponsor / <a href="http://www.wawanesa.com/"><b>Wawanesa Insurance</b></a><br>Music Director sponsor / <b>Elaine &amp; Neil Margolis</b><br>Concertmaster sponsor / <a href="http://concordprojects.com/"><b>Concord Projects Ltd.</b></a></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">
