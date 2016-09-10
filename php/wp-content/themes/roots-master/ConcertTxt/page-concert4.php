@@ -29,7 +29,7 @@ Template Name: Page Concert4 Template
 		<p>Outside Russia and the Ukraine, Canada is home to the largest population of Ukrainians in the world. Many Winnipeg Ukrainians have maintained their national traditions, while also moving in hybrid directions&thinsp;&mdash;&thinsp;like Winnipeg&rsquo;s Mickey &amp; Bunny, the 60s-era Ukrainian language country-rock band that out-sold The Guess Who for a time. Our Christmas concert takes place exactly a month before Ukrainian Christmas (&#1088;&#1110;&#1079;&#1076;&#1074;&#1086;), but with some Ukrainian-Canadians celebrating Christmas on December 25th its timing is still pretty seasonal.</p>
 
 		<div>
-	    <p><img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations.">Pizza Club</button></p>
+	    <p><img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button></p>
 	  </div>
 
 		<p><b>The concerts begin at 7:30 pm on December 7th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $34 for adults, $32 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204-783-7377).</b></p>
@@ -81,7 +81,7 @@ Template Name: Page Concert4 Template
 				<p><b>Sergei Rachmaninoff</b><br><i>Vocalise</i>, Op. 34, No. 14</p>
 				<p><b>Adolphe Adam</b><br><i>O Holy Night</i></p>
 				<p><b>Joseph Haydn</b><br>Symphony No. 49&thinsp;&mdash;&thinsp;&lsquo;La passione&rsquo;</p>
-				<p>Presenting sponsor / <a href="https://www.carpathiacu.mb.ca/"><b>Carpathia Credit Union</b></a><br>Concert co-sponsors / <b>Dr. Bill Pope &amp; Elizabeth Tippett-Pope</b><br>Guest artist sponsors / <b>Sandi &amp; Ron Mielitz</b><br>Concert media sponsor / <a href="https://www.cjnu.ca/"><b>Nostalgia Broadcasting Co-operative (CJNU 93.7)</b></a></p>
+				<p>Presenting sponsor / <a href="https://www.carpathiacu.mb.ca/"><b>Carpathia Credit Union</b></a><br>Concert co-sponsors / <b>Dr. Bill Pope &amp; Elizabeth Tippett-Pope</b> and <a href="http://www.lawtonpartners.ca/Home"><b>Lawton Partners</b></a><br>Guest artist sponsors / <b>Sandi &amp; Ron Mielitz</b><br>Concert media sponsor / <a href="https://www.cjnu.ca/"><b>Nostalgia Broadcasting Co-operative (CJNU 93.7)</b></a></p>
 			</div>
 
 		  <div class="tab-pane fade" id="bios">
