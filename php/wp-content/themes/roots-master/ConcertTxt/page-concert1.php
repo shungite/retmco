@@ -20,7 +20,7 @@ Template Name: Page Concert1 Template
 <div class="row">
 
 	<div class="span7">
-		<h4><span style="color: #F7931D">PLEASE NOTE:<br>THIS CONCERT HAS SOLD OUT!</span></h4>
+		<h4><span style="color: #FF7F50">PLEASE NOTE:<br>THIS CONCERT HAS SOLD OUT!</span></h4>
 		<p>The fact that no introduction is required for James Ehnes won&rsquo;t stop us from gushing about his towering achievements.</p>
 		<p>The Brandon native&rsquo;s career took off like a shot in his teens, when he performed as a soloist with several major orchestras&thinsp;&mdash;&thinsp;including the MCO. By his early 30s he&rsquo;d been elected to the Royal Society of Canada, appointed to the Order of Canada, earned an honorary doctorate, and won a Grammy for one of over 40 CDs he&rsquo;s recorded.</p>
 		<p>A musician whose virtuosity knows no bounds, Ehnes&rsquo;s playing might simply be described as the best. The <i>Globe and Mail</i> calls him &ldquo;the Jascha Heifetz of our day.&rdquo; For this concert Ehnes will play-conduct three big ones from the common practice era: Elgar&rsquo;s String Serenade, Dvo&#345;&aacute;k&rsquo;s Serenade, Op. 22, and Beethoven&rsquo;s Violin Concerto, Op. 61.</p>
