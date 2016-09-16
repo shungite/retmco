@@ -68,6 +68,8 @@ Template Name: Page Board Template
 					<dd>Pat Ireton</dd>
 					<dt>Systems &amp; design</dt>
 					<dd>Jon Snidal</dd>
+					<dt>Concertmaster</dt>
+					<dd>Karl Stobbe</dd>
 					<dt>Concert Manager</dt>
 					<dd>Boyd MacKenzie</dd>
 					<dt>Program advertising</dt>
