@@ -54,6 +54,8 @@ Template Name: Page Board Template
 				<dl class="dl"> 
 					<dt>Music Director</dt>
 					<dd>Anne Manson</dd>
+					<dt>Concertmaster</dt>
+					<dd>Karl Stobbe</dd>
 					<dt>Managing Director</dt>
 					<dd>Vicki Young</dd>
 					<dt>Office Manager &amp; Front-of-house Manager</dt>
@@ -68,8 +70,6 @@ Template Name: Page Board Template
 					<dd>Pat Ireton</dd>
 					<dt>Systems &amp; design</dt>
 					<dd>Jon Snidal</dd>
-					<dt>Concertmaster</dt>
-					<dd>Karl Stobbe</dd>
 					<dt>Concert Manager</dt>
 					<dd>Boyd MacKenzie</dd>
 					<dt>Program advertising</dt>
