@@ -39,9 +39,6 @@ Template Name: Page FOTL Template
 			<p>
 				They constantly seek to expand our program, which currently reaches over 7,500 children and provides 30-35 in school / in-library presentations each year, and this year they will be adding online services like live streaming and Skype workshops. 
 			</p>
-			<p>
-				&nbsp;
-			</p>
 		</div>
 	</div>
 <!-- /row -->
