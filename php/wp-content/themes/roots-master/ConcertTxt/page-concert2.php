@@ -38,7 +38,7 @@ Template Name: Page Concert2 Template
 				The Princeton educated Michael Oesterle composes in a style reminiscent of the American minimalists (Terry Riley, John Adams), and offers a balance between simplicity and complexity that has a broad appeal to audiences. This is the second time Dame Evelyn plays Oesterle&rsquo;s <i>Kaluza Klein</i> with the MCO; it was commissioned for her and premiered by the MCO in 2012. 
 			</p>
 			<p>
-				<a href="http://www.themco.ca/2016-mco-evelyn-glennie-tour-dates-and-links/"><strong>MCO Evelyn Glennie Tour indo / dates and links here!</strong></a> 
+				<a href="http://www.themco.ca/2016-mco-evelyn-glennie-tour-dates-and-links/"><strong>MCO Evelyn Glennie Tour info / dates and links here!</strong></a> 
 			</p>
 			<div>
 				<p>
