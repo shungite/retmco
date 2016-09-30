@@ -50,6 +50,6 @@ Template Name: Page KarlKerry Template
 <!-- /span2 -->
 	</div>
 <!-- /row -->
-<?php get_template_part('templates/content', 'carr'); ?>
+<?php get_template_part('templates/content', 'KarlKerry'); ?>
 </div>
 <!-- /container -->
