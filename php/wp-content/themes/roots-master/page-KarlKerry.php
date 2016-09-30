@@ -6,7 +6,7 @@ Template Name: Page KarlKerry Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2015/10/CarrCandlelight.jpg" alt="" width="770" height="455"> 
+			<img src="" alt="" width="770" height="455"> 
 		</div>
 		<div class="span2">
 			<p>
