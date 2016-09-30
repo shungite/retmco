@@ -107,7 +107,7 @@ Template Name: Page Concert5 Template
 							<b>B&eacute;la Bart&oacute;k</b><br><i>Divertimento for String Orchestra</i>
 						</p>
 						<p>
-							Concert sponsors / <b>Dr. Dr. R.T. &amp; Mrs. Angela B. Ross</b>
+							Concert sponsors / <b>Dr. R.T. &amp; Mrs. Angela B. Ross</b>
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
