@@ -42,7 +42,7 @@ Template Name: Page Concert8 Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner."> Pizza Club </button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! Cello quartets by students of Minna Rose Chung; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner."> Pizza Club </button> 
 				</p>
 			</div>
 			<p>
@@ -92,28 +92,19 @@ Template Name: Page Concert8 Template
 							Anne Manson, conductor<br>Asier Polo, cello 
 						</p>
 						<p>
-							<b> Andrew Balfour </b> <br> Fanfare, celebrating Canada&rsquo;s 150th birthday<br> Toronto Symphony Orchestra commission<br> Manitoban premiere performance 
+							<b>Andrew Balfour</b><br>Kiwetin-Acahkos&thinsp;&mdash;&thinsp;North Star<br>Fanfare for the Peoples of the North<br>SESQUI for Canada Mosaic 150<br>Toronto Symphony Orchestra commission<br>World premiere performance<br>Funded by the Government of Canada 
 						</p>
 						<p>
-							<b> Enrique Granados </b> <br> <i> Intermezzo de Goyescas </i> 
+							<b>Enrique Granados</b><br><i>Intermezzo from <em>Goyescas</em></i> 
 						</p>
 						<p>
-							<b> Wolfgang Amadeus Mozart </b> <br>Symphony 27, K. 199 
+							<b> Wolfgang Amadeus Mozart </b> <br>Symphony 27, in G Major, K&thinsp;199 (K&thinsp;162A &amp; K161B 
 						</p>
 						<p>
-							<b> Jeffrey Ryan </b> <br> New work for strings<br> Canada Council commission<br> World premiere performance 
+							<b>Jeffrey Ryan</b><br><em>Earthshine</em><br>Canada Council commission<br> World premiere performance 
 						</p>
 						<p>
-							<b> Joaquin Rodrigo </b> <br> <i> Concierto in modo galante </i> 
-						</p>
-						<p>
-							<b> Luke Nickel </b> <br>New composition<br>Manitoba Arts Council commission<br>World premiere performance 
-						</p>
-						<p>
-							<b> Richard Strauss </b> <br> <i> Metamorphosen </i> 
-						</p>
-						<p>
-							<b> Richard Strauss </b> <br> <i> Four Last Songs </i> (quintet version) 
+							<b>Joaquin Rodrigo</b><br><i>Concierto in modo galante</i> 
 						</p>
 						<p>
 							Concert sponsor / <a href="http://www.johnstongroup.ca/"> <b> Johnston Group </b> </a> 

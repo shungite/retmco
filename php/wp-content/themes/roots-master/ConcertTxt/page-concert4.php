@@ -89,25 +89,28 @@ Template Name: Page Concert4 Template
 							Mark Morash, conductor<br>Andriana Chuchman, soprano 
 						</p>
 						<p>
+							<b>Jean Sibelius</b><br><i>Andante Festivo</i> 
+						</p>
+						<p>
+							<b>Joseph Haydn</b><br>Symphony No. 49, in F Minor&thinsp;&mdash;&thinsp;&lsquo;La passione&rsquo; 
+						</p>
+						<p>
 							<b>Wolfgang Amadeus Mozart</b><br><i>Exsultate Jubilate</i>, K 165 
 						</p>
 						<p>
 							<b>Heitor Villa-Lobos</b><br><i>Bachianas Brasileiras</i>, No. 9 
 						</p>
 						<p>
-							<b>Jean Sibelius</b><br><i>Andante Festivo</i> 
-						</p>
-						<p>
-							<b>Vasyl Barvinsky</b><br><i>The Great Miracle</i> 
-						</p>
-						<p>
 							<b>Sergei Rachmaninoff</b><br><i>Vocalise</i>, Op. 34, No. 14 
+						</p>
+						<p>
+							<b>Vasyl Barvinsky</b><br><i>The Great Miracle</i><br>&mdash;&thinsp;arr. by Boyd MacKenzie 
 						</p>
 						<p>
 							<b>Adolphe Adam</b><br><i>O Holy Night</i> 
 						</p>
 						<p>
-							<b>Joseph Haydn</b><br>Symphony No. 49&thinsp;&mdash;&thinsp;&lsquo;La passione&rsquo; 
+							<b>Traditional</b><br><i>The Twelve Days of Christmas</i> 
 						</p>
 						<p>
 							Presenting sponsor / <a href="https://www.carpathiacu.mb.ca/"><b>Carpathia Credit Union</b></a><br>Concert co-sponsors / <b>Dr. Bill Pope &amp; Elizabeth Tippett-Pope</b> and <a href="http://www.lawtonpartners.ca/Home"><b>Lawton Partners</b></a><br>Guest artist sponsors / <b>Sandi &amp; Ron Mielitz</b><br>Concert media sponsor / <a href="https://www.cjnu.ca/"><b>Nostalgia Broadcasting Co-operative (CJNU 93.7)</b></a> 

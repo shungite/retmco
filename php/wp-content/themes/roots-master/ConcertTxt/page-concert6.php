@@ -95,13 +95,13 @@ Template Name: Page Concert6 Template
 							<b> Alan Gordon Bell </b> <br> <i> Dynamus </i> 
 						</p>
 						<p>
-							<b> Wolfgang Amadeus Mozart </b> <br>Violin Concerto No. 5 (arr. for double bass!) 
+							<b> Wolfgang Amadeus Mozart </b> <br>Violin Concerto No. 5, in A Major&thinsp;&mdash;&thinsp;&lsquo;Turkish&rsquo; 
 						</p>
 						<p>
-							<b> Sir Ernest MacMillan </b> <br> <i> Two Sketches on String Airs </i> 
+							<b> Sir Ernest MacMillan</b><br><i>Two Sketches on French-Canadian Airs </i> 
 						</p>
 						<p>
-							<b> Josef Suk </b> <br> <i> Serenade for Strings </i> , in E Flat Major, Op. 6 
+							<b>Josef Suk</b><br><i>Serenade for Strings</i>, in E Flat Major, Op. 6 
 						</p>
 						<p>
 							Concert sponsor / <strong> <a href="http://www.investorsgroup.com/en/default.aspx"> Investors Group </a> </strong> 

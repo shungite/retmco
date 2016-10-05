@@ -89,13 +89,13 @@ Template Name: Page Concert7 Template
 							Earl Stafford, conductor<br>Measha Brueggergosman, soprano 
 						</p>
 						<p>
-							<b>Luke Nickel</b><br>New composition<br>Manitoba Arts Council commission<br>World premiere performance 
+							<b>Luke Nickel</b><br><em>Aaadagio</em><br>Manitoba Arts Council commission<br>World premiere performance 
 						</p>
 						<p>
 							<b>Richard Strauss</b><br><i>Metamorphosen</i> 
 						</p>
 						<p>
-							<b>Richard Strauss</b><br><i>Four Last Songs</i> (quintet version) 
+							<b>Richard Strauss</b><br><i>Four Last Songs</i><br>&thinsp;&mdash;arr. by John Greer
 						</p>
 						<p>
 							Concert sponsor / <a href="https://www.canadahelps.org/en/charities/the-gail-asper-family-foundation-inc/?gclid=CjwKEAjwmMS-BRCm5dn51JLbp1wSJACc61tFw3QwWIC0TqZiU-b970wX5FWstUYwP-ixSt1dy_0YhRoCo0fw_wcB"><b>Gail Asper Family Foundation</b></a><br>Concert media sponsor / <b>Neighbours of Tuxedo (<a href="http://www.bestversionmedia.com/">Best Version Media</a>)</b> 

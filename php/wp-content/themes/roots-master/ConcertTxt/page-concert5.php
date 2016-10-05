@@ -95,16 +95,16 @@ Template Name: Page Concert5 Template
 							Anne Manson, conductor<br>The Frontier Fiddlers
 						</p>
 						<p>
-							Fiddle medley (traditional)
+							 <strong>Traditional</strong><br>Fiddle medley
 						</p>
 						<p>
 							<b>Jim Hiscott</b><br><i>Water Circle</i><br>Manitoba Arts Council commission<br>World premiere performance
 						</p>
 						<p>
-							<b>Johann Sebastian Bach</b><br>Violin Concerto no. 2 in E Major, BWV&thinsp;1042 
+							<b>Johann Sebastian Bach</b><br>Violin Concerto No. 2, in E Major, BWV&thinsp;1042
 						</p>
 						<p>
-							<b>B&eacute;la Bart&oacute;k</b><br><i>Divertimento for String Orchestra</i>
+							<b>B&eacute;la Bart&oacute;k</b><br><i>Divertimento for Strings</i>
 						</p>
 						<p>
 							Concert sponsors / <b>Dr. R.T. &amp; Mrs. Angela B. Ross</b>

@@ -101,7 +101,7 @@ Template Name: Page Concert9 Template
 							<i>Nanabush and the Drum</i>&thinsp;/&thinsp;<i>Nanabozho et le tambour</i><br>Anne Manson, conductor<br>Genevi&egrave;ve Pelletier, Director 
 						</p>
 						<p>
-							<i>A Soldier&rsquo;s Tale</i> (evening performances only)<br>Script by Charles-Ferdinand Ramuz<br>Music by Igor Stravinsky 
+							<i>A Soldier&rsquo;s Tale</i> (evening performances only)<br>Original libretto by Charles-Ferdinand Ramuz; translated by Jeremy Sams<br>Music by Igor Stravinsky 
 						</p>
 						<p>
 							<i>Nanabozho et le tambour</i>&thinsp;/&thinsp;<i>Nanabush and the Drum</i><br> Script by Rh&eacute;al Cenerini<br> Music by Michael Oesterle 

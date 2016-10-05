@@ -92,19 +92,19 @@ Template Name: Page Concert2 Template
 							Anne Manson, conductor<br>Dame Evelyn Glennie, percussion 
 						</p>
 						<p>
-							<b>Michael Oesterle</b><br><i>Kaluza Klein</i> (Canada Council commission for Evelyn Glennie and the MCO, 2012 premiere) 
+							<b>Michael Oesterle</b><br><i>Kaluza Klein</i> (2016) 
 						</p>
 						<p>
-							<b>Dmitri Shostakovich</b><br>Chamber Symphony in C minor, Op. 110a 
+							<b>Dmitri Shostakovich</b><br>Chamber Symphony in C minor, Op. 110a<br>&mdash;&thinsp;tr. for string orchestra by Rudolf Barshai 
 						</p>
 						<p>
-							<b>Fritz Kreisler</b><br><i>Praeludium and Allegro in the Style of Pugnani</i> 
+							<b>Fritz Kreisler</b><br><i>Praeludium and Allegro in the Style of Pugnani</i><br>&mdash;&thinsp;arr. by Boyd MacKenzie
 						</p>
 						<p>
-							<b>Arcangelo Corelli</b><br>Violin Sonata in D Minor, Op. 5, No.12&thinsp;&mdash;&thinsp;&lsquo;La Folia&rsquo;<br>(arr. by Karl Jenkins for marimba &amp; strings) 
+							<b>Arcangelo Corelli</b><br>Sonata in D Minor, Op. 5, No.12&thinsp;&mdash;&thinsp;&lsquo;La Folia&rsquo;<br>&mdash;&thinsp;arr. by Karl Jenkins
 						</p>
 						<p>
-							<b>Antonio Vivaldi</b><br>Piccolo Concerto in C Major, RV&thinsp;443<br>(arr. by Evelyn Glennie for vibraphone &amp; strings) 
+							<b>Antonio Vivaldi</b><br>Piccolo Concerto in C Major, RV&thinsp;443<br>&mdash;&thinsp;arr. by Evelyn Glennie
 						</p>
 						<p>
 							Concert sponsor / <b>LBL Holdings</b><br>Concert media sponsor / <a href="https://www.cjnu.ca/"><b>Nostalgia Broadcasting Co-operative (CJNU 93.7)</b></a> 

@@ -10,7 +10,7 @@ Template Name: Page Concert9 Template
 		</div>
 		<div class="span2">
 			<p>
-				.
+				. 
 			</p>
 		</div>
 	</div>
@@ -19,40 +19,40 @@ Template Name: Page Concert9 Template
 		<div class="span7">
 			<h4>
 				<div>
-					Reflecting on the unique legacies of the French, First Nations,<br>and M&eacute;tis in Canada through a spectacular theatrical presentation
+					Reflecting on the unique legacies of the French, First Nations,<br>and M&eacute;tis in Canada through a spectacular theatrical presentation 
 				</div>
 			</h4>
 			<p>
-				<b>Note: ticket links on this page are for the June 8th performances. <a href="http://www.themco.ca/concert/nanabozho-7-june-2016/">June 7th concerts here.</a></b>
+				<b>Note: ticket links on this page are for the June 8th performances. <a href="http://www.themco.ca/concert/nanabozho-7-june-2016/">June 7th concerts here.</a></b> 
 			</p>
 			<p>
-				Do you know Nanabush? He&rsquo;s the trickster figure of Anishnaabe mythology, a wry cultural hero who, according to legend, is responsible for dogs&rsquo; proclivity to sniff one another&rsquo;s tails and for rescuing the forest from Paul Bunyan.
+				Do you know Nanabush? He&rsquo;s the trickster figure of Anishnaabe mythology, a wry cultural hero who, according to legend, is responsible for dogs&rsquo; proclivity to sniff one another&rsquo;s tails and for rescuing the forest from Paul Bunyan. 
 			</p>
 			<p>
-				In <i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i> he is envisioned as a central figure in the foundation of the M&eacute;tis. Nanabush (known to Francophones as Nanabozho) sets up playful obstacles for a French voyageur attempting to navigate the land and woo his more savvy Indigenous love interest.
+				In <i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i> he is envisioned as a central figure in the foundation of the M&eacute;tis. Nanabush (known to Francophones as Nanabozho) sets up playful obstacles for a French voyageur attempting to navigate the land and woo his more savvy Indigenous love interest. 
 			</p>
 			<p>
-				The production is unique among MCO collaborations, an immersive new work of art which brings together a group of celebrated artists: Th&eacute;&acirc;tre Cercle Moli&egrave;re, writer Rh&eacute;al Cenerini and composer Michael Oesterle. In the tradition of Stravinsky&rsquo;s <i>A Soldier&rsquo;s Tale</i>, <i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i> is an enchanting piece of theatre that merges classical music and folk legends.
+				The production is unique among MCO collaborations, an immersive new work of art which brings together a group of celebrated artists: Th&eacute;&acirc;tre Cercle Moli&egrave;re, writer Rh&eacute;al Cenerini and composer Michael Oesterle. In the tradition of Stravinsky&rsquo;s <i>A Soldier&rsquo;s Tale</i>, <i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i> is an enchanting piece of theatre that merges classical music and folk legends. 
 			</p>
 			<p>
-				While celebrating Canada&rsquo;s 150th birthday, the piece illuminates the diversity of our heritage. The work is bilingual, but accessible to Anglophones and Francophones equally, and appropriate for all ages. Matinee performances for school groups will take place both days.
+				While celebrating Canada&rsquo;s 150th birthday, the piece illuminates the diversity of our heritage. The work is bilingual, but accessible to Anglophones and Francophones equally, and appropriate for all ages. Matinee performances for school groups will take place both days. 
 			</p>
 			<p>
-				<b>Th&eacute;&acirc;tre Cercle Moli&egrave;re</b>
+				<b>Th&eacute;&acirc;tre Cercle Moli&egrave;re</b> 
 			</p>
 			<p>
-				Th&eacute;&acirc;tre Cercle Moli&egrave;re is the oldest theatre company with uninterrupted programming in Canada. Established in 1925, the company&rsquo;s founders had the objective of bringing the French language to life within and beyond St-Boniface&rsquo;s vibrant community. Today, the objective remains the same as the company strives to bridge language barriers with their subtitled performances and present inclusive and diverse programming to appeal to Winnipeg&rsquo;s ever-changing community.
+				Th&eacute;&acirc;tre Cercle Moli&egrave;re is the oldest theatre company with uninterrupted programming in Canada. Established in 1925, the company&rsquo;s founders had the objective of bringing the French language to life within and beyond St-Boniface&rsquo;s vibrant community. Today, the objective remains the same as the company strives to bridge language barriers with their subtitled performances and present inclusive and diverse programming to appeal to Winnipeg&rsquo;s ever-changing community. 
 			</p>
 			<p>
-				&ldquo;The company&rsquo;s future is brimming with new partnerships, co-productions with major players, Canadian tours and new works that reflect the francophone community today. We are thrilled about the new developments to come for this 90-year-old company, en route to our centennial&rdquo; &mdash;&thinsp;Genevi&egrave;ve Pelletier, Artistic Director.
+				&ldquo;The company&rsquo;s future is brimming with new partnerships, co-productions with major players, Canadian tours and new works that reflect the francophone community today. We are thrilled about the new developments to come for this 90-year-old company, en route to our centennial&rdquo; &mdash;&thinsp;Genevi&egrave;ve Pelletier, Artistic Director. 
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button>
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> 
 				</p>
 			</div>
 			<p>
-				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 8th at <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b>
+				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 8th at <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b> 
 			</p>
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
@@ -74,7 +74,7 @@ Template Name: Page Concert9 Template
 			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=8b9a8422a1f541bdbbd69ef83acfdd18"><img rel="tooltip" title="Add senior matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
 			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=9ba8692479a54f7dbf9693ce4b9311f5"><img rel="tooltip" title="Add student matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
 			<p class="fineprint">
-				Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets.
+				Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets. 
 			</p>
 		</div>
 <!-- /span1 -->
@@ -95,19 +95,19 @@ Template Name: Page Concert9 Template
 							<strong>Manitoba Chamber Orchestra</strong><br />
 							Anne Manson, Music Director<br />
 							Karl Stobbe, Concertmaster<br />
-							Westminster United Church<br>8 June 2017
+							Westminster United Church<br>8 June 2017 
 						</p>
 						<p>
-							<i>Nanabush and the Drum</i>&thinsp;/&thinsp;<i>Nanabozho et le tambour</i><br>Anne Manson, conductor<br>Genevi&egrave;ve Pelletier, Director
+							<i>Nanabush and the Drum</i>&thinsp;/&thinsp;<i>Nanabozho et le tambour</i><br>Anne Manson, conductor<br>Genevi&egrave;ve Pelletier, Director 
 						</p>
 						<p>
-							<i>A Soldier&rsquo;s Tale</i> (evening performances only)<br>Script by Charles-Ferdinand Ramuz<br>Music by Igor Stravinsky
+							<i>A Soldier&rsquo;s Tale</i> (evening performances only)<br>Original libretto by Charles-Ferdinand Ramuz; translated by Jeremy Sams<br>Music by Igor Stravinsky 
 						</p>
 						<p>
-							<i>Nanabozho et le tambour</i> / <i>Nanabush and the Drum</i><br> Script by Rhéal Cenerini<br> Music by Michael Oesterle
+							<i>Nanabozho et le tambour</i> / <i>Nanabush and the Drum</i><br> Script by Rh&eacute;al Cenerini<br> Music by Michael Oesterle 
 						</p>
 						<p>
-							Concertmaster sponsor / <b>Raymond H&eacute;bert</b>
+							Concertmaster sponsor / <b>Raymond H&eacute;bert</b> 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
@@ -188,7 +188,7 @@ Template Name: Page Concert9 Template
 <!-- /span6 tab area -->
 		<div class="span2 offset1">
 			<p class="fineprint">
-				.
+				. 
 			</p>
 		</div>
 	</div>
