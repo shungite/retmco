@@ -83,7 +83,7 @@ Template Name: Page Concert7 Template
 							<strong>Manitoba Chamber Orchestra</strong><br />
 							Anne Manson, Music Director<br />
 							Karl Stobbe, Concertmaster<br />
-							Westminster United Church<br>29 March 2017 
+							Westminster United Church<br>26 April 2017 
 						</p>
 						<p>
 							Earl Stafford, conductor<br>Measha Brueggergosman, soprano 
