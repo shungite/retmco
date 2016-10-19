@@ -6,7 +6,7 @@ Template Name: Page MCOhome Template
 <div class="container">
 	<div class="row-fluid">
 		<div class="span8">
-			<a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head08nov16c.jpg" alt="MCO / Manson, von Oeyen "></a> 
+			[video_lightbox_youtube video_id="ORmQwkn7SGc" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/head08nov16vid.jpg"] 
 			<h4>
 				&ldquo;Can do absolutely anything<br>he likes with a keyboard&rdquo;
 			</h4>
