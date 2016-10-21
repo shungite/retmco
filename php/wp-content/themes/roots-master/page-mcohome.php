@@ -10,6 +10,9 @@ Template Name: Page MCOhome Template
 			<h4>
 				&ldquo;Can do absolutely anything<br>he likes with a keyboard&rdquo; 
 			</h4>
+			<div>
+				<a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2014/10/YouTube-social-circle_red_48px.png" alt="Play"></a> 
+			</div>
 		</div>
 	</div>
 	<div class="row-fluid">
@@ -82,6 +85,7 @@ Template Name: Page MCOhome Template
 </div>
 <!-- /container -->
 <script type="text/javascript">
+
 
 
 
