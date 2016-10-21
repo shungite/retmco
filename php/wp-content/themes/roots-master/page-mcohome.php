@@ -8,8 +8,10 @@ Template Name: Page MCOhome Template
 		<div class="span8">
 			<a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head08nov16c.jpg" alt="MCO / Manson, von Oeyen "></a> 
 			<h4>
-				&ldquo;Can do absolutely anything<br>he likes with a keyboard&rdquo;
+				&ldquo;Can do absolutely anything<br>he likes with a keyboard&rdquo; 
 			</h4>
+		</div>
+		<div class="span8">
 			<p>
 				Since his debut at age 16 with the Los Angeles Philharmonic and Esa-Pekka Salonen, <strong>Andrew von Oeyen</strong> has established himself as one of the most captivating pianists of his generation. His star is rising fast, for he is an artist of a special breed: a dashing, magnetic performer and a consummate technician who woos general audiences and the exacting critics of the classical music world equally. See details <a href="http://www.themco.ca/concert/manson-von-oeyen/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=c116b65be0594684800885922da8a95f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=abe9d1b0c5014dbabcf62ef8ae88cc57"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=12f9239a19844208ad4db79f8bdeeecb"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
@@ -78,6 +80,7 @@ Template Name: Page MCOhome Template
 </div>
 <!-- /container -->
 <script type="text/javascript">
+
 
 
 
