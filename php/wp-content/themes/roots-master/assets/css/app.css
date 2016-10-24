@@ -263,12 +263,16 @@ a:hover {
    Play button adds
    ========================================================================== */
 
+.covercontainer {
+	position: relative;
+}
+
 .coverheader {
 	position:relative;
 	z-index: 1;
 }
 
 .playbutton {
-	position:relative;
+	position:absolute;
 	z-index: 2;
 }
