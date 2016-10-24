@@ -259,3 +259,18 @@ a:hover {
 .wpcf7 input[type="email"] {width:90%;}
 .wpcf7 textarea { width:90%;}
 
+/* ==========================================================================
+   Play button adds
+   ========================================================================== */
+
+.coverheader {
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+.playbutton {
+	position: absolute;
+	top: 60px;
+	left: 80px;
+}

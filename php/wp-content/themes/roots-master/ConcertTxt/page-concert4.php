@@ -35,7 +35,7 @@ Template Name: Page Concert4 Template
 				<b>It&rsquo;s beginning to look a lot like &#1088;&#1110;&#1079;&#1076;&#1074;&#1086;</b> 
 			</p>
 			<p>
-				Canada is home to one of the largest populations of Ukrainians in the world. Many Winnipeg Ukrainians have maintained their national traditions, while also moving in hybrid directions&thinsp;&mdash;&thinsp;like Winnipeg&rsquo;s Mickey &amp; Bunny, the 60s-era Ukrainian language country-rock band that out-sold The Guess Who for a time. Our Christmas concert takes place exactly a month before Ukrainian Christmas (&#1088;&#1110;&#1079;&#1076;&#1074;&#1086;), but with some Ukrainian-Canadians celebrating Christmas on December 25th its timing is still pretty seasonal. 
+				Many Winnipeg Ukrainians have maintained their national traditions, while also moving in hybrid directions. Our Christmas concert takes place one month before Ukrainian Christmas, but with many Ukrainian-Canadians celebrating Christmas on December 25th its timing is still pretty seasonal. 
 			</p>
 			<div>
 				<p>
