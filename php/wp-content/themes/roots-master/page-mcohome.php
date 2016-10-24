@@ -7,7 +7,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head08nov16c.jpg" class="coverheader" alt="MCO / Manson, von Oeyen"></a>
-			<a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2014/10/YouTube-social-circle_red_48px.png" class="playbutton" alt="Play"></a>
+			
 		</div>
 	</div>
 	<div class="row-fluid">
