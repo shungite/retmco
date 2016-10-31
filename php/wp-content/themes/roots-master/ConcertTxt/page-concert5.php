@@ -6,7 +6,7 @@ Template Name: Page Concert5 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2016/06/head14feb17.jpg" width="770" height="455" alt="The Frontier Fiddlers"> 
+			[video_lightbox_youtube video_id="5a7EO05Hae0" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/head14feb17covervid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>

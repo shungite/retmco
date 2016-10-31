@@ -7,9 +7,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="covercontainer">
-				<a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head08nov16c.jpg" alt="MCO / Manson, von Oeyen"></a> 
-
-
+				<a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head08nov16c.jpg" alt="MCO / Manson, von Oeyen" style="position: relative"></a>
 			</div>
 		</div>
 	</div>
@@ -31,7 +29,7 @@ Template Name: Page MCOhome Template
 					<a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/07/DonorCello.jpg" width="96px" height="96px"></a> 
 					<div class="media-body">
 						<p>
-							<strong><a href="http://www.themco.ca/quick-links-to-1617-subscriptions/">Subscribe now to MCO&rsquo;s 2016/17 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</strong></a><br />
+							<strong><a href="http://www.themco.ca/quick-links-to-1617-subscriptions/">Subscribe now to MCO&rsquo;s 2016/17 season<br>&mdash;&thinsp;enjoy six or nine concerts in Westminster Church!</strong></a><br />
 							Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; 
 						</p>
 					</div>
@@ -86,14 +84,6 @@ Template Name: Page MCOhome Template
 </div>
 <!-- /container -->
 <script type="text/javascript">
-
-
-
-
-
-
-
-
 
 $(document).ready(function () {
   $("[rel=tooltip]").tooltip();

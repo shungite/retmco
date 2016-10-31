@@ -6,7 +6,7 @@ Template Name: Page Concert4 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2016/06/head07dec16.jpg" width="770" height="455" alt="Morash, Chuchman"> 
+			[video_lightbox_youtube video_id="fDGtDhIDZAQ" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/head07dec16covervid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>

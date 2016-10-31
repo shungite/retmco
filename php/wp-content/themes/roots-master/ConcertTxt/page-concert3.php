@@ -6,7 +6,7 @@ Template Name: Page Concert3 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2016/06/head08nov16b.jpg" width="770" height="455" alt="Manson, von Oeyen"> 
+			[video_lightbox_youtube video_id="ORmQwkn7SGc" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/head08nov16vid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>
@@ -101,7 +101,7 @@ Template Name: Page Concert3 Template
 							<b>Wolfgang Amadeus Mozart</b><br>Symphony No. 29, in A Major, K 201 
 						</p>
 						<p>
-							Concert sponsor / <a href="http://www.pollardbanknote.com/"><b>Pollard Banknote</b></a><br>Concertmaster sponsor / <a href="https://nesbittburns.bmo.com/joel.cogan"><strong>Joel B. Cogen, BMO Nesbitt Burns</strong><br></a>Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a> 
+							Concert sponsor / <a href="http://www.pollardbanknote.com/"><b>Pollard Banknote</b></a><br>Music Director sponsor / <a href="http://www.prolific.ca/"><strong>The Prolific Group</strong></a><br>Concertmaster sponsor / <a href="https://nesbittburns.bmo.com/joel.cogan"><strong>Joel B. Cogan, BMO Nesbitt Burns</strong><br></a>Piano sponsors / <a href="http://www.stjohnsmusic.com/"><b>St. John&rsquo;s Music</b></a> and <a href="http://ca.yamaha.com/"><b>Yamaha Canada</b></a> 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
