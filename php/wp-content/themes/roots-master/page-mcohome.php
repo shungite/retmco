@@ -9,10 +9,8 @@ Template Name: Page MCOhome Template
     <div class="covercontainer">
       <a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head14feb17cover.jpg" alt="MCO / Manson, von Oeyen" style="position: relative"></a>
       
-    </div>
   </div>
 </div>
-	<div class="row-fluid">
 		<div class="span8">
 			<h4>
 				&ldquo;Can do absolutely anything<br>he likes with a keyboard&rdquo; 
