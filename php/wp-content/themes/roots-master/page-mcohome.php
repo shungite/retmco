@@ -11,8 +11,10 @@ Template Name: Page MCOhome Template
       <div class="playbutton">
         <a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/YouTube-social-circle_red_92px.png" alt="Play"></a>
       </div>
+    </div>
   </div>
 </div>
+	<div class="row-fluid">
 		<div class="span8">
 			<h4>
 				&ldquo;Can do absolutely anything<br>he likes with a keyboard&rdquo; 
