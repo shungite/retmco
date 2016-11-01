@@ -14,6 +14,25 @@ Template Name: Page Board Template
       <div class="well">
         <p><strong>Manitoba Chamber Orchestra<br>Board of Directors and staff</strong></p>
           <dl class="dl">
+          	<dt>Honorary Patron</dt>
+          	<dd>Her Honour, The Honourable<br>Janice C. Filmon, C.M., O.M.<br>Lieutenant Governor of Manitoba</dd>
+          	<dt>Music Director Emeritus</dt>
+          	<dd>Simon Streatfeild</dd>
+          	<dt>President Emeritus</dt>
+          	<dd>J.F. Reeh Taylor, Q.C.<sup>&#8224;</sup></dd>
+          	<dt>Directors Emeriti</dt>
+          	<dd>Jeffrey Anderson<sup>&#8224;</sup></dd>
+          	<dd>William S. Gange, LL.B.</dd>
+          	<dd>Roy Halstead</dd>
+          	<dd>Marilyn Huband<sup>&#8224;</sup></dd>
+          	<dd>Elaine Levack<sup>&#8224;</sup></dd>
+          	<dd>John Loewen</dd>
+          	<dd>Joan Passey<sup>&#8224;</sup></dd>
+          	<dd>William S. Stewart</dd>
+          	<dd>Paul Walsh, Q.C.</dd>
+          	<dd>Sonya Wright</dd>
+          	
+† deceased
             <dt>President</dt>
             <dd>Faye Warren</dd>
             <dt>Vice-President</dt>
@@ -66,6 +85,7 @@ Template Name: Page Board Template
             <dt>Program advertising</dt>
             <dd>Brian Chipney</dd>
           </dl>
+          <p><small><sup>&#8224;</sup> deceased</small></p>
         </div>
       </div>
     </div><!-- /row -->
