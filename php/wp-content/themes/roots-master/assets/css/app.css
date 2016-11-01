@@ -265,17 +265,16 @@ a:hover {
 
 .covercontainer {
   position: relative;
+  height: 100%;
 }
 
 .coverheader {
   position: absolute;
-  z-index: 1;
-}
-
-.playbutton {
-  position: relative;
-  top: -115px;
-  left: 15px;
   z-index: 2;
 }
 
+.playbutton {
+  position: absolute;
+  bottom: 0;
+  z-index: 2;
+}
