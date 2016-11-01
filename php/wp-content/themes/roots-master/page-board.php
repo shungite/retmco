@@ -15,23 +15,26 @@ Template Name: Page Board Template
         <p><strong>Manitoba Chamber Orchestra<br>Board of Directors and staff</strong></p>
           <dl class="dl">
             <dt>President</dt>
-            <dd>Judith Hall</dd>
-            <dt>Vice-President</dt>
             <dd>Faye Warren</dd>
+            <dt>Vice-President</dt>
+            <dd>Beryl Peters</dd>
+            <dt>Past President</dt>
+            <dd>Judith Hall</dd>
             <dt>Treasurer</dt>
             <dd>Gil Forrest</dd>
             <dt>Secretary</dt>
             <dd>Alice MacKenzie</dd>
             <dt>Members</dt>
+            <dd>Coralie Bryant</dd>
+            <dd>David Christianson</dd>
+            <dd>Amanda Evenson</dd>
             <dd>Robert Giesbrecht</dd>
             <dd>Joan Hardy</dd>
             <dd>Sue Irving</dd>
             <dd>Elaine Margolis</dd>
             <dd>Michael McIntyre</dd>
-            <dd>Ingrid M&ouml;hlmann</dd>
             <dd>Julie Mongeon-Ferr&eacute;</dd>
             <dd>Sunny Oh</dd>
-            <dd>Beryl Peters</dd>
             <dd>Nicola Schaefer</dd>
             <dd>Moti Shojania</dd>
             <dd>Walter Silicz</dd>
@@ -44,26 +47,24 @@ Template Name: Page Board Template
             <dd>Anne Manson</dd>
             <dt>Managing Director</dt>
             <dd>Vicki Young</dd>
-            <dt>Development Manager</dt>
-            <dd>Joan Gillis</dd>
             <dt>Office Manager &amp; Front-of-house Manager</dt>
             <dd>Elise Anderson</dd>
-            <dt>Marketing &amp; Communications Manager</dt>
+						<dt>Marketing &amp; Communications Manager</dt>
             <dd>Conrad Sweatman</dd>
+            <dt>Development Manager</dt>
+            <dd>Joan Gillis</dd>
             <dt>Administrative Assistant</dt>
             <dd>Corinne Friesen Loewen</dd>
             <dt>Bookeeper</dt>
             <dd>Pat Ireton</dd>
             <dt>Systems and Design</dt>
             <dd>Jon Snidal</dd>
-            <dt>Concert Manager</dt>
+						<dt>Concertmaster
+            <dd>Karl Stobbe</dd>
+            <dt>Concert Manager and Librarian</dt>
             <dd>Boyd MacKenzie</dd>
-            <dt>Librarian</dt>
-            <dd>Merrily Peters</dd>
             <dt>Program advertising</dt>
             <dd>Brian Chipney</dd>
-            <dt>Stage Manager</dt>
-            <dd>David MacKenzie</dd>
           </dl>
         </div>
       </div>
