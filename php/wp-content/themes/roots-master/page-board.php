@@ -31,8 +31,6 @@ Template Name: Page Board Template
           	<dd>William S. Stewart</dd>
           	<dd>Paul Walsh, Q.C.</dd>
           	<dd>Sonya Wright</dd>
-          	
-† deceased
             <dt>President</dt>
             <dd>Faye Warren</dd>
             <dt>Vice-President</dt>
