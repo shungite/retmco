@@ -275,7 +275,7 @@ a:hover {
 
 .playbutton {
   position: absolute;
-  left: 10px;
+  left: 20px;
   bottom: 5px;
   z-index: 2;
 }
