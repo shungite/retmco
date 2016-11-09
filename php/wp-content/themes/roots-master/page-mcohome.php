@@ -7,9 +7,9 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
   <div class="span8">
     <div class="covercontainer">
-      <a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head14feb17cover.jpg" alt="MCO / Manson, von Oeyen"></a>
+      <a href="http://www.themco.ca/concert/manson-von-oeyen/"><img src="http://www.themco.ca/wp-content/uploads/2016/11/head07dec16cover.jpg" alt="MCO / Morash, Chuchman"></a>
       <div class="playbutton">
-        <?php echo do_shortcode('[video_lightbox_youtube video_id="ORmQwkn7SGc" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
+        <?php echo do_shortcode('[video_lightbox_youtube video_id="fDGtDhIDZAQ" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
       </div>
     </div>
   </div>
@@ -17,10 +17,10 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				&ldquo;Can do absolutely anything<br>he likes with a keyboard&rdquo; 
+				﻿Christmas from Winnipeg to Ukraine 
 			</h4>
 			<p>
-				Since his debut at age 16 with the Los Angeles Philharmonic and Esa-Pekka Salonen, <strong>Andrew von Oeyen</strong> has established himself as one of the most captivating pianists of his generation. His star is rising fast, for he is an artist of a special breed: a dashing, magnetic performer and a consummate technician who woos general audiences and the exacting critics of the classical music world equally. See details <a href="http://www.themco.ca/concert/manson-von-oeyen/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=c116b65be0594684800885922da8a95f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=abe9d1b0c5014dbabcf62ef8ae88cc57"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=12f9239a19844208ad4db79f8bdeeecb"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
+				A decade ago, Winnipegger <strong>Andriana Chuchman</strong> was a star voice student at the UofM. Now, she stars alongside the likes of Placido Domingo on the world&rsquo;s top opera stages. ﻿Chuchman will perform Mozart&rsquo;s <em>Exsultate Jubilate</em> and other seasonally-themed works—including an audience sing-along of The Twelve Days of Christmas! <strong>Mark Morash</strong>, Director of Musical Studies for the San Francisco Opera Center, joins us for the first time as a guest conductor. See details <a href="http://www.themco.ca/concert/manson-von-oeyen/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e06fca072a8b40c6a26140ce4712dcfa"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=c0699f20e51b44c8a75f7fb06424e78f"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=9d0d18e4a0ca48f99d874de47172b9af"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
