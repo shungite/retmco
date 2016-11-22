@@ -9,7 +9,7 @@ Template Name: Page Venue Template
 		<div class="span8">
 			<img src="http://www.themco.ca/wp-content/uploads/2016/11/FAQ.jpg" alt="FAQ" width="770" height="455"> 
 		</div>
-		<div class="span2">
+		<div class="span8">
 			<p>
 				While the MCO presents many concerts throughout Manitoba, across Canada and abroad, the Orchestra&rsquo;s usual home is in historic Westminster United Church, located at 745 Westminster at Maryland in Winnipeg. With some of the richest acoustics of any venue in the city, Westminster&rsquo;s intimate sanctuary means that every audience member feels like they have the best seat in the house to see some of the world&rsquo;s greatest musicians.
 			</p>
