@@ -11,7 +11,7 @@ Template Name: Page Venue Template
 		</div>
 		<div class="span2">
 			<p>
-				. 
+				While the MCO presents many concerts throughout Manitoba, across Canada and abroad, the Orchestra&rsquo;s usual home is in historic Westminster United Church, located at 745 Westminster at Maryland in Winnipeg. With some of the richest acoustics of any venue in the city, Westminster&rsquo;s intimate sanctuary means that every audience member feels like they have the best seat in the house to see some of the world&rsquo;s greatest musicians.
 			</p>
 		</div>
 	</div>
@@ -33,10 +33,10 @@ Template Name: Page Venue Template
 					&nbsp;
 				</p>
 				<p>
-					<b>Where and when do Manitoba Chamber Orchestra concerts take place?</b>
+					<b>How do I get to Westminster United Church?</b>
 				</p>
 				<p>
-					While the MCO presents many concerts throughout Manitoba, across Canada and abroad, the Orchestra&rsquo;s usual home is in historic Westminster United Church, located at 745 Westminster at Maryland in Winnipeg. With some of the richest acoustics of any venue in the city, Westminster&rsquo;s intimate sanctuary means that every audience member feels like they have the best seat in the house to see some of the world&rsquo;s greatest musicians. The venue is accessible via the following bus routes:
+					Westminater United Church is accessible via the following bus routes:
 				</p>
 				<dl class="dl"> 
 					<dt>Tach&eacute; Avenue in St. Boniface to Wolseley</dt>
