@@ -17,7 +17,7 @@ Template Name: Page Touring Template
 			</blockquote>
 			<div class="well">
 				<p>
-					<iframe src="https://www.google.com/maps/d/embed?mid=1TehF9aSa-gwL13_nix3bT4Xc0hU" width="640" height="480"></iframe> 
+					<iframe src="https://www.google.com/maps/d/embed?mid=1TehF9aSa-gwL13_nix3bT4Xc0hU" width="100%" height="100%"></iframe> 
 				</p>
 				<p>
 					<b>MCO Touring</b> 
