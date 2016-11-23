@@ -4,9 +4,17 @@ Template Name: Page Touring Template
 */
 ?>
 <div class="container">
-	
 	<div class="row">
 		<div class="span8">
+			<p>
+				&nbsp;
+			</p>
+			<blockquote>
+				<p>
+					To create and perform chamber orchestra repertoire at the highest artistic level possible for Manitobans, for Canadians, and for international audiences.
+				</p>
+				<small>the Manitoba Chamber Orchestra&rsquo;s artistic mission statement</small> 
+			</blockquote>
 			<p>
 				&nbsp; 
 			</p>
@@ -15,19 +23,19 @@ Template Name: Page Touring Template
 					&nbsp; 
 				</p>
 				<p>
-				<iframe src="https://www.google.com/maps/d/embed?mid=1TehF9aSa-gwL13_nix3bT4Xc0hU" width="640" height="480"></iframe>
+					<iframe src="https://www.google.com/maps/d/embed?mid=1TehF9aSa-gwL13_nix3bT4Xc0hU" width="640" height="480"></iframe> 
 				</p>
 				<p>
 					&nbsp; 
 				</p>
 				<p>
-					<b>How do I get to Westminster United Church?</b> 
+					<b>MCO Touring</b> 
 				</p>
 				<p>
-					Westminater United Church is accessible via the following bus routes: 
+					The Manitoba Chamber Orchestra has traveled far and wide! You may have heard the Orchcestra in the following places: 
 				</p>
 				<dl class="dl"> 
-					<dt>Tach&eacute; Avenue in St. Boniface to Wolseley</dt>
+					<dt>Canada</dt>
 					<dd><a href="http://winnipegtransit.com/en/routes/10"><b>Route 10</b></a></dd>
 					<dt>Leila Avenue in West Kildonan to the Miseri­cor­dia Hospital</dt>
 					<dd><a href="http://winnipegtransit.com/en/routes/17"><b>Route 17</b></a></dd>
@@ -44,107 +52,7 @@ Template Name: Page Touring Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well-white">
-				<p>
-					<b>Where can I get tickets to Manitoba Chamber Orchestra concerts?</b> 
-				</p>
-				<p>
-					Season tickets may be purchased on this site or by calling the MCO Ticketline at 204-783-7377. Casual tickets are available on this site and at the door, but also at several outlets in Winnipeg. These outlets include: 
-				</p>
-				<dl class="dl"> 
-					<dt><a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson Booksellers</a></dt>
-					<dd>1120 Grant Avenue, Winnipeg MB R3M 2A6, tel 204-475-0483</dd>
-					<dt><a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a></dt>
-					<dd>586 Ellice Avenue at Sherbrook Street MB R3B 1Z8, tel 204-783-6918</dd>
-					<dt><a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet Worker Co-op</a></dt>
-					<dd>877 Westminster Avenue, Winnipeg MB R3G 1B3, tel 204-772-8771</dd>
-				</dl>
-			</div>
-<!-- /well -->
-			<div class="well">
-				<p>
-					<b>Where can I collect my tickets?</b> 
-				</p>
-				<p>
-					Purchased tickets can be mailed out ($1.00 added to cover postage and handling), picked up downtown in the MCO office on the third floor in Portage Place (9-5 Mon-Fri) or collected at the door on concert night. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well-white">
-				<p>
-					<b>I&rsquo;m a subscriber. How do I exchange tickets?</b> 
-				</p>
-				<p>
-					For subscribers, any concert ticket is good at any other show in the same season. All we ask is that you inform us at least 48 hours in advance of concert day that you would like to swap that ticket for another. This allows us to know how many seats we have available for sold out shows. Simply call 204-783-7377 at least two days before the concert. For obvious reasons, we are unable to exchange tickets into a sold-out concert. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well">
-				<p>
-					<b>When are season tickets mailed out?</b> 
-				</p>
-				<p>
-					Season tickets ordered in the spring or summer months for the upcoming season are mailed out from late-August; orders received from then on are processed and mailed immediately. If you subscribe close to the date of a concert, or if you have made a request, your tickets may be picked up at the ticket table at any concert. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well-white">
-				<p>
-					<b>Does the MCO and Westminster United Church cater to special needs?</b> 
-				</p>
-				<p>
-					The staff at the Manitoba Chamber Orchestra prides itself on the accessibility of its venue and its ability to accommodate all music lovers! A state-of-the-art ramp and lift sytem has been installed at Westminster United Church on the east door on Westminster Avenue, and staff is always available to assist. If you believe you need a specific type of assistance or simply want to let us know you&rsquo;ll be attending a concert, please contact the MCO office at 204-783-7377. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well">
-				<p>
-					<b>Are there any age restrictions at MCO concerts?</b> 
-				</p>
-				<p>
-					Children under the age of 14 should be accompanied by a teacher or other adult. Generally, babes in arms are not allowed, but we won&rsquo;t stop you from bringing any member of the family! That being said, a classical music concert is best enjoyed at a certain level of maturity. Please keep children quiet and seated, and use appropriate intervals for washroom breaks. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well-white">
-				<p>
-					<b>Where can I park my car?</b> 
-				</p>
-				<p>
-					<b>Please note: parking is no longer available in the Food Fare lot across from the Church!</b> Our good neighbours, <a href="http://epic.ca/"><b>EPIC Information Solutions</b></a>, have agreed to let us use their lot <b>for the entire 2015/16 season!</b> The lot, located behind their building at 167 Sherbrook Street, has the capacity to park 80 cars! These are available on a first-come, first-served basis, so leave a little early for the concert. Also look for parking in the surrounding neighbourhood, but prepare for a bit of a walk! Arrive early for top spots. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well">
-				<p>
-					<b>Where is my lost property?</b> 
-				</p>
-				<p>
-					If you have lost something at a Manitoba Chamber Orchestra concert, please get in touch with the Westminster United Church office at 204-784-1330. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well-white">
-				<p>
-					<b>What should I bring with me?</b> 
-				</p>
-				<p>
-					As little as possible! While we have a limited number of seat cushions for our patrons&rsquo; comfort, if you have your own, bring it along so there will be enough to go around. No food or drink is to be brought into the venue. If you did bring a cell phone, please turn off the ringer (pagers and beeping watches, too) before the concert begins. The use of recording and photographic equipment is not permitted. 
-				</p>
-			</div>
-<!-- /well -->
-			<div class="well">
-				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2014/11/PizzaClubTrans.png"> 
-				</p>
-				<p>
-					<b>How does MCO&rsquo;s Pizza Club work?</b> 
-				</p>
-				<p>
-					MCO&rsquo;s Pizza Club is great fun for the whole family! Reserve three days in advance of the concert date to reserve your spots. Enjoy free pizza (included in the price of your ticket) and a talk on the music you&rsquo;ll hear at the concert. Starts at 6:00 pm; call 204-783-7377 for reservations. Please enter via the easternmost door on Westminster Avenue. 
-				</p>
-			</div>
-<!-- /well -->
+
 		</div>
 	</div>
 <!-- /row -->
