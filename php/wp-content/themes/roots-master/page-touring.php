@@ -20,9 +20,6 @@ Template Name: Page Touring Template
 					<iframe src="https://www.google.com/maps/d/embed?mid=1TehF9aSa-gwL13_nix3bT4Xc0hU" width="640" height="480"></iframe> 
 				</p>
 				<p>
-					&nbsp; 
-				</p>
-				<p>
 					<b>MCO Touring</b> 
 				</p>
 				<p>
