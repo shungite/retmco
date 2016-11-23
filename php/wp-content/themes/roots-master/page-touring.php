@@ -7,21 +7,15 @@ Template Name: Page Touring Template
 	<div class="row">
 		<div class="span8">
 			<p>
-				&nbsp;
+				&nbsp; 
 			</p>
 			<blockquote>
 				<p>
-					To create and perform chamber orchestra repertoire at the highest artistic level possible for Manitobans, for Canadians, and for international audiences.
+					To create and perform chamber orchestra repertoire at the highest artistic level possible for Manitobans, for Canadians, and for international audiences. 
 				</p>
 				<small>the Manitoba Chamber Orchestra&rsquo;s artistic mission statement</small> 
 			</blockquote>
-			<p>
-				&nbsp; 
-			</p>
 			<div class="well">
-				<p>
-					&nbsp; 
-				</p>
 				<p>
 					<iframe src="https://www.google.com/maps/d/embed?mid=1TehF9aSa-gwL13_nix3bT4Xc0hU" width="640" height="480"></iframe> 
 				</p>
@@ -97,10 +91,8 @@ Template Name: Page Touring Template
 					<dd>Larino Italy</dd>
 					<dd>Agnone Italy</dd>
 				</dl>
-
 			</div>
 <!-- /well -->
-
 		</div>
 	</div>
 <!-- /row -->
