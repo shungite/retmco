@@ -32,24 +32,72 @@ Template Name: Page Touring Template
 					<b>MCO Touring</b> 
 				</p>
 				<p>
-					The Manitoba Chamber Orchestra has traveled far and wide! You may have heard the Orchcestra in the following places: 
+					The Manitoba Chamber Orchestra has traveled far and wide! You may have heard the Orchestra in the following places: 
 				</p>
 				<dl class="dl"> 
 					<dt>Canada</dt>
-					<dd><a href="http://winnipegtransit.com/en/routes/10"><b>Route 10</b></a></dd>
-					<dt>Leila Avenue in West Kildonan to the Miseri­cor­dia Hospital</dt>
-					<dd><a href="http://winnipegtransit.com/en/routes/17"><b>Route 17</b></a></dd>
-					<dt>Leighton and Watt in East Kildonan through River Heights to Polo Park</dt>
-					<dd><a href="http://winnipegtransit.com/en/routes/20"><b>Route 20</b></a></dd>
-					<dt>Logan and Sherbrook to Pembina in Ft. Garry</dt>
-					<dd><a href="http://winnipegtransit.com/en/routes/29"><b>Route 29</b></a></dd>
+					<dd>Summerside PEI</dd>
+					<dd>Montreal QC</dd>
+					<dd>Toronto ON</dd>
+					<dd>Ottawa ON</dd>
+					<dd>Elora ON</dd>
+					<dd>Guelph ON</dd>
+					<dd>Kitchener-Waterloo ON</dd>
+					<dd>Oakville ON</dd>
+					<dd>Winnipeg MB</dd>
+					<dd>Brandon MB</dd>
+					<dd>Flin Flon MB</dd>
+					<dd>Thompson MB</dd>
+					<dd>Swan River MB</dd>
+					<dd>The Pas MB</dd>
+					<dd>Grand Rapids MB</dd>
+					<dd>Churchill MB</dd>
+					<dd>Norway House MB</dd>
+					<dd>Duck Bay MB</dd>
+					<dd>Hollow Water MB</dd>
+					<dd>Little Black River MB</dd>
+					<dd>Cross Lake MB</dd>
+					<dd>Snow Lake MB</dd>
+					<dd>Cormorant Lake MB</dd>
+					<dd>Moose Lake MB</dd>
+					<dd>Cranberry Portage MB</dd>
+					<dd>Gillam MB</dd>
+					<dd>Falcon Beach MB</dd>
+					<dd>Bissett MB</dd>
+					<dd>Pine Creek MB</dd>
+					<dd>Barrows MB</dd>
+					<dd>Gypsumville MB</dd>
+					<dd>Waterhen MB</dd>
+					<dd>Dauphin MB</dd>
+					<dd>Wabowden MB</dd>
+					<dd>Leaf Rapids MB</dd>
+					<dd>Rorketon MB</dd>
+					<dd>Calgary AB</dd>
+					<dd>Edmonton AB</dd>
+					<dd>Banff AB</dd>
+					<dd>Vancouver BC</dd>
+					<dd>Kelowna BC</dd>
+					<dd>Mission BC</dd>
+					<dd>Abbortsford BC</dd>
+					<dd>Kamloops BC</dd>
+					<dd>Penticton BC</dd>
+					<dd>Salt Spring BC</dd>
+					<dd>Sechelt BC</dd>
+					<dd>Trail BC</dd>
+					<dd>White Rock BC</dd>
+					<dt>United States</dt>
+					<dd>New York NY</dd>
+					<dd>Boston MA</dd>
+					<dd>San Francisco CA</dd>
+					<dd>Orange County CA</dd>
+					<dt>Europe</dt>
+					<dd>Taranto Italy</dd>
+					<dd>Polignaro Italy</dd>
+					<dd>Bari Italy</dd>
+					<dd>Larino Italy</dd>
+					<dd>Agnone Italy</dd>
 				</dl>
-				<p>
-					If none of these routes are suitable, please consult the <a href="http://winnipegtransit.com/en/routes"><b>Winnipeg Transit route map</b></a> for more information, or use their <a href="http://winnipegtransit.com/en/navigo"><b>Navigo trip planner</b></a>. Further help is available by calling <b>311</b>. 
-				</p>
-				<p>
-					All regular season Manitoba Chamber Orchestra concerts begin at 7:30 pm, and the doors open at 6:30 pm. 
-				</p>
+
 			</div>
 <!-- /well -->
 
