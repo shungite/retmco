@@ -6,7 +6,7 @@ Template Name: Page Concert5 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			[video_lightbox_youtube video_id="5a7EO05Hae0" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/head14feb17covervid.jpg"] 
+			[video_lightbox_youtube video_id="Q0e3uV69LWg" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/head14feb17covervid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>
