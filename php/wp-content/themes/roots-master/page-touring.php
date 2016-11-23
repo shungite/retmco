@@ -27,7 +27,7 @@ Template Name: Page Touring Template
 				</p>
 				<dl class="dl"> 
 					<dt>Canada</dt>
-					<dd>Summerside PEI <span class="glyphicon glyphicon-camera" aria-hidden="false"></span></dd>
+					<dd>Summerside PEI <span class="glyphicon glyphicon-camera"></span></dd>
 					<dd>Montreal QC</dd>
 					<dd>Toronto ON</dd>
 					<dd>Ottawa ON</dd>
