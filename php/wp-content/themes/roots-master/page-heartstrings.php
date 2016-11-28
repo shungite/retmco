@@ -35,7 +35,7 @@ Template Name: Page Heartstrings Template
 				6:30 pm, hors d&rsquo;oeuvres<br>7:30 pm, Dinner<br>9:30 pm, Desserts and Liqueurs<br>Live &amp; Silent Auctions<br>Tickets $175 
 			</p>
 			<p>
-				<strong>&bull; <a href="#">buy tickets @ $175</a><br>&bull; <a href="#">buy a table of ten @ $2000</a><br>&bull; <a href="#">buy Patron tickets @ $200*</a></strong> 
+				<strong>&bull; <a href="#">buy tickets @ $175</a><br>&bull; <a href="#">buy a corporate table of ten @ $2000</a><br>&bull; <a href="#">buy Patron tickets @ $200*</a></strong> 
 			</p>
 			<small><b>Heartrings is sponsored by</b></small> 
 			<p>
