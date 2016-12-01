@@ -19,7 +19,7 @@ Template Name: Page Concert4 Template
 		<div class="span7">
 			<h4>
 				<div>
-					Christmas from<br>Winnipeg to Ukraine 
+					VERY FEW TICKETS LEFT!<br>NO ONLINE SALES / CALL MCO TICKETLINE 204.783.7377
 				</div>
 			</h4>
 			<p>
@@ -39,7 +39,7 @@ Template Name: Page Concert4 Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Canzona will perform before the MCO concert starts, presenting a festive choral prelude concert featuring Baroque and other holiday a cappella classics; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> 
 				</p>
 			</div>
 			<p>
