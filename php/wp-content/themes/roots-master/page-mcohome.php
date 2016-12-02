@@ -17,7 +17,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				﻿VERY FEW TICKETS LEFT!<br>NO ONLINE SALES / CALL MCO TICKETLINE 204.783.7377
+				﻿<span style="color: #FF7F50">PLEASE NOTE:<br>THIS CONCERT HAS SOLD OUT!</span>
 			</h4>
 			<p>
 				A decade ago, Winnipegger <strong>Andriana Chuchman</strong> was a star voice student at the UofM. Now, she stars alongside the likes of Placido Domingo on the world&rsquo;s top opera stages. ﻿Chuchman will perform Mozart&rsquo;s <em>Exsultate Jubilate</em> and other seasonally-themed works—including an audience sing-along of <em>The Twelve Days of Christmas</em>! <strong>Mark Morash</strong>, Director of Musical Studies for the San Francisco Opera Center, joins us for the first time as a guest conductor. See details <a href="http://www.themco.ca/concert/morash-chuchman/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, <strike>click the links below</strike>.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="#"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="#"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="#"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
