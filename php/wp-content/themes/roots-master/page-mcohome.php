@@ -7,7 +7,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
   <div class="span8">
     <div class="covercontainer">
-      <a href="http://www.themco.ca/concert/frontier-fiddlers/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head14feb17covervid.jpg" alt="MCO / Stobbe, Frontier Fiddlers"></a>
+      <a href="http://www.themco.ca/concert/frontier-fiddlers/"><img src="http://www.themco.ca/wp-content/uploads/2016/12/head14feb17cover.jpg" alt="MCO / Stobbe, Frontier Fiddlers"></a>
       <div class="playbutton">
         <?php echo do_shortcode('[video_lightbox_youtube video_id="Q0e3uV69LWg" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
       </div>
