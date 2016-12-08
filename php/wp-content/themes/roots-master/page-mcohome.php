@@ -7,9 +7,9 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
   <div class="span8">
     <div class="covercontainer">
-      <a href="http://www.themco.ca/concert/morash-chuchman/"><img src="http://www.themco.ca/wp-content/uploads/2016/11/head07dec16cover.jpg" alt="MCO / Morash, Chuchman"></a>
+      <a href="http://www.themco.ca/concert/frontier-fiddlers/"><img src="http://www.themco.ca/wp-content/uploads/2016/10/head14feb17covervid.jpg" alt="MCO / Stobbe, Frontier Fiddlers"></a>
       <div class="playbutton">
-        <?php echo do_shortcode('[video_lightbox_youtube video_id="fDGtDhIDZAQ" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
+        <?php echo do_shortcode('[video_lightbox_youtube video_id="Q0e3uV69LWg" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
       </div>
     </div>
   </div>
@@ -17,10 +17,10 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				﻿<span style="color: #FF7F50">PLEASE NOTE:<br>THIS CONCERT HAS SOLD OUT!</span>
+				﻿Frontier Fiddlers&thinsp;&mdash;&thinsp;Red River Reverie
 			</h4>
 			<p>
-				A decade ago, Winnipegger <strong>Andriana Chuchman</strong> was a star voice student at the UofM. Now, she stars alongside the likes of Placido Domingo on the world&rsquo;s top opera stages. ﻿Chuchman will perform Mozart&rsquo;s <em>Exsultate Jubilate</em> and other seasonally-themed works—including an audience sing-along of <em>The Twelve Days of Christmas</em>! <strong>Mark Morash</strong>, Director of Musical Studies for the San Francisco Opera Center, joins us for the first time as a guest conductor. See details <a href="http://www.themco.ca/concert/morash-chuchman/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, <strike>click the links below</strike>.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="#"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="#"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="#"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
+				How lucky we are to welcome back the Frontier Fiddlers! Made up of students in the Frontier School Division, the group represents <i>la cr&egrave;me de la cr&egrave;me</i> of young fiddle players in the province. They&rsquo;ll treat us to a spectacular medley of Red River jigs and traditional folk music. The Frontier Fiddlers and the orchestra will also together perform a new work by favourite Winnipeg composer Jim Hiscott. Matinee tickets and further details <a href="http://www.themco.ca/concert/frontier-fiddlers/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two to the evening concert, <strike>click the links below</strike>.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=9f2d0c6ce9e4485884d98d0f993fe03c"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=f6ed94335d8347a7954f2ba5f5fa7730"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=a0f06eb73e3c426da3282c9ff488eff8"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
