@@ -6,7 +6,7 @@ Template Name: Page Concert9 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2016/09/head08jun17.jpg" width="770" height="455" alt="Nanabush and the Drum"> 
+			[video_lightbox_youtube video_id="AAaG3Hmea5E" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/12/head08jun17vid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>
@@ -26,13 +26,10 @@ Template Name: Page Concert9 Template
 				<b>Note: ticket links on this page are for the June 8th performances. <a href="http://www.themco.ca/concert/nanabozho-7-june-2016/">June 7th concerts here.</a></b> 
 			</p>
 			<p>
-				Do you know Nanabush? He&rsquo;s the trickster figure of Anishnaabe mythology, a wry cultural hero who, according to legend, is responsible for dogs&rsquo; proclivity to sniff one another&rsquo;s tails and for rescuing the forest from Paul Bunyan. 
+				The trickster is jealous. He&rsquo;s fallen for the daughter of a powerful chief. Unfortunately for him, another man has laid claim to her heart: a coureur de bois, a little on the na&iuml;ve side to boot! What&rsquo;s a poor trickster to do but send his rival packing with a series of ploys that leave the outsider battered and bruised? The young woman, though, is far stronger, sager and more resourceful that anyone could have imagined&hellip; 
 			</p>
 			<p>
-				In <i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i> he is envisioned as a central figure in the foundation of the M&eacute;tis. Nanabush (known to Francophones as Nanabozho) sets up playful obstacles for a French voyageur attempting to navigate the land and woo his more savvy Indigenous love interest. 
-			</p>
-			<p>
-				The production is unique among MCO collaborations, an immersive new work of art which brings together a group of celebrated artists: Th&eacute;&acirc;tre Cercle Moli&egrave;re, writer Rh&eacute;al Cenerini and composer Michael Oesterle. In the tradition of Stravinsky&rsquo;s <i>A Soldier&rsquo;s Tale</i>, <i>Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum</i> is an enchanting piece of theatre that merges classical music and folk legends. 
+				The production is unique among MCO collaborations, an immersive new work of art that brings together a group of celebrated artists: Th&eacute;&acirc;tre Cercle Moli&egrave;re, writer Rh&eacute;al Cenerini and composer Michael Oesterle. In the tradition of Stravinsky&rsquo;s A Soldier&rsquo;s Tale, Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum is an enchanting piece of theatre that merges music, myth, and poetry. 
 			</p>
 			<p>
 				While celebrating Canada&rsquo;s 150th birthday, the piece illuminates the diversity of our heritage. The work is bilingual, but accessible to Anglophones and Francophones equally, and appropriate for all ages. Matinee performances for school groups will take place both days. 
