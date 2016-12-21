@@ -8,7 +8,7 @@ Template Name: Page Programs Template
 
   <div class="row">
     <div class="span8">
-      <img src="http://www.themco.ca/wp-content/uploads/2016/02/e-o1516head.jpg" alt="" width="770" height="455">
+      <img src="http://www.themco.ca/wp-content/uploads/2016/12/e-o1617.jpg" alt="" width="770" height="455">
     </div>
     <div class="span2">
       <p>.</p>
