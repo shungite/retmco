@@ -25,9 +25,8 @@ Template Name: Page Media Template
       <div class="tab-pane fade in active" id="video">
         <div class="well">
 
-          <p><strong>Upcoming concerts video playlist<br>from the Official MCO YouTube Channel</strong></p>
-          <iframe width="80%" height="360" src="//www.youtube.com/embed/3f7k9PZg7Sg?list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" frameborder="0" allowfullscreen></iframe>
-          <p><a href="https://www.youtube.com/playlist?list=PLrh6cFljbZhEXjcvsfi69-KIfk3r1JkCA" target="_blank"><small>Go to playlist</small></a></p>
+          <p><strong>Complete! Vivaldi&rsquo;s lively RV443<br>performed by Dutch recorder star Lucie Horsch</strong></p>
+          <iframe width="80%" height="360" src="//www.youtube.com/embed/_knOUxSQhcNQ" frameborder="0" allowfullscreen></iframe>
 
           <p><strong>Complete! Mozart&rsquo;s 40th Symphony<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/_22L-N6w_Mw" frameborder="0" allowfullscreen></iframe>
