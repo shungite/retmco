@@ -25,7 +25,7 @@ Template Name: Page Media Template
       <div class="tab-pane fade in active" id="video">
         <div class="well">
 
-          <p><strong>Complete! Vivaldi&rsquo;s lively RV443<br>performed by Dutch recorder star Lucie Horsch</strong></p>
+          <p><strong>Complete! Vivaldi&rsquo;s lively RV&thinsp;443<br>performed by Dutch recorder star Lucie Horsch</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/knOUxSQhcNQ" frameborder="0" allowfullscreen></iframe>
 
           <p><strong>Complete! Mozart&rsquo;s 40th Symphony<br>from the Official MCO YouTube Channel</strong></p>
