@@ -1,91 +1,101 @@
 <?php
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
 
-/* youtube widget */
+/* YouTube Channel Widget */
 class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 
 	public function __construct() {
-		global $WPAU_YOUTUBE_CHANNEL;
+
+		global $wpau_youtube_channel;
+
 		// Initialize Widget
 		parent::__construct(
-			$WPAU_YOUTUBE_CHANNEL->plugin_slug,
+			$wpau_youtube_channel->plugin_slug,
 			__( 'YouTube Channel' , 'youtube-channel' ),
 			array(
 				'description' => __(
 					'Serve YouTube videos from channel or playlist right to widget area',
 					'youtube-channel'
 				),
+				'customize_selective_refresh' => true,
 			)
 		);
-	}
 
-	public function widget($args, $instance) {
-		global $WPAU_YOUTUBE_CHANNEL;
-		// outputs the content of the widget
-		extract( $args );
+	} // END function __construct()
 
-		$title = ( ! empty( $instance['title'] ) ) ? apply_filters( 'widget_title', $instance['title'] ) : '';
+	// Outputs the content of the widget
+	public function widget( $args, $instance ) {
 
-		$output = array();
-		$output[] = $before_widget;
-		if ( $title ) {
-			$output[] = $before_title . $title . $after_title;
+		global $wpau_youtube_channel;
+
+		$output = $args['before_widget'];
+		if ( ! empty( $instance['title'] ) ) {
+			$output .= $args['before_title'];
+			$output .= apply_filters( 'widget_title', $instance['title'] );
+			$output .= $args['after_title'];
 		}
-		$output[] = implode( $WPAU_YOUTUBE_CHANNEL->output( $instance ) );
-		$output[] = $after_widget;
+		$output .= $wpau_youtube_channel->output( $instance );
+		$output .= $args['after_widget'];
 
-		echo implode( '', array_values( $output ) );
-	}
+		echo $output;
 
-	public function form($instance) {
-		global $WPAU_YOUTUBE_CHANNEL;
+	} // END public function widget()
+
+	public function form( $instance ) {
+		global $wpau_youtube_channel;
+
 		$defaults = get_option( 'youtube_channel_defaults' );
 
-		// outputs the options form for widget settings
+		// Outputs the options form for widget settings
+
 		// General Options
-		$title          = ( ! empty( $instance['title'] ) ) ? esc_attr( $instance['title'] ) : '';
-		$class          = ( ! empty( $instance['class'] ) ) ? esc_attr( $instance['class'] ) : '';
-		$vanity         = ( ! empty( $instance['vanity'] ) ) ? esc_attr( $instance['vanity'] ) : '';
-		$channel        = ( ! empty( $instance['channel'] ) ) ? esc_attr( $instance['channel'] ) : '';
-		$username       = ( ! empty( $instance['username'] ) ) ? esc_attr( $instance['username'] ) : '';
-		$playlist       = ( ! empty( $instance['playlist'] ) ) ? esc_attr( $instance['playlist'] ) : '';
+		$title          = ! empty( $instance['title'] ) ? esc_attr( $instance['title'] ) : '';
+		$class          = ! empty( $instance['class'] ) ? esc_attr( $instance['class'] ) : '';
+		$vanity         = ! empty( $instance['vanity'] ) ? esc_attr( $instance['vanity'] ) : '';
+		$channel        = ! empty( $instance['channel'] ) ? esc_attr( $instance['channel'] ) : '';
+		$username       = ! empty( $instance['username'] ) ? esc_attr( $instance['username'] ) : '';
+		$playlist       = ! empty( $instance['playlist'] ) ? esc_attr( $instance['playlist'] ) : '';
 
-		$resource       = ( ! empty( $instance['resource'] ) ) ? esc_attr( $instance['resource'] ) : 0; // resource to use: channel, favorites, playlist
+		$resource       = isset( $instance['resource'] ) ? intval( $instance['resource'] ) : intval( $defaults['resource'] ); // resource to use: channel, favorites, playlist
 
-		$cache          = ( ! empty( $instance['cache'] ) ) ? esc_attr( $instance['cache'] ) : trim( $defaults['cache'] );
+		$cache          = isset( $instance['cache'] ) ? intval( $instance['cache'] ) : intval( $defaults['cache'] );
 
-		$fetch          = ( ! empty( $instance['fetch'] ) ) ? esc_attr( $instance['fetch'] ) : trim( $defaults['fetch'] ); // items to fetch
-		$num            = ( ! empty( $instance['num'] ) ) ? esc_attr( $instance['num'] ) : trim( $defaults['num'] ); // number of items to show
+		$fetch          = ! empty( $instance['fetch'] ) ? intval( $instance['fetch'] ) : intval( $defaults['fetch'] ); // items to fetch
+		$num            = ! empty( $instance['num'] ) ? intval( $instance['num'] ) : intval( $defaults['num'] ); // number of items to show
 
-		$privacy        = ( ! empty( $instance['privacy'] ) ) ? esc_attr( $instance['privacy'] ) : 0;
-		$random         = ( ! empty( $instance['random'] ) ) ? esc_attr( $instance['random'] ) : 0;
+		$privacy        = ! empty( $instance['privacy'] ) ? esc_attr( $instance['privacy'] ) : 0;
+		$random         = ! empty( $instance['random'] ) ? esc_attr( $instance['random'] ) : 0;
 
 		// Video Settings
-		$ratio          = ( ! empty( $instance['ratio'] ) ) ? esc_attr( $instance['ratio'] ) : trim( $defaults['ratio'] );
-		$width          = ( ! empty( $instance['width'] ) ) ? esc_attr( $instance['width'] ) : trim( $defaults['width'] );
-		$responsive     = ( isset( $instance['responsive'] ) ) ? esc_attr( $instance['responsive'] ) : 1;
+		$ratio          = ! empty( $instance['ratio'] ) ? esc_attr( $instance['ratio'] ) : trim( $defaults['ratio'] );
+		$width          = ! empty( $instance['width'] ) ? esc_attr( $instance['width'] ) : trim( $defaults['width'] );
+		$responsive     = isset( $instance['responsive'] ) ? esc_attr( $instance['responsive'] ) : 1;
 
-		$display        = ( ! empty( $instance['display'] ) ) ? esc_attr( $instance['display'] ) : trim( $defaults['display'] );
-		$no_thumb_title = ( ! empty( $instance['no_thumb_title'] ) ) ? esc_attr( $instance['no_thumb_title'] ) : 0;
+		$display        = ! empty( $instance['display'] ) ? esc_attr( $instance['display'] ) : trim( $defaults['display'] );
+		$no_thumb_title = ! empty( $instance['no_thumb_title'] ) ? esc_attr( $instance['no_thumb_title'] ) : 0;
 
-		$themelight     = ( ! empty( $instance['themelight'] ) ) ? esc_attr( $instance['themelight'] ) : '';
-		$controls       = ( ! empty( $instance['controls'] ) ) ? esc_attr( $instance['controls'] ) : '';
-		$autoplay       = ( ! empty( $instance['autoplay'] ) ) ? esc_attr( $instance['autoplay'] ) : '';
-		$autoplay_mute  = ( ! empty( $instance['autoplay_mute'] ) ) ? esc_attr( $instance['autoplay_mute'] ) : '';
-		$norel          = ( ! empty( $instance['norel'] ) ) ? esc_attr( $instance['norel'] ) : '';
+		$themelight     = ! empty( $instance['themelight'] ) ? esc_attr( $instance['themelight'] ) : '';
+		$controls       = ! empty( $instance['controls'] ) ? esc_attr( $instance['controls'] ) : '';
+		$autoplay       = ! empty( $instance['autoplay'] ) ? esc_attr( $instance['autoplay'] ) : '';
+		$autoplay_mute  = ! empty( $instance['autoplay_mute'] ) ? esc_attr( $instance['autoplay_mute'] ) : '';
+		$norel          = ! empty( $instance['norel'] ) ? esc_attr( $instance['norel'] ) : '';
 
 		// Content Layout
-		$showtitle      = ( ! empty( $instance['showtitle'] ) ) ? esc_attr( $instance['showtitle'] ) : 'none';
-		$showdesc       = ( ! empty( $instance['showdesc'] ) ) ? esc_attr( $instance['showdesc'] ) : '';
-		$modestbranding = ( ! empty( $instance['modestbranding'] ) ) ? esc_attr( $instance['modestbranding'] ) : '';
-		$desclen        = ( ! empty( $instance['desclen'] ) ) ? esc_attr( $instance['desclen'] ) : 0;
+		$showtitle      = ! empty( $instance['showtitle'] ) ? esc_attr( $instance['showtitle'] ) : 'none';
+		$showdesc       = ! empty( $instance['showdesc'] ) ? esc_attr( $instance['showdesc'] ) : '';
+		$modestbranding = ! empty( $instance['modestbranding'] ) ? esc_attr( $instance['modestbranding'] ) : '';
+		$desclen        = ! empty( $instance['desclen'] ) ? esc_attr( $instance['desclen'] ) : 0;
 
-		$hideanno       = ( ! empty( $instance['hideanno'] ) ) ? esc_attr( $instance['hideanno'] ) : '';
-		$hideinfo       = ( ! empty( $instance['hideinfo'] ) ) ? esc_attr( $instance['hideinfo'] ) : '';
+		$hideanno       = ! empty( $instance['hideanno'] ) ? esc_attr( $instance['hideanno'] ) : '';
+		$hideinfo       = ! empty( $instance['hideinfo'] ) ? esc_attr( $instance['hideinfo'] ) : '';
 
 		// Link to Channel
-		$link_to        = ( ! empty( $instance['link_to'] ) ) ? esc_attr( $instance['link_to'] ) : 'none';
-		$goto_txt       = ( ! empty( $instance['goto_txt'] ) ) ? esc_attr( $instance['goto_txt'] ) : '';
-		$popup_goto     = ( ! empty( $instance['popup_goto'] ) ) ? esc_attr( $instance['popup_goto'] ) : '';
+		$link_to        = ! empty( $instance['link_to'] ) ? esc_attr( $instance['link_to'] ) : 'none';
+		$goto_txt       = ! empty( $instance['goto_txt'] ) ? esc_attr( $instance['goto_txt'] ) : '';
+		$popup_goto     = isset( $instance['popup_goto'] ) ? intval( $instance['popup_goto'] ) : $defaults['popup_goto'];
 		?>
 
 		<p>
@@ -98,7 +108,8 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 			<input type="text" class="widefat" id="<?php echo $this->get_field_id( 'class' ); ?>" name="<?php echo $this->get_field_name( 'class' ); ?>" value="<?php echo $class; ?>" title="<?php _e( 'Enter custom class for YTC block, if you wish to target block styling', 'youtube-channel' ); ?>" />
 			</label>
 		</p>
-		<p><?php
+		<p>
+		<?php
 		printf(
 			wp_kses(
 				__(
@@ -111,7 +122,8 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 			__( 'Custom ID', 'youtube-channel' ),
 			'https://www.youtube.com/account_advanced'
 		);
-		?></p>
+		?>
+		</p>
 		<p class="half left glue-top">
 			<label for="<?php echo $this->get_field_id( 'vanity' ); ?>"><?php _e( 'Vanity/Custom ID', 'youtube-channel' ); ?>
 			<input type="text" class="widefat" id="<?php echo $this->get_field_id( 'vanity' ); ?>" name="<?php echo $this->get_field_name( 'vanity' ); ?>" value="<?php echo $vanity; ?>" title="<?php _e( 'YouTube Vanity/Custom ID from URL (part after /c/)', 'youtube-channel' ); ?>" />
@@ -146,7 +158,7 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 			<label for="<?php echo $this->get_field_id( 'cache' ); ?>"><?php _e( 'Cache feed', 'youtube-channel' ); ?>
 				<select class="widefat" id="<?php echo $this->get_field_id( 'cache' ); ?>" name="<?php echo $this->get_field_name( 'cache' ); ?>">
 					<option value="0"<?php selected( $cache, 0 ); ?>><?php _e( 'Do not cache', 'youtube-channel' ); ?></option>
-					<?php echo $WPAU_YOUTUBE_CHANNEL->cache_time( $cache ); ?>
+					<?php echo $wpau_youtube_channel->cache_time( $cache ); ?>
 				</select>
 			</label>
 		</p>
@@ -157,7 +169,7 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 			<label for="<?php echo $this->get_field_id( 'num' ); ?>"><?php _e( 'Show', 'youtube-channel' ); ?></label> <input class="small-text" id="<?php echo $this->get_field_id( 'num' ); ?>" name="<?php echo $this->get_field_name( 'num' ); ?>" type="number" min="1" value="<?php echo ( $num ) ? $num : '1'; ?>" title="<?php _e( 'Number of videos to display', 'youtube-channel' ); ?>" /> <?php _e( 'video(s)', 'youtube-channel' ); ?>
 		</p>
 		<p>
-			<input class="checkbox" type="checkbox" <?php checked( (bool) $privacy, true ); ?> id="<?php echo $this->get_field_id( 'privacy' ); ?>" name="<?php echo $this->get_field_name( 'privacy' ); ?>" title="<?php _e( 'Enable this option to protect your visitors privacy', 'youtube-channel' ); ?>" /> <label for="<?php echo $this->get_field_id( 'privacy' ); ?>"><?php printf( __( 'Enable <a href="%s" target="_blank">privacy-enhanced mode</a>', 'youtube-channel' ), 'http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780' ); ?></label>
+			<input class="checkbox" type="checkbox" <?php checked( (bool) $privacy, true ); ?> id="<?php echo $this->get_field_id( 'privacy' ); ?>" name="<?php echo $this->get_field_name( 'privacy' ); ?>" title="<?php _e( 'Enable this option to protect your visitors privacy', 'youtube-channel' ); ?>" /> <label for="<?php echo $this->get_field_id( 'privacy' ); ?>"><?php printf( __( 'Enable <a href="%s" target="_blank">privacy-enhanced mode</a>', 'youtube-channel' ), 'https://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780' ); ?></label>
 			<br />
 			<input class="checkbox" type="checkbox" <?php checked( (bool) $random, true ); ?> id="<?php echo $this->get_field_id( 'random' ); ?>" name="<?php echo $this->get_field_name( 'random' ); ?>" title="<?php _e( 'Get random videos of all fetched from channel or playlist', 'youtube-channel' ); ?>" /> <label for="<?php echo $this->get_field_id( 'random' ); ?>"><?php _e( 'Show random video from resource <small>(Have no effect if "What to show?" has been set to "Embedded Playlist")</small>', 'youtube-channel' ); ?></label>
 		</p>
@@ -218,7 +230,7 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 
 		<h4><?php _e( 'Link to Channel', 'youtube-channel' ); ?></h4>
 		<p class="glue-top">
-			<input class="widefat" id="<?php echo $this->get_field_id( 'goto_txt' ); ?>" name="<?php echo $this->get_field_name( 'goto_txt' ); ?>" type="text" value="<?php echo $goto_txt; ?>" title="<?php _e( 'Default: Visit our YouTube channel. You can use placeholders %vanity%, %channel% and %username%.', 'youtube-channel' ); ?>" placeholder="<?php _e( 'Visit our YouTube channel', 'youtube-channel' ); ?>" />
+			<input class="widefat" id="<?php echo $this->get_field_id( 'goto_txt' ); ?>" name="<?php echo $this->get_field_name( 'goto_txt' ); ?>" type="text" value="<?php echo $goto_txt; ?>" title="<?php sprintf( __( 'Default: Visit our YouTube channel. You can use placeholders %1$s, %2$s and %3$s.', 'youtube-channel' ), '%vanity%', '%channel%', '%username%' ); ?>" placeholder="<?php _e( 'Visit our YouTube channel', 'youtube-channel' ); ?>" />
 		</p>
 		<p class="half left glue-top">
 			<select class="widefat" id="<?php echo $this->get_field_id( 'link_to' ); ?>" name="<?php echo $this->get_field_name( 'link_to' ); ?>">
@@ -238,7 +250,8 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 
 		<h4><?php _e( 'Does not work?', 'youtube-channel' ); ?></h4>
 		<p>
-			<small><?php
+			<small>
+			<?php
 			printf(
 				wp_kses(
 					__(
@@ -250,15 +263,17 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 				'https://wordpress.org/plugins/youtube-channel/faq/',
 				__( 'FAQ', 'youtube-channel' ),
 				"?ytc_debug_json_for={$this->number}",
-				'http://wordpress.org/support/plugin/youtube-channel',
+				'https://wordpress.org/support/plugin/youtube-channel',
 				'https://wordpress.org/support/topic/ytc3-read-before-you-post-support-question-or-report-bug'
-			); ?></small>
+			); ?>
+			</small>
 		</p>
 
-<?php
-	}
+		<?php
+	} // END public function form()
 
-	public function update($new_instance, $old_instance) {
+	public function update( $new_instance, $old_instance ) {
+
 		// processes widget options to be saved
 		$instance                   = $old_instance;
 		$instance['title']          = strip_tags( $new_instance['title'] );
@@ -270,40 +285,40 @@ class WPAU_YOUTUBE_CHANNEL_Widget extends WP_Widget {
 		$instance['num']            = $new_instance['num'];
 		$instance['resource']       = $new_instance['resource'];
 		$instance['cache']          = $new_instance['cache'];
-		$instance['random']         = ( isset( $new_instance['random'] ) ) ? $new_instance['random'] : false;
+		$instance['random']         = isset( $new_instance['random'] ) ? $new_instance['random'] : false;
 		$instance['fetch']          = $new_instance['fetch'];
 
 		$instance['goto_txt']       = strip_tags( $new_instance['goto_txt'] );
 		$instance['popup_goto']     = $new_instance['popup_goto'];
 		$instance['link_to']        = $new_instance['link_to'];
 
-		$instance['showtitle']      = ( isset( $new_instance['showtitle'] ) ) ? $new_instance['showtitle'] : 'none';
-		$instance['showdesc']       = ( isset( $new_instance['showdesc'] ) ) ? $new_instance['showdesc'] : false;
+		$instance['showtitle']      = isset( $new_instance['showtitle'] ) ? $new_instance['showtitle'] : 'none';
+		$instance['showdesc']       = isset( $new_instance['showdesc'] ) ? $new_instance['showdesc'] : false;
 		$instance['desclen']        = strip_tags( $new_instance['desclen'] );
 		$instance['width']          = strip_tags( $new_instance['width'] );
-		$instance['responsive']     = ( isset( $new_instance['responsive'] ) ) ? $new_instance['responsive'] : '';
+		$instance['responsive']     = isset( $new_instance['responsive'] ) ? $new_instance['responsive'] : '';
 
 		$instance['display']        = strip_tags( $new_instance['display'] );
-		$instance['no_thumb_title'] = ( isset( $new_instance['no_thumb_title'] ) ) ? $new_instance['no_thumb_title'] : false;
-		$instance['autoplay']       = ( isset( $new_instance['autoplay'] ) ) ? $new_instance['autoplay'] : false;
-		$instance['autoplay_mute']  = ( isset( $new_instance['autoplay_mute'] ) ) ? $new_instance['autoplay_mute'] : false;
-		$instance['norel']          = ( isset( $new_instance['norel'] ) ) ? $new_instance['norel'] : false;
-		$instance['modestbranding'] = ( isset( $new_instance['modestbranding'] ) ) ? $new_instance['modestbranding'] : false;
+		$instance['no_thumb_title'] = isset( $new_instance['no_thumb_title'] ) ? $new_instance['no_thumb_title'] : false;
+		$instance['autoplay']       = isset( $new_instance['autoplay'] ) ? $new_instance['autoplay'] : false;
+		$instance['autoplay_mute']  = isset( $new_instance['autoplay_mute'] ) ? $new_instance['autoplay_mute'] : false;
+		$instance['norel']          = isset( $new_instance['norel'] ) ? $new_instance['norel'] : false;
+		$instance['modestbranding'] = isset( $new_instance['modestbranding'] ) ? $new_instance['modestbranding'] : false;
 
-		$instance['controls']       = ( isset( $new_instance['controls'] ) ) ? $new_instance['controls'] : false;
 		$instance['ratio']          = strip_tags( $new_instance['ratio'] );
-		$instance['hideinfo']       = ( isset( $new_instance['hideinfo'] ) ) ? $new_instance['hideinfo'] : '';
-		$instance['hideanno']       = ( isset( $new_instance['hideanno'] ) ) ? $new_instance['hideanno'] : '';
-		$instance['themelight']     = ( isset( $new_instance['themelight'] ) ) ? $new_instance['themelight'] : '';
-		$instance['privacy']        = ( isset( $new_instance['privacy'] ) ) ? $new_instance['privacy'] : '';
+		$instance['controls']       = isset( $new_instance['controls'] ) ? $new_instance['controls'] : false;
+		$instance['hideinfo']       = isset( $new_instance['hideinfo'] ) ? $new_instance['hideinfo'] : '';
+		$instance['hideanno']       = isset( $new_instance['hideanno'] ) ? $new_instance['hideanno'] : '';
+		$instance['themelight']     = isset( $new_instance['themelight'] ) ? $new_instance['themelight'] : '';
+		$instance['privacy']        = isset( $new_instance['privacy'] ) ? $new_instance['privacy'] : '';
 
 		return $instance;
-	}
 
-} // end class WPAU_YOUTUBE_CHANNEL_Widget()
+	} // END public function update()
 
+} // END class WPAU_YOUTUBE_CHANNEL_Widget()
 
-// register Foo_Widget widget
+// Register WPAU_YOUTUBE_CHANNEL_Widget widget
 function wpau_register_youtube_channel_widget() {
 	register_widget( 'WPAU_YOUTUBE_CHANNEL_Widget' );
 }

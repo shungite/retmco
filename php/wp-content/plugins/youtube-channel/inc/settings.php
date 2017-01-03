@@ -1,5 +1,10 @@
 <?php
 
+// exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
 if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 
 	class WPAU_YOUTUBE_CHANNEL_SETTINGS {
@@ -13,11 +18,11 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 		 */
 		public function __construct() {
 
-			global $WPAU_YOUTUBE_CHANNEL;
+			global $wpau_youtube_channel;
 
 			// get default values
-			$this->slug = $WPAU_YOUTUBE_CHANNEL->plugin_slug;
-			$this->option_name = $WPAU_YOUTUBE_CHANNEL->plugin_option;
+			$this->slug = $wpau_youtube_channel->plugin_slug;
+			$this->option_name = $wpau_youtube_channel->plugin_option;
 			$this->defaults = get_option( $this->option_name );
 
 			// register actions
@@ -30,6 +35,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 		 * hook into WP's register_settings action hook
 		 */
 		public function register_settings() {
+			global $wpau_youtube_channel;
 
 			// =========================== General ===========================
 			// --- Add settings section General so we can add fields to it ---
@@ -103,7 +109,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 						)
 					),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['channel'],
+					'value'       => isset( $this->defaults['channel'] ) ? $this->defaults['channel'] : '',
 				) // args
 			);
 			// Vanity
@@ -137,7 +143,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 						)
 					),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['vanity'],
+					'value'       => isset( $this->defaults['vanity'] ) ? $this->defaults['vanity'] : '',
 				) // args
 			);
 			// Username
@@ -155,7 +161,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 						__( 'Your YouTube legacy username', 'youtube-channel' )
 					),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['username'],
+					'value'       => isset( $this->defaults['username'] ) ? $this->defaults['username'] : '',
 				) // args
 			);
 			// Default Playlist
@@ -173,7 +179,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 						__( 'Enter default playlist ID (not playlist name)', 'youtube-channel' )
 					),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['playlist'],
+					'value'       => isset( $this->defaults['playlist'] ) ? $this->defaults['playlist'] : '',
 				) // args
 			);
 			// Resource
@@ -188,7 +194,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'label' => __( 'Resource:', 'youtube-channel' ),
 					'description' => __( 'What to use as resource for feeds', 'youtube-channel' ),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['resource'],
+					'value'       => isset( $this->defaults['resource'] ) ? $this->defaults['resource'] : '0',
 					'items'       => array(
 						'0' => __( 'Channel', 'youtube-channel' ),
 						'1' => __( 'Favourites', 'youtube-channel' ),
@@ -208,30 +214,8 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[cache]',
 					'description' => __( 'Define caching timeout for YouTube feeds, in seconds', 'youtube-channel' ),
 					'class'       => 'wide-text',
-					'value'       => $this->defaults['cache'],
-					'items'       => array(
-						'0'       => __( 'Do not chache', 'youtube-channel' ),
-						'60'      => __( '1 minute', 'youtube-channel' ),
-						'300'     => __( '5 minutes', 'youtube-channel' ),
-						'900'     => __( '15 minutes', 'youtube-channel' ),
-						'1800'    => __( '30 minutes', 'youtube-channel' ),
-						'3600'    => __( '1 hour', 'youtube-channel' ),
-						'7200'    => __( '2 hours', 'youtube-channel' ),
-						'18000'   => __( '5 hours', 'youtube-channel' ),
-						'36000'   => __( '10 hours', 'youtube-channel' ),
-						'43200'   => __( '12 hours', 'youtube-channel' ),
-						'64800'   => __( '18 hours', 'youtube-channel' ),
-						'86400'   => __( '1 day', 'youtube-channel' ),
-						'172800'  => __( '2 days', 'youtube-channel' ),
-						'259200'  => __( '3 days', 'youtube-channel' ),
-						'345600'  => __( '4 days', 'youtube-channel' ),
-						'432000'  => __( '5 days', 'youtube-channel' ),
-						'518400'  => __( '6 days', 'youtube-channel' ),
-						'604800'  => __( '1 week', 'youtube-channel' ),
-						'1209600' => __( '2 weeks', 'youtube-channel' ),
-						'1814400' => __( '3 weeks', 'youtube-channel' ),
-						'2419200' => __( '1 month', 'youtube-channel' ),
-					),
+					'value'       => isset( $this->defaults['cache'] ) ? $this->defaults['cache'] : '300',
+					'items'       => $wpau_youtube_channel::cache_times_arr(),
 				)
 			);
 			// Fetch
@@ -245,7 +229,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[fetch]',
 					'description' => __( 'Number of videos that will be used for random pick (min 2, max 50, default 25)', 'youtube-channel' ),
 					'class'       => 'num',
-					'value'       => $this->defaults['fetch'],
+					'value'       => isset( $this->defaults['fetch'] ) ? $this->defaults['fetch'] : '25',
 					'min'         => 1,
 					'max'         => 50,
 					'std'         => 25,
@@ -262,7 +246,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[num]',
 					'description' => __( 'Number of videos to display', 'youtube-channel' ),
 					'class'       => 'num',
-					'value'       => $this->defaults['num'],
+					'value'       => isset( $this->defaults['num'] ) ? $this->defaults['num'] : '1',
 					'min'         => 1,
 					'max'         => 50,
 					'std'         => 1,
@@ -290,11 +274,11 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 								),
 							)
 						),
-						esc_url( 'http://support.google.com/youtube/bin/answer.py?hl=en-GB&answer=171780' ),
+						esc_url( 'https://support.google.com/youtube/answer/171780' ),
 						__( 'Learn more here', 'youtube-channel' )
 					),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['privacy'],
+					'value'       => isset( $this->defaults['privacy'] ) ? $this->defaults['privacy'] : '0',
 				) // args
 			);
 			// TinyMCE icon
@@ -311,7 +295,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 						__( 'YouTube Channel', 'youtube-channel' )
 					),
 					'class'       => 'checkbox',
-					'value'       => isset( $this->defaults['tinymce'] ) ? $this->defaults['tinymce'] : false,
+					'value'       => isset( $this->defaults['tinymce'] ) ? $this->defaults['tinymce'] : '0',
 				) // args
 			);
 			// --- Register setting General so $_POST handling is done ---
@@ -341,7 +325,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[width]',
 					'description' => __( 'Set default width for displayed video, in pixels', 'youtube-channel' ),
 					'class'       => 'num',
-					'value'       => $this->defaults['width'],
+					'value'       => isset( $this->defaults['width'] ) ? $this->defaults['width'] : '306',
 					'min'         => 120,
 					'max'         => 1980,
 					'std'         => 306,
@@ -358,7 +342,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[ratio]',
 					'description' => __( 'Select aspect ratio for displayed video', 'youtube-channel' ),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['ratio'],
+					'value'       => isset( $this->defaults['ratio'] ) ? $this->defaults['ratio'] : '3',
 					'items'       => array(
 						'3' => '16:9',
 						'1' => '4:3',
@@ -376,7 +360,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[display]',
 					'description' => __( 'Choose how to embed video block', 'youtube-channel' ),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['display'],
+					'value'       => isset( $this->defaults['display'] ) ? $this->defaults['display'] : 'thumbnail',
 					'items'       => array(
 						'thumbnail' => __( 'Thumbnail', 'youtube-channel' ),
 						'iframe'    => __( 'HTML5 (iframe)', 'youtube-channel' ),
@@ -397,7 +381,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[responsive]',
 					'description' => __( 'Enable this option to make YTC videos and thumbnails responsive by default. Please note, this option will set videos and thumbnail to full width relative to parent container, and disable more than one video per row.', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['responsive'],
+					'value'       => isset( $this->defaults['responsive'] ) ? $this->defaults['responsive'] : '0',
 				) // args
 			);
 
@@ -427,7 +411,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 						__( 'Learn more here', 'youtube-channel' )
 					),
 					'class'       => 'checkbox',
-					'value'       => ( isset( $this->defaults['playsinline'] ) ) ? $this->defaults['playsinline'] : '',
+					'value'       => isset( $this->defaults['playsinline'] ) ? $this->defaults['playsinline'] : '0',
 				) // args
 			);
 			// No Lightbox
@@ -441,7 +425,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[nolightbox]',
 					'description' => __( 'Enable this option to disable built-in lightbox for thumbnails (in case that you have youtube links lightbox trigger in theme or other plugin).', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => ( isset( $this->defaults['nolightbox'] ) ) ? $this->defaults['nolightbox'] : '',
+					'value'       => isset( $this->defaults['nolightbox'] ) ? $this->defaults['nolightbox'] : '0',
 				) // args
 			);
 			// Full Screen
@@ -455,7 +439,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[fullscreen]',
 					'description' => __( 'Enable this option to make available Full Screen button for embedded playlists.', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => isset( $this->defaults['fullscreen'] ) ? $this->defaults['fullscreen'] : false,
+					'value'       => isset( $this->defaults['fullscreen'] ) ? $this->defaults['fullscreen'] : '0',
 				) // args
 			);
 
@@ -470,7 +454,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[themelight]',
 					'description' => __( 'Enable this option to use light theme for playback controls instead dark.', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['themelight'],
+					'value'       => isset( $this->defaults['themelight'] ) ? $this->defaults['themelight'] : '0',
 				) // args
 			);
 			// No Player Controls
@@ -484,7 +468,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[controls]',
 					'description' => __( 'Enable this option to hide playback controls', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['controls'],
+					'value'       => isset( $this->defaults['controls'] ) ? $this->defaults['controls'] : '0',
 				) // args
 			);
 			// Fix Height (deprecated?)
@@ -499,7 +483,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[autoplay]',
 					'description' => __( 'Enable this option to start video playback right after block is rendered', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['autoplay'],
+					'value'       => isset( $this->defaults['autoplay'] ) ? $this->defaults['autoplay'] : '0',
 				) // args
 			);
 			// Mute on autoplay
@@ -513,7 +497,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[autoplay_mute]',
 					'description' => __( 'Enable this option to mute video when start autoplay', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['autoplay_mute'],
+					'value'       => isset( $this->defaults['autoplay_mute'] ) ? $this->defaults['autoplay_mute'] : '0',
 				) // args
 			);
 			// No related videos
@@ -527,7 +511,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[norel]',
 					'description' => __( 'Enable this option to hide related videos after finished playback', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['norel'],
+					'value'       => isset( $this->defaults['norel'] ) ? $this->defaults['norel'] : '0',
 				) // args
 			);
 			// Hide YT logo
@@ -541,7 +525,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[modestbranding]',
 					'description' => __( 'Enable this option to hide YouTube logo from playback control bar. Does not work for all videos.', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['modestbranding'],
+					'value'       => isset( $this->defaults['modestbranding'] ) ? $this->defaults['modestbranding'] : '0',
 				) // args
 			);
 			// Hide Annotations
@@ -555,7 +539,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[hideanno]',
 					'description' => __( 'Enable this option to hide video annotations (custom text set by uploader over video during playback)', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['hideanno'],
+					'value'       => isset( $this->defaults['hideanno'] ) ? $this->defaults['hideanno'] : '0',
 				) // args
 			);
 			// Hide Video Info
@@ -569,7 +553,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[hideinfo]',
 					'description' => __( 'Enable this option to hide informations about video before play start (video title and uploader in overlay)', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['hideinfo'],
+					'value'       => isset( $this->defaults['hideinfo'] ) ? $this->defaults['hideinfo'] : '0',
 				) // args
 			);
 			// --- Register setting Video so $_POST handling is done ---
@@ -599,7 +583,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[showtitle]',
 					'description' => __( 'Select should we and where display title of video', 'youtube-channel' ),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['showtitle'],
+					'value'       => isset( $this->defaults['showtitle'] ) ? $this->defaults['showtitle'] : 'none',
 					'items'       => array(
 						'none'  => __( 'Hide title', 'youtube-channel' ),
 						'above' => __( 'Above video/thumbnail', 'youtube-channel' ),
@@ -618,7 +602,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[showdesc]',
 					'description' => __( 'Enable this option to display description for video', 'youtube-channel' ),
 					'class'       => 'checkbox',
-					'value'       => $this->defaults['showdesc'],
+					'value'       => isset( $this->defaults['showdesc'] ) ? $this->defaults['showdesc'] : '0',
 				) // args
 			);
 			// Description length
@@ -632,7 +616,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[desclen]',
 					'description' => __( 'Enter length for video description in characters (0 for full length)', 'youtube-channel' ),
 					'class'       => 'num',
-					'value'       => $this->defaults['desclen'],
+					'value'       => isset( $this->defaults['desclen'] ) ? $this->defaults['desclen'] : '0',
 					'min'         => 0,
 					'max'         => 2500,
 					'std'         => 0,
@@ -667,7 +651,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					// 'label' => __('Ratio:', 'youtube-channel' ),
 					'description' => __( 'Set where link will lead visitors', 'youtube-channel' ),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['link_to'],
+					'value'       => isset( $this->defaults['link_to'] ) ? $this->defaults['link_to'] : 'none',
 					'items'       => array(
 						'none'    => __( 'Hide link', 'youtube-channel' ),
 						'vanity'  => __( 'Vanity custom URL', 'youtube-channel' ),
@@ -688,7 +672,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					// 'label' => __('Ratio:', 'youtube-channel' ),
 					'description' => __( 'Set where link will be opened', 'youtube-channel' ),
 					'class'       => 'regular-text',
-					'value'       => $this->defaults['popup_goto'],
+					'value'       => isset( $this->defaults['popup_goto'] ) ? $this->defaults['popup_goto'] : '0',
 					'items'       => array(
 						'0' => __( 'same window', 'youtube-channel' ),
 						'1' => __( 'new window (JavaScript)', 'youtube-channel' ),
@@ -707,7 +691,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 					'field'       => $this->option_name . '[goto_txt]',
 					'class'       => 'regular-text',
 					'description' => __( 'Set default title for link', 'youtube-channel' ),
-					'value'       => $this->defaults['goto_txt'],
+					'value'       => isset( $this->defaults['goto_txt'] ) ? $this->defaults['goto_txt'] : '',
 				) // args
 			);
 
@@ -740,9 +724,9 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 
 		// --- Section desciptions ---
 		public function settings_general_section_description() {
-		?>
-			<p><?php
-			printf(
+
+			echo '<p>' .
+			sprintf(
 				wp_kses(
 					__(
 						'Configure general defaults for %1$s used as fallback options in widget or shortcodes. To get %2$s and %3$s visit <a href="%4$s" target="_blank">%5$s</a>.',
@@ -760,204 +744,189 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 				__( 'Vanity URL', 'youtube-channel' ),
 				esc_url( 'https://www.youtube.com/account_advanced' ),
 				__( 'YouTube Account Overview', 'youtube-channel' )
-			)
-			?></p>
-		<?php
-		} // eom settings_general_section_description()
+			) .
+			'<p>';
+
+		} // END public function settings_general_section_description()
+
 		public function settings_video_section_description() {
-		?>
-			<p><?php
-			printf(
+			echo '<p>' .
+			sprintf(
 				__( 'Configure video specific defaults for %s used as fallback options in widget or shortcodes.', 'youtube-channel' ),
 				__( 'YouTube Channel', 'youtube-channel' )
-			);
-			?></p>
-		<?php
-		} // eom settings_video_section_description() {
+			) .
+			'</p>';
+		} // END public function  settings_video_section_description()
+
 		public function settings_content_section_description() {
-		?>
-			<p><?php
-			printf(
+			echo '<p>' .
+			sprintf(
 				__( 'Configure defaults of content around and over videos for %s used as fallback options in widget or shortcodes.', 'youtube-channel' ),
 				__( 'YouTube Channel', 'youtube-channel' )
-			);
-			?></p>
-		<?php
-		} // eom settings_content_section_description() {
+			) .
+			'</p>';
+		} // END public function settings_content_section_description()
+
 		public function settings_link_section_description() {
-		?>
-		<p><?php
-			printf(
+			echo '<p>' .
+			sprintf(
 				__( 'Configure defaults for link to channel below %s block used as fallback options in widget or shortcodes.', 'youtube-channel' ),
 				__( 'YouTube Channel', 'youtube-channel' )
-			);
-			?></p>
-		<?php
-		} // eom settings_link_section_description() {
+			) .
+			'</p>';
+		} // END public function settings_link_section_description()
 
 		/**
 		 * This function provides separator for settings fields
 		 */
 		public function settings_field_separator( $args = null ) {
 			echo '<hr>';
-		} // eom settings_field_input_text()
+		} // END public function settings_field_input_text()
 
 		/**
 		 * This function provides text inputs for settings fields
 		 */
-		public function settings_field_input_text($args) {
-
-			extract( $args );
+		public function settings_field_input_text( $args ) {
 
 			printf(
 				'<input type="text" name="%1$s" id="%1$s" value="%2$s" class="%3$s" /><p class="description">%4$s</p>',
-				$field,
-				$value,
-				$class,
-				$description
+				$args['field'],
+				$args['value'],
+				$args['class'],
+				$args['description']
 			);
 
-		} // eom settings_field_input_text()
+		} // END public function settings_field_input_text()
 
 		/**
 		 * This function provides password inputs for settings fields
 		 */
-		public function settings_field_input_password($args) {
-
-			extract( $args );
+		public function settings_field_input_password( $args ) {
 
 			printf(
 				'<input type="password" name="%1$s" id="%1$s" value="%2$s" class="%3$s" /><p class="description">%4$s</p>',
-				$field,
-				$value,
-				$class,
-				$description
+				$args['field'],
+				$args['value'],
+				$args['class'],
+				$args['description']
 			);
 
-		} // eom settings_field_input_text()
+		} // END public function settings_field_input_text()
 
 		/**
 		 * This function provides number inputs for settings fields
 		 */
-		public function settings_field_input_number($args) {
-
-			extract( $args );
+		public function settings_field_input_number( $args ) {
 
 			printf(
 				'<input type="number" name="%1$s" id="%1$s" value="%2$s" min="%3$s" max="%4$s" class="%5$s" /><p class="description">%6$s</p>',
-				$field,
-				$value,
-				$min,
-				$max,
-				$class,
-				$description
+				$args['field'],
+				$args['value'],
+				$args['min'],
+				$args['max'],
+				$args['class'],
+				$args['description']
 			);
 
-		} // eom settings_field_input_text()
+		} // END public function settings_field_input_text()
 
 		/**
 		 * This function provides select for settings fields
 		 */
-		public function settings_field_select($args) {
+		public function settings_field_select( $args ) {
 
-			extract( $args );
-
-			$html = '';
-			// $html .= sprintf('<label for="%s">%s</label><br>', $field, $label);
-			$html .= sprintf( '<select id="%1$s" name="%1$s">', $field );
-			foreach ( $items as $key => $val ) {
-				$selected = ( $value == $key ) ? 'selected="selected"' : '';
+			$html = sprintf( '<select id="%1$s" name="%1$s">', $args['field'] );
+			foreach ( $args['items'] as $key => $val ) {
+				$selected = ( $args['value'] == $key ) ? 'selected="selected"' : '';
 				$html .= sprintf( '<option %1$s value="%2$s">%3$s</option>', $selected, $key, $val );
 			}
-			$html .= sprintf( '</select><p class="description">%s</p>', $description );
+			$html .= sprintf( '</select><p class="description">%s</p>', $args['description'] );
 
 			echo $html;
 
-		} // eom settings_field_select()
+		} // END public function settings_field_select()
 
 		/**
 		 * This function provides checkbox for settings fields
 		 */
-		public function settings_field_checkbox($args) {
+		public function settings_field_checkbox( $args ) {
 
-			extract( $args );
-
-			$checked = ( ! empty( $args['value'] ) ) ? 'checked="checked"' : '';
+			$checked = ! empty( $args['value'] ) ? 'checked="checked"' : '';
 			printf(
 				'<label for="%1$s"><input type="checkbox" name="%1$s" id="%1$s" value="1" class="%2$s" %3$s />%4$s</label>',
-				$field,
-				$class,
+				$args['field'],
+				$args['class'],
 				$checked,
-				$description
+				$args['description']
 			);
 
-		} // eom settings_field_checkbox()
+		} // END public function settings_field_checkbox()
 
 		/**
 		 * This function provides checkbox groupfor settings fields
 		 */
-		public function settings_field_checkbox_group($args) {
-
-			extract( $args );
+		/*
+		public function settings_field_checkbox_group( $args ) {
 
 			// items
 			$out = '<fieldset>';
 
-			foreach ( $items as $key => $label ) {
+			foreach ( $args['items'] as $key => $label ) {
 
 				$checked = '';
-				if ( ! empty( $value ) ) {
-					$checked = ( in_array( $key, $value ) ) ? 'checked="checked"' : '';
+				if ( ! empty( $args['value'] ) ) {
+					$checked = in_array( $key, $args['value'] ) ? 'checked="checked"' : '';
 				}
 
 				$out .= sprintf(
 					'<label for="%1$s_%2$s"><input type="checkbox" name="%1$s[]" id="%1$s_%2$s" value="%2$s" class="%3$s" %4$s />%5$s</label><br>',
-					$field,
+					$args['field'],
 					$key,
-					$class,
+					$args['class'],
 					$checked,
 					$label
 				);
 			}
 
 			$out .= '</fieldset>';
-			$out .= sprintf( '<p class="description">%s</p>' , $description );
+			$out .= sprintf( '<p class="description">%s</p>' , $args['description'] );
 
 			echo $out;
 
-		} // eom settings_field_checkbox()
+		} // END public function settings_field_checkbox_group()
+		/**/
 
 		/**
 		 * This function provides radio buttons for settings fields
 		 */
-		public function settings_field_radio($args) {
-
-			extract( $args );
+		/*
+		public function settings_field_radio( $args ) {
 
 			$html = '';
 
-			if ( ! empty( $prescription ) ) {
-				$html .= sprintf( '<p class="prescription">%s</p>', $prescription );
+			if ( ! empty( $args['prescription'] ) ) {
+				$html .= sprintf( '<p class="prescription">%s</p>', $args['prescription'] );
 			}
 
-			foreach ( $items as $key => $val ) {
+			foreach ( $args['items'] as $key => $val ) {
 
-				$checked = ( $value == $key ) ? 'checked="checked"' : '';
+				$checked = $args['value'] == $key ? 'checked="checked"' : '';
 				$html .= sprintf(
 					'<label for="%1$s_%2$s"><input type="radio" name="%1$s" id="%1$s_%2$s" value="%2$s" %3$s>%4$s</label><br />',
-					$field,
+					$args['field'],
 					$key,
 					$checked,
 					$val
 				);
 
-			} // foreach $items
+			} // END foreach $args['items']
 
-			$html .= sprintf( '<p class="description">%s</p>', $description );
+			$html .= sprintf( '<p class="description">%s</p>', $args['description'] );
 
 			echo $html;
 
-		} // eom settings_field_checkbox()
+		} // END public function settings_field_radio()
+		/**/
 
 		/**
 		 * Menu Callback
@@ -977,7 +946,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 		 * process options before update
 		 *
 		 */
-		public function sanitize_options($options) {
+		public function sanitize_options( $options ) {
 
 			$sanitized = get_option( $this->option_name );
 
@@ -1038,8 +1007,8 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL_SETTINGS' ) ) {
 			// now return sanitized options to be written to database
 			return $sanitized;
 
-		} // eom sanitize_options()
+		} // END public function sanitize_options()
 
-	} // eo class WPAU_YOUTUBE_CHANNEL_SETTINGS
+	} // END class WPAU_YOUTUBE_CHANNEL_SETTINGS
 
-} // eo class_exists WPAU_YOUTUBE_CHANNEL_SETTINGS
+} // END class_exists WPAU_YOUTUBE_CHANNEL_SETTINGS

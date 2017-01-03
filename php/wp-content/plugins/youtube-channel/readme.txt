@@ -1,10 +1,10 @@
 === YouTube Channel ===
 Contributors: urkekg
-Donate link: http://urosevic.net/wordpress/donate/?donate_for=youtube-channel
+Donate link: https://urosevic.net/wordpress/donate/?donate_for=youtube-channel
 Tags: youtube, channel, playlist, single, widget, widgets, youtube player, feed, video, thumbnail, embed, sidebar, iframe, html5, responsive
 Requires at least: 4.0
-Tested up to: 4.4
-Stable tag: 3.0.9
+Tested up to: 4.7
+Stable tag: 3.0.10
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -353,6 +353,21 @@ If you really need that missing feature ASAP, feel free to [contact me](urosevic
 If you don't wish to pay for enhancements (then you don't care would that be implemented in a week, month, year or so), then send new [Support topic](https://wordpress.org/support/plugin/youtube-channel) with *Topic title* in format **[Feature Request] ...**
 
 == Changelog ==
+= 3.0.10 (20161231) =
+* (20161225) Optimize: Remove `extract()` from shortcode parser
+* Code cleanup and fixing to be compliant with WordPress Core coding standards
+* Test compatibility with WordPreee 4.7 and PHP 7.0.14
+* (20161224) Change: Update notification for missing YouTube Data API Key
+* Change: Do not display shortcode options changes for fresh installation
+* (20160824) Change: HTTP to HTTPS links and open remote links on settings page in new tab/window
+* Change: Disable deprecated notification related to old v2.4 of plugin
+* (20160419) Fix: resource from globals used if in widget set to use User uploads as resource.
+* Enhance: Implemented Selective Refresh Support for Widget (WP 4.5)
+* (20160131) Fix: prevent PHP Notices for Settings page.
+* Fix: `Cache feed` option in widget can't be disabled (always revert to default).
+* Fix: `Open link in` option in widget always revert to default.
+* Security: prevent direct loading of settings and widget files.
+* (20160120) Optimize: replace yt_play.png with optimized image.
 
 = 3.0.9 =
 * Fix: broken autoplay when start to play all videos instead only first in YTC block set

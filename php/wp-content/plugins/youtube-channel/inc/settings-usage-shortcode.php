@@ -1,4 +1,4 @@
-<h3><?php _e('How to use shortcode', 'youtube-channel'); ?></h3>
+<h3><?php _e( 'How to use shortcode', 'youtube-channel' ); ?></h3>
 <p><?php
 printf(
 	__(
@@ -9,10 +9,10 @@ printf(
 ); ?></p>
 
 <h3 class="nav-tab-wrapper subnav-tab-wrapper">
-	<a href="#ytc-general-settings" class="nav-tab nav-tab-active"><?php _e('General Settings', 'youtube-channel'); ?></a>
-	<a href="#ytc-video-settings" class="nav-tab"><?php _e('Video Settings', 'youtube-channel'); ?></a>
-	<a href="#ytc-content-settings" class="nav-tab"><?php _e('Content Layout', 'youtube-channel'); ?></a>
-	<a href="#ytc-link-settings" class="nav-tab"><?php _e('Link to Channel', 'youtube-channel'); ?></a>
+	<a href="#ytc-general-settings" class="nav-tab nav-tab-active"><?php _e( 'General Settings', 'youtube-channel' ); ?></a>
+	<a href="#ytc-video-settings" class="nav-tab"><?php _e( 'Video Settings', 'youtube-channel' ); ?></a>
+	<a href="#ytc-content-settings" class="nav-tab"><?php _e( 'Content Layout', 'youtube-channel' ); ?></a>
+	<a href="#ytc-link-settings" class="nav-tab"><?php _e( 'Link to Channel', 'youtube-channel' ); ?></a>
 </h3>
 
 <div class="tab-content-ytc tab-content-active" id="ytc-general-settings">
@@ -101,10 +101,10 @@ printf(
 		'Please note, you can omit all options listed above, and then will be used plugin defaults customized on tabs %1$s, %2$s, %3$s and %4$s.',
 		'youtube-chanel'
 	),
-	__('General', 'youtube-channel'),
-	__('Video', 'youtube-channel'),
-	__('Content', 'youtube-channel'),
-	__('Link to Channel', 'youtube-channel')
+	__( 'General', 'youtube-channel' ),
+	__( 'Video', 'youtube-channel' ),
+	__( 'Content', 'youtube-channel' ),
+	__( 'Link to Channel', 'youtube-channel' )
 ); ?></p>
 <p><?php
 printf(
@@ -112,7 +112,7 @@ printf(
 		'Important note: %s blocks inserted through widget have their own settings.',
 		'youtube-channel'
 	),
-	__('YouTube Channel', 'youtube-channel')
+	__( 'YouTube Channel', 'youtube-channel' )
 ); ?></p>
 
 <script>

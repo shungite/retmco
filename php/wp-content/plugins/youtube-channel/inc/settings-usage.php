@@ -1,16 +1,16 @@
-<h3><?php _e('How to use YouTube Channel', 'youtube-channel'); ?></h3>
-<p><?php _e('You can insert YouTube Channel in couple different ways.', 'youtube-channel'); ?></p>
+<h3><?php _e( 'How to use YouTube Channel', 'youtube-channel' ); ?></h3>
+<p><?php _e( 'You can insert YouTube Channel in couple different ways.', 'youtube-channel' ); ?></p>
 <ol>
 <li><?php
 printf(
 	__(
-		'Add %s to preferred %s, and configure it there.',
+		'Add %1$s to preferred %2$s, and configure it there.',
 		'youtube-channel'
 	),
-	__('YouTube Channel Widget', 'youtube-channel'),
+	__( 'YouTube Channel Widget', 'youtube-channel' ),
 	sprintf(
 		'<a href="widgets.php">%s</a>',
-		__('Widget Area', 'youtube-channel')
+		__( 'Widget Area', 'youtube-channel' )
 	)
 ); ?></li>
 <li><?php
