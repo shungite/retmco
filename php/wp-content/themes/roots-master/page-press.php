@@ -37,7 +37,7 @@ Template Name: Page Press Template
 						The MCO is &ldquo;Canada&rsquo;s tiny, perfect chamber orchestra&rdquo; (<em>Toronto Star</em>). 
 					</p>
 					<p>
-						It has toured widely, commissions often, embraces a diverse repertoire, and collaborates regularly with the world&rsquo;s leading solo&not;ists, from James Ehnes to Marc-Andr&eacute; Hamelin. 
+						It has toured widely, commissions often, embraces a diverse repertoire, and collaborates regularly with the world&rsquo;s leading soloists, from James Ehnes to Marc-Andr&eacute; Hamelin. 
 					</p>
 					<p>
 						The orchestra, boasting a roster of some of the finest orchestral musicians in Canada, has been praised for its &ldquo;satiny sound&thinsp;&hellip;&thinsp;dynamic subtlety, and an impeccable sense of ensemble&rdquo; (<em>Ottawa Citizen</em>) and called &ldquo;an excellent string ensemble conducted with crispness and verve by Anne Manson&rdquo; (<em>San Francisco Chronicle</em>). 
