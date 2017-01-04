@@ -23,7 +23,7 @@ Template Name: Page Touring Template
 					<b>MCO Touring</b> 
 				</p>
 				<p>
-					The Manitoba Chamber Orchestra has traveled far and wide! You may have heard the Orchestra in the following places: 
+					The Manitoba Chamber Orchestra has traveled far and wide! You may have heard the Orchestra in the following places (click locations marked with an * asterisk for photos!): 
 				</p>
 				<dl class="dl"> 
 					<dt>Canada</dt>
@@ -41,9 +41,9 @@ Template Name: Page Touring Template
 					<dd>Thompson MB</dd>
 					<dd>Swan River MB</dd>
 					<dd>The Pas MB</dd>
-					<dd>Grand Rapids MB</dd>
-					<dd>Churchill MB</dd>
-					<dd>Norway House MB</dd>
+					<dd>Grand Rapids MB *</dd>
+					<dd>Churchill MB *</dd>
+					<dd>Norway House MB *</dd>
 					<dd>Duck Bay MB</dd>
 					<dd>Hollow Water MB</dd>
 					<dd>Little Black River MB</dd>
@@ -65,7 +65,7 @@ Template Name: Page Touring Template
 					<dd>Rorketon MB</dd>
 					<dd>Calgary AB</dd>
 					<dd>Edmonton AB</dd>
-					<dd>Banff AB</dd>
+					<dd>Banff AB *</dd>
 					<dd>Vancouver BC</dd>
 					<dd>Kelowna BC</dd>
 					<dd>Mission BC</dd>
