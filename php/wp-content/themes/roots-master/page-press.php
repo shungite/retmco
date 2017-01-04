@@ -37,7 +37,7 @@ Template Name: Page Press Template
 						The MCO is &ldquo;Canada&rsquo;s tiny, perfect chamber orchestra&rdquo; (<em>Toronto Star</em>). 
 					</p>
 					<p>
-						It has toured widely, commissions often, embraces a diverse repertoire, and collaborates regularly with the world&rsquo;s leading solo&shy;ists, from James Ehnes to Marc-Andr&eacute; Hamelin. 
+						It has toured widely, commissions often, embraces a diverse repertoire, and collaborates regularly with the world&rsquo;s leading solo&not;ists, from James Ehnes to Marc-Andr&eacute; Hamelin. 
 					</p>
 					<p>
 						The orchestra, boasting a roster of some of the finest orchestral musicians in Canada, has been praised for its &ldquo;satiny sound&thinsp;&hellip;&thinsp;dynamic subtlety, and an impeccable sense of ensemble&rdquo; (<em>Ottawa Citizen</em>) and called &ldquo;an excellent string ensemble conducted with crispness and verve by Anne Manson&rdquo; (<em>San Francisco Chronicle</em>). 
@@ -46,13 +46,13 @@ Template Name: Page Press Template
 						Established in 1972, the MCO presents nine concerts annually in Winnipeg, most of which feature guest soloists, and all of which present an accessible, eclectic repertoire ranging from the mega-hits of the common practice tradition to exciting new premieres. The rest of its energies are devoted to unfolding an extensive program of touring, recording, and outreach every year. 
 					</p>
 					<p>
-						In 1995, the Manitoba Chamber Orchestra became the first North American orchestra to release a record with Sweden&rsquo;s prestigious BIS label. Since then they&rsquo;ve recorded seven albums, two of which have earned Juno nominations (<em>So Much To Tell</em> with Measha Brueggergosman and <em>Troubadour &amp; the Nightingale</em> with Isabel Bayrakdarian). Their 2013 recording of Philip Glass music has enjoyed international acclaim. 
+						In 1995, the Manitoba Chamber Orchestra became the first North American orchestra to release a record with Sweden&rsquo;s prestigious BIS label. Since then they&rsquo;ve recorded eight albums, two of which have earned Juno nominations (<em>So Much To Tell</em> with Measha Brueggergosman and <em>Troubadour &amp; the Nightingale</em> with Isabel Bayrakdarian). Their 2013 recording of Philip Glass music has enjoyed international acclaim. 
 					</p>
 					<p>
-						Their first international tour was of Italy in 1999. Since then, highlight tour appearances include performing with Isabel Bayrakdarian at Carnegie Hall in 2008 in a spectacular concert that garnered three curtain calls. Another highlight was its ten-concert Western Canada tour with Dame Evelyn Glennie in 2009. Fresh off recording an album with Mark Knopfler, Dame Glennie will tour Eastern Canada and record an album with the MCO in the fall of 2016. 
+						Their first international tour was of Italy in 1999. Since then, highlight tour appearances include performing with Isabel Bayrakdarian at Carnegie Hall in 2008 and two Canadian tours with the inimitable Dame Evelyn Glennie, with whom they have recorded a CD scheduled for release in the spring of 2017. 
 					</p>
 					<p>
-						Notable among outreach initiatives is the &lsquo;Fiddlers on the Loose&rsquo; ensemble, taking live music to remote parts of the province, from Churchill to Grand Rapids, to work with and play for youth and families who face geographic and economic challenges. 
+						Notable among outreach initiatives is the &lsquo;Fiddlers on the Loose&rsquo; ensemble, taking live music on an annual basis to remote parts of the province, from Churchill to Grand Rapids, to work with and play for youth and families who face geographic and economic challenges. In a similar spirit, the MCO has embarked upon a unique collaboration with Th&eacute;&acirc;tre Cercle Moli&egrave;re, a bilingual work that reenvisions the birth of the M&eacute;tis people using myth, music, and theatre. It will premi&egrave;re June 2017. 
 					</p>
 					<p>
 						Anne Manson was appointed Music Director of the MCO in 2008, succeeding Roy Goodman in the post. 
@@ -588,6 +588,7 @@ Template Name: Page Press Template
 </div>
 <!-- /container -->
 <script>
+
 
 
 
