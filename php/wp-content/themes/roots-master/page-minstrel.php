@@ -34,13 +34,10 @@ Template Name: Page Minstrel Template
 				<li>Personal events, like weddings, birthdays, and home parties</li>
 			</ol>
 			<p>
-				Under the first category, Minstrel has had collaborative engagements with Wayne Newton, Rod Stewart, Kanye West, Anne Murray, kd lang, and many other household names. 
+				Minstrel has had collaborative engagements with Wayne Newton, Rod Stewart, Kanye West, Anne Murray, kd lang, and many other household names. 
 			</p>
 			<p>
 				But don&rsquo;t let that fool you: our rates are competitive, and we work with our clients to determine the most efficient use of our musicians&rsquo; time to keep your costs low. Families, local bands, and small businesses hire us just as often as the stars do. And if you&rsquo;re looking to hire musicians to accompany you or an artist you represent, we have accomplished arrangers we work with who are experienced in preparing orchestral arrangements of music in all genres under tight deadlines. 
-			</p>
-			<p>
-				Under the second category, past clientele include but are not limited to: 
 			</p>
 		</div>
 <!-- /span6 -->
