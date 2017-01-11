@@ -42,31 +42,6 @@ Template Name: Page Minstrel Template
 			<p>
 				Under the second category, past clientele include but are not limited to: 
 			</p>
-			<ul>
-				<li>Lyric Theatre</li>
-				<li>Royal Canadian Mint</li>
-				<li>Smith Carter Architects</li>
-				<li>Investors Group</li>
-				<li>Great West Life</li>
-				<li>Fillmore Riley</li>
-				<li>Banville + Jones Wine</li>
-				<li>Princess Auto</li>
-				<li>Horizon Kia</li>
-				<li>Winnipeg Free Press</li>
-				<li>Manitoba Lotteries</li>
-				<li>CancerCare Manitoba</li>
-				<li>ISIS Research Network</li>
-				<li>Mayberry Gallery</li>
-				<li>Festival Du Voyageur</li>
-				<li>Robertson College</li>
-				<li>Agence nationale et internationale du Manitoba (ANIM)</li>
-				<li>Synyshyn Architects</li>
-				<li>Manitoba Club</li>
-				<li>University of Manitoba</li>
-				<li>Ft. Garry Hotel</li>
-				<li>College of Registered Nurses of MB</li>
-				<li>Red River Porsche Club</li>
-				</ol>
 		</div>
 <!-- /span6 -->
 	</div>
