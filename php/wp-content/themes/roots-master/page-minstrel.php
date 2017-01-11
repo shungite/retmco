@@ -6,7 +6,7 @@ Template Name: Page Minstrel Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/01/Minstrel.jpg" alt="Minstrel Booking Agency" width="770" height="455"> 
+			<img src="http://www.themco.ca/wp-content/uploads/2017/01/MinstrelAgency.jpg" alt="Minstrel Booking Agency" width="770" height="455"> 
 		</div>
 <!-- /span8 -->
 		<div class="span2">
@@ -18,7 +18,7 @@ Template Name: Page Minstrel Template
 	</div>
 <!-- /row -->
 	<div class="row">
-		<div class="span6">
+		<div class="span8">
 			<h4>
 				Planning an event? 
 			</h4>
@@ -66,16 +66,9 @@ Template Name: Page Minstrel Template
 				<li>Ft. Garry Hotel</li>
 				<li>College of Registered Nurses of MB</li>
 				<li>Red River Porsche Club</li>
-			</ol>
+				</ol>
 		</div>
 <!-- /span6 -->
-		<div class="span2">
-			<a href="#s"><img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /></a><br />
-			<p class="fineprint">
-				Click above to add a regular ticket to your shopping cart; adjust quantity in cart and return to purchase other tickets. 
-			</p>
-		</div>
-<!-- /span2 -->
 	</div>
 <!-- /row -->
 <?php get_template_part('templates/content', 'minstrel'); ?>
