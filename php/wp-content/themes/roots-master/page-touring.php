@@ -92,9 +92,11 @@ Template Name: Page Touring Template
 <!-- /well -->
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2017/01/FACTOR250.png"><img src="http://www.themco.ca/wp-content/uploads/2017/01/CanadaWordmark250.png">
+					<img src="http://www.themco.ca/wp-content/uploads/2017/01/FACTOR250.png">&nbsp;&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2017/01/CanadaWordmark250.png">
 				</p>
-				<small>This project is funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small> <small>Ce projet est nance&#x301; en partie par FACTOR, le gouvernement du Canada et les radiodi useurs prive&#x301;s du Canada.</small> 
+				<p><small>This project is funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small></p>
+				<p><small>Ce projet est nance&#x301; en partie par FACTOR, le gouvernement du Canada et les radiodi useurs prive&#x301;s du Canada.</small></p>
+				<p>&nbsp;</p>
 			</div>
 		</div>
 	</div>
