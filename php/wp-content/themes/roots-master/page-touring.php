@@ -90,6 +90,9 @@ Template Name: Page Touring Template
 				</dl>
 			</div>
 <!-- /well -->
+			<div>
+				logos
+			</div>
 		</div>
 	</div>
 <!-- /row -->
