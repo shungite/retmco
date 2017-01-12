@@ -95,7 +95,7 @@ Template Name: Page Touring Template
 					<a href="https://www.factor.ca/"><img src="http://www.themco.ca/wp-content/uploads/2017/01/FACTOR200.png"></a>&nbsp;&nbsp;<a href="https://www.canada.ca/en.html"><img src="http://www.themco.ca/wp-content/uploads/2017/01/CanadaWordmark200.png"></a>
 				</p>
 				<p><small>Some of these projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small></p>
-				<p><small>Certains de ces projets ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodi useurs prive&#x301;s du Canada.</small></p>
+				<p><small>Certains de ces projets ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small></p>
 				<p>&nbsp;</p>
 			</div>
 		</div>
