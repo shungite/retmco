@@ -87,8 +87,8 @@ Template Name: Page MCOhome Template
 <!-- /row-fluid -->
 
 	<div class="row-fluid">
-		<div class="span4">
-			<div class="well">
+		<div class="span6">
+			<div class="well-white">
 <p>FACTOR</p>
 </div>
 </div>
