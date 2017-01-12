@@ -83,11 +83,17 @@ Template Name: Page MCOhome Template
 			</p>
 		</div>
 <!-- /span2 -->
-<div>
-<p>FACTOR</p>
-</div>
 	</div>
 <!-- /row-fluid -->
+
+	<div class="row-fluid">
+		<div class="span4">
+			<div class="well">
+<p>FACTOR</p>
+</div>
+</div>
+</div>
+
 <?php get_template_part('templates/content', 'mcohome'); ?>
 </div>
 <!-- /container -->
