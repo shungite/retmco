@@ -85,15 +85,12 @@ Template Name: Page MCOhome Template
 	</div>
 <!-- /row-fluid -->
 	<div class="row-fluid">
-		<div class="span6">
+		<div class="span4">
 			<p>
 				<a href="https://www.factor.ca/"><img src="http://www.themco.ca/wp-content/uploads/2017/01/FACTOR150.png"></a>&nbsp;&nbsp;<a href="https://www.canada.ca/en.html"><img src="http://www.themco.ca/wp-content/uploads/2017/01/CanadaWordmark150.png"></a> 
 			</p>
 			<p>
-				<small>Recording and touring projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small> 
-			</p>
-			<p>
-				<small> Les projets d'enregistrement et de tourn&eacute;e ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small> 
+				<small>Recording and touring projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters. Les projets d'enregistrement et de tourn&eacute;e ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small> 
 			</p>
 		</div>
 	</div>
