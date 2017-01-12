@@ -83,6 +83,9 @@ Template Name: Page MCOhome Template
 			</p>
 		</div>
 <!-- /span2 -->
+<div>
+<p>FACTOR</p>
+</div>
 	</div>
 <!-- /row-fluid -->
 <?php get_template_part('templates/content', 'mcohome'); ?>
