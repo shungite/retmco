@@ -98,7 +98,7 @@ Template Name: Page Touring Template
 					<small>2016/17 recording and touring projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small> 
 				</p>
 				<p>
-					<small>Les projets d'enregistrement et de tourn&eacute;e 2016-2017 ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small> 
+					<small>Les projets d'enregistrement et les projets  de tournage en 2016-2017 ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small> 
 				</p>
 				<p>
 					&nbsp; 
