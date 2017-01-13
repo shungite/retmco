@@ -90,7 +90,7 @@ Template Name: Page Touring Template
 				</dl>
 			</div>
 <!-- /well -->
-			<div class="span6">
+			<div class="span5">
 				<p>
 					<a href="https://www.factor.ca/"><img src="http://www.themco.ca/wp-content/uploads/2017/01/FACTOR150.png"></a>&nbsp;&nbsp;<a href="https://www.canada.ca/en.html"><img src="http://www.themco.ca/wp-content/uploads/2017/01/CanadaWordmark150.png"></a> 
 				</p>
