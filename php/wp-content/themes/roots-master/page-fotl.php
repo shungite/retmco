@@ -40,7 +40,10 @@ Template Name: Page FOTL Template
 				They constantly seek to expand our program, which currently reaches over 7,500 children and provides 30-35 in school / in-library presentations each year, and this year they will be adding online services like live streaming and Skype workshops. 
 			</p>
 			<p>
-				<img src="http://www.themco.ca/wp-content/uploads/2017/01/CFC150_Fund.png"> <small>This initiative is made possible by the Community Fund for Canada&rsquo;s 150th, a collaboration between the Winnipeg Foundation, the Government of Canada, and extraordinary leaders from coast to coast to coast.</small> 
+				<a href="http://communityfoundations.ca/cfc150/"><img src="http://www.themco.ca/wp-content/uploads/2017/01/CFC150_Fund.png"></a> 
+			</p>
+			<p>
+				<small>This initiative is made possible by the Community Fund for Canada&rsquo;s 150th, a collaboration between the Winnipeg Foundation, the Government of Canada, and extraordinary leaders from coast to coast to coast.</small> 
 			</p>
 		</div>
 	</div>
