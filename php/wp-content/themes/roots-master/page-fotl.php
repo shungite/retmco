@@ -13,7 +13,7 @@ Template Name: Page FOTL Template
 	<div class="row">
 		<div class="span8">
 			<h4>
-				Fiddlers. On. The. Loose.
+				Fiddlers. On. The. Loose. 
 			</h4>
 			<p>
 				From Churchill and Snow Lake to Flin Flon, the MCO&rsquo;s Fiddlers on the Loose are all over the province playing and work-shopping fiddle and folk music. 
@@ -38,6 +38,9 @@ Template Name: Page FOTL Template
 			</p>
 			<p>
 				They constantly seek to expand our program, which currently reaches over 7,500 children and provides 30-35 in school / in-library presentations each year, and this year they will be adding online services like live streaming and Skype workshops. 
+			</p>
+			<p>
+				<img src="http://www.themco.ca/wp-content/uploads/2017/01/CFC150_Fund.png"> <small>This initiative is made possible by the Community Fund for Canada&rsquo;s 150th, a collaboration between the Winnipeg Foundation, the Government of Canada, and extraordinary leaders from coast to coast to coast.</small> 
 			</p>
 		</div>
 	</div>
