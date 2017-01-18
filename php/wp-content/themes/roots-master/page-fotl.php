@@ -45,6 +45,11 @@ Template Name: Page FOTL Template
 			<p>
 				<small>This initiative is made possible by the Community Fund for Canada&rsquo;s 150th, a collaboration between the Winnipeg Foundation, the Government of Canada, and extraordinary leaders from coast to coast to coast.</small> 
 			</p>
+			<div class="well-white">
+				<p>
+					The MCO Outreach Program is funded by the <a href="http://www.canadacouncil.ca/"><b>Canada Council for the Arts</b></a>, the <a href="http://artscouncil.mb.ca/"><b>Manitoba Arts Council</b></a>, the <a href="http://winnipegarts.ca/"><b>Winnipeg Arts Council</b></a>, <a href="http://www.wpgfdn.org/"><b>The Winnipeg Foundation</b></a>, the <a href="https://www.winnipegsd.ca/CHF/Pages/Default.aspx"><b>Children&rsquo;s Heritage Fund</b></a>, <a href="https://www.assiniboine.mb.ca/"><b>Assiniboine Credit Union</b></a>, <a href="http://friendswpl.ca/"><b>Friends of the Library</b></a>, <a href="http://www.greatwestlife.com/001/Home/index.htm"><b>The Great-West Life Assurance Company</b></a>, the <a href="http://www.lchf.ca/"><b>Lloyd Carr-Harris Foundation</b></a>, <a href="http://www.mpi.mb.ca/en/Pages/default.aspx"><b>Manitoba Public Insurance</b></a>, <a href="http://www.gov.mb.ca/cyo/youth/"><b>MB4Youth</b></a>, <a href="https://www3.mts.ca/mts/future+first"><b>MTS</b></a>, <a href="http://www.mbteach.org/"><b>Manitoba Teachers&rsquo; Society</b></a>, the <b>Musicians&rsquo; Performance Trust Fund</b>, <a href="http://www.gov.mb.ca/chc/artsbranch/index.html?print"><b>Province of Manitoba Culture Branch</b></a>, the <a href="http://www.richardson.ca/community/richardson-foundation"><b>Richardson Foundation</b></a>, the <b>Rita Menzies Endowment Fund for Arts Education</b>, the <a href="http://www.clubrunner.ca/Portal/Home.aspx?accountid=1004"><b>Rotary Club of Winnipeg West</b></a>, <a href="http://www.sunlife.ca/"><b>Sun Life Financial</b></a> and <a href="http://www.tdcanadatrust.com/products-services/banking/index-banking.jsp"><b>TD</b></a>.
+				</p>
+			</div>
 		</div>
 	</div>
 <!-- /row -->
