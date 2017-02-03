@@ -50,9 +50,9 @@ Template Name: Page Frontier Template
 				<p>
 					<strong>Learning Guide</strong> 
 				</p>
-				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/0fc55d5f-b1aa-4211-86b4-32078d9af987?startpage=1&amp;allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
+				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/fa053c98-04b8-4863-a3de-c38d207ce216" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
 				<p>
-					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-EN.ibooks"><b>Download iBook here</b> (9MB)</a> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><b>Download iBook here</b> (9MB)</a> 
 				</p>
 				<p>
 					&nbsp; 
@@ -89,7 +89,7 @@ Template Name: Page Frontier Template
 				</p>
 				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/787e9080-d80e-47bd-af1f-3953109b6654?startpage=1&amp;allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
 				<p>
-					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2016/04/Horsch-FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (9MB)</a> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (9MB)</a> 
 				</p>
 			</div>
 <!-- /well -->
