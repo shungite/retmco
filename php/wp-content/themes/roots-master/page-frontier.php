@@ -48,9 +48,9 @@ Template Name: Page Frontier Template
 					&nbsp; 
 				</p>
 				<p>
-					<strong>Learning Guide</strong> 
+					<strong>DRAFT / Learning Guide</strong> 
 				</p>
-				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/dbb07677-9975-4041-ae55-2bdefa45361d" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
+				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/dbb07677-9975-4041-ae55-2bdefa45361d" width="525px" height="371px" frameborder="0" allowfullscreen="true"></iframe> 
 				<p>
 					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><b>Download iBook here</b> (9MB)</a> 
 				</p>
@@ -85,9 +85,9 @@ Template Name: Page Frontier Template
 				</p>
 				<p>
 					&nbsp;<br>
-					<strong>Guide d&rsquo;apprentissage</strong> 
+					<strong>BROUILLON / Guide d&rsquo;apprentissage</strong> 
 				</p>
-				<iframe style="border: 1px solid #777;" src="#" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
+				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/79835c9e-e8b5-48c8-9cec-01dc774896c3" width="525px" height="371px" frameborder="0" allowfullscreen="true"></iframe> 
 				<p>
 					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (9MB)</a> 
 				</p>
