@@ -87,8 +87,9 @@ Template Name: Page Frontier Template
 					&nbsp;<br>
 					<strong>BROUILLON / Guide d&rsquo;apprentissage</strong> 
 				</p>
-				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/79835c9e-e8b5-48c8-9cec-01dc774896c3" width="525px" height="371px" frameborder="0" allowfullscreen="true"></iframe> 
-				<p>
+				
+				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/79835c9e-e8b5-48c8-9cec-01dc774896c3?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
+								<p>
 					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (33MB)</a> 
 				</p>
 			</div>
