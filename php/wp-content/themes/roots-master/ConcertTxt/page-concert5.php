@@ -92,7 +92,7 @@ Template Name: Page Concert5 Template
 							Westminster United Church<br>14 February 2017
 						</p>
 						<p>
-							Anne Manson, conductor<br>The Frontier Fiddlers
+							Karl Stobbe, leader and violin soloist<br>The Frontier Fiddlers
 						</p>
 						<p>
 							 <strong>Traditional</strong><br>Fiddle medley
