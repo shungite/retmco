@@ -50,7 +50,7 @@ Template Name: Page Frontier Template
 				<p>
 					<strong>DRAFT / Learning Guide</strong> 
 				</p>
-				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/view/dbb07677-9975-4041-ae55-2bdefa45361d?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
+				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/dbb07677-9975-4041-ae55-2bdefa45361d?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
 				<p>
 					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><b>Download iBook here</b> (33MB)</a> 
 				</p>
