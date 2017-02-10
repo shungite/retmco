@@ -11,6 +11,12 @@ Template Name: Page Frontier Template
 			</p>
 			<blockquote>
 				<p>
+					The Frontier Fiddlers come from as far away as Grand Rapids, Matheson Island, Berens River, and Norway House. They play Red River jigs with breakneck speed. And all of them are teenagers or younger&thinsp;&hellip;
+				</p>
+				<p>
+					Le groupe Frontier Fiddlers viennent d&rsquo;aussi loin que Grand Rapids, l&rsquo;&Icirc;le Matheson, Berens River et Norway House. Ils jouent des gigues de la rivi&egrave;re Rouge &agrave; une vitesse vertigineuse. Et tous sont des adolescents ou plus jeunes&thinsp;&hellip;
+				</p>
+				<p>
 					They come from as far away as Grand Rapids, Matheson Island, Berens River, and Norway House. They play Red River jigs with breakneck speed. And all of them are teenagers or younger. 
 				</p>
 			</blockquote>
@@ -50,7 +56,7 @@ Template Name: Page Frontier Template
 				<p>
 					<strong>DRAFT / Learning Guide</strong> 
 				</p>
-				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/dbb07677-9975-4041-ae55-2bdefa45361d?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
+				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/dbb07677-9975-4041-ae55-2bdefa45361d?startpage=1&amp;allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
 				<p>
 					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_EN.ibooks"><b>Download iBook here</b> (33MB)</a> 
 				</p>
@@ -87,9 +93,8 @@ Template Name: Page Frontier Template
 					&nbsp;<br>
 					<strong>BROUILLON / Guide d&rsquo;apprentissage</strong> 
 				</p>
-				
-				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/79835c9e-e8b5-48c8-9cec-01dc774896c3?startpage=1&allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe>
-								<p>
+				<iframe style="border: 1px solid #777;" src="https://indd.adobe.com/embed/79835c9e-e8b5-48c8-9cec-01dc774896c3?startpage=1&amp;allowFullscreen=true" width="525px" height="371px" frameborder="0" allowfullscreen=""></iframe> 
+				<p>
 					<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/02/Frontier-Fiddlers_FR.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (33MB)</a> 
 				</p>
 			</div>
