@@ -11,13 +11,15 @@ Template Name: Page Frontier Template
 			</p>
 			<blockquote>
 				<p>
-					The Frontier Fiddlers come from as far away as Grand Rapids, Matheson Island, Berens River, and Norway House. They play Red River jigs with breakneck speed. And all of them are teenagers or younger&thinsp;&hellip;
+					The Frontier Fiddlers come from as far away as Grand Rapids, Matheson Island, Berens River, and Norway House. They play Red River jigs with breakneck speed. And all of them are teenagers or younger&thinsp;&hellip; 
 				</p>
+				&
 				<p>
-					Le groupe Frontier Fiddlers viennent d&rsquo;aussi loin que Grand Rapids, l&rsquo;&Icirc;le Matheson, Berens River et Norway House. Ils jouent des gigues de la rivi&egrave;re Rouge &agrave; une vitesse vertigineuse. Et tous sont des adolescents ou plus jeunes&thinsp;&hellip;
+					nbsp
 				</p>
+				; 
 				<p>
-					They come from as far away as Grand Rapids, Matheson Island, Berens River, and Norway House. They play Red River jigs with breakneck speed. And all of them are teenagers or younger. 
+					Le groupe Frontier Fiddlers viennent d&rsquo;aussi loin que Grand Rapids, l&rsquo;&Icirc;le Matheson, Berens River et Norway House. Ils jouent des gigues de la rivi&egrave;re Rouge &agrave; une vitesse vertigineuse. Et tous sont des adolescents ou plus jeunes&thinsp;&hellip; 
 				</p>
 			</blockquote>
 			<p>
