@@ -7,9 +7,9 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="covercontainer">
-				<a href="http://www.themco.ca/concert/frontier-fiddlers/"><img src="http://www.themco.ca/wp-content/uploads/2016/12/head14feb17cover.jpg" alt="MCO / Stobbe, Frontier Fiddlers"></a> 
+				<a href="http://www.themco.ca/concert/frontier-fiddlers/"><img src="http://www.themco.ca/wp-content/uploads/2016/12/head14feb17cover.jpg" alt="MCO / Gemm New, Sam Casseday"></a> 
 				<div class="playbutton">
-<?php echo do_shortcode('[video_lightbox_youtube video_id="Q0e3uV69LWg" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
+<?php echo do_shortcode('[video_lightbox_youtube video_id="d1o54MuSTy8" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
 				</div>
 			</div>
 		</div>
@@ -17,10 +17,10 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				﻿Frontier Fiddlers&thinsp;&mdash;&thinsp;Red River Reverie 
+				﻿In with the New!
 			</h4>
 			<p>
-				How lucky we are to welcome back the Frontier Fiddlers! Made up of students in the Frontier School Division, the group represents <i>la cr&egrave;me de la cr&egrave;me</i> of young fiddle players in the province. They&rsquo;ll treat us to a spectacular medley of Red River jigs and traditional folk music. The Frontier Fiddlers and the orchestra will also together perform a new work by favourite Winnipeg composer Jim Hiscott. Matinee tickets and further details <a href="http://www.themco.ca/concert/frontier-fiddlers/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two to the evening concert, click these links.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=9f2d0c6ce9e4485884d98d0f993fe03c"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=f6ed94335d8347a7954f2ba5f5fa7730"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=a0f06eb73e3c426da3282c9ff488eff8"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
+			For all the famous, veteran soloists the MCO presents, we feature nearly as many young prodigies on the cusp of fame. Guest conductor <strong>Gemma New</strong> and double bassist <strong>Sam Casseday</strong> are surely among them. &#xFEFF;With jaw-dropping artistry, 23-year-old Casseday will perform a double bass arrangement of Mozart&rsquo;s 5th violin concerto, otherwise known as &lsquo;The Turkish.&rsquo; You know the tune. You&rsquo;ve heard it on violin and as a cellphone ringtone&mdash;but have you ever heard it on a big, bad double bass? Further details <a href="http://www.themco.ca/concert/new-casseday/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two to the evening concert, click these links.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=431b070642f14a13be313e2450a9350d"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e3ad99df27a74b968b406553e85b3dcf"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=95a724cd7eca443d8349614609463668"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
