@@ -9,7 +9,7 @@ Template Name: Page MCOhome Template
 			<div class="covercontainer">
 				<a href="http://www.themco.ca/concert/new-casseday/"><img src="http://www.themco.ca/wp-content/uploads/2017/02/head29mar17cover.jpg" alt="MCO / Gemm New, Sam Casseday"></a> 
 				<div class="playbutton">
-<?php echo do_shortcode('[video_lightbox_youtube video_id="d1o54MuSTy8" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
+<?php echo do_shortcode('[video_lightbox_youtube video_id="2RqcUZzJa-c" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
 				</div>
 			</div>
 		</div>
