@@ -19,7 +19,7 @@ Template Name: Page Concert9 Template
 		<div class="span7">
 			<h4>
 				<div>
-					Reflecting on the unique legacies of the French, First Nations,<br>and M&eacute;tis in Canada through a spectacular theatrical presentation 
+					Reflecting on the unique legacies of the French and First Nations<br>people in Canada through a spectacular theatrical presentation 
 				</div>
 			</h4>
 			<p>
@@ -29,7 +29,7 @@ Template Name: Page Concert9 Template
 				The trickster is jealous. He&rsquo;s fallen for the daughter of a powerful chief. Unfortunately for him, another man has laid claim to her heart: a coureur de bois, a little on the na&iuml;ve side to boot! What&rsquo;s a poor trickster to do but send his rival packing with a series of ploys that leave the outsider battered and bruised? The young woman, though, is far stronger, sager and more resourceful that anyone could have imagined&hellip; 
 			</p>
 			<p>
-				The production is unique among MCO collaborations, an immersive new work of art that brings together a group of celebrated artists: Th&eacute;&acirc;tre Cercle Moli&egrave;re, writer Rh&eacute;al Cenerini and composer Michael Oesterle. In the tradition of Stravinsky&rsquo;s A Soldier&rsquo;s Tale, Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum is an enchanting piece of theatre that merges music, myth, and poetry. 
+				The production is unique among MCO collaborations, an immersive new work of art that brings together a group of celebrated artists: Th&eacute;&acirc;tre Cercle Moli&egrave;re, writer Rh&eacute;al Cenerini and composer Michael Oesterle. In the tradition of Stravinsky&rsquo;s <em>A Soldier&rsquo;s Tale</em>, Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum is an enchanting piece of theatre that merges music, myth, and poetry. 
 			</p>
 			<p>
 				While celebrating Canada&rsquo;s 150th birthday, the piece illuminates the diversity of our heritage. The work is bilingual, but accessible to Anglophones and Francophones equally, and appropriate for all ages. Matinee performances for school groups will take place both days. 

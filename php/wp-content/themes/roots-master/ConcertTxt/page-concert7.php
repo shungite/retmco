@@ -89,7 +89,7 @@ Template Name: Page Concert7 Template
 							Earl Stafford, conductor<br>Measha Brueggergosman, soprano 
 						</p>
 						<p>
-							<b>Luke Nickel</b><br><em>Aaadagio</em><br>Manitoba Arts Council commission<br>World premiere performance 
+							<b>Luke Nickel</b><br><em>aaadagio</em><br>Manitoba Arts Council commission<br>World premiere performance 
 						</p>
 						<p>
 							<b>Richard Strauss</b><br><i>Metamorphosen</i> 

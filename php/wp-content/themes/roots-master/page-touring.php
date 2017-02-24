@@ -29,7 +29,7 @@ Template Name: Page Touring Template
 					<dt>Canada</dt>
 					<dd>Summerside PEI *</dd>
 					<dd>Montreal QC</dd>
-					<dd>Toronto ON</dd>
+					<dd>Toronto ON *</dd>
 					<dd>Ottawa ON</dd>
 					<dd>Elora ON</dd>
 					<dd>Guelph ON</dd>
@@ -38,14 +38,14 @@ Template Name: Page Touring Template
 					<dd>Winnipeg MB</dd>
 					<dd>Brandon MB</dd>
 					<dd>Flin Flon MB</dd>
-					<dd>Thompson MB</dd>
+					<dd>Thompson MB *</dd>
 					<dd>Swan River MB</dd>
 					<dd>The Pas MB</dd>
 					<dd>Grand Rapids MB *</dd>
 					<dd>Churchill MB *</dd>
 					<dd>Norway House MB *</dd>
-					<dd>Duck Bay MB</dd>
-					<dd>Hollow Water MB</dd>
+					<dd>Duck Bay MB *</dd>
+					<dd>Hollow Water MB *</dd>
 					<dd>Little Black River MB</dd>
 					<dd>Cross Lake MB</dd>
 					<dd>Snow Lake MB</dd>
@@ -53,13 +53,14 @@ Template Name: Page Touring Template
 					<dd>Moose Lake MB</dd>
 					<dd>Cranberry Portage MB</dd>
 					<dd>Gillam MB</dd>
-					<dd>Falcon Beach MB</dd>
-					<dd>Bissett MB</dd>
+					<dd>Falcon Beach MB *</dd>
+					<dd>Bissett MB *</dd>
 					<dd>Pine Creek MB</dd>
+					<dd>Camperville MB *</dd>
 					<dd>Barrows MB</dd>
 					<dd>Gypsumville MB</dd>
 					<dd>Waterhen MB</dd>
-					<dd>Dauphin MB</dd>
+					<dd>Dauphin MB *</dd>
 					<dd>Wabowden MB</dd>
 					<dd>Leaf Rapids MB</dd>
 					<dd>Rorketon MB</dd>
