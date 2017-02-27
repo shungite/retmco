@@ -46,7 +46,7 @@ Template Name: Page Concert5 Template
 				</p>
 			</div>
 			<p>
-				<b>Evening concert at 7:30 pm, hour-long matinee concert at 1:00 pm. Both concerts February 14th at <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b>
+				<b>Evening concert at 7:30 pm, hour-long matinee concert at 1:00 pm. Both concerts February 14th at <a href="http://www.westminsterchurch.org">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b>
 			</p>
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">

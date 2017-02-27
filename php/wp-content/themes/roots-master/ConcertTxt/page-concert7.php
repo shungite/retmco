@@ -43,7 +43,7 @@ Template Name: Page Concert7 Template
 				</p>
 			</div>
 			<p>
-				<b>The concerts begin at 7:30 pm on April 26th in <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $34 for adults, $32 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204-783-7377).</b> 
+				<b>The concerts begin at 7:30 pm on April 26th in <a href="http://www.westminsterchurch.org">Westminster United Church</a>, 745 Westminster at Maryland. Tickets are $34 for adults, $32 for seniors and $10 for students, including GST, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204-783-7377).</b> 
 			</p>
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">

@@ -43,13 +43,16 @@ Template Name: Page Concert9 Template
 			<p>
 				&ldquo;The company&rsquo;s future is brimming with new partnerships, co-productions with major players, Canadian tours and new works that reflect the francophone community today. We are thrilled about the new developments to come for this 90-year-old company, en route to our centennial&rdquo; &mdash;&thinsp;Genevi&egrave;ve Pelletier, Artistic Director. 
 			</p>
+			<p>
+				<em>Nanabush and the drum / Nanabozho et le tambour</em> is a bilingual work, equal parts French and English. Rich with physical humour, evocative music, and vivid theatrical elements, it will be accessible to a broad audience. 
+			</p>
 			<div>
 				<p>
 					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> 
 				</p>
 			</div>
 			<p>
-				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 8th at <a href="http://www.westminsterchurchwinnipeg.ca">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b> 
+				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 8th at <a href="http://www.westminsterchurch.org">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b> 
 			</p>
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
