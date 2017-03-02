@@ -42,7 +42,7 @@ Template Name: Page Minstrel Template
 		</div>
 <!-- /span6 -->
 		<div class="span1">
-			<a href="mailto:bmackenzie5@shaw.ca?subject=Minstrel%20web%20inquiry%20..."><img src="http://www.themco.ca/wp-content/uploads/2017/03/mail.png" alt="" width="75" height="150" /></a><br />
+			<a href="mailto:bmackenzie5@shaw.ca?subject=Minstrel%20web%20inquiry"><img src="http://www.themco.ca/wp-content/uploads/2017/03/mail.png" alt="" width="75" height="150" /></a><br />
 			<p class="fineprint">
 				Click above to email Boyd MacKenzie, or call (204)955-5350 for further information. 
 			</p>
