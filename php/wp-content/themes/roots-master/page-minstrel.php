@@ -18,7 +18,7 @@ Template Name: Page Minstrel Template
 	</div>
 <!-- /row -->
 	<div class="row">
-		<div class="span8">
+		<div class="span7">
 			<h4>
 				Planning an event? 
 			</h4>
@@ -41,6 +41,13 @@ Template Name: Page Minstrel Template
 			</p>
 		</div>
 <!-- /span6 -->
+		<div class="span1">
+			<a href=“mailto:bmackenzie5@shaw.ca”><img src="http://www.themco.ca/wp-content/uploads/2017/03/mail.png" alt="" width="75" height="150" /></a><br />
+			<p class="fineprint">
+				Click above to email Boyd MacKenzie, or call (204)955-5350 for further information. 
+			</p>
+		</div>
+<!-- /span2 -->
 	</div>
 <!-- /row -->
 <?php get_template_part('templates/content', 'minstrel'); ?>
