@@ -39,6 +39,8 @@ Template Name: Page Minstrel Template
 			<p>
 				But don&rsquo;t let that fool you: our rates are competitive, and we work with our clients to determine the most efficient use of our musicians&rsquo; time to keep your costs low. Families, local bands, and small businesses hire us just as often as the stars do. And if you&rsquo;re looking to hire musicians to accompany you or an artist you represent, we have accomplished arrangers we work with who are experienced in preparing orchestral arrangements of music in all genres under tight deadlines. 
 			</p>
+			<?php echo do_shortcode('[contact-form-7 id="1940" title="Minstrel event form"]'); ?>
+
 		</div>
 <!-- /span6 -->
 		<div class="span1">
