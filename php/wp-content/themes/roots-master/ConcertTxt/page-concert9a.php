@@ -32,7 +32,7 @@ Template Name: Page Concert9 Template
 				The production is unique among MCO collaborations, an immersive new work of art that brings together a group of celebrated artists: Th&eacute;&acirc;tre Cercle Moli&egrave;re, writer Rh&eacute;al Cenerini and composer Michael Oesterle. In the tradition of Stravinsky&rsquo;s <em>A Soldier&rsquo;s Tale</em>, Nanabozho et le tambour&thinsp;/&thinsp;Nanabush and the Drum is an enchanting piece of theatre that merges music, myth, and poetry. 
 			</p>
 			<p>
-				While celebrating Canada&rsquo;s 150th birthday, the piece illuminates the diversity of our heritage. The work is bilingual, but accessible to Anglophones and Francophones equally, and appropriate for all ages. Matinee performances for school groups will take place both days. 
+				While celebrating Canada&rsquo;s 150th birthday, <em>Nanabush and the drum / Nanabozho et le tambour</em> illuminates the diversity of our heritage. The work is a bilingual work, equal parts French and English. Rich with physical humour, evocative music, and vivid theatrical elements, it will be accessible to a broad audience. Matinee performances for school groups will take place both days. 
 			</p>
 			<p>
 				<b>Th&eacute;&acirc;tre Cercle Moli&egrave;re</b> 
@@ -42,9 +42,6 @@ Template Name: Page Concert9 Template
 			</p>
 			<p>
 				&ldquo;The company&rsquo;s future is brimming with new partnerships, co-productions with major players, Canadian tours and new works that reflect the francophone community today. We are thrilled about the new developments to come for this 90-year-old company, en route to our centennial&rdquo; &mdash;&thinsp;Genevi&egrave;ve Pelletier, Artistic Director. 
-			</p>
-			<p>
-				<em>Nanabush and the drum / Nanabozho et le tambour</em> is a bilingual work, equal parts French and English. Rich with physical humour, evocative music, and vivid theatrical elements, it will be accessible to a broad audience.
 			</p>
 			<div>
 				<p>
@@ -128,6 +125,12 @@ Template Name: Page Concert9 Template
 						</p>
 						<p>
 							Th&eacute;&acirc;tre Cercle Moli&egrave;re is the oldest theatre company with uninterrupted programming in Canada. Established in 1925, the company&rsquo;s founders had the objective of bringing the French language to life within and beyond St. Boniface&rsquo;s vibrant community. Today, the objective remains the same as the company strives to bridge language barriers with their subtitled performances and to present inclusive and diverse programming to appeal to Winnipeg&rsquo;s ever-changing community. &ldquo;The company&rsquo;s future is brimming with new partnerships, co-productions with major players, Canadian tours and new works that reflect the francophone community today,&rdquo; says Genevi&egrave;ve Pelletier, Artistic Director of the organization. &ldquo;We are thrilled about the new developments to come for this 90-year-old company, en route to our centennial.&rdquo; 
+						</p>
+						<p>
+							<b>Michael Oesterle</b> 
+						</p>
+						<p>
+							The Princeton educated Michael Oesterle composes in a style reminiscent of the American minimalists (Terry Riley, John Adams), and offers a balance between simplicity and complexity that has a broad appeal to audiences. This is the second time Dame Evelyn plays Oesterle&rsquo;s <i>Kaluza Klein</i> with the MCO; it was commissioned for her and premiered by the MCO in 2012. 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="notes">

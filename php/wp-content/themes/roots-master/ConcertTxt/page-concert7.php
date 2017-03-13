@@ -29,7 +29,7 @@ Template Name: Page Concert7 Template
 				Winnipeggers and the MCO have been with Brueggergosman since the beginning. As an up-and-coming soloist, the soprano performed an emotional concert with the MCO two weeks after the 2001 World Trade Center attacks. While establishing herself as an international celeb over the course of the next 15 years, she would perform with the MCO no fewer than five times, as well as record a CD with our orchestra for CBC Records. 
 			</p>
 			<p>
-				This season, the Juno-winner sings the exquisite Four Last Songs of Richard Strauss in an intimate arrangement for piano quintet. With Earl Stafford conducting, the MCO also performs Strauss&rsquo; Metamorphosen and a new work by local composer Luke Nickel. 
+				This season, the Juno-winner sings the exquisite <em>Four Last Songs</em> of Richard Strauss in an intimate arrangement for piano quintet. With Earl Stafford conducting, the MCO also performs Strauss&rsquo; Metamorphosen and a new work by local composer Luke Nickel. 
 			</p>
 			<p>
 				<b>More Measha</b> 
@@ -39,7 +39,7 @@ Template Name: Page Concert7 Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"><button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music! CMU students of Rose Vanderhooft; 6:45 pm.">Event</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation by Haley Marie. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> 
 				</p>
 			</div>
 			<p>
