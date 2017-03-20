@@ -28,31 +28,118 @@ Template Name: Page Aihm Template
 			<p>
 				Check back for a list of upcoming performances being offered by the MCO in regional hospitals through this program. Members of the general public are also warmly invited to attend these performances. 
 			</p>
-				<table class="table table-striped">
-					<tr>
-						<td>31 September 2017</td>
-					</tr>
-					<tr>
-						<td>MCO String Quartet</td>
-					</tr>
-					<tr>
-						<td>Laura Chenail Hough, violin</td>
-					</tr>
-					<tr>
-						<td>Boyd MacKenzie, violin</td>
-					</tr>
-					<tr>
-						<td>Suzanne McKegney, viola</td>
-					</tr>
-					<tr>
-						<td>Desiree Abbey, mcello</td>
-					</tr>
-				</table>
+			<table class="table table-striped">
+				<tr>
+					<td><strong>31 September 2016 / MCO String Quartet</strong></td>
+				</tr>
+				<tr>
+					<td>Laura Chenail Hough, violin</td>
+				</tr>
+				<tr>
+					<td>Boyd MacKenzie, violin</td>
+				</tr>
+				<tr>
+					<td>Suzanne McKegney, viola</td>
+				</tr>
+				<tr>
+					<td>Desiree Abbey, cello</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><strong>25 January 2017 / Chisholm Trio</strong></td>
+				</tr>
+				<tr>
+					<td>Laurie Mackenzie, guitar</td>
+				</tr>
+				<tr>
+					<td>Denis Petrowski, guitar</td>
+				</tr>
+				<tr>
+					<td>Bradely Derksen, guitar</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><strong>22 February 2017 / MCO Principal Cellist</strong></td>
+				</tr>
+				<tr>
+					<td>Desiree Abbey, cello</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><strong>22 March 2017 / MCO Outreach Group, Fiddlers on the Loose</strong></td>
+				</tr>
+				<tr>
+					<td>Mary Lawton, violin</td>
+				</tr>
+				<tr>
+					<td>Boyd MacKenzie, violin</td>
+				</tr>
+				<tr>
+					<td>Suzanne McKegney, viola</td>
+				</tr>
+				<tr>
+					<td>Carolyn Nagelberg, cello</td>
+				</tr>
+				<tr>
+					<td>Paul Nagelberg, bass</td>
+				</tr>
+				<tr>
+					<td>Rodrigo Mu&ntilde;oz, ,guitar</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><strong>19 April 2017 / Will Bonness Jazz Duo</strong></td>
+				</tr>
+				<tr>
+					<td>Will Bonness, piano</td>
+				</tr>
+				<tr>
+					<td>Julian Bradford, bass</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><strong>24 May 2017 / Chisholm Trio</strong></td>
+				</tr>
+				<tr>
+					<td>Laurie Mackenzie, guitar</td>
+				</tr>
+				<tr>
+					<td>Denis Petrowski, guitar</td>
+				</tr>
+				<tr>
+					<td>Bradely Derksen, guitar</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+				<tr>
+					<td><strong>21 June 2017 / MCO Cello &amp; Violin duo</strong></td>
+				</tr>
+				<tr>
+					<td>Mary Lawton, violin</td>
+				</tr>
+				<tr>
+					<td>Alex Adaman, cello</td>
+				</tr>
+				<tr>
+					<td>&nbsp;</td>
+				</tr>
+			</table>
 			<p>
-				<small>Flow image from AIHM website.</small>
+				<small>Flow image from AIHM website.</small> 
 			</p>
 			<p>
-				&nbsp;
+				&nbsp; 
 			</p>
 			<div class="span6">
 				<div class="well">
