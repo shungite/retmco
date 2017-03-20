@@ -31,10 +31,20 @@ Template Name: Page Aihm Template
 				<table class="table table-striped">
 					<tr>
 						<td>31 September 2017</td>
+					</tr>
+					<tr>
 						<td>MCO String Quartet</td>
+					</tr>
+					<tr>
 						<td>Laura Chenail Hough, violin</td>
+					</tr>
+					<tr>
 						<td>Boyd MacKenzie, violin</td>
+					</tr>
+					<tr>
 						<td>Suzanne McKegney, viola</td>
+					</tr>
+					<tr>
 						<td>Desiree Abbey, mcello</td>
 					</tr>
 				</table>
