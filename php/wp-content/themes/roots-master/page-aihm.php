@@ -54,13 +54,13 @@ Template Name: Page Aihm Template
 					<td><strong>25 January 2017 / Chisholm Trio</strong></td>
 				</tr>
 				<tr>
-					<td>Laurie Mackenzie, guitar</td>
+					<td>Laurie Mackenzie, guitar and vocals</td>
 				</tr>
 				<tr>
-					<td>Denis Petrowski, guitar</td>
+					<td>Denis Petrowski, guitar and vocals</td>
 				</tr>
 				<tr>
-					<td>Bradely Derksen, guitar</td>
+					<td>Bradely Derksen, guitar and vocals</td>
 				</tr>
 				<tr>
 					<td>&nbsp;</td>
@@ -114,13 +114,13 @@ Template Name: Page Aihm Template
 					<td><strong>24 May 2017 / Chisholm Trio</strong></td>
 				</tr>
 				<tr>
-					<td>Laurie Mackenzie, guitar</td>
+					<td>Laurie Mackenzie, guitar and vocals</td>
 				</tr>
 				<tr>
-					<td>Denis Petrowski, guitar</td>
+					<td>Denis Petrowski, guitar and vocals</td>
 				</tr>
 				<tr>
-					<td>Bradely Derksen, guitar</td>
+					<td>Bradely Derksen, guitar and vocals</td>
 				</tr>
 				<tr>
 					<td>&nbsp;</td>
