@@ -142,11 +142,9 @@ Template Name: Page Aihm Template
 				&nbsp; 
 			</p>
 			<div class="span6">
-				<div class="well">
-					<p>
-						<img src="http://www.themco.ca/wp-content/uploads/2017/03/MCO-D.jpg"> 
-					</p>
-				</div>
+				<p>
+					<img src="http://www.themco.ca/wp-content/uploads/2017/03/MCO-D.jpg"> 
+				</p>
 			</div>
 		</div>
 <!-- /span6 -->
