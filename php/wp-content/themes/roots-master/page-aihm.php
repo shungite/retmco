@@ -28,8 +28,22 @@ Template Name: Page Aihm Template
 			<p>
 				Check back for a list of upcoming performances being offered by the MCO in regional hospitals through this program. Members of the general public are also warmly invited to attend these performances. 
 			</p>
-			<p><small>Flow image from AIHM website.</small></p>
-			<p>&nbsp;</p>
+				<table class="table table-striped">
+					<tr>
+						<td>31 September 2017</td>
+						<td>MCO String Quartet</td>
+						<td>Laura Chenail Hough, violin</td>
+						<td>Boyd MacKenzie, violin</td>
+						<td>Suzanne McKegney, viola</td>
+						<td>Desiree Abbey, mcello</td>
+					</tr>
+				</table>
+			<p>
+				<small>Flow image from AIHM website.</small>
+			</p>
+			<p>
+				&nbsp;
+			</p>
 			<div class="span6">
 				<div class="well">
 					<p>
