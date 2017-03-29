@@ -104,7 +104,7 @@ Template Name: Page Concert6 Template
 							<b>Josef Suk</b><br><i>Serenade for Strings</i>, in E Flat Major, Op. 6 
 						</p>
 						<p>
-							Concert sponsor / <strong> <a href="http://www.investorsgroup.com/en/default.aspx"> Investors Group </a> </strong> 
+							Concert sponsor / <strong> <a href="http://www.investorsgroup.com/en/default.aspx"> Investors Group </a> </strong><br>Guest Artist sponsor / <a href="http://www.wpgfdn.org/Home.aspx"><strong>The Winnipeg Foundation</a><br>&thinsp;&mdash;&thinsp;Chipman Family Foundation F	und</strong>
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
