@@ -7,7 +7,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="covercontainer">
-				<a href="http://www.themco.ca/concert/new-casseday/"><img src="http://www.themco.ca/wp-content/uploads/2017/02/head29mar17cover.jpg" alt="MCO / Gemm New, Sam Casseday"></a> 
+				<a href="http://www.themco.ca/concert/manson-brueggergosman/"><img src="http://www.themco.ca/wp-content/uploads/2016/06/head26apr17.jpg" alt="MCO / Earl Stafford, Measha Brueggergosman"></a> 
 				<div class="playbutton">
 <?php echo do_shortcode('[video_lightbox_youtube video_id="2RqcUZzJa-c" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
 				</div>
@@ -17,10 +17,10 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				﻿In with the New!
+				﻿Measha Brueggergosman<br>and the genius of Strauss 
 			</h4>
 			<p>
-			For all the famous, veteran soloists the MCO presents, we feature nearly as many young prodigies on the cusp of fame. Guest conductor <strong>Gemma New</strong> and double bassist <strong>Sam Casseday</strong> are surely among them. &#xFEFF;With jaw-dropping artistry, 23-year-old Casseday will perform a double bass arrangement of Mozart&rsquo;s 5th violin concerto, otherwise known as &lsquo;The Turkish.&rsquo; You know the tune. You&rsquo;ve heard it on violin and as a cellphone ringtone&mdash;but have you ever heard it on a big, bad double bass? Further details <a href="http://www.themco.ca/concert/new-casseday/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two to the evening concert, click these links.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=431b070642f14a13be313e2450a9350d"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e3ad99df27a74b968b406553e85b3dcf"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=95a724cd7eca443d8349614609463668"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
+				Measha Brueggergosman embodies the term &lsquo;diva&rsquo; in the best sense. Who else could boast of both singing opera on the world&rsquo;s most prestigious stages and acting as a judge on Project Runway? This season, the Juno-winner sings the exquisite Four Last Songs of Richard Strauss in an intimate arrangement for piano quintet. With Earl Stafford conducting, the MCO also performs Strauss&rsquo; Metamorphosen and a new work by local composer Luke Nickel. Further details <a href="http://www.themco.ca/concert/manson-brueggergosman/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two to the evening concert, click these links.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=fd013d4be91941ffa1e56cbf0340a81e"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=c0ed99b4cc7848d89e525fb890cfbea1"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=768beb8510244ff69c1cf18383a98f11"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
@@ -33,7 +33,7 @@ Template Name: Page MCOhome Template
 					<div class="media-body">
 						<p>
 							<strong><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/">Click here to subscribe to MCO&rsquo;s 2017/18 season<br>&mdash;&thinsp;enjoy early-bird rates on 6 or 9 concerts in Westminster Church!</strong></a><br />
-							Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;
+							Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; 
 						</p>
 					</div>
 				</div>
@@ -89,13 +89,13 @@ Template Name: Page MCOhome Template
 				<a href="https://www.factor.ca/"><img src="http://www.themco.ca/wp-content/uploads/2017/01/FACTOR150.png"></a>&nbsp;&nbsp;<a href="https://www.canada.ca/en.html"><img src="http://www.themco.ca/wp-content/uploads/2017/01/CanadaWordmark150.png"></a> 
 			</p>
 			<p>
-				<small>2016/17 recording and touring projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small>
+				<small>2016/17 recording and touring projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small> 
 			</p>
 			<p>
-				<small>Les projets d'enregistrement et les projets  de tournage en 2016-2017 ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small>
+				<small>Les projets d'enregistrement et les projets de tournage en 2016-2017 ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small> 
 			</p>
 			<p>
-				&nbsp;
+				&nbsp; 
 			</p>
 		</div>
 	</div>
@@ -103,6 +103,7 @@ Template Name: Page MCOhome Template
 </div>
 <!-- /container -->
 <script type="text/javascript">
+
 
 
 
