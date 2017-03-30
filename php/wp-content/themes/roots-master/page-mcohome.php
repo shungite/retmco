@@ -8,9 +8,7 @@ Template Name: Page MCOhome Template
 		<div class="span8">
 			<div class="covercontainer">
 				<a href="http://www.themco.ca/concert/manson-brueggergosman/"><img src="http://www.themco.ca/wp-content/uploads/2016/06/head26apr17.jpg" alt="MCO / Earl Stafford, Measha Brueggergosman"></a> 
-				<div class="playbutton">
-<?php echo do_shortcode('[video_lightbox_youtube video_id="2RqcUZzJa-c" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
-				</div>
+				
 			</div>
 		</div>
 	</div>
