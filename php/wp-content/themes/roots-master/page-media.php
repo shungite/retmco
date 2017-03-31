@@ -25,6 +25,9 @@ Template Name: Page Media Template
       <div class="tab-pane fade in active" id="video">
         <div class="well">
 
+          <p><strong>MCO&rsquo;s Vicki Young announces the 2017/18 season<br> on Classic 107&rsquo;s Morning Light program</strong></p>
+          <iframe width="80%" height="360" src="//www.youtube.com/embed/aN1rbalUqtE" frameborder="0" allowfullscreen></iframe>
+
           <p><strong>Complete! Vivaldi&rsquo;s lively RV&thinsp;443<br>performed by Dutch recorder star Lucie Horsch</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/knOUxSQhcNQ" frameborder="0" allowfullscreen></iframe>
 
