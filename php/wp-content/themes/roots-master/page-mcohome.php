@@ -34,7 +34,7 @@ Template Name: Page MCOhome Template
 						<p>
 							<strong><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/">Click here to subscribe to MCO&rsquo;s 2017/18 season<br>&mdash;&thinsp;enjoy early-bird rates on 6 or 9 concerts in Westminster Church!</strong></a><br />
 							Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; 
-<?php echo do_shortcode('[video_lightbox_youtube video_id="aN1rbalUqtE" width="640" height="480" anchor="<strong>Video: MCO&rsquo;s Vicki Young introduces the season on Classic 107!</strong>"]'); ?>
+<?php echo do_shortcode('[video_lightbox_youtube video_id="aN1rbalUqtE" width="640" height="480" anchor="<strong>Video: MCO&rsquo;s Vicki Young introduces the season on Classic 107&rsquo;s Morning Light program!</strong>"]'); ?>
 						</p>
 					</div>
 				</div>
