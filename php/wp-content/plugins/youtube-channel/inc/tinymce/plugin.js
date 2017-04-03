@@ -119,20 +119,6 @@
 								},
 								*/
 								{
-									type: 'checkbox',
-									name: 'privacy',
-									label: 'Use Enhanced Privacy',
-									tooltip: 'Enable this option to protect your visitors privacy',
-									checked: false
-								},
-								{
-									type: 'checkbox',
-									name: 'random',
-									label: 'Random video',
-									tooltip: 'Show random video from resource (Have no effect if \"What to show?\" has been set to \"Embedded Playlist\")',
-									checked: false
-								},
-								{
 									type: 'textbox',
 									name: 'fetch',
 									label: 'Fetch',
@@ -145,6 +131,20 @@
 									label: 'Show',
 									value: '1',
 									tooltip: 'Number of videos to display'
+								},
+								{
+									type: 'checkbox',
+									name: 'privacy',
+									label: 'Use Enhanced Privacy',
+									tooltip: 'Enable this option to protect your visitors privacy',
+									checked: false
+								},
+								{
+									type: 'checkbox',
+									name: 'random',
+									label: 'Random video',
+									tooltip: 'Show random video from resource (Have no effect if \"Embed as\" has been set to \"Embedded Playlist\")',
+									checked: false
 								},
 							]
 						},
@@ -180,7 +180,7 @@
 								{
 									type: 'listbox',
 									name: 'display',
-									label: 'What to show?',
+									label: 'Embed as',
 									tooltip: '',
 									values : [
 										{text: 'Thumbnail', value: 'thumbnail'},

@@ -3,7 +3,7 @@
 Plugin Name: YouTube Channel
 Plugin URI: https://urosevic.net/wordpress/plugins/youtube-channel/
 Description: Quick and easy embed latest or random videos from YouTube channel (user uploads, liked or favourited videos) or playlist. Use <a href="widgets.php">widget</a> for sidebar or shortcode for content. Works with <em>YouTube Data API v3</em>.
-Version: 3.0.10
+Version: 3.0.10.5
 Author: Aleksandar Urošević
 Author URI: https://urosevic.net/
 Text Domain: youtube-channel
@@ -17,14 +17,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 	class WPAU_YOUTUBE_CHANNEL {
 
-		const DB_VER = 15;
-		const VER = '3.0.10';
+		const DB_VER = 17;
+		const VER = '3.0.10.5';
 
 		public $plugin_name   = 'YouTube Channel';
 		public $plugin_slug   = 'youtube-channel';
 		public $plugin_option = 'youtube_channel_defaults';
 		public $plugin_url;
-
 		public $ytc_html5_js = '';
 
 		/**
@@ -124,6 +123,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 				'norel'          => 0,
 				'playsinline'    => 0, // play video on mobile devices inline instead in native device player
 				'showtitle'      => 'none',
+				'titletag'       => 'h3',
 				'showdesc'       => 0,
 				'desclen'        => 0,
 				'modestbranding' => 0,
@@ -876,9 +876,7 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 			} // single playlist or ytc way
 
 			// Append link to channel on bootom of the widget
-			if ( ! empty( $instance['link_to'] ) && 'none' != $instance['link_to'] ) {
-				$output .= $this->ytc_channel_link( $instance );
-			}
+			$output .= $this->ytc_footer( $instance );
 
 			$output .= '</div><!-- .youtube_channel -->';
 
@@ -981,15 +979,37 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 		 * @param  array $instance widget or shortcode settings
 		 * @return array           components prepared for output
 		 */
+		function ytc_footer( $instance ) {
+
+			// Initialize output string
+			$output = '';
+
+			// Get link to channel part
+			$output .= $this->ytc_channel_link( $instance );
+
+			// Wrap content, if we have it
+			if ( ! empty( $output ) ) {
+				$output = $this->clearfix() . '<div class="ytc_link"><p>' . $output . '</p></div>';
+			}
+
+			return $output;
+		} // end function ytc_footer
+
+		function clearfix() {
+			return '<div class="clearfix"></div>';
+		}
+		/**
+		 * Generate link to YouTube channel/user
+		 * @param  array $instance widget or shortcode settings
+		 * @return array           components prepared for output
+		 */
 		function ytc_channel_link( $instance ) {
 
-			// initialize array
-			// $output = array();
 			// Initialize output string
 			$output = '';
 
 			// do we need to show goto link?
-			if ( 'none' != $instance['link_to'] ) {
+			if ( ! empty( $instance['link_to'] ) && 'none' != $instance['link_to'] ) {
 
 				$goto_url = 'https://www.youtube.com/';
 
@@ -1040,9 +1060,6 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 
 				$newtab = __( 'in new window/tab', 'youtube-channel' );
 
-				$output .= '<div class="clearfix"></div>';
-				$output .= '<div class="ytc_link">';
-				$output .= '<p>';
 				switch ( $instance['popup_goto'] ) {
 					case 1:
 						$output .= "<a href=\"javascript: window.open('{$goto_url}'); void 0;\" title=\"{$goto_txt} {$newtab}\">{$goto_txt}</a>";
@@ -1053,13 +1070,11 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 					default:
 						$output .= "<a href=\"{$goto_url}\" title=\"{$goto_txt}\">$goto_txt</a>";
 				} // switch popup_goto
-				$output .= '</p>';
-				$output .= '</div>';
 
-			} // showgoto
+			} // END if ( ! empty( $instance['link_to'] ) && 'none' != $instance['link_to'] )
 
 			return $output;
-		} // end function ytc_channel_link
+		} // END function ytc_channel_link
 
 
 		/**
@@ -1118,7 +1133,8 @@ if ( ! class_exists( 'WPAU_YOUTUBE_CHANNEL' ) ) {
 
 			// Show video title above video?
 			if ( ! empty( $instance['showtitle'] ) && 'above' == $instance['showtitle'] ) {
-				$output .= "<h3 class=\"ytc_title ytc_title_above\">{$yt_title}</h3>";
+				$title_tag = isset( $instance['titletag'] ) ? $instance['titletag'] : $this->defaults['titletag'];
+				$output .= "<{$title_tag} class=\"ytc_title ytc_title_above\">{$yt_title}</{$title_tag}>";
 			}
 
 			// Print out video

@@ -3,8 +3,8 @@ Contributors: urkekg
 Donate link: https://urosevic.net/wordpress/donate/?donate_for=youtube-channel
 Tags: youtube, channel, playlist, single, widget, widgets, youtube player, feed, video, thumbnail, embed, sidebar, iframe, html5, responsive
 Requires at least: 4.0
-Tested up to: 4.7
-Stable tag: 3.0.10
+Tested up to: 4.7.2
+Stable tag: 3.0.10.5
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -29,6 +29,7 @@ For manual set of videos from YouTube check out [Easy YouTube Gallery](https://w
 * Enhanced Privacy
 * Choose to display video as thumbnail (default), HTML5 (iframe) or HTML5 Asynchronous (iframe2)
 * Thumbnail mode opens video in lightbox
+* Hide or show video title above/below video wrapped to HTML tag by your choice (h3, h4, h5, span or div)
 * Custom feed caching timeout
 * Optional video autoplay with optional muted audio
 * Optional TinyMCE button on post/page edit (can be disabled on General plugin settings page)
@@ -49,7 +50,7 @@ You can use `style.css` from theme or other custom location to additionaly style
 * `.youtube_channel` – YTC block wrapper class. Additional classes are available:
   * `.default` – for non-responsive block
   * `.responsive` – when you have enabled responsive option
-* `.ytc_title` – class of H3 tag for video title above thumbnail/video object
+* `.ytc_title` – class for video title container above thumbnail/video object
   * `.ytc_title_above` - additional class for video title above video/thumbnail
   * `.ytc_title_below` - additional class for video title below video/thumbnail
 * `.ytc_video_container` – class of container for single item, plus:
@@ -332,6 +333,9 @@ and custom CSS code added to theme style.css or similar customization:
 
 So, we display thumbnails for 7 random videos from default (global) playlist, and distribute small thumbnails to 3 columns on wide screens, 2 columns under 768px and single thumbnail per row under 480px.
 
+= How I can add pagination (for example to Dynamic Wall view)? =
+
+Unfortunately, YouTube Channel does not support pagination, so you’ll get only defined number of YouTube items in block in single view, no matter did you choose thumbnail or HTML5 Embed as mode. 
 
 = How to reduce size of/remove thumbnail Play button? =
 
@@ -353,6 +357,25 @@ If you really need that missing feature ASAP, feel free to [contact me](urosevic
 If you don't wish to pay for enhancements (then you don't care would that be implemented in a week, month, year or so), then send new [Support topic](https://wordpress.org/support/plugin/youtube-channel) with *Topic title* in format **[Feature Request] ...**
 
 == Changelog ==
+= 3.0.10.5 (20170225) =
+* Remove: FMVD opt-in because of general plugin guideline violation rule #9
+
+= 3.0.10.4 (20170123) =
+* Fix: once enabled FMVD notice has not auto dismissed.
+* Change: input type for YouTube Data API Key from password to text so key is visible by webmaster and prevent messing with autofill browser extensions
+
+= 3.0.10.3 (20170114) =
+* Add opt-in option Freemage Video Downloader
+* Code cleanup: delete unused admin.js file
+* UI cleanup: enhance checkbox control in settings
+* UI cleanup: update option names like 'What to show' is now 'Embed as', 'Hide related videos' to 'No related videos' , etc
+
+= 3.0.10.2 (20170110) =
+* Add option to select Title HTML tag (default to H3)
+
+= 3.0.10.1 (20170110) =
+* Fix Parse error: syntax error, unexpected T_PAAMAYIM_NEKUDOTAYIM, expecting ')' in /plugins/youtube-channel/inc/settings.php on line 218
+
 = 3.0.10 (20161231) =
 * (20161225) Optimize: Remove `extract()` from shortcode parser
 * Code cleanup and fixing to be compliant with WordPress Core coding standards

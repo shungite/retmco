@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 global $wpau_youtube_channel;
 ?>
 <div class="wrap" id="youtube_channel_settings">
-	<p style="float:right;text-align:center;"><small>Support YTC developer</small><br><a href="https://urosevic.net/wordpress/donate/?donate_for=youtube-channel" target="_blank">Donate via PayPal</a></p>
+	<p style="float:right;text-align:center;"><small>Support YouTube Channel</small> <a href="https://urosevic.net/wordpress/donate/?donate_for=youtube-channel" target="_blank">Donate via PayPal</a></p>
 	<h2><?php echo $wpau_youtube_channel->plugin_name . __( ' Settings', 'youtube-channel' ); ?></h2>
 	<?php
 	$active_tab = isset( $_GET['tab'] ) ? $_GET['tab'] : 'general';

@@ -421,3 +421,38 @@ function au_youtube_channel_update_routine_14() {
 	}
 
 } // END function au_youtube_channel_update_routine_14()
+
+/**
+ * Add default value for new global option titletag
+ */
+function au_youtube_channel_update_routine_16() {
+
+	// get options from DB
+	$defaults = get_option( 'youtube_channel_defaults' );
+
+	if ( ! isset( $defaults['titletag'] ) ) {
+		$defaults['titletag'] = 'h3';
+	}
+
+	if ( isset( $defaults ) ) {
+		update_option( 'youtube_channel_defaults', $defaults );
+		unset( $defaults );
+	}
+
+} // END function au_youtube_channel_update_routine_16()
+
+/**
+ * Remove fmvd option
+ */
+function au_youtube_channel_update_routine_17() {
+
+	// Get array of dismissed notices
+	$dismissed_notices = get_option( 'youtube_channel_dismissed_notices' );
+
+	if ( ! empty( $dismissed_notices['fmvd'] ) ) {
+		unset( $dismissed_notices['fmvd'] );
+		update_option( 'youtube_channel_dismissed_notices', $dismissed_notices );
+	}
+
+} // END function au_youtube_channel_update_routine_16()
+
