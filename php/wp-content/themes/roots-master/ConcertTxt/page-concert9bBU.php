@@ -6,7 +6,7 @@ Template Name: Page Concert9 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/03/NanabushNanabozho.png" width="600" height="456" alt="Nanabush and the Drum"> 
+			[video_lightbox_youtube video_id="AAaG3Hmea5E" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/12/head08jun17vid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>
@@ -51,10 +51,6 @@ Template Name: Page Concert9 Template
 			<p>
 				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 8th at <a href="http://www.westminsterchurch.org">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b> 
 			</p>
-			<p>
-				<small>Artwork: Cash Akoza</small>
-			</p>
-
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
 					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Don_Anderson_small.jpg">

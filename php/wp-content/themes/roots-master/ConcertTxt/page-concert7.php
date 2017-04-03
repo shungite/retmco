@@ -6,7 +6,7 @@ Template Name: Page Concert7 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2016/06/head26apr17.jpg" width="770" height="455" alt="Stafford, Casseday"> 
+			[video_lightbox_youtube video_id="dBhAT1IiOEI" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2017/03/head26apr17vid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>
@@ -95,7 +95,7 @@ Template Name: Page Concert7 Template
 							<b>Richard Strauss</b><br><i>Metamorphosen</i> 
 						</p>
 						<p>
-							<b>Richard Strauss</b><br><i>Four Last Songs</i><br>&thinsp;&mdash;arr. by John Greer
+							<b>Richard Strauss</b><br><i>Four Last Songs</i><br>&thinsp;&mdash;arr. by John Greer 
 						</p>
 						<p>
 							Concert sponsor / <a href="https://www.canadahelps.org/en/charities/the-gail-asper-family-foundation-inc/?gclid=CjwKEAjwmMS-BRCm5dn51JLbp1wSJACc61tFw3QwWIC0TqZiU-b970wX5FWstUYwP-ixSt1dy_0YhRoCo0fw_wcB"><b>Gail Asper Family Foundation</b></a><br>Concert media sponsor / <b>Neighbours of Tuxedo (<a href="http://www.bestversionmedia.com/">Best Version Media</a>)</b> 

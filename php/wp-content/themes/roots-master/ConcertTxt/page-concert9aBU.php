@@ -6,7 +6,7 @@ Template Name: Page Concert9 Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/03/NanabushNanabozho.png" width="600" height="456" alt="Nanabush and the Drum"> 
+			[video_lightbox_youtube video_id="AAaG3Hmea5E" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/12/head07jun17vid.jpg"] 
 		</div>
 		<div class="span2">
 			<p>
@@ -23,7 +23,7 @@ Template Name: Page Concert9 Template
 				</div>
 			</h4>
 			<p>
-				<b>Note: ticket links on this page are for the June 8th performances. <a href="http://www.themco.ca/concert/nanabozho-7-june-2016/">June 7th concerts here.</a></b> 
+				<b>Note: ticket links on this page are for the June 7th performances. <a href="http://www.themco.ca/concert/nanabozho-8-june-2016/">June 8th concerts here.</a></b> 
 			</p>
 			<p>
 				The trickster is jealous. He&rsquo;s fallen for the daughter of a powerful chief. Unfortunately for him, another man has laid claim to her heart: a coureur de bois, a little on the na&iuml;ve side to boot! What&rsquo;s a poor trickster to do but send his rival packing with a series of ploys that leave the outsider battered and bruised? The young woman, though, is far stronger, sager and more resourceful that anyone could have imagined&hellip; 
@@ -49,12 +49,8 @@ Template Name: Page Concert9 Template
 				</p>
 			</div>
 			<p>
-				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 8th at <a href="http://www.westminsterchurch.org">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b> 
+				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 7th at <a href="http://www.westminsterchurch.org">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO&rsquo;s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b> 
 			</p>
-			<p>
-				<small>Artwork: Cash Akoza</small>
-			</p>
-
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
 					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Don_Anderson_small.jpg">
@@ -68,12 +64,12 @@ Template Name: Page Concert9 Template
 <!-- /span7 -->
 		<div class="span1">
 			<img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=bb6b3341aaa5450b8b659e037b255a4f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e8f12c2fc2f84e0e8b0ba1d7ab2d1e33"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=729874750d78477b80ca1bb9e1d2bc80"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> <img src="http://www.themco.ca/wp-content/uploads/2016/03/MatineeTicketsHereLo.png" alt="" width="75" height="150" /><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=00f1372950f547f8939aa3abb46e0347"><img rel="tooltip" title="Add adult matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=8b9a8422a1f541bdbbd69ef83acfdd18"><img rel="tooltip" title="Add senior matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=9ba8692479a54f7dbf9693ce4b9311f5"><img rel="tooltip" title="Add student matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=58d67495d0ac4955a53d6d6b76669cd0"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=2835ef7bfe1644b0bbaddb5a161281bb"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=1cd2b5c8a2b340dbb281cf668ef54528"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> <img src="http://www.themco.ca/wp-content/uploads/2016/03/MatineeTicketsHereLo.png" alt="" width="75" height="150" /><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=3bcb6aaab5024b8d9133d716dd50129c"><img rel="tooltip" title="Add adult matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=9d0f6248d7984fd3bbd8787571121dae"><img rel="tooltip" title="Add senior matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=560beae025124edab6ddd3583cb4fd7b"><img rel="tooltip" title="Add student matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
 			<p class="fineprint">
 				Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets. 
 			</p>
@@ -96,7 +92,7 @@ Template Name: Page Concert9 Template
 							<strong>Manitoba Chamber Orchestra</strong><br />
 							Anne Manson, Music Director<br />
 							Karl Stobbe, Concertmaster<br />
-							Westminster United Church<br>8 June 2017 
+							Westminster United Church<br>7 June 2017 
 						</p>
 						<p>
 							<i>Nanabush and the Drum</i>&thinsp;/&thinsp;<i>Nanabozho et le tambour</i><br>Anne Manson, conductor<br>Genevi&egrave;ve Pelletier, Director 
@@ -105,10 +101,7 @@ Template Name: Page Concert9 Template
 							<i>A Soldier&rsquo;s Tale</i> (evening performances only)<br>Original libretto by Charles-Ferdinand Ramuz; translated by Jeremy Sams<br>Music by Igor Stravinsky 
 						</p>
 						<p>
-							<i>Nanabozho et le tambour</i> / <i>Nanabush and the Drum</i><br> Script by Rh&eacute;al Cenerini<br> Music by Michael Oesterle 
-						</p>
-						<p>
-							Concertmaster sponsor / <b>Raymond H&eacute;bert</b> 
+							<i>Nanabozho et le tambour</i>&thinsp;/&thinsp;<i>Nanabush and the Drum</i><br> Script by Rh&eacute;al Cenerini<br> Music by Michael Oesterle 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
