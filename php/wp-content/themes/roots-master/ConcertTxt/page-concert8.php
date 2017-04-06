@@ -92,7 +92,7 @@ Template Name: Page Concert8 Template
 							Anne Manson, conductor<br>Asier Polo, cello 
 						</p>
 						<p>
-							<b>Andrew Balfour</b><br>Kiwetin-Acahkos&thinsp;&mdash;&thinsp;North Star<br>Fanfare for the Peoples of the North<br>A Canada 150 Signature Project<br>Toronto Symphony Orchestra commission<br>World premiere performance<br>Funded by the Government of Canada 
+							<b>Andrew Balfour</b><br>Kiwetin-acahkos&thinsp;&mdash;&thinsp;North Star<br>Fanfare for the Peoples of the North<br>A Canada 150 Signature Project<br>Toronto Symphony Orchestra commission<br>World premiere performance<br>Funded by the Government of Canada 
 						</p>
 						<p>
 							<b>Enrique Granados</b><br><i>Intermezzo from <em>Goyescas</em></i> 
