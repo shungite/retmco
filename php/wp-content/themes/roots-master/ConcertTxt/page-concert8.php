@@ -26,7 +26,7 @@ Template Name: Page Concert8 Template
 				From Carnegie Hall to the MCO, Asier Polo bowls audiences over. In Spain, he is considered the leading national cellist; in Winnipeg he is, alongside Colin Carr, a bonafide cello celebrity. 
 			</p>
 			<p>
-				A champion of modern Spanish music, Asier Polo will play Joaquin Rodrigo&rsquo;s whimsical <i> Concierto in modo galante </i> and Granados&rsquo;s rapturous <i> Intermezzo de Goyescas </i> . The 20th-century music of the Spanish-speaking world is known for its neo-romantic tendencies, and this is especially true of these two pieces, which are rich with Spanish folk flavours. 
+				A champion of modern Spanish music, Asier Polo will play Joaquin Rodrigo&rsquo;s whimsical <i> Concierto in modo galante </i> and Granados&rsquo;s rapturous <i> Intermezzo de Goyescas</i>. The 20th-century music of the Spanish-speaking world is known for its neo-romantic tendencies, and this is especially true of these two pieces, which are rich with Spanish folk flavours. 
 			</p>
 			<p>
 				Mozart&rsquo;s charming but brief Symphony No. 27, on the other hand, helped set the stage for the romanticism that would flourish in the following decades. Composed in the galant style popular at the time, the Symphony bristles with humour, song-like melodies, and dance rhythms. 

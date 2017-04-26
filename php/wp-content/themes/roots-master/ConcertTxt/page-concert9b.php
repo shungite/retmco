@@ -52,9 +52,8 @@ Template Name: Page Concert9 Template
 				<b>Evening concert at 7:30 pm, hour-long matinee concert at 10:30 am. Both concerts June 8th at <a href="http://www.westminsterchurch.org">Westminster United Church</a>. Tickets for both shows are $34 adults, $32 seniors and $10 students (incl. GST). You can buy tickets to both concerts through MCO’s Ticketline (204) 783-7377 or on this page. Tickets for evening concert also available at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook) &amp; <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a>, (877 Westminster Ave).</b> 
 			</p>
 			<p>
-				<small>Artwork: Cash Akoza</small>
+				<small>Artwork: Cash Akoza</small> 
 			</p>
-
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
 					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Don_Anderson_small.jpg">
@@ -108,7 +107,7 @@ Template Name: Page Concert9 Template
 							<i>Nanabozho et le tambour</i> / <i>Nanabush and the Drum</i><br> Script by Rh&eacute;al Cenerini<br> Music by Michael Oesterle 
 						</p>
 						<p>
-							Concertmaster sponsor / <b>Raymond H&eacute;bert</b> 
+							Concertmaster sponsor / <b>Raymond H&eacute;bert</b><br>Concert media sponsor / <a href="http://ici.radio-canada.ca/"><strong>ICI Radio Canada</strong></a> 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
