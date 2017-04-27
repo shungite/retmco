@@ -8,8 +8,8 @@ Template Name: Page MCOhome Template
 		<div class="span8">
 			<div class="covercontainer">
 				<a href="http://www.themco.ca/concert/manson-polo/"><img src="http://www.themco.ca/wp-content/uploads/2016/06/head16may17.jpg" alt="MCO / Anne Manson, Aasier Polo"></a> 
-				<div class="playbutton">
-<?php echo do_shortcode('[video_lightbox_youtube video_id="dBhAT1IiOEI" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
+				<!-- <div class="playbutton">
+<?php echo do_shortcode('[video_lightbox_youtube video_id="dBhAT1IiOEI" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?> -->
 				</div>
 			</div>
 		</div>
@@ -17,10 +17,10 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				&ldquo;Polo is today&rsquo;s most celebrated<br>Spanish cellist&rdquo;&mdash;El Mundo
+				&ldquo;Polo is today&rsquo;s most celebrated<br>Spanish cellist&rdquo; &mdash; `El Mundo
 			</h4>
 			<p>
-				From Carnegie Hall to the MCO stage, Asier Polo bowls audiences over. In Europe, he is considered one of their leading cellists; in Winnipeg he is practically a musical celebrity. The Spanish newspaper <em>El Diario Vasco</em> writes that Asier Polo is &ldquo;a true delight, a genius, on top form.&rdquo; A champion of modern Spanish music, Asier Polo will play Joaquin Rodrigo&rsquo;s whimsical <em>Concierto in modo galante</em> and Granados’s rapturous <em>Intermezzo de Goyescas</em>. Further details <a href="http://www.themco.ca/concert/manson-brueggergosman/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two to the evening concert, click these links.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=00ff92bf4f5c43999d1be8fd16af5840"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=6c9fa8f892cc4b99b07542541e60d46d"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=bea87bfeb23740dd8ccd1c8cbf6f105f"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
+				From Carnegie Hall to the MCO stage, Asier Polo bowls audiences over. In Europe, he is considered one of their leading cellists; in Winnipeg he is practically a musical celebrity. The Spanish newspaper <em>El Diario Vasco</em> writes that Polo is &ldquo;a true delight, a genius, on top form.&rdquo; A champion of modern Spanish music, Asier Polo will play Joaquin Rodrigo&rsquo;s whimsical <em>Concierto in modo galante</em> and Granados’s rapturous <em>Intermezzo de Goyescas</em>. Further details <a href="http://www.themco.ca/concert/manson-brueggergosman/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two to the evening concert, click these links.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=00ff92bf4f5c43999d1be8fd16af5840"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=6c9fa8f892cc4b99b07542541e60d46d"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=bea87bfeb23740dd8ccd1c8cbf6f105f"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
