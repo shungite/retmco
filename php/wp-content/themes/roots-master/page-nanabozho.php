@@ -45,10 +45,6 @@ Template Name: Page Nanabozho Template
 				</ul>
 				<p>
 					<b>Enjoy your musical discoveries!</b> 
-				</p>
-				<p>
-					&nbsp; 
-				</p>
 				<p>
 					<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><b>Download iBook here</b> (~40MB)</a> 
 				</p>
