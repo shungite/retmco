@@ -98,6 +98,9 @@ Template Name: Page Concert7 Template
 						<p>
 							Concert sponsor / <a href="https://www.canadahelps.org/en/charities/the-gail-asper-family-foundation-inc/?gclid=CjwKEAjwmMS-BRCm5dn51JLbp1wSJACc61tFw3QwWIC0TqZiU-b970wX5FWstUYwP-ixSt1dy_0YhRoCo0fw_wcB"><b>Gail Asper Family Foundation</b></a><br>Concert media sponsor / <b>Neighbours of Tuxedo (<a href="http://www.bestversionmedia.com/">Best Version Media</a>)</b> 
 						</p>
+						<p>
+							Luke Nickel composer residency made possible with the assistance of the <a href="https://www.socanfoundation.ca/"><b>SOCAN Foundation</b></a>
+						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
 						<p>

@@ -107,7 +107,7 @@ Template Name: Page Concert8 Template
 							<b>Joaquin Rodrigo</b><br><i>Concierto in modo galante</i> 
 						</p>
 						<p>
-							Concert sponsor / <a href="http://www.johnstongroup.ca/"> <b> Johnston Group </b> </a><br>Guest artist sponsor / <a href="https://www.spainculture.ca/"><b>Embassy of Spain</b></a> 
+							Concert sponsor / <a href="http://www.johnstongroup.ca/"> <b> Johnston Group </b></a><br>Travel sponsor / <a href="http://www.quadasset.com/"><b>Quadrant Asset Management</b></a><br>Guest artist sponsor / <a href="https://www.spainculture.ca/"><b>Embassy of Spain</b></a> 
 						</p>
 						<p>
 							<a href="https://www.spainculture.ca/"><img src="http://www.themco.ca/wp-content/uploads/2017/02/SPAIN100.png"></a>

@@ -107,7 +107,7 @@ Template Name: Page Concert9 Template
 							<i>Nanabozho et le tambour</i> / <i>Nanabush and the Drum</i><br> Script by Rh&eacute;al Cenerini<br> Music by Michael Oesterle 
 						</p>
 						<p>
-							Concertmaster sponsor / <b>Raymond H&eacute;bert</b><br>Concert media sponsor / <a href="http://ici.radio-canada.ca/"><strong>ICI Radio Canada</strong></a> 
+							Concertmaster sponsor / <b>Raymond H&eacute;bert</b><br>Guest artiost sponsor / <a href="http://stellas.ca/"><b>Stella&rsquo;s Cafe and Bakery</b></a><br>Matinee guest artist sponsor / <a href="http://www.bisontransport.com/"><b>Bison Transport</b></a><br>Concert media sponsor / <a href="http://ici.radio-canada.ca/"><strong>ICI Radio Canada</strong></a> 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
