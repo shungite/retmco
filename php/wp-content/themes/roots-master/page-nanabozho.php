@@ -14,17 +14,19 @@ Template Name: Page Nanabozho Template
 					The trickster is jealous. He&rsquo;s fallen for the daughter of a powerful chief. Unfortunately for him, another man has laid claim to her heart: a coureur de bois, a little on the na&iuml;ve side to boot! What&rsquo;s a poor trickster to do but send his rival packing with a series of ploys that leave the outsider battered and bruised? The young woman, though, is far stronger, sager and more resourceful that anyone could have imagined&thinsp;&hellip; 
 				</p>
 				<p>
-				&nbsp;
-				</p> 
+					&nbsp; 
+				</p>
 				<p>
-					Le filou est jaloux. Il a les atomes crochus pour la fille d&rsquo;un chef puissant. H&eacute;las! elle en aime un autre que lui : un coureur de bois, un peu na&iuml;f par surcro&icirc;t !  Que faire, sinon envoyer pa&icirc;tre cet autre pr&eacute;tendant &agrave; l&rsquo;aide d&rsquo;une s&eacute;rie de stratag&egrave;mes qui laissent l&rsquo;&eacute;tranger battu et meurtri? Mais la jeune femme, elle, a beaucoup plus de force, de sagesse et d&rsquo;ing&eacute;niosit&eacute; que l&rsquo;on pourrait croire&thinsp;&hellip; 
+					Le filou est jaloux. Il a les atomes crochus pour la fille d&rsquo;un chef puissant. H&eacute;las! elle en aime un autre que lui : un coureur de bois, un peu na&iuml;f par surcro&icirc;t ! Que faire, sinon envoyer pa&icirc;tre cet autre pr&eacute;tendant &agrave; l&rsquo;aide d&rsquo;une s&eacute;rie de stratag&egrave;mes qui laissent l&rsquo;&eacute;tranger battu et meurtri? Mais la jeune femme, elle, a beaucoup plus de force, de sagesse et d&rsquo;ing&eacute;niosit&eacute; que l&rsquo;on pourrait croire&thinsp;&hellip; 
 				</p>
 			</blockquote>
 			<p>
 				&nbsp; 
 			</p>
 			<div class="well">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/03/NanabushNanabozho.png">
+				<p>
+					<img src="http://www.themco.ca/wp-content/uploads/2017/05/NanabushNanabozhoTR.png"> 
+				</p>
 				<p>
 					<b>MCO Learning Guides</b> 
 				</p>
@@ -48,10 +50,10 @@ Template Name: Page Nanabozho Template
 					&nbsp; 
 				</p>
 				<p>
-					<strong>Learning Guide</strong> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><b>Download iBook here</b> (~40MB)</a> 
 				</p>
 				<p>
-					<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><b>Download iBook here</b> (~40MB)</a> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush.pdf"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush.pdf"><b>Download PDF here</b> (~20MB)</a> 
 				</p>
 				<p>
 					&nbsp; 
@@ -76,11 +78,10 @@ Template Name: Page Nanabozho Template
 					<b>Bonnes découvertes musicales!</b> 
 				</p>
 				<p>
-					&nbsp;<br>
-					<strong>BROUILLON / Guide d&rsquo;apprentissage</strong> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (~40MB)</a> 
 				</p>
 				<p>
-					<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (~40MB)</a> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.pdf"><img src="http://www.themco.ca/wp-content/uploads/2017/05/adobe-pdf-icon-50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.pdf"><b>T&eacute;l&eacute;charger PDF ici</b> (~20MB)</a> 
 				</p>
 			</div>
 <!-- /well -->
