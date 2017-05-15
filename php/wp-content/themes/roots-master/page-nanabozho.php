@@ -53,7 +53,7 @@ Template Name: Page Nanabozho Template
 					<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush-May-12-2017.ibooks"><b>Download iBook here</b> (~40MB)</a> 
 				</p>
 				<p>
-					<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush.pdf"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush.pdf"><b>Download PDF here</b> (~20MB)</a> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush.pdf"><img src="http://www.themco.ca/wp-content/uploads/2017/05/adobe-pdf-icon-44.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/EN_Nanabush.pdf"><b>Download PDF here</b> (~20MB)</a> 
 				</p>
 				<p>
 					&nbsp; 
@@ -81,7 +81,7 @@ Template Name: Page Nanabozho Template
 					<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.ibooks"><img src="http://www.themco.ca/wp-content/uploads/2016/04/iBookIcon50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.ibooks"><b>T&eacute;l&eacute;charger iBook ici</b> (~40MB)</a> 
 				</p>
 				<p>
-					<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.pdf"><img src="http://www.themco.ca/wp-content/uploads/2017/05/adobe-pdf-icon-50.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.pdf"><b>T&eacute;l&eacute;charger PDF ici</b> (~20MB)</a> 
+					<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.pdf"><img src="http://www.themco.ca/wp-content/uploads/2017/05/adobe-pdf-icon-44.png"></a>&nbsp;<a href="http://www.themco.ca/wp-content/uploads/2017/05/FR_Nanabozho-12-mai-2017.pdf"><b>T&eacute;l&eacute;charger PDF ici</b> (~20MB)</a> 
 				</p>
 			</div>
 <!-- /well -->
