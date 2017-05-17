@@ -107,7 +107,7 @@ Template Name: Page Concert9 Template
 							<i>Nanabozho et le tambour</i>&thinsp;/&thinsp;<i>Nanabush and the Drum</i><br> Script by Rh&eacute;al Cenerini<br> Music by Michael Oesterle 
 						</p>
 						<p>
-							Concertmaster sponsor / <b>Raymond H&eacute;bert</b><br>Guest artist sponsor / <a href="http://ca.rbcwealthmanagement.com/samuel.mclaughlin"><b>Sam McLaughlin, RBC Dominion Securities Inc.</b></a><br>Concert media sponsor / <a href="http://ici.radio-canada.ca/"><strong>ICI Radio Canada</strong></a> 
+							Concertmaster sponsor / <b>Paul Walsh</b><br>Guest artist sponsor / <a href="http://ca.rbcwealthmanagement.com/samuel.mclaughlin"><b>Sam McLaughlin, RBC Dominion Securities Inc.</b></a><br>Concert media sponsor / <a href="http://ici.radio-canada.ca/"><strong>ICI Radio Canada</strong></a> 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
