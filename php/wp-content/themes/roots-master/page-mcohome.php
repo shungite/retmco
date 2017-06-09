@@ -20,12 +20,12 @@ Template Name: Page MCOhome Template
 				﻿Subscribe now to MCO’s 2016/17 season<br>&mdash;&thinsp;enjoy six or nine concerts in Westminster Church!
 			</h4>
 			<p>
-				Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><b>Build your package here.</b></a><br><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40">&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" />&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
+				Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><b>Build your package here.</b></a><br><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40">&nbsp;&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" />&nbsp;&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
 <!-- /row -->
-	<div class="row-fluid">
+<!--	<div class="row-fluid">
 		<div class="span8">
 			<div class="well">
 				<div class="media">
@@ -41,14 +41,16 @@ Template Name: Page MCOhome Template
 			</div>
 		</div>
 	</div>
+-->
+
 	<div class="row-fluid">
 		<div class="span8">
-			<div class="well-white">
+			<div class="well">
 				<div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px"></a> 
 					<div class="media-body">
 						<p>
-							<strong><a href="#">Next MCO Vinyl Vault sale: Saturday, 29 April 2017</strong></a><br />
+							<strong><a href="#">Next MCO Vinyl Vault sale: Saturday, 24 June 2017</strong></a><br />
 							From 10:00 am to 3:00 pm on the last Saturday of each month, browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Ave. (near The Bay). 
 						</p>
 					</div>
