@@ -7,7 +7,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="covercontainer">
-				<a href="http://www.themco.ca/concert/nanabozho-7-june-2017/"><img src="http://www.themco.ca/wp-content/uploads/2017/03/NanabushNanabozho.png" width="600" height="456" alt="MCO / Nanabush"></a> 
+				<a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/Season.png" width="770" height="455" alt="MCO / 2017/18 season"></a> 
 				<!-- <div class="playbutton">
 <?php echo do_shortcode('[video_lightbox_youtube video_id="dBhAT1IiOEI" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
 				</div> -->
@@ -17,10 +17,10 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">	
 			<h4>
-				﻿H&eacute;las! What is a poor<br>trickster to do?
+				﻿Subscribe now to MCO’s 2016/17 season<br>&mdash;&thinsp;enjoy six or nine concerts in Westminster Church!
 			</h4>
 			<p>
-				The trickster is jealous. He&rsquo;s fallen for the daughter of a powerful chief. Unfortunately for him, another man has laid claim to her heart: a coureur de bois, a little on the na&iuml;ve side to boot! What&rsquo;s a poor trickster to do but send his rival packing with a series of ploys that leave the outsider battered and bruised? The young woman, though, is far stronger, sager and more resourceful that anyone could have imagined<strong>. Choose from four shows on <a href="http://www.themco.ca/concert/nanabozho-7-june-2017/">June 7th</a> and <a href="http://www.themco.ca/concert/nanabozho-8-june-2017/">June 8th</a>!</strong> Further details <a href="http://www.themco.ca/concert/nanabozho-7-june-2017/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket to the June 7th evening concert, click these links.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=58d67495d0ac4955a53d6d6b76669cd0"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=2835ef7bfe1644b0bbaddb5a161281bb"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=1cd2b5c8a2b340dbb281cf668ef54528"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
+				Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><b>Build your package here.</b></a><br><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2013/01/AdultC.png" alt="" width="62" height="40"><img src="http://www.themco.ca/wp-content/uploads/2013/01/SeniorC.png" alt="" width="62" height="40" /><img src="http://www.themco.ca/wp-content/uploads/2013/01/StudentC.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
