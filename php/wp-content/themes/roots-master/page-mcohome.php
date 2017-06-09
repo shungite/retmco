@@ -20,7 +20,7 @@ Template Name: Page MCOhome Template
 				﻿Subscribe now to MCO’s 2016/17 season<br>&mdash;&thinsp;enjoy six or nine concerts in Westminster Church!
 			</h4>
 			<p>
-				Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><b>Build your package here.</b></a><br><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxAngle.png" alt="" width="62" height="40">&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxAngle.png" alt="" width="62" height="40" />&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxAngle.png" alt="" width="62" height="40" /></a> 
+				Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><b>Build your package here.</b></a><br><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTx.png" alt="" width="62" height="40">&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTx.png" alt="" width="62" height="40" />&nbsp;<img src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTx.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
