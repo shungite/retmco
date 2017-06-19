@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Page Concert2 Template
+Template Name: Page Concert Template
 */
 ?>
 <div class="container">
