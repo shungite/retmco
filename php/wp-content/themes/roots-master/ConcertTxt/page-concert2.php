@@ -6,7 +6,7 @@ Template Name: Page Concert Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/06/h26sep17.png" width="770" height="455" alt="Anne Manson, Ariel Barnes"> 
+			<img src="http://www.themco.ca/wp-content/uploads/2017/06/h17oct17.png" width="770" height="455" alt="Aisslin Nosky, Max Mandel"> 
 		</div>
 		<div class="span2">
 			<p>
@@ -19,26 +19,32 @@ Template Name: Page Concert Template
 		<div class="span7">
 			<h4>
 				<div>
-					﻿Ariel Barnes<br>&mdash;&thinsp;Canada&rsquo;s cellist 
+					Nosky, Mandel,<br>and the Age of Reason 
 				</div>
 			</h4>
 			<p>
-				Winnipeg audiences seem to have a unique appreciation for the cello, and Ariel Barnes is uniquely qualified to satisfy that appetite. A player of dazzling virtuosity and magnetic expressivity, Barnes is, in the words of Maestro Bramwell Tovey, &ldquo;the outstanding Canadian cellist of his generation.&rdquo; 
+				Goethe once described chamber music, an invention of the Age of Reason, as &ldquo;rational people conversing.&rdquo; And arguably no chamber music is as orderly and dialectical as the great works of the baroque and classical eras. 
 			</p>
 			<p>
-				Canadians have noticed. His recordings have garnered two Western Canadian Music Awards, and a Juno nomination, and are met with critical acclaim. After taking in his Winnipeg performance, Canadians will eagerly line up to see him perform in venues across BC, where he tours with the MCO in the fall of 2017. 
+				At our October concert, the MCO performs three masterworks from these periods with the help of two gifted soloists: violinist Aisslinn Nosky (&ldquo;Toronto&rsquo;s Eric Clapton of the violin,&rdquo; <em>Toronto Star</em>) and violist Max Mandel, who is one of most acclaimed chamber musicians of the day. What a musical exchange it will be! 
 			</p>
 			<p>
-				For his Winnipeg stop on this tour, Barnes performs Haydn&rsquo;s first Cello Concerto, a dashing entr&eacute;e into the genre for Haydn, and a staple of the instrument&rsquo;s repertoire. After intermission, the MCO performs another fiery masterpiece of the classical period: Mozart&rsquo;s 29th Symphony. This concert also revisits Canadian repertoire cherished by MCO audiences. There&rsquo;s Jeffrey Ryan&rsquo;s <em>Earthshine</em>, the sleeper hit of the MCO&rsquo;s April 2017 concert. The 4x Juno nominated Ryan is one of Canada&rsquo;s most celebrated composers, and <em>Earthshine</em> testifies to his masterful command of colour and strong personal voice. 
+				The concert begins with a piece by the father of modern chamber music, Joseph Haydn. Composed at the tail end of the Enlightenment, his highly emotive 44th symphony is a masterpiece of classical counterpoint, an elaborate conversation between instruments with hints of the Romanticism that would flourish in the following decades. 
 			</p>
 			<p>
-				There&rsquo;s also a performance of Michael Oesterle&rsquo;s cello concerto <em>Ironman</em>, which concludes our season-opening concert. This piece was singled out by <em>MacLean&rsquo;s</em> magazine as one of the most &ldquo;extraordinary&rdquo; recordings on CBC Radio 2&rsquo;s <em>Concerts on Demand</em> website (check it out for yourself). 
+				Next up is Telemann&rsquo;s popular Viola Concerto in G Major, a synthesis of baroque and galant style. Then onto Oesterle&rsquo;s <em>Snow White</em>; a musical ode to mathematician Alan Turing, commissioned by Tafelmusik. <em>Musical Toronto</em>	 describes the remarkable work as &ldquo;a showpiece for Nosky, written so that she was constantly playing.&rdquo; 
 			</p>
 			<p>
-				<b>Michael Oesterle</b> 
+				Finally, our two rational interlocutors will take the stage to perform a duet together: Mozart&rsquo;s Sinfonia Concertante for Violin, Viola, and Orchestra. The iconic work has been described as a constant dialogue between viola and violin, with each instrument given the same importance throughout. 
 			</p>
 			<p>
-				The Princeton-educated Oesterle is a long-time collaborator with the MCO, and one of Canada&rsquo;s foremost composers. His <em>Kaluza Klein</em> was recorded by the MCO and Dame Evelyn Glennie, and will be released on CD in the summer of 2017. Oesterle also composed the score for <em>Nanabush and the drum&thinsp;/&thinsp;Nanabozho et le tambour</em>. About his work <em>Snow White</em>, performed at the MCO&rsquo;s October 2017 concert, <em>Musical Toronto</em> writes, &ldquo;Stylistically, the piece was a remarkable synthesis of ideas: Vivaldi meets Philip Glass with some Aaron Copland and Celtic fiddling thrown in.&rdquo; 
+				It is, certainly, among Mozart&rsquo;s most beautiful in an oeuvre that has become synonymous with musical beauty itself. 
+			</p>
+			<p>
+				<b>Aisslin and Max</b> 
+			</p>
+			<p>
+				Recognized as one of today&rsquo;s foremost baroque violinists, Aisslinn Nosky is also immediately recognizable for her stylish red locks. A fan of Metallica, a player of the banjolele (a cross between the banjo and the ukulele), and a champion of contemporary music, Aisslinn reminds the world that baroque ain&rsquo;t broke. Max Mandel, who like Aisslinn has a long history with Tafelmusik, is principal violist of the UK&rsquo;s Orchestra of the Age of Enlightenment. He comments: &ldquo;One of the challenges of our art is that it happens over a given period of time and then disappears. That&rsquo;s one of the reasons it&rsquo;s so magical.&rdquo; 
 			</p>
 			<div>
 				<p>
@@ -86,28 +92,22 @@ Template Name: Page Concert Template
 							<strong>Manitoba Chamber Orchestra</strong><br />
 							Anne Manson, Music Director<br />
 							Karl Stobbe, Concertmaster<br />
-							Westminster United Church<br>26 September 2017 
+							Westminster United Church<br>17 October 2017 
 						</p>
 						<p>
-							Anne Manson, conductor<br>Ariel Barnes, cello 
+							Aisslin Nosky, violin<br>Max Mandel, viola 
 						</p>
 						<p>
-							<strong>THE BUHLER CONCERT</strong> 
+							<strong>Joseph HAYDN</strong><br>Symphony No. 44 in E minor, &lsquo;Trauer-Symphonie&rsquo; (Hob. I/44) 
 						</p>
 						<p>
-							<b>Jeffrey Ryan</b><br><i>Earthshine</i> 
+							﻿<strong>Georg Philipp TELEMANN</strong><br>Viola Concerto (TWV 51:G9)
 						</p>
 						<p>
-							﻿<strong>Joseph Haydn</strong><br>Cello Concerto in C Major (Hob. VIIb: 1) 
+							﻿<strong>Michael Oesterle</strong><br><em>Snow White</em>
 						</p>
 						<p>
-							﻿<strong>Michael Oesterle</strong><br><em>Ironman</em> (cello concerto) 
-						</p>
-						<p>
-							﻿<strong>Wolfgang Amadeus Mozart</strong><br>Symphony No. 29 in A Major (K. 201/186a) 
-						</p>
-						<p>
-							Concert sponsor / <a href="https://www.wawanesa.com/canada/index.html"><b>Wawanesa Insurance</b></a> 
+							﻿<strong>Wolfgang Amadeus MOZART</strong><br>Sinfonia Concertante in E-flat major (K. 364/320d)
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
