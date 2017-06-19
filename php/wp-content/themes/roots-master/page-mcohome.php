@@ -9,7 +9,7 @@ Template Name: Page MCOhome Template
 			<div class="covercontainer">
 				<a href="http://www.themco.ca/quick-links-to-1718-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/Season1718.png" width="770" height="455" alt="MCO / 2017/18 season"></a> 
 				<div class="playbutton">
-<?php echo do_shortcode('[video_lightbox_youtube video_id="47FAYvCecrM" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/11/YouTube-social-circle_red_96px.png"]'); ?>
+<?php echo do_shortcode('[video_lightbox_youtube video_id="47FAYvCecrM" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/YouTube-social-circle_red_92px.png"]'); ?>
 				</div>
 			</div>
 		</div>
