@@ -41,7 +41,7 @@ Template Name: Page Concert Template
 				<b>Simone Dinnerstein</b> 
 			</p>
 			<p>
-				American pianist Simone Dinnerstein possesses a majestic originality of vision (<em>The Independent</em>) and is one of the great Beethoven pianists of our time (<em>Philadelphia Inquirer</em>). 
+				American pianist Simone Dinnerstein possesses a &ldquo;majestic originality of vision&rdquo; (<em>The Independent</em>) and is &ldquo;one of the great Beethoven pianists of our time&rdquo; (<em>Philadelphia Inquirer</em>). 
 			</p>
 			<p>
 				She had this to say about the Glass commission: &ldquo;The idea&thinsp;&hellip;&thinsp; first germinated in Philip Glass&rsquo;s garden, where we met for breakfast one beautiful morning in the fall of 2014. There are almost no concertos written for piano and strings since Bach&rsquo;s time. Both Glass and I have a strong interest in the music of Bach and how it impacts us today. The pairing of the Bach concerto with his own composition will create myriad strands of connectivity, enabling the listener to create bridges between the old and the new.&rdquo; 

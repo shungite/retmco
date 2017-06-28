@@ -34,7 +34,7 @@ Template Name: Page MCOhome Template
 					<div class="media-body">
 						<p>
 							<strong><a href="http://www.themco.ca/concert/manson-dinnerstein/">Casual tickets now on sale for the MCO&rsquo;s premiere of their Philip Glass commission! </strong></a><br />
-							The MCO has commissioned a piano concerto by Philip Glass, arguably the most important living composer. The concerto will be premiered in an exciting concert on January 23rd, 2018. Celebrated American pianist Simone Dinnerstein performs the work&rsquo;s solo. <a href="http://www.themco.ca/concert/manson-dinnerstein/"><strong>Get your tickets before they sell out!</strong></a>
+							The MCO has co-commissioned a piano concerto by Philip Glass, arguably the most important living composer. The concerto will have its Canadian premiere in an exciting concert on January 23rd, 2018. Celebrated American pianist Simone Dinnerstein performs the work&rsquo;s solo. <a href="http://www.themco.ca/concert/manson-dinnerstein/"><strong>Get your tickets before they sell out!</strong></a>
 <!-- <?php echo do_shortcode('[video_lightbox_youtube video_id="aN1rbalUqtE" width="640" height="480" anchor="<strong>Video: MCO&rsquo;s Vicki Young introduces the season on Classic 107&rsquo;s Morning Light program!</strong>"]'); ?> -->
 						</p>
 					</div>

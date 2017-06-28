@@ -6,7 +6,7 @@ Template Name: Page Concert Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/06/h21mar18z.png" width="750" height="443" alt="Manson, Dinnerstein"> 
+			<img src="http://www.themco.ca/wp-content/uploads/2017/06/h21mar18n.png" width="770" height="455" alt="Manson, Dinnerstein"> 
 		</div>
 		<div class="span2">
 			<p>
@@ -105,6 +105,9 @@ Template Name: Page Concert Template
 						</p>
 						<p>
 							Selected duets by Mozart, Vivaldi, Debussy &amp; Saint-Sa&euml;ns 
+						</p>
+						<p>
+							Concert sponsors / <strong>Dr. Elizabeth Tippett-Pope &amp; Bill Pope</strong> 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">

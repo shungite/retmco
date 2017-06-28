@@ -112,6 +112,10 @@ Template Name: Page Concert Template
 						<p>
 							<strong>Dag Wir&eacute;n</strong><br><em>Serenade for Strings</em>, Op. 11 
 						</p>
+						<p>
+							Concert sponsor / <strong>LBL Holdings</strong> 
+						</p>
+
 					</div>
 					<div class="tab-pane fade" id="bios">
 						Coming soon! 
