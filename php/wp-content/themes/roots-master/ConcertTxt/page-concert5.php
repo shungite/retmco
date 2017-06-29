@@ -6,7 +6,7 @@ Template Name: Page Concert Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/06/h23jan18.png" width="770" height="455" alt="Manson, Dinnerstein"> 
+			[video_lightbox_youtube video_id="QL2gf4n8uuA" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2017/06/h23jan18play.png"] 
 		</div>
 		<div class="span2">
 			<p>
@@ -67,9 +67,9 @@ Template Name: Page Concert Template
 <!-- /span7 -->
 		<div class="span1">
 			<img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=a152f28e68fc4da2a14b0cf675592966"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=5d30451db7144c8e97ca2208e7d47cd0"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=f717725c92d545f497e6cf7aff6307aa"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=a152f28e68fc4da2a14b0cf675592966"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=5d30451db7144c8e97ca2208e7d47cd0"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=f717725c92d545f497e6cf7aff6307aa"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
 			<p class="fineprint">
 				Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets. 
 			</p>
