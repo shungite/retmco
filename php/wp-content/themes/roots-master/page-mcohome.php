@@ -92,7 +92,7 @@ Template Name: Page MCOhome Template
 				<a href="https://www.factor.ca/"><img src="http://www.themco.ca/wp-content/uploads/2017/01/FACTOR150.png"></a>&nbsp;&nbsp;<a href="https://www.canada.ca/en.html"><img src="http://www.themco.ca/wp-content/uploads/2017/01/CanadaWordmark150.png"></a> 
 			</p>
 			<p>
-				<small>2016/17 recording and touring projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small> 
+				<small>2017/18 recording and touring projects were funded in part by FACTOR, the Government of Canada and Canada&rsquo;s private radio broadcasters.</small> 
 			</p>
 			<p>
 				<small>Les projets d'enregistrement et les projets de tournage en 2016-2017 ont &eacute;t&eacute; financ&eacute;s en partie par FACTOR, le gouvernement du Canada et les radiodiffuseurs prive&#x301;s du Canada.</small> 
