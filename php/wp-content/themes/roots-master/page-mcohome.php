@@ -47,11 +47,11 @@ Template Name: Page MCOhome Template
 		<div class="span8">
 			<div class="well-white">
 				<div class="media">
-					<a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Parlo1.png" width="96px" height="96px"></a> 
+					<a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-square" src="http://www.themco.ca/wp-content/uploads/2016/07/simple_turntable_colour_web.png" width="120px" height="95px"></a> 
 					<div class="media-body">
 						<p>
-							<strong><a href="#">Next MCO Vinyl Vault sale: Saturday, 24 June 2017</strong></a><br />
-							From 10:00 am to 3:00 pm on the last Saturday of each month, browse away in the city&rsquo;s finest used LP/CD collections. You&rsquo;ll find 1000s of titles in the jazz, pop, classical, rock, country and folk categories, and more! <b>Records are three bucks a pop, CDs even cheaper.</b> MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Ave. (near The Bay). 
+							<strong><a href="#">Hot Fun in the Sun Summer Super Sale<br>10:00 am to 2:00 pm, July 11th, 12th & 13th!</strong></a><br />
+							Don&rsquo;t miss the fun in July at our three-day super sale! Browse the MCO collection for everything from indie rock to funk, new wave to classical&thinsp;&mdash;&thinsp;there&rsquo;s something for everyone. Records are three bucks a pop, CDs even cheaper. MCO&rsquo;s Vinyl Vault is located in the basement of the Power Building at 428 Portage Avenue (near The Bay).  
 						</p>
 					</div>
 				</div>
