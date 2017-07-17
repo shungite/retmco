@@ -39,7 +39,7 @@ Template Name: Page Concert Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
 				</p>
 			</div>
 			<p>

@@ -48,11 +48,11 @@ Template Name: Page Concert Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, Aoril 23rd: Anne Manson and Lucie Horsch.">McNally Robinson</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
 				</p>
 			</div>
 			<p>
-				<b>The concert begins at 7:30 pm on April 24th in <a href="http://www.westminsterchurch.org">Westminster United Church</a>, 745 Westminster at Maryland. Tickets, at $35 for adults, $33 for seniors and $15 for students and those under-30 (incl. GST), will be available 28 July 2017, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204-783-7377).</b> 
+				<b>Evening concert at 7:30 pm; hour-long matinee concert at 1:00 pm; both concerts at <a href="http://www.westminsterchurch.org">Westminster United Church</a>, 745 Westminster at Maryland. Tickets, at $35 for adults, $33 for seniors and $15 for students and those under-30 (incl. GST), will be available 28 July 2017, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204-783-7377).</b> 
 			</p>
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
@@ -69,7 +69,11 @@ Template Name: Page Concert Template
 			<img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
 			<a href="#"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
 			<a href="#"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="#"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
+			<a href="#"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
+			<img src="http://www.themco.ca/wp-content/uploads/2016/03/MatineeTicketsHereLo.png" alt="" width="75" height="150" /><br />
+			<a href="#"><img rel="tooltip" title="Add adult matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="#"><img rel="tooltip" title="Add senior matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="#"><img rel="tooltip" title="Add student matinee ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a>
 			<p class="fineprint">
 				Casual tickets available on July 28th. 
 			</p>
@@ -107,7 +111,7 @@ Template Name: Page Concert Template
 							<strong>Giovanni Battista Sammartini</strong><br>Recorder Concerto in F Major 
 						</p>
 						<p>
-							<strong>Wolfgang Amadeusa Mozart</strong><br>Symphony No. 28, in C Major (K 200) 
+							<strong>Wolfgang Amadeus Mozart</strong><br>Symphony No. 28, in C Major (K 200) 
 						</p>
 						<p>
 							<strong>Dag Wir&eacute;n</strong><br><em>Serenade for Strings</em>, Op. 11 

@@ -42,7 +42,7 @@ Template Name: Page Concert Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, September 25th: Anne Manson and Ariel Barnes.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
 				</p>
 			</div>
 			<p>
