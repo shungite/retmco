@@ -47,6 +47,15 @@ Template Name: Page Vinyl Template
 				&nbsp; 
 			</p>
 		</div>
+		
+		<div class="span2">
+			<a href="#s"><img src="http://www.themco.ca/wp-content/uploads/2017/07/UsedRecordsWanted.png" alt="" width="75" height="150" /></a><br />
+			<p class="fineprint">
+				If you have some you&rsquo;d like to donate, call the MCO office at 204.783.7377 to arrange a pick-up. 
+			</p>
+		</div>
+		
+		
 	</div>
 <!-- /row -->
 	<div class="row">
@@ -62,16 +71,10 @@ Template Name: Page Vinyl Template
 <!-- /well -->
 		</div>
 <!-- /span6 -->
-	</div>
 
 
-<div class="span2">
-			<a href="#s"><img src="http://www.themco.ca/wp-content/uploads/2017/07/UsedRecordsWanted.png" alt="" width="75" height="150" /></a><br />
-			<p class="fineprint">
-				If you have some you&rsquo;d like to donate, call the MCO office at 204.783.7377 to arrange a pick-up. 
-			</p>
-		</div>
 <!-- /span2 -->
+	</div>
 <!-- /row -->
 <?php get_template_part('templates/content', 'vinyl'); ?>
 </div>
