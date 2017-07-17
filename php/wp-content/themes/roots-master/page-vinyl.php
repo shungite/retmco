@@ -9,7 +9,7 @@ Template Name: Page Vinyl Template
   <div class="row">
 
     <div class="span8">
-      <img src="http://www.themco.ca/wp-content/uploads/2017/07/VVBlack.png" alt="" width="770" height="455">
+	    [video_lightbox_youtube video_id="RNt073ms2AM" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2017/07/VVBlack.png"] 
     </div>
 
   </div><!-- /row -->
@@ -18,9 +18,8 @@ Template Name: Page Vinyl Template
 
     <div class="span8">
       <h4>Check here for<br>Vinyl Vault sales dates!</h4>
-      <p>The Manitoba Chamber Orchestra&rsquo;s almost-monthly Vinyl Vault sales are your chance to rummage around in the city&rsquo;s largest used record collection! Find rare titles in jazz, pop, classical, opera, rock, country, folk, easy listening and much more &mdash; <b>collectibles a speciality!</b></p>
-      <p><b>10:00 am to 3:00 pm, Saturdays<br>Power Building basement<br>428 Portage Avenue<br>Dates for 16/17:</b></p><p>24 September 2016<br>29 October<br>26 November<br>28 January 2017<br>25 February<br>25 March<br>29 April<br>27 May
-24 June</p>	
+      <p>The Manitoba Chamber Orchestra&rsquo;s mostly-monthly Vinyl Vault sales are your chance to rummage around in the city&rsquo;s largest used record collection! Find rare titles in jazz, pop, classical, opera, rock, country, folk, easy listening and much more &mdash; <b>collectibles a speciality!</b></p>
+      <p><b>10:00 am to 3:00 pm, Saturdays<br>Power Building basement<br>428 Portage Avenue<br>Dates for 17/18:</b></p><p>26 August 2017<br>30 September<br>28 October<br>25 November<br>27 January 2018<br>24 February<br>31 March<br>28 April<br>26 May<br>23 June<br>July sale (dates TBA)</p>	
       <p>&nbsp;</p>
     </div>
 
