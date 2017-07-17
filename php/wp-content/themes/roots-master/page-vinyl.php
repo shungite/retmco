@@ -30,8 +30,7 @@ Template Name: Page Vinyl Template
 				428 Portage Avenue<br>
 				Dates for 17/18:</b> 
 			</p>
-			<table class="table table-striped">
-
+			<p>
 				26 August 2017<br>
 				30 September<br>
 				28 October<br>
@@ -43,7 +42,7 @@ Template Name: Page Vinyl Template
 				26 May<br>
 				23 June<br>
 				July sale (dates TBA) 
-			</table>
+			</p>
 			<p>
 				&nbsp; 
 			</p>
