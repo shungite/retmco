@@ -9,7 +9,12 @@ Template Name: Page Vinyl Template
   <div class="row">
 
     <div class="span8">
-	    [video_lightbox_youtube video_id="RNt073ms2AM" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2017/07/VVBlack.png"] 
+    
+    <img src="http://www.themco.ca/wp-content/uploads/2017/07/VVBlack.png" width="770" height="455" alt="MCO / 2017/18 season">
+				<div class="playbutton">
+<?php echo do_shortcode('[video_lightbox_youtube video_id="RNt073ms2AM" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/YouTube-social-circle_red_92px.png"]'); ?>
+    
+	 
     </div>
 
   </div><!-- /row -->
