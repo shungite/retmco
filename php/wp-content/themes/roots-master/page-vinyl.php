@@ -16,7 +16,7 @@ Template Name: Page Vinyl Template
 	</div>
 <!-- /row -->
 	<div class="row">
-		<div class="span8">
+		<div class="span6">
 			<h4>
 				Check here for<br>
 				Vinyl Vault sales dates! 
@@ -56,12 +56,20 @@ Template Name: Page Vinyl Template
 					<b>Donate your unwanted records to the MCO!</b> 
 				</p>
 				<p>
-					We always want new used records! If you have some you&rsquo;d like to donate, call the MCO office at 204.783.7377 for drop-off instructions or to arrange a pick-up. Please note that pickups may take a while as we keep our volunteers pretty busy &mdash; thanks in advance! 
+					We always want new used records! If you have some you&rsquo;d like to donate, call the MCO office at 204.783.7377 to arrange a pick-up. Please note that pickups may take a while as we keep our volunteers pretty busy &mdash; thanks in advance! 
 				</p>
 			</div>
 <!-- /well -->
 		</div>
 <!-- /span6 -->
+
+<div class="span2">
+			<a href="#s"><img src="http://www.themco.ca/wp-content/uploads/2017/07/UsedRecordsWanted.png" alt="" width="75" height="150" /></a><br />
+			<p class="fineprint">
+				If you have some you&rsquo;d like to donate, call the MCO office at 204.783.7377 to arrange a pick-up. 
+			</p>
+		</div>
+<!-- /span2 -->
 	</div>
 <!-- /row -->
 <?php get_template_part('templates/content', 'vinyl'); ?>
