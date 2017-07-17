@@ -16,7 +16,7 @@ Template Name: Page Vinyl Template
 	</div>
 <!-- /row -->
 	<div class="row">
-		<div class="span7">
+		<div class="span6">
 			<h4>
 				Check here for<br>
 				Vinyl Vault sales dates! 
@@ -30,7 +30,8 @@ Template Name: Page Vinyl Template
 				428 Portage Avenue<br>
 				Dates for 17/18:</b> 
 			</p>
-			<p>
+			<table class="table table-striped">
+
 				26 August 2017<br>
 				30 September<br>
 				28 October<br>
@@ -42,13 +43,13 @@ Template Name: Page Vinyl Template
 				26 May<br>
 				23 June<br>
 				July sale (dates TBA) 
-			</p>
+			</table>
 			<p>
 				&nbsp; 
 			</p>
 		</div>
 		
-		<div class="span1">
+		<div class="span2">
 			<a href="#s"><img src="http://www.themco.ca/wp-content/uploads/2017/07/UsedRecordsWanted.png" alt="" width="75" height="150" /></a><br />
 			<p class="fineprint">
 				If you have some you&rsquo;d like to donate, call the MCO office at 204.783.7377 to arrange a pick-up. 
