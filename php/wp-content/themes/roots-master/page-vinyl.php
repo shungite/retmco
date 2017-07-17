@@ -59,7 +59,7 @@ Template Name: Page Vinyl Template
 	</div>
 <!-- /row -->
 	<div class="row">
-		<div class="span6">
+		<div class="span4">
 			<div class="well">
 				<p>
 					<b>Donate your unwanted records to the MCO!</b> 
