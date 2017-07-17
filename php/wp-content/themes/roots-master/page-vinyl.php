@@ -62,6 +62,8 @@ Template Name: Page Vinyl Template
 <!-- /well -->
 		</div>
 <!-- /span6 -->
+	</div>
+
 
 <div class="span2">
 			<a href="#s"><img src="http://www.themco.ca/wp-content/uploads/2017/07/UsedRecordsWanted.png" alt="" width="75" height="150" /></a><br />
@@ -70,7 +72,6 @@ Template Name: Page Vinyl Template
 			</p>
 		</div>
 <!-- /span2 -->
-	</div>
 <!-- /row -->
 <?php get_template_part('templates/content', 'vinyl'); ?>
 </div>
