@@ -27,7 +27,7 @@ Template Name: Page MCOhome Template
 <!-- /row -->
 	<div class="row-fluid">
 		<div class="span8">
-			<div class="well-white">
+			<div class="well">
 				<div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/07/DonorCello.jpg" width="96px" height="96px"></a> 
 					<div class="media-body">
@@ -40,22 +40,7 @@ Template Name: Page MCOhome Template
 			</div>
 		</div>
 	</div>
-	<div class="row-fluid">
-		<div class="span8">
-			<div class="well">
-				<div class="media">
-					<a class="pull-left" href="#extras" data-toggle="tab"><img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2017/06/GlassSq.png" width="96px" height="96px"></a> 
-					<div class="media-body">
-						<p>
-							<strong><a href="http://www.themco.ca/concert/manson-dinnerstein/">Get your tickets early for the MCO&rsquo;s premiere of their Philip Glass commission! </strong></a><br />
-							The MCO has co-commissioned a piano concerto by Philip Glass, arguably the most important living composer. The concerto will have its Canadian premiere in an exciting concert on January 23rd, 2018. Celebrated American pianist Simone Dinnerstein performs the work&rsquo;s solo. Get your tickets before they sell out! 
-<?php echo do_shortcode('[video_lightbox_youtube video_id="QL2gf4n8uuA" width="640" height="480" anchor="<strong>Video preview here!</strong>"]'); ?>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+	
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="well-white">
