@@ -32,17 +32,17 @@ Template Name: Page Concert Template
 				For his Winnipeg stop on this tour, Barnes performs Haydn&rsquo;s first Cello Concerto, a dashing entr&eacute;e into the genre for Haydn, and a staple of the instrument&rsquo;s repertoire. After intermission, the MCO performs another fiery masterpiece of the classical period: Mozart&rsquo;s 29th Symphony. This concert also revisits Canadian repertoire cherished by MCO audiences. There&rsquo;s Jeffrey Ryan&rsquo;s <em>Earthshine</em>, the sleeper hit of the MCO&rsquo;s April 2017 concert. The 4x Juno nominated Ryan is one of Canada&rsquo;s most celebrated composers, and <em>Earthshine</em> testifies to his masterful command of colour and strong personal voice. 
 			</p>
 			<p>
-				There&rsquo;s also a performance of Michael Oesterle&rsquo;s cello concerto <em>Ironman</em>, which concludes our season-opening concert. This piece was singled out by <em>MacLean&rsquo;s</em> magazine as one of the most &ldquo;extraordinary&rdquo; recordings on CBC Radio 2&rsquo;s <em>Concerts on Demand</em> website (check it out for yourself). 
+				There&rsquo;s also a performance of Michael Oesterle&rsquo;s cello concerto <em>The Iron Man</em>, which concludes our season-opening concert. This piece was singled out by <em>MacLean&rsquo;s</em> magazine as one of the most &ldquo;extraordinary&rdquo; recordings on CBC Radio 2&rsquo;s <em>Concerts on Demand</em> website (check it out for yourself). 
 			</p>
 			<p>
 				<b>Michael Oesterle</b> 
 			</p>
 			<p>
-				The Princeton-educated Oesterle is a long-time collaborator with the MCO, and one of Canada&rsquo;s foremost composers. His <em>Kaluza Klein</em> was recorded by the MCO and Dame Evelyn Glennie, and will be released on CD in the summer of 2017. Oesterle also composed the score for <em>Nanabush and the drum&thinsp;/&thinsp;Nanabozho et le tambour</em>. About his work <em>Snow White</em>, performed at the MCO&rsquo;s October 2017 concert, <em>Musical Toronto</em> writes, &ldquo;Stylistically, the piece was a remarkable synthesis of ideas: Vivaldi meets Philip Glass with some Aaron Copland and Celtic fiddling thrown in.&rdquo; 
+				Michael Oesterle is a long-time collaborator with the MCO. His <em>Kaluza Klein</em> was recorded by the MCO and Dame Evelyn Glennie, and will be released on CD in the summer of 2017. Oesterle also composed the score for <em>Nanabush and the drum&thinsp;/&thinsp;Nanabozho et le tambour</em>. About his work <em>Snow White</em>, performed at the MCO&rsquo;s October 2017 concert, <em>Musical Toronto</em> writes, &ldquo;Stylistically, the piece was a remarkable synthesis of ideas: Vivaldi meets Philip Glass with some Aaron Copland and Celtic fiddling thrown in.&rdquo; 
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, September 25th: Anne Manson and Ariel Barnes.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, September 25th: Anne Manson and Ariel Barnes.">McNally Robinson</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music: a performance by UM cello students of Minna Rose Chung; 6:45 pm.">Event</button> 
 				</p>
 			</div>
 			<p>
@@ -61,11 +61,11 @@ Template Name: Page Concert Template
 <!-- /span7 -->
 		<div class="span1">
 			<img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /><br />
-			<a href="#"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="#"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
-			<a href="#"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=3b8ff793221540d292b1e73163abd418"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=e11c964d0f9147d8bb6f000ed64e13bf"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTxSm.png" alt="" width="62" height="30" /></a><br />
+			<a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&pid=e0a4dbcc5583467b92be57a58b48d497"><img rel="tooltip" title="Click to add student ticket to cart" data-placement="left" src="http://www.themco.ca/wp-content/uploads/2015/11/StudentTxSm.png" alt="" width="62" height="30" /></a> 
 			<p class="fineprint">
-				Casual tickets available on July 28th. 
+				Click above to add ticket to cart; adjust quantity in cart; click &lsquo;Continue Shopping&rsquo; for other tickets. 
 			</p>
 		</div>
 <!-- /span1 -->
@@ -101,7 +101,7 @@ Template Name: Page Concert Template
 							﻿<strong>Joseph Haydn</strong><br>Cello Concerto in C Major (Hob. VIIb: 1) 
 						</p>
 						<p>
-							﻿<strong>Michael Oesterle</strong><br><em>Ironman</em> (cello concerto) 
+							﻿<strong>Michael Oesterle</strong><br><em>The Iron Man</em> (cello concerto) 
 						</p>
 						<p>
 							﻿<strong>Wolfgang Amadeus Mozart</strong><br>Symphony No. 29 in A Major (K. 201/186a) 

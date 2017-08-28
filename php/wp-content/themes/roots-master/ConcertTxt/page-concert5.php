@@ -31,7 +31,7 @@ Template Name: Page Concert Template
 			<p>
 				On January 23rd, the MCO premieres Glass&rsquo; third piano concerto. Pianist Simone Dinnerstein, famous for interpretations of Bach, performs the commissioned work&rsquo;s solo in a concert that also, naturally, includes music by dear old Johann Sebastian. 
 			</p>
-
+			<a href="http://www.themco.ca/accepting-pre-orders-now/"><img src="http://www.themco.ca/wp-content/uploads/2017/07/OMMOrder250.jpg"></a> 
 			<p>
 				Also programmed that evening is twentieth century music by Marjan Mozetich and William Walton. If neither are household names, they deserve to be. Mozetich, one of the most broadcast classical composers in Canada, has written a stunning body of work that has been divided into a post-romantic and minimalist period; his magical <em>Fantasia&thinsp;&hellip;&thinsp;sul un linguaggio perduto</em> straddles both. 
 			</p>
@@ -49,14 +49,12 @@ Template Name: Page Concert Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, January 22nd: Anne Manson and Simone Dinnerstein.">McNally Robinson</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Stay tuned, details coming soon!">Event</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, January 22nd: Anne Manson and Simone Dinnerstein.">McNally Robinson</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music: a performance by Canadian Mennonite University piano students of Rose Vanderhooft; 6:45 pm.">Event</button> 
 				</p>
 			</div>
 			<p>
 				<b>The concert begins at 7:30 pm on January 23rd in <a href="http://www.westminsterchurch.org">Westminster United Church</a>, 745 Westminster at Maryland. Tickets, at $35 for adults, $33 for seniors and $15 for students and those under-30 (incl. GST), will be available 28 July 2017, at <a href="http://www.mcnallyrobinson.com/home" title="McNally Robinson">McNally Robinson</a>, the <a href="http://www.wecc.ca/" title="West End Cultural Centre">West End Cultural Centre</a> (586 Ellice at Sherbrook), <a href="http://www.organicplanet.coop/" title="Organic Planet">Organic Planet</a> (877 Westminster Ave) or MCO's Ticketline (204-783-7377).</b> 
 			</p>
-			
-
 <!-- <div class="media">
 					<a class="pull-left" href="#extras" data-toggle="tab">
 					<img class="media-object img-circle" src="http://www.themco.ca/wp-content/uploads/2013/01/Don_Anderson_small.jpg">
