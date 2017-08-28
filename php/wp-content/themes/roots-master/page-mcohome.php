@@ -16,7 +16,7 @@ Template Name: Page MCOhome Template
 	</div>
 	div class="row-fluid"> 
 	<div class="span8">
-		<a href="http://www.themco.ca/quick-links-to-1617-subscriptions/"><img src="http://www.themco.ca/wp-content/uploads/2016/06/Subscribe.png" alt="MCO / Subscribe now!"></a> 
+		 
 		<h4>
 			MCO&rsquo;s 2017/18 season opens<br>with Canada&rsquo;s cellist, Ariel Barnes!
 		</h4>
