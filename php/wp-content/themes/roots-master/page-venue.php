@@ -124,7 +124,7 @@ Template Name: Page Venue Template
 					<b>Where can I park my car?</b> 
 				</p>
 				<p>
-					<b>Please note: parking is no longer available in the Food Fare lot across from the Church!</b> Our good neighbours, <a href="http://epic.ca/"><b>EPIC Information Solutions</b></a>, have agreed to let us use their lot <b>for the entire 2015/16 season!</b> The lot, located behind their building at 167 Sherbrook Street, has the capacity to park 80 cars! These are available on a first-come, first-served basis, so leave a little early for the concert. Also look for parking in the surrounding neighbourhood, but prepare for a bit of a walk! Arrive early for top spots. 
+					<b>Please note: parking is no longer available in the Food Fare lot across from the Church!</b> Please leave a little early for the concert and look for parking in the surrounding neighbourhood, but prepare for a bit of a walk! 
 				</p>
 			</div>
 <!-- /well -->
