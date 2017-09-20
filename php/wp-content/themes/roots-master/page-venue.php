@@ -124,7 +124,7 @@ Template Name: Page Venue Template
 					<b>Where can I park my car?</b> 
 				</p>
 				<p>
-					<b>Please note: parking is no longer available in the Food Fare lot across from the Church, nor at EPIC Information Solutions (they're moving)!</b>Please leave a little early for the concert and look for parking in the surrounding neighbourhood, but prepare for a bit of a walk! 
+					<b>Please note: parking is no longer available in the Food Fare lot across from the Church, nor at EPIC Information Solutions (they're moving)!</b> Please leave a little early for the concert and look for parking in the surrounding neighbourhood, but prepare for a bit of a walk! 
 				</p>
 			</div>
 <!-- /well -->
