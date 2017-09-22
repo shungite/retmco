@@ -31,7 +31,7 @@ Template Name: Page Vinyl Template
 				Dates for 17/18:</b> 
 			</p>
 			<p>
-				26 August 2017<br>
+				<strike>26 August 2017</strike><br>
 				30 September<br>
 				28 October<br>
 				25 November<br>
