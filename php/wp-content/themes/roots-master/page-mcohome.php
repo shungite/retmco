@@ -7,20 +7,18 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="covercontainer">
-				<a href="http://www.themco.ca/concert/manson-barnes-2/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/h26sep17.png" width="770" height="455" alt="MCO / 2017/18 season"></a> 
-				<div class="playbutton">
-<?php echo do_shortcode('[video_lightbox_youtube video_id="7iCzxWr_qSM" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/YouTube-social-circle_red_92px.png"]'); ?>
-				</div>
+				<a href="http://www.themco.ca/concert/manson-barnes-2/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/h17oct17.png" width="770" height="455" alt="MCO / Nosky, Mandel"></a>
+				<!-- vid div goes here -->
 			</div>
 		</div>
 	</div>
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				MCO&rsquo;s 2017/18 season opens<br>with Canada&rsquo;s cellist, Ariel Barnes! 
+				Nosky, Mandel,<br>and the Age of Reason 
 			</h4>
 			<p>
-				Winnipeg audiences seem to have a unique appreciation for the cello, and Ariel Barnes is uniquely qualified to satisfy that appetite. A player of dazzling virtuosity and magnetic expressivity, Barnes is, in the words of Maestro Bramwell Tovey, &ldquo;the outstanding Canadian cellist of his generation.&rdquo; See program notes, bios and more at <a href="http://www.themco.ca/concert/manson-barnes-2/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below to add tickets to cart.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=3b8ff793221540d292b1e73163abd418"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTx.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e11c964d0f9147d8bb6f000ed64e13bf"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTx.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e0a4dbcc5583467b92be57a58b48d497"><img rel="tooltip" title="Click to add under-30 ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2017/08/Under30Tx.png" alt="" width="62" height="40" /></a> 
+				In October, the MCO performs three masterworks from the baroque and classical periods with the help of two gifted soloists: violinist <strong>Aisslinn Nosky</strong> (&ldquo;Toronto&rsquo;s Eric Clapton of the violin,&rdquo; <em>Toronto Star</em>) and violist <strong>Max Mandel</strong>, who is one of most acclaimed chamber musicians of the day. What a musical exchange it will be! See program notes, bios and more at <a href="http://www.themco.ca/concert/nosky-mandel/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below to add tickets to cart.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=47aace44351b4cf8871076d6ec464e5c"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTx.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=9aed56cca9d04449b757506d2e11ece1"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTx.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=2e2beb5ff7d641d5b15a6cf568b4dba8"><img rel="tooltip" title="Click to add under-30 ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2017/08/Under30Tx.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
