@@ -7,7 +7,7 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="covercontainer">
-				<a href="http://www.themco.ca/concert/manson-barnes-2/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/h17oct17.png" width="770" height="455" alt="MCO / Nosky, Mandel"></a>
+				<a href="http://www.themco.ca/concert/nosky-mandel/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/h17oct17.png" width="770" height="455" alt="MCO / Nosky, Mandel"></a>
 				<!-- vid div goes here -->
 			</div>
 		</div>
