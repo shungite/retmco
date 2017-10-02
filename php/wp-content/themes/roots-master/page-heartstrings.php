@@ -20,7 +20,7 @@ Template Name: Page Heartstrings Template
 	<div class="row">
 		<div class="span6">
 			<h4>
-				The MCO&rsquo;s gala evening<br>&mdash; fabulous 2017 edition! 
+				The MCO&rsquo;s gala evening<br>&mdash; fabulous 2018 edition! 
 			</h4>
 			<p>
 				The MCO&rsquo;s magnificent gala dinner is a memorable evening of fundraising to be enjoyed with clients and friends. As usual, the event takes place in the opulent 7th-floor ballrooms at The Fort Garry Hotel where guests will be treated to outstanding entertainment, an elegant dining experience, and lively conversations and auction sessions. The funds raised by the event help to ensure that the MCO can continue presenting some of the world&rsquo;s best musicians and music to Winnipeg audiences and delivering vital music education to underserved communities throughout the province. 
@@ -29,14 +29,16 @@ Template Name: Page Heartstrings Template
 				This year the theme is la dolce vita, after the sumptuous Italy of Fellini&rsquo;s films. 
 			</p>
 			<p>
-				<strong>Friday, 5 May 2017<br>The Fort Garry Hotel, Seventh Floor</strong> 
+				<strong>Friday, 4 May 2018<br>The Fort Garry Hotel, Seventh Floor</strong> 
 			</p>
-			<p>
+<p>			Stay tuned for details!
+</p><!-- 			<p>
 				6:30 pm, hors d&rsquo;oeuvres<br>7:30 pm, Dinner<br>9:30 pm, Desserts and Liqueurs<br>Live &amp; Silent Auctions<br>Tickets $175 
 			</p>
 			<p>
 				<strong>&bull; <a href="#">buy tickets @ $175</a><br>&bull; <a href="#">buy a corporate table of ten @ $2000</a><br>&bull; <a href="#">buy Patron tickets @ $200*</a></strong> 
 			</p>
+			-->
 			<small><b>Heartrings is sponsored by</b></small> 
 			<p>
 				<a href="http://advisors.nbfwm.ca/en/teams/christianson-wealth-advisors"><img src="http://www.themco.ca/wp-content/uploads/2015/04/CWANBF476.png" width="476" height="92" border="0" alt="Event sponsor"></a> 
