@@ -107,7 +107,7 @@ Template Name: Page Concert Template
 							﻿<strong>Wolfgang Amadeus Mozart</strong><br>Symphony No. 29 in A Major (K. 201/186a) 
 						</p>
 						<p>
-							Concert sponsor / <a href="https://www.wawanesa.com/canada/index.html"><b>Wawanesa Insurance</b></a> 
+							Concert sponsor / <a href="https://www.wawanesa.com/canada/index.html"><b>Wawanesa Insurance</b></a><br>Guest artist sponsor / <a href="https://www.bisontransport.com/"><b>Bison Transport</b></a>
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">

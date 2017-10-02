@@ -5,8 +5,8 @@ Template Name: Page Concert Template
 ?>
 <div class="container">
 	<div class="row">
-		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/06/h17oct17.png" width="770" height="455" alt="Aisslin Nosky, Max Mandel"> 
+	<div class="span8">
+			[video_lightbox_youtube video_id="XM_cOfjbxfs" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2017/09/h17oct17play.png"] 
 		</div>
 		<div class="span2">
 			<p>
