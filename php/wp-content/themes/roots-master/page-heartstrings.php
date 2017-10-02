@@ -26,9 +26,6 @@ Template Name: Page Heartstrings Template
 				The MCO&rsquo;s magnificent gala dinner is a memorable evening of fundraising to be enjoyed with clients and friends. As usual, the event takes place in the opulent 7th-floor ballrooms at The Fort Garry Hotel where guests will be treated to outstanding entertainment, an elegant dining experience, and lively conversations and auction sessions. The funds raised by the event help to ensure that the MCO can continue presenting some of the world&rsquo;s best musicians and music to Winnipeg audiences and delivering vital music education to underserved communities throughout the province. 
 			</p>
 			<p>
-				This year the theme is la dolce vita, after the sumptuous Italy of Fellini&rsquo;s films. 
-			</p>
-			<p>
 				<strong>Friday, 4 May 2018<br>The Fort Garry Hotel, Seventh Floor</strong> 
 			</p>
 <p>			Stay tuned for details!
@@ -50,7 +47,7 @@ Template Name: Page Heartstrings Template
 				Heartstrings Reception Sponsors:<br><a href="https://profile.rbcwealthmanagement.com/Jon.Holeman"><img src="http://www.themco.ca/wp-content/uploads/2016/03/16_90783_NT6_002_Holeman-Sponsor-Logo300.png" width="300" height="137" alt="Reception sponsor"></a> 
 			</p>
 			<p>
-				<small>Tickets must be purchased by 2 May 2017, and will not be available at the door. Patrons are acknowledged in the program and receive a larger tax receipt.</small> 
+				<small>Tickets will be available soon, and will need to be purchased by 1 May 2018. Tickets will not be available at the door. Patrons are acknowledged in the program and receive a larger tax receipt.</small> 
 			</p>
 		</div>
 <!-- /span6 -->
