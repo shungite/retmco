@@ -40,21 +40,26 @@ Template Name: Page Heartstrings Template
 			<p>
 				<a href="http://advisors.nbfwm.ca/en/teams/christianson-wealth-advisors"><img src="http://www.themco.ca/wp-content/uploads/2015/04/CWANBF476.png" width="476" height="92" border="0" alt="Event sponsor"></a> 
 			</p>
-			<p>
+			<!--<p>
 				<small>Heartstrings Wine Sponsor: <a href="http://www.mbll.ca/"><b>Manitoba Liquor and Lotteries</b></a><br>Heartstrings Music Sponsor: <a href="http://www.payworks.ca/"><b>Payworks</b></a> 
 			</p>
 			<p>
 				Heartstrings Reception Sponsors:<br><a href="https://profile.rbcwealthmanagement.com/Jon.Holeman"><img src="http://www.themco.ca/wp-content/uploads/2016/03/16_90783_NT6_002_Holeman-Sponsor-Logo300.png" width="300" height="137" alt="Reception sponsor"></a> 
 			</p>
+			
+			-->
 			<p>
 				<small>Tickets will be available soon, and will need to be purchased by 1 May 2018. Tickets will not be available at the door. Patrons are acknowledged in the program and receive a larger tax receipt.</small> 
 			</p>
 		</div>
 <!-- /span6 -->
 		<div class="span2">
-			<a href="#s"><img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /></a><br />
+			<a href="#"><img src="http://www.themco.ca/wp-content/uploads/2012/10/BuyTicketsHereHi.png" alt="" width="75" height="150" /></a><br />
 			<p class="fineprint">
-				Click above to add a regular ticket to your shopping cart; adjust quantity in cart and return to purchase other tickets. 
+			
+			Tickets available soon!
+			<!--
+				Click above to add a regular ticket to your shopping cart; adjust quantity in cart and return to purchase other tickets. -->
 			</p>
 		</div>
 <!-- /span2 -->
