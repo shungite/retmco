@@ -79,8 +79,7 @@ Template Name: Page Programs Template
 							Antonio Vivaldi<br>
 							<em>La Tempesta di Mare</em>
 						</p>
-						<p>
-							Johann Sebastian Bach<br>
+              Johann Sebastian Bach<br>
 							Oboe Concerto in D&#x2008;Minor&mdash;tr. for recorder
 						</p>
 						<p>
