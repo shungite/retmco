@@ -111,7 +111,7 @@ Template Name: Page Concert Template
 							<strong>William Walton</strong><br><em>Sonata for String Orchestra</em> 
 						</p>
 						<p>
-							Concert sponsor / <a href="http://www.johnstongroup.ca/"><b>Johnston Group</b></a> 
+							Concert sponsor / <a href="http://www.johnstongroup.ca/"><b>Johnston Group</b></a><br>Guest artist sponsor / <a href="http://asperfoundation.com/"><b>The Asper Foundation</b></a><br>Music Director sponsor / <b>Elaine &amp; Neil Margolis</b><br>Concertmaster sponsor / <b>Raymond H&eacute;bert</b>
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">

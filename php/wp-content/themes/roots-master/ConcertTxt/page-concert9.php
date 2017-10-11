@@ -114,6 +114,9 @@ Template Name: Page Concert Template
 						</p>
 						<p>
 							<strong>Pyotr Ilyich Tchaikovsky</strong><br>Serenade 
+						</p>			
+						<p>
+							Concert sponsor / <a href="https://www.canadahelps.org/en/charities/the-gail-asper-family-foundation-inc/"><strong>Gail Asper Family Foundation</strong></a>
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">

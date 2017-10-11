@@ -109,6 +109,9 @@ Template Name: Page Concert Template
 						<p>
 							﻿<strong>Wolfgang Amadeus MOZART</strong><br>Sinfonia Concertante in E-flat major (K. 364/320d) 
 						</p>
+						<p>
+							Concert sponsor / <b>Angela B. Ross</b><br>Guest artist sponsor / <b>The De Fehr Foundation</b><br>Music Director sponsor / <a href="http://www.prolific.ca/"><b>The Prolific Group</b></a>
+						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
 						<p>

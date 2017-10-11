@@ -100,6 +100,9 @@ Template Name: Page Concert Template
 						<p>
 							<strong>Ola Gjeilo</strong><br><em>Sunrise Mass</em> 
 						</p>
+						<p>
+							Concert sponsor / <a href="https://www.fcmm.ca/"><b>Foundation for Choral Music in Manitoba</b></a><br>Guest artist sponsor / <b>Sandi &amp; Ron Mielitz</b>
+						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
 						<p>

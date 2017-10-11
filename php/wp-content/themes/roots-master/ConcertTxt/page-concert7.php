@@ -107,7 +107,7 @@ Template Name: Page Concert Template
 							Selected duets by Mozart, Vivaldi, Debussy &amp; Saint-Sa&euml;ns 
 						</p>
 						<p>
-							Concert sponsors / <strong>Dr. Elizabeth Tippett-Pope &amp; Bill Pope</strong> 
+							Concert sponsors / <strong>Drs. Elizabeth Tippett-Pope &amp; Bill Pope</strong> 
 						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">

@@ -121,6 +121,9 @@ Template Name: Page Concert Template
 						<p>
 							<strong>Leopold Godowsky</strong><br><em>Wine, Women and Song</em>, from <em>Three Symphonic Metamorphoses on Themes of Johann Strauss II</em> 
 						</p>
+						<p>
+							Guest artist sponsor / <a href="http://www.terracon.co/"><b>Terracon Development Ltd.</b></a><br>Concertmaster sponsor / <b>Charlotte H&eacute;bert</b><br>Matinee Concertmaster sponsor / <a href="http://www.audiwinnipeg.com/"><b>Audi Winnipeg</b></a>
+						</p>
 					</div>
 					<div class="tab-pane fade" id="bios">
 						<p>
