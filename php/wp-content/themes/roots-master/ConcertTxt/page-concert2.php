@@ -48,7 +48,7 @@ Template Name: Page Concert Template
 			</p>
 			<div>
 				<p>
-					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, October 16th: Aisslin Nosky and Max Mandel.">McNally Robinson</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizza Club</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music: a performance by students of Suzuki Music Winnipeg; 6:45 pm.">Event</button> 
+					<img src="http://www.themco.ca/wp-content/uploads/2013/01/PreConcert.png"> <button id="mcnally" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="McNally Robinson event" data-content="7:30 pm, Monday, October 16th: Aisslin Nosky and Max Mandel.">McNally Robinson</button> <button id="pizza" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pizzicato Pizza Club" data-content="Book at least three days in advance for free pizza and a pre-concert presentation. This is included with any concert ticket purchase, space permitting. Call (204)783-7377 for reservations. Audience members are also invited to come for the talk alone, if they&rsquo;ve already eaten dinner.">Pizzicato Pizza Club</button> <button id="preconcert" class="btn btn-small btn-inverse" rel="popover" data-placement="top" data-original-title="Pre-concert event" data-content="Arrive early for more music: a performance by students of Suzuki Music Winnipeg; 6:45 pm.">Event</button> 
 				</p>
 			</div>
 			<p>
@@ -108,6 +108,9 @@ Template Name: Page Concert Template
 						</p>
 						<p>
 							﻿<strong>Wolfgang Amadeus MOZART</strong><br>Sinfonia Concertante in E-flat major (K. 364/320d) 
+						</p>
+						<p>
+							This concert made possible in part thanks to the generous support of the <a href="https://www.jewishfoundation.org/"><b>Jewish Foundation of Manitoba</b></a>.
 						</p>
 						<p>
 							Concert sponsor / <b>Angela B. Ross</b><br>Guest artist sponsor / <b>The De Fehr Foundation</b><br>Music Director sponsor / <a href="http://www.prolific.ca/"><b>The Prolific Group</b></a>
