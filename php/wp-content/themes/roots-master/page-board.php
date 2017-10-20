@@ -17,9 +17,6 @@ Template Name: Page Board Template
           	<dt>Honorary Patron</dt>
           	<dd>Her Honour, The Honourable<br>Janice C. Filmon, C.M., O.M.<br>Lieutenant Governor of Manitoba</dd>
           	
-          	<dt>Music Director</dt>
-          	<dd>Anne Manson</dd>
-          	
           	<dt>Music Director Emeritus</dt>
           	<dd>Simon Streatfeild</dd>
           	
@@ -40,30 +37,34 @@ Template Name: Page Board Template
           	
             <dt>President</dt>
             <dd>Faye Warren</dd>
-            <dt>Vice-President</dt>
-            <dd>Beryl Peters</dd>
+            
             <dt>Past President</dt>
             <dd>Judith Hall</dd>
+
+            <dt>Vice-President</dt>
+            <dd>Beryl Peters</dd>
+                        
             <dt>Treasurer</dt>
             <dd>Gil Forrest</dd>
+            
             <dt>Secretary</dt>
             <dd>Alice MacKenzie</dd>
+            
             <dt>Members</dt>
             <dd>Coralie Bryant</dd>
             <dd>David Christianson</dd>
             <dd>Amanda Evenson</dd>
             <dd>Robert Giesbrecht</dd>
-            <dd>Joan Hardy</dd>
             <dd>Sue Irving</dd>
+            <dd>Mike Li</dd>
             <dd>Elaine Margolis</dd>
-            <dd>Michael McIntyre</dd>
             <dd>Julie Mongeon-Ferr&eacute;</dd>
-            <dd>Sunny Oh</dd>
+            <dd>David Rew</dd>
             <dd>Nicola Schaefer</dd>
+            <dd>Joel Semeniuk</dd>
             <dd>Moti Shojania</dd>
             <dd>Walter Silicz</dd>
             <dd>Alison Thiessen</dd>
-            <dd>Aimee Warkentin</dd>
           </dl>
         <p><strong>Administration</strong></p>
           <dl class="dl">
