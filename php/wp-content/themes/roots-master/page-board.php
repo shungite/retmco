@@ -16,10 +16,16 @@ Template Name: Page Board Template
           <dl class="dl">
           	<dt>Honorary Patron</dt>
           	<dd>Her Honour, The Honourable<br>Janice C. Filmon, C.M., O.M.<br>Lieutenant Governor of Manitoba</dd>
+          	
+          	<dt>Music Director</dt>
+          	<dd>Anne Manson</dd>
+          	
           	<dt>Music Director Emeritus</dt>
           	<dd>Simon Streatfeild</dd>
+          	
           	<dt>President Emeritus</dt>
           	<dd>J.F. Reeh Taylor, Q.C.<sup>&#8224;</sup></dd>
+          	
           	<dt>Directors Emeriti</dt>
           	<dd>Jeffrey Anderson<sup>&#8224;</sup></dd>
           	<dd>William S. Gange, LL.B.</dd>
@@ -31,6 +37,7 @@ Template Name: Page Board Template
           	<dd>William S. Stewart</dd>
           	<dd>Paul Walsh, Q.C.</dd>
           	<dd>Sonya Wright</dd>
+          	
             <dt>President</dt>
             <dd>Faye Warren</dd>
             <dt>Vice-President</dt>
