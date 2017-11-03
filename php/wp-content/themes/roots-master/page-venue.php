@@ -92,7 +92,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well-white">
+			<div class="well">
 				<p>
 					<b>I can’t make it to an upcoming MCO concert. Can I donate my tickets for a tax receipt?</b> 
 				</p>
@@ -101,7 +101,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well">
+			<div class="well-white">
 				<p>
 					<b>When are season tickets mailed out?</b> 
 				</p>
@@ -110,7 +110,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well-white">
+			<div class="well">
 				<p>
 					<b>Does the MCO and Westminster United Church cater to special needs?</b> 
 				</p>
@@ -119,7 +119,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well">
+			<div class="well-white">
 				<p>
 					<b>Are there any age restrictions at MCO concerts?</b> 
 				</p>
@@ -128,7 +128,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well-white">
+			<div class="well">
 				<p>
 					<b>Where can I park my car?</b> 
 				</p>
@@ -137,7 +137,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well">
+			<div class="well-white">
 				<p>
 					<b>Where is my lost property?</b> 
 				</p>
@@ -146,7 +146,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well-white">
+			<div class="well">
 				<p>
 					<b>What should I bring with me?</b> 
 				</p>
@@ -155,7 +155,7 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
-			<div class="well">
+			<div class="well-white">
 				<p>
 					<img src="http://www.themco.ca/wp-content/uploads/2014/11/PizzaClubTrans.png"> 
 				</p>
