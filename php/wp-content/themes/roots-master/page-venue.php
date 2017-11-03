@@ -92,6 +92,15 @@ Template Name: Page Venue Template
 				</p>
 			</div>
 <!-- /well -->
+			<div class="well-white">
+				<p>
+					<b>I can’t make it to an upcoming MCO concert. Can I donate my tickets for a tax receipt?</b> 
+				</p>
+				<p>
+					You may donate your tickets, up until the day before the performance that you are unable to attend, for most MCO concerts (some exceptions apply). Please write &lsquo;VOID&rsquo; and &lsquo;DONATE&rsquo; on the tickets you wish to donate and e-mail a photo or copy to info@themco.ca or fax a copy to (204) 783-7383. Be sure to include your contact information (including day/evening phone numbers). We will cancel your tickets and mail you an official income tax receipt for charitable purposes for the value of the tickets.	
+				</p>
+			</div>
+<!-- /well -->
 			<div class="well">
 				<p>
 					<b>When are season tickets mailed out?</b> 
