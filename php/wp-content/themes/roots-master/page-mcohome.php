@@ -7,21 +7,24 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<div class="covercontainer">
-				<a href="http://www.themco.ca/concert/the-winnipeg-singers/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/h07nov17.png" width="770" height="455" alt="MCO / The Winnipeg Singers"></a>
-				<!-- vid div goes here -->
+				<a href="http://www.themco.ca/concert/few-weimann/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/13dec17n.png" width="770" height="455" alt="MCO / Weimann, Few"></a>
+				<!-- vid div goes here
 				<div class="playbutton">
 					<?php echo do_shortcode('[video_lightbox_youtube video_id="mnMclnQcVpw" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/YouTube-social-circle_red_92px.png"]'); ?>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				A Double 45th anniversary concert:<br>Arvo P&auml;rt &amp; more!
+				Guy Few with the MCO<br>&mdash;&thinsp;a Baroque Pageant
 			</h4>
+			
+			
+ 
 			<p>
-				In Arvo P&auml;t&rsquo;s <em>Te Deum</em>, choir, strings, piano and pre-recorded tape drift in out of the foreground to conjure an atmosphere that is serene and staggeringly beautiful. This performance of <em>Te Deum</em> is made all the more special because it&rsquo;s the 45th anniversary concert for both the MCO and The Winnipeg Singers! See program notes, bios and more at <a href="http://www.themco.ca/concert/the-winnipeg-singers/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below to add tickets to cart.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=da77e4e769bf4ba4a9ee65fcd2564eb1"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTx.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e24e37cb3d884c968dce3e9e9d6637b0"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTx.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=e0c3e00ade014a62b35f60e56492d968"><img rel="tooltip" title="Click to add under-30 ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2017/08/Under30Tx.png" alt="" width="62" height="40" /></a> 
+				<strong>Guy Few</strong> is not only an outrageously gifted musician, he's also a consummate showman. The press have looked upon his performances with astonishment: "simply phenomenal" (<em>Le Devoir</em>, Montreal) and &ldquo;sheer brilliance&rdquo; (<em>LA Times</em>). <strong>Alexander Weimann</strong>, one of the most sought-after ensemble directors and piano soloists of his generation, leads the concert from the harpsichord. See program notes, bios and more at <a href="http://www.themco.ca/concert/few-weimann/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below to add tickets to cart.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=b051853741534b8e9a3832b68138f20f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTx.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=cefe650405e44e75a5efd41b5f64dfca"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTx.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=322f4494a7964b52b93fd450792aaf26"><img rel="tooltip" title="Click to add under-30 ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2017/08/Under30Tx.png" alt="" width="62" height="40" /></a> 
 			</p>
 		</div>
 	</div>
