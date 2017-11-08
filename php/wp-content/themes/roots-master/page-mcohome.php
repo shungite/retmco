@@ -18,11 +18,8 @@ Template Name: Page MCOhome Template
 	<div class="row-fluid">
 		<div class="span8">
 			<h4>
-				Guy Few with the MCO<br>&mdash;&thinsp;a Baroque Pageant
+				Alexander Weimann &amp; Guy Few with the MCO<br>&mdash;&thinsp;a Baroque Pageant
 			</h4>
-			
-			
- 
 			<p>
 				<strong>Guy Few</strong> is not only an outrageously gifted musician, he's also a consummate showman. The press have looked upon his performances with astonishment: "simply phenomenal" (<em>Le Devoir</em>, Montreal) and &ldquo;sheer brilliance&rdquo; (<em>LA Times</em>). <strong>Alexander Weimann</strong>, one of the most sought-after ensemble directors and piano soloists of his generation, leads the concert from the harpsichord. See program notes, bios and more at <a href="http://www.themco.ca/concert/few-weimann/"><b>here</b></a> or, if you&rsquo;re just after a quick ticket or two, click the links below to add tickets to cart.<br><img src="http://www.themco.ca/wp-content/uploads/2013/01/QuikTicket.png" alt="QuikTicket"><a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=b051853741534b8e9a3832b68138f20f"><img rel="tooltip" title="Click to add adult ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/AdultTx.png" alt="" width="62" height="40"></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=cefe650405e44e75a5efd41b5f64dfca"><img rel="tooltip" title="Click to add senior ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2015/11/SeniorTx.png" alt="" width="62" height="40" /></a> <a href="http://www.1shoppingcart.com/SecureCart/SecureCart.aspx?mid=292CFDD8-2004-4B27-8455-B26B8A4D841F&amp;pid=322f4494a7964b52b93fd450792aaf26"><img rel="tooltip" title="Click to add under-30 ticket to cart" data-placement="top" src="http://www.themco.ca/wp-content/uploads/2017/08/Under30Tx.png" alt="" width="62" height="40" /></a> 
 			</p>
