@@ -34,7 +34,7 @@ Template Name: Page MCOhome Template
 					<div class="media-body">
 						<p>
 							<strong><a href="http://www.themco.ca/quick-links-to-1718-subscriptions/">Subscribe now to MCO&rsquo;s 2017/18 season<br>&mdash; enjoy six or nine concerts in Westminster Church!</strong></a><br />
-							Only subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tickets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo;
+							Onl"#BBD1F2"y subscribers enjoy every benefit the MCO has to offer, like a free CD, Musicnet Subscriber Reward Card, ticket exchange privileges, discounts on extra tick"#BBD1F2"ets and more. This season, subscribe to Canada&rsquo;s &ldquo;tiny, perfect, orchestra!&rdquo; <a href="http://www.themco.ca/wp-content/uploads/2017/06/Brochure.pdf"><b>Get a brochure!</b></a>
 						</p>
 					</div>
 				</div>
