@@ -56,7 +56,7 @@ Template Name: Page Board Template
             <dd>Amanda Evenson</dd>
             <dd>Robert Giesbrecht</dd>
             <dd>Sue Irving</dd>
-            <dd>Mike Li</dd>
+            <dd>Michael Li</dd>
             <dd>Elaine Margolis</dd>
             <dd>Julie Mongeon-Ferr&eacute;</dd>
             <dd>David Rew</dd>
