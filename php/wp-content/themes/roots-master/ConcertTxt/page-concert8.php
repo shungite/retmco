@@ -116,6 +116,9 @@ Template Name: Page Concert Template
 							<strong>Dag Wir&eacute;n</strong><br><em>Serenade for Strings</em>, Op. 11 
 						</p>
 						<p>
+							<strong>Vivian Fung</strong><br><em>Baroque Melting</em> 
+						</p>
+						<p>
 							Evening concert sponsor / <strong>LBL Holdings</strong><br>Matinee concert sponsor / <a href="https://www.investorsgroup.com/en#/"><strong>Investors Group</strong></a><br>Evening guest artist sponsor / <a href="http://stellas.ca/"><strong>Stella&rsquo;s</strong></a><br>Evening Concertmaster sponsor / <b>Paul Walsh</b>
 						</p>
 					</div>

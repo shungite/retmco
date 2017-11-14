@@ -29,7 +29,7 @@ Template Name: Page Concert Template
 				One probably shouldn&rsquo;t expect Few to don a costume or play two instruments simultaneously at this concert (not unusual tricks for Few), but the program&rsquo;s baroque selections add a dash of extravagance to the event. Bach&rsquo;s second Brandenburg Concerto is widely regarded as among the best orchestral compositions of the period. Presented originally as a gift to an aristocratic military officer, it&rsquo;s also one of the period&rsquo;s most delightfully pompous; a three-movement piece bejewelled with ornamental flourishes and perilously high trumpet lines. 
 			</p>
 			<p>
-				Neruda&rsquo;s E-flat horn concerto, arguably his most significant work, was written at the tail end of the baroque era, and is teeming with infectious, Mozartian melodies. Few will have a lot to dig into. The baroque portion of our evening is rounded off with music by Handel, Corelli, and, in a pleasant surprise, Canadian composer Vivian Fung. Her playful <em>Baroque Melting</em> sounds a lot like what its title suggests. 
+				Neruda&rsquo;s E-flat horn concerto, arguably his most significant work, was written at the tail end of the baroque era, and is teeming with infectious, Mozartian melodies. Few will have a lot to dig into. The baroque portion of our evening is rounded off with music by Handel and Corelli. 
 			</p>
 			<p>
 				<b>David Raphael Scott</b> 
@@ -102,9 +102,6 @@ Template Name: Page Concert Template
 						</p>
 						<p>
 							<strong>Georg Frideric Handel</strong><br>Concerto Grosso in C minor (HWV 326) 
-						</p>
-						<p>
-							<strong>Vivian Fung</strong><br><em>Baroque Melting</em> 
 						</p>
 						<p>
 							Concert sponsor / <a href="http://www.pollardbanknote.com/"><b>Pollard Banknote</b></a> 
