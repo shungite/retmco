@@ -6,7 +6,7 @@ Template Name: Page Concert Template
 <div class="container">
 	<div class="row">
 		<div class="span8">
-			<img src="http://www.themco.ca/wp-content/uploads/2017/06/13dec17n.png" width="770" height="455" alt="Guy Few, Alexander Weimann"> 
+			[video_lightbox_youtube video_id="kWMItc4-9XU" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2017/11/h13dec17play.png"] 
 		</div>
 		<div class="span2">
 			<p>
