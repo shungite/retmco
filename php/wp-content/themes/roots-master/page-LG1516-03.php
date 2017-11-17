@@ -21,7 +21,7 @@ Template Name: Page LG1516-03 Template
 
       <div class="span7">
 
-        <p><b>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</b></p>
+        <p><b>MCO&rsquo;s Listening Guides are prepared by Beryl Peters, Ph.D.</b></p>
 
           <p><b>BRITTEN: A CEREMONY OF CAROLS, OP. 28</b></p>
 

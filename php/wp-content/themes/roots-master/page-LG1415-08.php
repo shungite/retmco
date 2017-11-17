@@ -21,7 +21,7 @@ Template Name: Page LG1415-08 Template
 
     <div class="span7">
 
-      <p>&nbsp;<br>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</p>
+      <p>&nbsp;<br>MCO&rsquo;s Listening Guides are prepared by Beryl Peters, Ph.D.</p>
 
       <p><b>FRANCESCO GEMINIANI: CONCERTO GROSSO OP. 5, NO. 12 IN D MINOR (LA FOLLIA)</b></p>
 

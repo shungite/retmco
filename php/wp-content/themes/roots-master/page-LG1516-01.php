@@ -21,7 +21,7 @@ Template Name: Page LG1516-01 Template
 
       <div class="span7">
 
-        <p><b>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</b></p>
+        <p><b>MCO&rsquo;s Listening Guides are prepared by Beryl Peters, Ph.D.</b></p>
 
           <p><b>MOZART: SYMPHONY NO. 25 IN G MINOR (K 183 / 173DB)</b></p>
 

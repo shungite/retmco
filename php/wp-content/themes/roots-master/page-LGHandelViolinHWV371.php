@@ -31,7 +31,7 @@ Template Name: Page LGHandelViolinHWV371 Template
       <div class="tab-content">
         <div class="tab-pane fade in active" id="en">
 
-          <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Written by music educator <b>Beryl Peters, Ph.D</b>, our <b>MTS Future First Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students&thinsp;&mdash;&thinsp;with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
+          <p>The MCO understands the importance of music education, which is why we&rsquo;ve developed a unique instructional resource for teachers and parents. Written by music educator <b>Beryl Peters, Ph.D</b>, MCO&rsquo;s <b>Listening Guides</b> provide a clear and thorough analysis of the repertoire featured in our concerts. They offer a perfect primer to the great works of Bach, Beethoven, Britten and beyond for K-8 and 9-12 students&thinsp;&mdash;&thinsp;with engaging historical anecdotes and simple theory for younger students, and more complex information for older students. Indeed, just about anyone can learn a thing or two from our MTS Future First Listening Guides&thinsp;&hellip;&thinsp;so dig in!</p>
 
             <p><b>GEORGE FRIDERIC HANDEL: VIOLIN SONATA IN D MAJOR HWV 371</b></p>
 

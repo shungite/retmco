@@ -21,7 +21,7 @@ Template Name: Page LG1516-02 Template
 
       <div class="span7">
 
-        <p><b>MCO&rsquo;s MTS Future First Listening Guides are prepared by Beryl Peters, Ph.D.</b></p>
+        <p><b>MCO&rsquo;s Listening Guides are prepared by Beryl Peters, Ph.D.</b></p>
 
           <p><b>SCHUMANN: CELLO CONCERTO IN A MINOR, OP. 129</b></p>
 
