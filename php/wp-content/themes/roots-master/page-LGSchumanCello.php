@@ -9,7 +9,7 @@ Template Name: Page LGSchumannCello Template
   <div class="row">
 
     <div class="span8">
-      <img src="http://www.themco.ca/wp-content/uploads/2015/12/ListeningGuides.jpg" alt="" width="770" height="455">
+      <img src="http://www.themco.ca/wp-content/uploads/2017/11/ListeningGuides.png" alt="" width="770" height="455">
     </div>
     <div class="span2">
       <p>.</p>

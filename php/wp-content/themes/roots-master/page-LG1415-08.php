@@ -9,7 +9,7 @@ Template Name: Page LG1415-08 Template
   <div class="row">
 
     <div class="span8">
-      <img src="http://www.themco.ca/wp-content/uploads/2015/04/lg22apr15.jpg" alt="" width="770" height="256">
+      <img src="http://www.themco.ca/wp-content/uploads/2017/11/ListeningGuides.png" alt="" width="770" height="256">
     </div>
     <div class="span2">
       <p>.</p>
