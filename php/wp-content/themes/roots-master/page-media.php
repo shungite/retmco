@@ -25,7 +25,7 @@ Template Name: Page Media Template
       <div class="tab-pane fade in active" id="video">
         <div class="well">
 
-          <p><strong>Complete! Bart&oacute;k's Divertimento for String Orchestra<br>from the Official MCO YouTube Channel</strong></p>
+          <p><strong>Complete! Bart&oacute;k&rsquo;s Divertimento for String Orchestra<br>from the Official MCO YouTube Channel</strong></p>
           <iframe width="80%" height="360" src="//www.youtube.com/embed/9DDdyZGPwPk" frameborder="0" allowfullscreen></iframe>
           
           <p><strong>MCO&rsquo;s Vicki Young announces the 2017/18 season<br> on Classic 107&rsquo;s Morning Light program</strong></p>
