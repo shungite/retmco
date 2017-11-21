@@ -81,6 +81,7 @@ Template Name: Page Press Template
 						<dt>2008 to present</dt>
 						<dd>Anne Manson, Music Director and Principal Conductor</dd>
 					</dl>
+					<p>&nbsp;</p>
 				</div>
 				<div class="tab-pane fade" id="manson">
 					<p>
