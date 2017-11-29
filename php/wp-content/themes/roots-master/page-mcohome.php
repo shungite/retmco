@@ -109,4 +109,7 @@ Template Name: Page MCOhome Template
 $(document).ready(function () {
   $("[rel=tooltip]").tooltip();
 });
+
+fbq('track', 'ViewContent');
+
 </script>
