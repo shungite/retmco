@@ -10,7 +10,7 @@ Template Name: Page MCOhome Template
 				<a href="http://www.themco.ca/concert/few-weimann/"><img src="http://www.themco.ca/wp-content/uploads/2017/06/13dec17n.png" width="770" height="455" alt="MCO / Weimann, Few"></a>
 				<!-- vid div goes here -->
 				<div class="playbutton">
-					<?php echo do_shortcode('[video_lightbox_youtube video_id="kWMItc4-9XU" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/YouTube-social-circle_red_92px.png"]'); ?>
+					<?php echo do_shortcode('[video_lightbox_youtube video_id="pfIpD-K6Tmc" width="640" height="480" anchor="http://www.themco.ca/wp-content/uploads/2016/10/YouTube-social-circle_red_92px.png"]'); ?>
 				</div>
 			</div>
 		</div>
