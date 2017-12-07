@@ -34,7 +34,7 @@ Template Name: Page Vinyl Template
 				<strike>26 August 2017</strike><br>
 				<strike>30 September</strike><br>
 				<strike>28 October</strike><br>
-				25 November<br>
+				<strike>25 November<br></strike>
 				27 January 2018<br>
 				24 February<br>
 				31 March<br>
